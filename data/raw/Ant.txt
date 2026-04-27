@@ -1,0 +1,63 @@
+Context: Bee Swarm Simulator - Ant
+
+Location
+Ant Field while the Ant Challenge is active.
+Fact: The Health in Ant has/costs Damage.
+Fact: The 25 base; Increases by level in Ant has/costs 40.
+Fact: The Battle Points in Ant has/costs Bond.
+Fact: The None in Ant has/costs None.
+Fact: The Honey in Ant has/costs Level.
+Fact: The None in Ant has/costs 1-16 (Varies with Wave).
+_Not to be confused withAnts, the family of mobs that includes Ants along with the other ant types._
+An Ant is one of five mobs that is part of a family called Ants that are exclusively found in the Ant Challenge, past the Ant Gate.
+This is the first Ant Challenge mob that the player will encounter, appearing on the very first wave.
+Ants move in a fixed straight line and are the most generic ant. They are the most common ant and will always appear in the first few waves. They are the easiest ant to deal with due to how basic they are compared to the other ants.
+An ant's level can increase depending on what wave of the Ant Challenge the player is on. They can range from level 1 up to level 16.
+They are by far the least threatening of the five ant types, as they are often easily and completely avoidable.
+Health per Level[]
+Fact: The Level in Ant has/costs Health.
+Fact: The 1 in Ant has/costs 25.
+Fact: The 2 in Ant has/costs 35.
+Fact: The 3 in Ant has/costs 45.
+Fact: The 4 in Ant has/costs 75.
+Fact: The 5 in Ant has/costs 105.
+Fact: The 6 in Ant has/costs 135.
+Fact: The 7 in Ant has/costs 165.
+Fact: The 8 in Ant has/costs 205.
+Fact: The 9 in Ant has/costs 245.
+Fact: The 10 in Ant has/costs 295.
+Fact: The 11 in Ant has/costs 335.
+Fact: The 12 in Ant has/costs 385.
+Fact: The 13 in Ant has/costs 435.
+Fact: The 14 in Ant has/costs 485.
+Fact: The 15 in Ant has/costs 545.
+Fact: The 16 in Ant has/costs 605.
+Strategies[]
+* Ants move in predetermined straight lines and are quite slow. This enables to player to easily dodge any coming their way.
+* Standing near the ant will allow your bees to quickly target the ant to quickly deal damage and defeat it.
+* Ants will come out in groups and they could overwhelm the player if they are collecting pollen quickly to advance to the next waves. Vicious Bee and Windy Bee provide excellent crowd control with their Impale and Tornado abilities which could greatly help counter the large amounts of Regular Ants landing on the field. Digital Bee can also stun many ants at once and allow them to take extra damage via Mind Hack.
+Gallery[]
+An ant near a falling Coconut.
+A group of four ants.
+An ant stunned by Digital Bee's Mind Hack.
+The Left Facing Ant Sticker.
+Trivia[]
+* The Bronze, Silver, Gold, and Diamond Ant Amulets represent an ant.
+* This is the only mob to have the same name as a group of mobs.
+* They have the same health per level as Fire Ants.
+* The ant was the first mob Onett made for the game.[1]
+* It was supposed to be a regular spawning mob, but Onett replaced them with Ladybugs because he wanted the ants to be more "ant-like" (works as a team).[2]
+References[]
+1. ↑ [1] Discord message from Onett "Onett \(Developer\)").
+2. ↑ [2] Discord message regarding the ant replacement from Onett.
+Fact: The Normal in Ant has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Ant has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Ant has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Ant has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Ant has/costs Ants, ****Ant** • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Ant has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Ant has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Ant has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Ant has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Ant has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Ant has/costs **Chick • Hostage Chick • Spotted Chick**.

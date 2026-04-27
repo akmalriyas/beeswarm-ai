@@ -1,0 +1,97 @@
+Context: Bee Swarm Simulator - Bee Bear's Catalog 2024 (Summer)
+
+Bee Bear's Catalog/2024 (Summer)
+2024 (Summer)[]
+* Eggs & Jellies
+Fact: The Bundle in Bee Bear's Catalog 2024 (Summer) has/costs Price, Gives.
+Fact: The Arts & Crafts Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 40 Snowflakes.
+Fact: The 2 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs 1 Glue.
+Fact: 2 Gingerbread Bears requirement: 1 Glitter.
+Fact: 2 Gingerbread Bears requirement: 1 Red Extract.
+Fact: 2 Gingerbread Bears requirement: 1 Blue Extract.
+Fact: 2 Gingerbread Bears requirement: 3 Soft Waxes.
+Fact: The Radioactive Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 6 Gingerbread Bears, 1 Atomic Treat.
+Fact: Radioactive Bundle requirement: 1 Caustic Wax.
+6 Neonberries
+66 Bitterberries
+Fact: The Quick Convert Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 123 Snowflakes, 50 Honeysuckles.
+25 Whirligigs
+Fact: 25 Whirligigs requirement: 10 Enzymes.
+5 Micro-Converters
+Fact: The Violet Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 400 Snowflakes.
+Fact: The 20 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs 20 Purple Potions.
+Fact: 20 Gingerbread Bears requirement: 20 Red Extracts.
+Fact: 20 Gingerbread Bears requirement: 20 Blue Extracts.
+1 Motivating Vial
+Fact: The Dicey Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 333 Snowflakes, 3 Loaded Dice.
+13 Smooth Dice
+33 Field Dice
+1 Black Balloon
+Fact: The Blinding Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 750 Snowflakes, 1 Bubble Light Beequip.
+1 Beesmas Light Sticker (Random Color)
+Fact: 1 Beesmas Light Sticker (Random Color) requirement: 100 Moon Charms.
+20 Neonberries
+Fact: The Percussive Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 808 Snowflakes.
+8 Gingerbread Bears
+Fact: 8 Gingerbread Bears requirement: 25 Coconuts.
+Fact: 8 Gingerbread Bears requirement: 25 Hard Waxes.
+1 Music Bee Jelly
+Fact: The Fanfare Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 25 Gingerbread Bears, 1 Toy Horn Beequip.
+5 White Balloons
+Fact: 5 White Balloons requirement: 20 Oils.
+Fact: 5 White Balloons requirement: 1 Swirled Wax.
+Fact: The Royal Winter Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 2,500 Snowflakes, 1 Snow Tiara Beequip.
+3 Star Jellies
+Fact: 3 Star Jellies requirement: 10 Glitter.
+1 Diamond Bee Jelly
+Fact: The Sticky Sticker Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 50 Gingerbread Bears, 5 Sticker Planters.
+1 Peppermint Antennas Beequip
+1 Basic Hive Skin (Random Color)
+Fact: 1 Basic Hive Skin (Random Color) requirement: 1,000 Gumdrops.
+Fact: The Festive Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 750 Snowflakes.
+Fact: The 75 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs 1 Beesmas Tree Hat Beequip.
+2 Festive Beans
+3 Festive Planters
+Fact: 3 Festive Planters requirement: 20 Glitter.
+Fact: The Tropical Bundle in Bee Bear's Catalog 2024 (Summer) has/costs 2,500 Snowflakes.
+Fact: The 100 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs 1 Palm Tree Sticker.
+Fact: 100 Gingerbread Bears requirement: 250 Coconuts.
+25 Tropical Drinks
+Fact: 25 Tropical Drinks requirement: 10 Swirled Waxes.
+Fact: 25 Tropical Drinks requirement: 3 Super Smoothies.
+1 Refreshing Vial
+Fact: The Egg in Bee Bear's Catalog 2024 (Summer) has/costs Price, Description.
+Fact: The Silver Egg in Bee Bear's Catalog 2024 (Summer) has/costs 25 Snowflakes.
+Fact: The 5 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs Hatches into a Rare, Epic, Legendary, or Mythic Bee!.
+Fact: The Gold Egg in Bee Bear's Catalog 2024 (Summer) has/costs 10 Gingerbread Bears, Hatches into a Epic, Legendary, or Mythic Bee!.
+Fact: The Diamond Egg in Bee Bear's Catalog 2024 (Summer) has/costs 1,000 Snowflakes, Always hatches into a Legendary or Mythic Bee!.
+Fact: The Mythic Egg in Bee Bear's Catalog 2024 (Summer) has/costs 500 Snowflakes.
+Fact: The 100 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs Always hatches into a random Mythic bee!.
+Fact: The Jelly in Bee Bear's Catalog 2024 (Summer) has/costs Price, Description.
+Fact: The Royal Jelly in Bee Bear's Catalog 2024 (Summer) has/costs 10 Snowflakes, Transforms a bee into a special bee!.
+Fact: The Star Jelly in Bee Bear's Catalog 2024 (Summer) has/costs 500 Snowflakes, Transforms a bee into a random gifted bee!.
+Fact: The Sticker in Bee Bear's Catalog 2024 (Summer) has/costs Price.
+Fact: The Rubber Duck Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 30 Snowflakes.
+Fact: The Random Leaf Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 50 Snowflakes.
+Fact: The Yellow Coffee Mug Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 70 Snowflakes.
+Fact: The Simple Sun Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 100 Snowflakes.
+Fact: The Window Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 250 Snowflakes.
+Fact: The Simple Mountain Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 250 Snowflakes.
+Fact: The Traffic Light Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 300 Snowflakes.
+Fact: The Pale Heart Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 300 Snowflakes.
+Fact: The Waxing Crescent Moon Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 400 Snowflakes.
+Fact: The Random Tool Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 500 Snowflakes.
+Fact: The Pink Cupcake Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 600 Snowflakes.
+Fact: The Spore Covered Puffshroom Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 1,200 Snowflakes.
+Fact: The Blob Bumble Bee Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 2,500 Snowflakes.
+Fact: The Walking Stick Nymph Sticker in Bee Bear's Catalog 2024 (Summer) has/costs 7,500 Snowflakes.
+Fact: The Random Star Sign in Bee Bear's Catalog 2024 (Summer) has/costs 15,000 Snowflakes.
+25 Gingerbread Bears
+Fact: The Present in Bee Bear's Catalog 2024 (Summer) has/costs 250 Snowflakes.
+Fact: The 10 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs A festively wrapped gift. Exchange it with an NPC for prizes!.
+Fact: The Ticket Planter in Bee Bear's Catalog 2024 (Summer) has/costs 100 Snowflakes, Grows in ~2 hours playtime. Grants at least 10 Tickets and spawns a Puffshroom!.
+Fact: The Festive Planter in Bee Bear's Catalog 2024 (Summer) has/costs 100 Snowflakes.
+Fact: The 10 Gingerbread Bears in Bee Bear's Catalog 2024 (Summer) has/costs Grows in about 4 hours playtime. Grants many rewards and Nectar boosts!.
+Fact: The Reindeer Antlers in Bee Bear's Catalog 2024 (Summer) has/costs 150 Gingerbread Bears, This Beequip enhances Puppy Bee's "Fetch" and teaches it "Focus"! (Random Potential).
+Fact: The 50 Super Smoothies in Bee Bear's Catalog 2024 (Summer) has/costs 500 Gingerbread Bears, 50 Super Smoothies! Grants many boosts for 20 minutes..
+Fact: The Star Treat in Bee Bear's Catalog 2024 (Summer) has/costs 10,000 Snowflakes, Turns a bee into a Gifted Bee!.

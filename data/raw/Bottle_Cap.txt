@@ -1,0 +1,837 @@
+Context: Bee Swarm Simulator - Bottle Cap
+
+Bottle Cap
+"The discarded top from a bottle of pop."
+Fact: Bottle Cap statistic: +Convert Amount.
+Fact: Bottle Cap statistic: +Critical Chance%.
+Fact: Bottle Cap statistic: +Critical Power%.
+Fact: Bottle Cap statistic: +Ability: Buzz Bomb.
+Fact: Bottle Cap statistic: +Critical Power%.
+The Bottle Cap is a level 4 Beequip. It has an equip limit of two. There is no color requirement. It can only be equipped to common or rare bees. It was released in the 2022-04-01 update.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip does not use the old RNG functions.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades, Range.
+Fact: The Chance in Bottle Cap has/costs Value, Weight, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Fact: The Bias scales linearly in Bottle Cap has/costs **0.5**, A random value between **+3** -**+5**.
+Intervals of +1
+Fact: The Bias: {2, 1} in Bottle Cap has/costs **15**, **+10 - +95**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Bottle Cap has/costs An exact value between **0.05** -**0.2**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1 in Bottle Cap has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {10, 1} in Bottle Cap has/costs **5**, **+1% - +12%**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Bottle Cap has/costs **0.3**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Bottle Cap has/costs **10**, **0% - +60%**.
+Fact: Bias: {2, 1} statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, An exact value between **0.001** -**0.01**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Bottle Cap has/costs **-**, **1**, \-.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, An exact value between **0.001** -**0.01**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Bottle Cap has/costs A random value between **+2%** -**+3%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Bottle Cap has/costs **5**, **0% - +15%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Bottle Cap has/costs **58.7544%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +3.4377 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5.8754%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Bottle Cap has/costs **35.2526%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.1175%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.15% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Bottle Cap has/costs **58.6854%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +3.4377 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5.8685%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Bottle Cap has/costs **35.2113%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Bottle Cap has/costs **10**.
+Fact: Average value: +2.7% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.1174%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.1174%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.15% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Bottle Cap has/costs **57.7178%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.0632
+Fact: The Average value: +3.4602 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.18% in Bottle Cap has/costs **7.5033%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Bottle Cap has/costs **34.6307%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.09%
+Fact: The Average value: +2.74% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.1483%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.01%
+Fact: The Average value: +2.16% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Bottle Cap has/costs **57.6323%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.0632
+Fact: The Average value: +3.4602 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.18% in Bottle Cap has/costs **7.4922%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Bottle Cap has/costs **34.5794%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.09%
+Fact: The Average value: +2.74% in Bottle Cap has/costs **10**.
+Fact: Average value: +2.74% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.1481%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.1481%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.01%
+Fact: The Average value: +2.16% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Bottle Cap has/costs **56.7019%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.1789
+Fact: The Average value: +3.5093 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.21% in Bottle Cap has/costs **9.0723%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Bottle Cap has/costs **34.0211%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.27%
+Fact: The Average value: +2.83% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.2047%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.04%
+Fact: The Average value: +2.16% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Bottle Cap has/costs **56.5861%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.1789
+Fact: The Average value: +3.5093 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.21% in Bottle Cap has/costs **9.0538%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Bottle Cap has/costs **33.9516%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.27%
+Fact: The Average value: +2.83% in Bottle Cap has/costs **10**.
+Fact: Average value: +2.83% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.2043%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.2043%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.04%
+Fact: The Average value: +2.16% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Bottle Cap has/costs **55.7116%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.3286
+Fact: The Average value: +3.5967 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.3%
+Fact: The Average value: +1.25% in Bottle Cap has/costs **10.5852%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Bottle Cap has/costs **33.427%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.49%
+Fact: The Average value: +3.03% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.2762%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.09%
+Fact: The Average value: +2.17% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Bottle Cap has/costs **55.5582%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.3286
+Fact: The Average value: +3.5967 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.3%
+Fact: The Average value: +1.25% in Bottle Cap has/costs **10.5561%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Bottle Cap has/costs **33.3349%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.49%
+Fact: The Average value: +3.03% in Bottle Cap has/costs **10**.
+Fact: Average value: +3.03% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.2754%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.2754%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.09%
+Fact: The Average value: +2.17% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Bottle Cap has/costs **54.7479%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.506
+Fact: The Average value: +3.8107 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.32% in Bottle Cap has/costs **12.0445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Bottle Cap has/costs **32.8487%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.76%
+Fact: The Average value: +3.17% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.3588%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.16%
+Fact: The Average value: +2.19% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Bottle Cap has/costs **54.5522%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.506
+Fact: The Average value: +3.8107 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.32% in Bottle Cap has/costs **12.0015%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.15% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Bottle Cap has/costs **32.7313%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.76%
+Fact: The Average value: +3.17% in Bottle Cap has/costs **10**.
+Fact: Average value: +3.17% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.3575%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.3575%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.16%
+Fact: The Average value: +2.19% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Bottle Cap has/costs **53.8108%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.7071
+Fact: The Average value: +3.9333 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Bottle Cap has/costs **13.4527%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.02%
+Fact: The Average value: +1.16% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Bottle Cap has/costs **32.2865%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.06%
+Fact: The Average value: +3.26% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.4501%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.25%
+Fact: The Average value: +2.23% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Bottle Cap has/costs **53.5697%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.7071
+Fact: The Average value: +3.9333 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Bottle Cap has/costs **13.3924%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.02%
+Fact: The Average value: +1.16% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Bottle Cap has/costs **32.1418%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.06%
+Fact: The Average value: +3.26% in Bottle Cap has/costs **10**.
+Fact: Average value: +3.26% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.4481%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.4481%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.25%
+Fact: The Average value: +2.23% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Bottle Cap has/costs **52.8998%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.9295
+Fact: The Average value: +3.9863 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Bottle Cap has/costs **14.8119%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Bottle Cap has/costs **31.7399%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.39%
+Fact: The Average value: +3.4% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.5483%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.36%
+Fact: The Average value: +2.29% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Bottle Cap has/costs **52.6113%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +3.9295
+Fact: The Average value: +3.9863 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Bottle Cap has/costs **14.7312%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Bottle Cap has/costs **31.5668%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.39%
+Fact: The Average value: +3.4% in Bottle Cap has/costs **10**.
+Fact: Average value: +3.4% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.5454%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.5454%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.36%
+Fact: The Average value: +2.29% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Bottle Cap has/costs **52.0145%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +4.1713
+Fact: The Average value: +4.0349 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Bottle Cap has/costs **16.1245%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Bottle Cap has/costs **31.2087%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.76%
+Fact: The Average value: +3.68% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.6524%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.49%
+Fact: The Average value: +2.46% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Bottle Cap has/costs **51.6773%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +4.1713
+Fact: The Average value: +4.0349 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Bottle Cap has/costs **16.02%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Bottle Cap has/costs **31.0064%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.76%
+Fact: The Average value: +3.68% in Bottle Cap has/costs **10**.
+Fact: Average value: +3.68% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.6481%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.6481%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.49%
+Fact: The Average value: +2.46% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Bottle Cap has/costs **51.154%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +4.4311
+Fact: The Average value: +4.1274 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Bottle Cap has/costs **17.3924%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.29%
+Fact: The Average value: +1.25% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Bottle Cap has/costs **30.6924%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.15%
+Fact: The Average value: +3.8% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.7612%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.64%
+Fact: The Average value: +2.71% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Bottle Cap has/costs **50.7676%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +4.4311
+Fact: The Average value: +4.1274 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Bottle Cap has/costs **17.261%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.29%
+Fact: The Average value: +1.25% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Bottle Cap has/costs **30.4606%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.15%
+Fact: The Average value: +3.8% in Bottle Cap has/costs **10**.
+Fact: Average value: +3.8% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.7554%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.7554%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.64%
+Fact: The Average value: +2.71% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Bottle Cap has/costs **50.3178%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +4.7076
+Fact: The Average value: +4.4279 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Bottle Cap has/costs **18.6176%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.56%
+Fact: The Average value: +1.63% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Bottle Cap has/costs **30.1907%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.56%
+Fact: The Average value: +4.04% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.874%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.81%
+Fact: The Average value: +2.8% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Bottle Cap has/costs **49.8818%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +4.7076
+Fact: The Average value: +4.4279 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Bottle Cap has/costs **18.4563%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.56%
+Fact: The Average value: +1.63% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Bottle Cap has/costs **29.9291%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.56%
+Fact: The Average value: +4.04% in Bottle Cap has/costs **10**.
+Fact: Average value: +4.04% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.8664%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.8664%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.81%
+Fact: The Average value: +2.8% in Bottle Cap has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Bottle Cap has/costs **49.505%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +5
+Fact: The Average value: +4.5623 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Bottle Cap has/costs **19.802%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Bottle Cap has/costs **29.703%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Bottle Cap has/costs **10**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.9901%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.85% in Bottle Cap has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bottle Cap has/costs Base, Upgrades.
+Fact: The Chance in Bottle Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Bottle Cap has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Bottle Cap has/costs **49.0196%**, A random value between **+3** -**+5**.
+Intervals of +1
+Biased to values near +5
+Fact: The Average value: +4.5623 in Bottle Cap has/costs **15**.
+Fact: The +Critical Chance% in Bottle Cap has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Bottle Cap has/costs **19.6078%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Bottle Cap has/costs **5**.
+Fact: The +Critical Power% in Bottle Cap has/costs **1%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Bottle Cap has/costs **29.4118%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Bottle Cap has/costs **10**.
+Fact: Average value: +4.3% statistic: +Ability: Buzz Bomb.
+Fact: The Caustic Points Only in Bottle Cap has/costs \-, \-, **0.9804%**, **-**, **1**.
+Fact: The +Critical Power% in Bottle Cap has/costs \-, \-, **0.9804%**, A random value between **+2%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.85% in Bottle Cap has/costs **5**.
+Probabilities[]
+The tables below give the probability of a stat of Bottle Cap falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* +Convert Amount
+* +Critical Chance%
+* +Critical Power%
+Fact: The Potential in Bottle Cap has/costs Stat ranges, Average.
+Fact: The +10-+11 in Bottle Cap has/costs +12-+13, +14-+15, +16-+17, +18-+19, +20.
+Fact: The **0 ★** in Bottle Cap has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.481.
+Fact: The **0.5 ★** in Bottle Cap has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +12.991.
+Fact: The **1 ★** in Bottle Cap has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.494.
+Fact: The **1.5 ★** in Bottle Cap has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +13.996.
+Fact: The **2 ★** in Bottle Cap has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.498.
+Fact: The **2.5 ★** in Bottle Cap has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15.
+Fact: The **3 ★** in Bottle Cap has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.502.
+Fact: The **3.5 ★** in Bottle Cap has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16.0035.
+Fact: The **4 ★** in Bottle Cap has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.506.
+Fact: The **4.5 ★** in Bottle Cap has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17.009.
+Fact: The **5 ★** in Bottle Cap has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.519.
+Fact: The Potential in Bottle Cap has/costs Stat ranges, Average.
+Fact: The +1% in Bottle Cap has/costs +2%.
+Fact: The **0 ★** in Bottle Cap has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Bottle Cap has/costs 82.437%, 17.563%, +1.2%.
+Fact: The **1 ★** in Bottle Cap has/costs 79.425%, 20.575%, +1.2%.
+Fact: The **1.5 ★** in Bottle Cap has/costs 75.055%, 24.945%, +1.2%.
+Fact: The **2 ★** in Bottle Cap has/costs 67.918%, 32.082%, +1.3%.
+Fact: The **2.5 ★** in Bottle Cap has/costs 50%, 50%, +1.5%.
+Fact: The **3 ★** in Bottle Cap has/costs 32.082%, 67.918%, +1.7%.
+Fact: The **3.5 ★** in Bottle Cap has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Bottle Cap has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Bottle Cap has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Bottle Cap has/costs 15.343%, 84.657%, +1.8%.
+Fact: The Potential in Bottle Cap has/costs Stat ranges, Average.
+Fact: The +5% in Bottle Cap has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Bottle Cap has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Bottle Cap has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Bottle Cap has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Bottle Cap has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Bottle Cap has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Bottle Cap has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Bottle Cap has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Bottle Cap has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Bottle Cap has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Bottle Cap has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Bottle Cap has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount
+* +Critical Chance%
+* +Critical Power%
+Fact: The Potential in Bottle Cap has/costs Stat ranges, Average.
+Fact: The +3 in Bottle Cap has/costs +4, +5.
+Fact: The **0 ★** in Bottle Cap has/costs 59.657%, 36.919%, 3.424%, +3.438.
+Fact: The **0.5 ★** in Bottle Cap has/costs 57.525%, 38.928%, 3.547%, +3.46.
+Fact: The **1 ★** in Bottle Cap has/costs 52.863%, 43.339%, 3.798%, +3.509.
+Fact: The **1.5 ★** in Bottle Cap has/costs 44.515%, 51.304%, 4.181%, +3.597.
+Fact: The **2 ★** in Bottle Cap has/costs 23.676%, 71.576%, 4.748%, +3.811.
+Fact: The **2.5 ★** in Bottle Cap has/costs 12.284%, 82.1%, 5.616%, +3.933.
+Fact: The **3 ★** in Bottle Cap has/costs 8.421%, 84.532%, 7.047%, +3.986.
+Fact: The **3.5 ★** in Bottle Cap has/costs 6.316%, 83.881%, 9.803%, +4.035.
+Fact: The **4 ★** in Bottle Cap has/costs 4.989%, 77.284%, 17.726%, +4.127.
+Fact: The **4.5 ★** in Bottle Cap has/costs 4.081%, 49.044%, 46.875%, +4.428.
+Fact: The **5 ★** in Bottle Cap has/costs 3.424%, 36.919%, 59.657%, +4.562.
+Fact: The Potential in Bottle Cap has/costs Stat ranges, Average.
+Fact: The +1% in Bottle Cap has/costs +2%.
+Fact: The **0 ★** in Bottle Cap has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Bottle Cap has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **1 ★** in Bottle Cap has/costs 84.655%, 15.345%, +1.2%.
+Fact: The **1.5 ★** in Bottle Cap has/costs 84.632%, 15.368%, +1.2%.
+Fact: The **2 ★** in Bottle Cap has/costs 84.531%, 15.469%, +1.2%.
+Fact: The **2.5 ★** in Bottle Cap has/costs 84.218%, 15.782%, +1.2%.
+Fact: The **3 ★** in Bottle Cap has/costs 83.395%, 16.605%, +1.2%.
+Fact: The **3.5 ★** in Bottle Cap has/costs 81.332%, 18.668%, +1.2%.
+Fact: The **4 ★** in Bottle Cap has/costs 75.422%, 24.578%, +1.2%.
+Fact: The **4.5 ★** in Bottle Cap has/costs 36.573%, 63.427%, +1.6%.
+Fact: The **5 ★** in Bottle Cap has/costs 15.343%, 84.657%, +1.8%.
+Fact: The Potential in Bottle Cap has/costs Stat ranges, Average.
+Fact: The +2% in Bottle Cap has/costs +3%, +4%, +5%.
+Fact: The **0 ★** in Bottle Cap has/costs 46.529%, 38.128%, 13.869%, 1.473%, +2.7%.
+Fact: The **0.5 ★** in Bottle Cap has/costs 43.271%, 40.75%, 14.455%, 1.524%, +2.7%.
+Fact: The **1 ★** in Bottle Cap has/costs 35.72%, 46.982%, 15.669%, 1.628%, +2.8%.
+Fact: The **1.5 ★** in Bottle Cap has/costs 18.047%, 62.57%, 17.598%, 1.785%, +3%.
+Fact: The **2 ★** in Bottle Cap has/costs 7.385%, 69.951%, 20.649%, 2.015%, +3.2%.
+Fact: The **2.5 ★** in Bottle Cap has/costs 4.752%, 66.993%, 25.894%, 2.361%, +3.3%.
+Fact: The **3 ★** in Bottle Cap has/costs 3.428%, 56.16%, 37.496%, 2.916%, +3.4%.
+Fact: The **3.5 ★** in Bottle Cap has/costs 2.635%, 30.898%, 62.545%, 3.922%, +3.7%.
+Fact: The **4 ★** in Bottle Cap has/costs 2.112%, 22.025%, 69.581%, 6.281%, +3.8%.
+Fact: The **4.5 ★** in Bottle Cap has/costs 1.744%, 17.087%, 56.862%, 24.307%, +4%.
+Fact: The **5 ★** in Bottle Cap has/costs 1.473%, 13.869%, 38.128%, 46.529%, +4.3%.
+* +Critical Power%
+Fact: The Potential in Bottle Cap has/costs Stat ranges, Average.
+Fact: The +2% in Bottle Cap has/costs +3%.
+Fact: The **0 ★** in Bottle Cap has/costs 84.657%, 15.343%, +2.2%.
+Fact: The **0.5 ★** in Bottle Cap has/costs 84.462%, 15.538%, +2.2%.
+Fact: The **1 ★** in Bottle Cap has/costs 83.843%, 16.157%, +2.2%.
+Fact: The **1.5 ★** in Bottle Cap has/costs 82.689%, 17.311%, +2.2%.
+Fact: The **2 ★** in Bottle Cap has/costs 80.752%, 19.248%, +2.2%.
+Fact: The **2.5 ★** in Bottle Cap has/costs 77.465%, 22.535%, +2.2%.
+Fact: The **3 ★** in Bottle Cap has/costs 71.278%, 28.722%, +2.3%.
+Fact: The **3.5 ★** in Bottle Cap has/costs 53.932%, 46.068%, +2.5%.
+Fact: The **4 ★** in Bottle Cap has/costs 28.722%, 71.278%, +2.7%.
+Fact: The **4.5 ★** in Bottle Cap has/costs 20.226%, 79.774%, +2.8%.
+Fact: The **5 ★** in Bottle Cap has/costs 15.343%, 84.657%, +2.8%.
+Ways to Obtain[]
+* As a drop from certain planters:
+* As a rare drop from The Planter Of Plenty.
+* As a very rare drop from the Plastic Planter.
+* As a very rare drop from the Candy Planter.
+* Buying it from Dapper Bear's Shop.
+* A very rare chance from the Ant Challenge.
+Outdated Ways[]
+* From the Vibrant Gift Box.
+Fact: The Sub-Inventories in Bottle Cap has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Bottle Cap has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Bottle Cap has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Bottle Cap has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Bottle Cap has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Bottle Cap has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Bottle Cap has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Bottle Cap has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Bottle Cap has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Bottle Cap has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Bottle Cap has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Bottle Cap has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Bottle Cap has/costs **7-Pronged Cog**.
+Fact: The Other in Bottle Cap has/costs **Marshmallow Bee**.
+Fact: The Currencies in Bottle Cap has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Bottle Cap has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Bottle Cap has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Bottle Cap has/costs **Parachute •  Glider**.
+Fact: The Bags in Bottle Cap has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Bottle Cap has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Bottle Cap has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Bottle Cap has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Bottle Cap has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Bottle Cap has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Bottle Cap has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  **Bottle Cap** •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Bottle Cap has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Bottle Cap has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Bottle Cap has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

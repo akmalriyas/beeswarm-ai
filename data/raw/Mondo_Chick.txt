@@ -1,0 +1,111 @@
+Context: Bee Swarm Simulator - Mondo Chick
+
+Mondo Chick
+Mondo Chick
+Location
+Mountain Top Field
+Respawns Every
+45 minutes - 1 hour
+Fact: The Health in Mondo Chick has/costs Damage.
+Fact: The 300,000 in Mondo Chick has/costs 75.
+Fact: The Battle Points in Mondo Chick has/costs Bond.
+Fact: The 0 in Mondo Chick has/costs 0.
+Fact: The Honey in Mondo Chick has/costs Level.
+Fact: The Varies in Mondo Chick has/costs 8.
+The Mondo Chick is a level 8 boss chick located in the Mountain Top Field. It respawns every hour at the full hour (1:00, 2:00, 3:00, etc., not in time zones that are a fractional number of hours away from UTC), and its respawn timer can be found on the side of the Mountain Top Shop. The respawn time is unaffected by the Monster Respawn Time stat. Its rewards can be shared between players.
+The Mondo Chick will always spawn at level 8 with 300,000 health. It takes 333 damage automatically each second, causing its health to reach 300 after 15 minutes. If it isn't defeated within 15 minutes of spawning, it will despawn in a similar fashion as the Commando Chick. Similar to the Coconut Crab, player(s) will be rewarded depending on how fast the Mondo Chick is defeated. Due to its large range and damage, it’s recommended to keep distance between the player and the Mondo Chick.
+If a Rogue Vicious Bee spawns in the Mountain Top Field, it can attack the Mondo Chick, causing its health to drop rapidly.
+The Mondo Chick will hide in its egg after several seconds, causing it to stop moving and block some attacks. The egg can be cracked by dealing 7,500 damage to it or by waiting 23 seconds via automatic damage.
+When Mondo Chick spawns, a server-wide message displays:   Mondo Chick has spawned!
+Once it is defeated, players who damaged it get three messages displaying:
+Defeated Mondo Chick!
+Captured Mondo Chick in [Time] (Fastest Time: [Fastest Time])/[(New Record)]
+Reward: Mondo Chick Blessing x[Amount]
+Sometimes, the notification box may glitch out, and this would be seen instead:   Captured Mondo Chick in [Time] (Fastest Time:)
+When its time runs out, it will jump out of the field towards the Lion Bee Gate entrance. A message notifies players who damaged it when Mondo Chick's time runs out, displaying:   The Mondo Chick got away!
+Strangely, for some players, the message that appears when Mondo Chick is captured always says "New Record" next to the time. This includes cases when the time it took for that capture wasn't a fastest time for that player. This is possibly a bug.
+Fact: The Time to defeat in Mondo Chick has/costs Amount of Mondo Chick Blessing.
+Fact: The <5 seconds in Mondo Chick has/costs x10.
+Fact: The 6 – 10 seconds in Mondo Chick has/costs x9.
+Fact: The 11 – 15 seconds in Mondo Chick has/costs x8.
+Fact: The 16 – 20 seconds in Mondo Chick has/costs x7.
+Fact: The 21 – 30 seconds in Mondo Chick has/costs x6.
+Fact: The 31 – 59 seconds in Mondo Chick has/costs x5.
+Fact: The 1:00 - 2:30 in Mondo Chick has/costs x4.
+Fact: The 2:31 - 5:00 in Mondo Chick has/costs x3.
+Fact: The 5:01 - 10:00 in Mondo Chick has/costs x2.
+Fact: The 10:01 - 15:00 in Mondo Chick has/costs x1.
+Bitterberries (Amount increases the faster it is captured)
+Neonberries (Up to 2, very common)
+Field Dice (Common)
+Micro-Converters (Common)
+Magic Bean (Common)
+Star Jelly (Rare)
+Mythic Egg (Extremely rare)
+Star Treat (Unfathomably rare)
+Snowflakes (Amount increases the faster it is captured, Beesmas only)
+Snowglobe (Rare, Beesmas only)
+Small Blue Chick Sticker (Very Rare)
+Basic Pink Hive Skin (Extremely rare)
+* If seeking a higher Mondo Chick Blessing or struggling to kill it, have bees specialized in attack, such as Vicious Bee, Lion Bee, Rage Bee, Spicy Bee, and Precise Bee.
+* Have bees that produce ability tokens such as Focus, Rage, and Melody, that improve Critical Chance, Critical Power, and Bee Attack.
+* Build a Focus stack before the Mondo Chick spawns.
+* If the player owns a Precise Bee, they can try and stack Precision to increase Super-Crit Chance.
+* The Demon Mask or the Fire Mask is recommended, as they have stats and passives that improve the player's attack damage.
+* If the player has the Coconut Canister equipped, they can intentionally activate the Emergency Coconut Shield, giving them 10 seconds of ×1.25 Bee Attack and dropping 5 falling coconuts onto the field.
+* Having Nectars like Invigorating Nectar, which grants ×1.01 - 1.1 Bee Attack.
+* Level up bees to level 8 or higher. Bees with a lower level than the Mondo Chick are likely to miss their attacks, while bees with the same level or higher won't miss.
+* Keep a distance from the Mondo Chick, as it can randomly change direction and deal significant damage to the player.
+* Using various consumables and passives, such as Stingers, Coconuts, Oils, or Star Saw can help defeat Mondo Chick faster.
+* You can use Rogue Vicious Bees to help you kill the Mondo Chick significantly faster, as Rogue Vicious Bee spikes can damage other mobs. However, this requires a Vicious Bee to have spawned during a nighttime sequence, specifically on the Mountain Top Field and shortly before the Mondo Chick spawns (so the Vicious Bee doesn’t despawn), which is of course, unlikely.
+* You _can_ use a Night Bell if you’d like (guarantees a Vicious Bee spawn), however you’ll still need to get lucky and hope the Vicious Bee spawns where you want it to. Night Bells are also very rare to come across, so in most cases it isn’t worth the usage.
+Gallery[]
+Mondo Chick walking around.
+Mondo Chick hiding in its egg.
+The respawn timer for the Mondo Chick.
+Mondo Chick hibernating.
+The message sent when Mondo Chick runs out of time. (only appears when you are close to Mondo Chick when it runs out of time)
+The server-wide message that the Mondo Chick has spawned.
+Mondo Chick Blessing Icon.
+Invisible Mondo Chick shell.
+Mondo Chick's drops in a ring instead of scattered across the field.
+Mondo Chick in the Pineapple Patch.
+Mondo Chick by the Instant Converter near the Pineapple Patch.
+Mondo Chick in Spider Field.
+The Mondo Chick inside the 30 Bee Zone.
+Mondo Chick facing the Memory Match.
+A player receiving a Star Jelly from a Mondo Chick.
+A player receiving a Mythic Egg from a Mondo Chick.
+A player receiving a Star Treat from a Mondo Chick.
+Mondo Chick, along with Stick Bug, Rogue Vicious Bee and Wild Windy Bee in the Mountain Top Field.
+A player receiving a Basic Pink Hive Skin from a Mondo Chick.
+A Basic Pink Hive Skin token from a Mondo Chick.
+Fact: The **Information** in Mondo Chick has/costs **Audio**.
+Fact: The The chirping noise made from the Mondo Chick in Mondo Chick has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Mondochickchirp.ogg>.
+Fact: The The following audio plays when the Mondo Chick breaks out of its egg in Mondo Chick has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Mondochickhatch.ogg>.
+Fact: The The chirping noise made when the Mondo Chick is captured in Mondo Chick has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Mondo_Capture.ogg>.
+Trivia[]
+* The Mondo Chick's noises can be heard throughout the entire map.
+* This is also the case with the Cave Monsters.
+* The Mondo Chick is the only mob that has a fixed spawn point in the Mountain Top Field.
+* During the soft launch of the Egg Hunt 2020 update, the Mondo Chick only had 250,000 health. It was later changed to 300,000 the following day.
+* If the player already has the Mondo Chick Blessing buff and defeats another Mondo Chick, the new blessing will override the old buff, resetting its timer and possibly degrading or upgrading the buff depending on the time taken to defeat the Mondo Chick.
+* Mondo Chick, Stick Nymphs, and Festive Nymphs are the only mobs in the game that take damage without anything attacking them.
+* Mondo Chick, Festive Nymphs, and Party Robots are the three mobs in the game that can drop a “blessing” buff.
+* Out of these three, Mondo Chick is the only one to guarantee a blessing buff after defeating it.
+* Mondo Chick does not drop the blessing buff in token form; instead, it goes directly to the player’s active buffs.
+* Onett has said on discord that he dislikes Mondo Chick "on a personal level."
+* If the Mondo Chick falls out of the Mountain Top field and into another field, when defeated, the rewards will spawn in that field it was defeated in. However, if it dies outside of a field, its drops will form in a ring.
+* As of the Beesmas 2020 update, the Mondo Chick no longer drops Marshmallow Bees.
+* There is a glitch where the Mondo Chick would fall into other areas outside of the Mountain Top Field, such as into the Bamboo Field, Blue Flower Field or in front of the Pro Shop. Rarely, the fallen Mondo Chick will not be able to move unless it falls into the Pineapple Patch. On an even rarer occurrence, the Mondo Chick will get stuck on the tall rocks adjacent to the Lion Bee Gate.
+Fact: The Normal in Mondo Chick has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Mondo Chick has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Mondo Chick has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Mondo Chick has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Mondo Chick has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Mondo Chick has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Mondo Chick has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Mondo Chick has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Mondo Chick has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Mondo Chick has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Mondo Chick has/costs **Chick • Hostage Chick • Spotted Chick**.

@@ -1,0 +1,18 @@
+Context: Bee Swarm Simulator - Mythic Bees
+
+Mythic Bees
+Fact: The Bee in Mythic Bees has/costs Icon, Description.
+Fact: The Buoyant Bee in Mythic Bees has/costs Just like a balloon, nothing can keep this bee down. It's always ready to party..
+Fact: The Fuzzy Bee in Mythic Bees has/costs This unkempt ball of fluff is actually a bee. Its fur aids in the pollination of flowers..
+Fact: The Precise Bee in Mythic Bees has/costs This sharpshooting bee is always on point and expects the same of you..
+Fact: The Spicy Bee in Mythic Bees has/costs Some like it hot - this bee likes it scorching. Even the honey it makes is spicy..
+Fact: The Tadpole Bee in Mythic Bees has/costs A tiny amphibious bee who wants to become a frog when it grows up..
+Fact: The Vector Bee in Mythic Bees has/costs A bee brought to life by an extremely complex trigonometric equation..
+Egg and Jelly Probability
+Fact: The Basic Egg in Mythic Bees has/costs 0%, 0%.
+Fact: The Silver Egg in Mythic Bees has/costs 0.1%, 0.01667%.
+Fact: The Gold Egg in Mythic Bees has/costs 1%, 0.16667%.
+Fact: The Diamond Egg in Mythic Bees has/costs 5%, 0.83333%.
+Fact: The Mythic Egg in Mythic Bees has/costs 100%, 16.66667%.
+Fact: The Royal Jelly in Mythic Bees has/costs 0.004%, 0.00067%.
+The following audio plays when a mythic bee notification pops up:<https://bee-swarm-simulator.fandom.com/wiki/File:Mythic_Bee_Hatch.ogg>

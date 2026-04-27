@@ -1,0 +1,25 @@
+Context: Bee Swarm Simulator - Pollen
+
+Fact: Pollen statistic: # Pollen.
+_Are you looking forFlowers or Honey?_
+Fact: _Are you looking forFlowers or Honey?_ statistic: **Pollen** is one of the main features in Bee Swarm Simulator. Pollen is collected in order to make honey. It can be obtained by using tools (via tapping or clicking) on flowers, from bees collecting pollen and/or activating their abilities, from some passive abilities, from meteors, and from coconuts. Flowers can have different sizes and different colors. Some quests require pollen to be collected from a specific flower color or field. There are many sources of pollen multipliers, including amulets, bags, masks, badges, hive bonuses, abilities, field boosts, field winds, and certain passive abilities..
+Fact: _Are you looking forFlowers or Honey?_ statistic: Pollen is mainly used to convert it into honey at the player's hive, through Instant Converters, by using a Micro-Converter, Honeysuckle, etc. This is one of the most common ways to get honey. Pollen is also used as a counter to track how much a player has farmed from a field in badges..
+Fact: _Are you looking forFlowers or Honey?_ statistic: ## Pollen Amount Per Flower[].
+In order to get more pollen per collection, collect the biggest flowers on the field. The bigger the flower, the larger the pollen multiplier. There are 5 different flower sizes: single, double, triple, large, and star.
+Fact: The Flower size in Pollen has/costs Single, Double, Triple, Large, Star.
+Fact: The Multiplier in Pollen has/costs 1, 2, 3, 4, 5.
+Fact: The Total amount of pollen in Pollen has/costs 30, 45, 60, 75, 90.
+Collection amount and efficiency can be increased by using better tools (either collecting in a large area or multiplying pollen collection. For example, the Scythe and the Bubble Wand each collect double red and blue pollen, respectively). Collecting Bear Morph, Inspire, Beesmas Cheer, Baby Love ability tokens, Bear Bee and Basic Bee gifted bonuses, badges, using game mechanics, expanding the hive, different amulets, using items, and different passive abilities can all lead to better pollen collection.
+Pollination[]
+_Main article:Pollination_
+When a flower is pollinated, it upgrades any kind of flower, with star flowers being the exception. Flowers can be pollinated by Fuzzy Bee, The Diamond Drain Passive, bees with the Poinsettia or Lei beequip, and Guiding Star.
+Gallery[]
+The original single white flower.
+The original double white flower.
+The original triple white flower, which was instead a big flower.
+A blue flower being pollinated.
+Trivia[]
+* Single, double, and triple flowers are the only types of flowers that can naturally spawn in fields. Large and star flowers can only be spawned through pollination.
+* Before the 2020-04-06 update, the only stages of flowers were single, double, and large, with large flowers being the third level. This was changed to the current system, where the third tier was replaced with triple flowers, moving large to stage four.
+* In real life, nectar is used by bees to be turned into honey and not pollen.
+Fact: Trivia[] statistic: ****Pollen** •  Honey •  Ticket •  Brick •  Cog •  Snowflake •  Gingerbread Bear**.

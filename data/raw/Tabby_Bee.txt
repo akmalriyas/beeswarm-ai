@@ -1,0 +1,109 @@
+Context: Bee Swarm Simulator - Tabby Bee
+
+Tabby Bee
+Tabby Bee
+_"This affectionate bee was raised by cats. It becomes a better worker as it warms up to you."_
+Fact: The 28 in Tabby Bee has/costs **Speed**.
+Fact: The 16.1 in Tabby Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #f99d28 #634927 #f99d28
+Tabby Bee is a Colorless Event bee that hatches out of a Tabby Bee Egg, which is currently available in the Ticket Tent for 500 Tickets.
+Like all other Event bees, this bee does not have a favorite treat, and the only way to make it gifted is by feeding it a Star Treat, Gingerbread Bears or Aged Gingerbread Bears.
+Tabby Bee likes the Spider Field and Clover Field. It dislikes the Cactus Field.
+Fact: Skin #f99d28 #634927 #f99d28 statistic: * Collects 10 Pollen in 4 seconds..
+* Makes 160 Honey in 3 seconds.
+* +40% Energy, +15% Movespeed, +25% Convert Speed, +3 Attack, up to +1680 Convert Amount, up to +100 Gather Amount.
+* 🌟 Gifted Hive Bonus: +50% Critical Power.
+Unlike other bees, this bee has a unique perk: its stats increase permanently with the collection of Tabby Love tokens. At the cap of 1,000 Tabby Love, this bee's maximum stats are:
+Fact: Skin #f99d28 #634927 #f99d28 statistic: * Collects 110 Pollen in 4 seconds..
+* Makes 1,760 Honey in 3 seconds.
+Fact: Skin #f99d28 #634927 #f99d28 statistic: * Collects 88 Pollen from 3 lines of 4 flowers with Scratch (1,056 pollen)..
+Abilities[]
+Fact: Abilities[] statistic: * **[Scratch]** Collects 7 (+1 per lvl) Pollen from 3 lines of 4 Flowers. If Gifted, Scratch always does Critical hits..
+* [Tabby Love] Permanently grants Tabby Bee +1% Gather Amount, Convert Amount, and pollen from Scratch. Stacks up to 1,000 times.
+* If at max stacks, Tabby Love grants Tabby Blessing, giving +1% Critical Chance and +25% Critical Power for 20 seconds (+2s per level). If Gifted, it grants Tabby Blessing+, which adds +1% Super-Crit Chance as well.
+Fact: Abilities[] statistic: Tabby Bee has a base pollen collection of **10** in **4 seconds**. That's equivalent to 2.5  per second. (**20** in **4 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Tabby Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Tabby Bee has/costs with Melody.
+Fact: The Single in Tabby Bee has/costs 10, 20, 30.
+Fact: The Double in Tabby Bee has/costs 20, 40, 60.
+Fact: The Triple in Tabby Bee has/costs 30, 60, 90.
+Fact: The Large in Tabby Bee has/costs 40, 80, 120.
+Fact: The Star in Tabby Bee has/costs 50, 100, 150.
+Tabby Bee can make 160 in 3 seconds! That's equivalent to 53.33333 per second. (160 in 1.5 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Tabby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Tabby Bee has/costs 25%, 200.
+Fact: The 2 in Tabby Bee has/costs 50%, 240.
+Fact: The 3 in Tabby Bee has/costs 75%, 280.
+Fact: The 4 in Tabby Bee has/costs 100%, 320.
+Fact: The 5 in Tabby Bee has/costs 125%, 360.
+Fact: The 6 in Tabby Bee has/costs 150%, 400.
+Fact: The 7 in Tabby Bee has/costs 175%, 440.
+Fact: The 8 in Tabby Bee has/costs 200%, 480.
+Fact: The _Science Enhancement_ in Tabby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Tabby Bee has/costs 225%, 520.
+Fact: The 10 in Tabby Bee has/costs 250%, 560.
+Fact: The 11 in Tabby Bee has/costs 275%, 600.
+Fact: The 12 in Tabby Bee has/costs 300%, 640.
+Fact: The 13 in Tabby Bee has/costs 325%, 680.
+Fact: The 14 in Tabby Bee has/costs 350%, 720.
+Fact: The 15 in Tabby Bee has/costs 375%, 760.
+Fact: The 16 in Tabby Bee has/costs 400%, 800.
+Fact: The _Science Enhancement_ in Tabby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Tabby Bee has/costs 425%, 840.
+Fact: The 18 in Tabby Bee has/costs 450%, 880.
+Fact: The 19 in Tabby Bee has/costs 475%, 920.
+Fact: The 20 in Tabby Bee has/costs 500%, 960.
+Fact: The 21 in Tabby Bee has/costs 525%, 1000.
+Fact: The 22 in Tabby Bee has/costs 550%, 1040.
+Fact: The 23 in Tabby Bee has/costs 575%, 1080.
+Fact: The 24 in Tabby Bee has/costs 600%, 1120.
+Fact: The _Science Enhancement_ in Tabby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Tabby Bee has/costs 625%, 1160.
+Fact: The 26 in Tabby Bee has/costs 650%, 1200.
+Fact: The 27 in Tabby Bee has/costs 675%, 1240.
+Fact: The 28 in Tabby Bee has/costs 700%, 1280.
+Fact: The 29 in Tabby Bee has/costs 725%, 1320.
+Fact: The 30 in Tabby Bee has/costs 750%, 1360.
+Fact: The 31 in Tabby Bee has/costs 775%, 1400.
+Gallery[]
+Tabby Bee's old hive slot design.
+A gifted Tabby Bee hive slot.
+Tabby Bee's face decal
+The notification that appeared when the Tabby Bee sale ended.
+Tabby Bee's tabby love token.
+Tabby Love as a buff on the player bar.
+Tabby Bee's scratch token.
+Tabby Bee's scratch.
+A First Edition Tabby Bee.
+Tabby Bee in the game's icon after it was added.
+Trivia[]
+* When Tabby Bee was added, the maximum Tabby Love stack was mistakenly set to 500. This mistake was fixed in a later update.
+* Tabby Bee cost 250 Tickets when it was originally released.
+* There used to be an Easter Egg "Easter Eggs") behind the hives, which was a block with a distorted photo of Tabby Bee on it. It was removed around 2 June 2018. This was possibly a hint for one of the codes, more specifically, "Meow", which gave five tickets before it expired.
+* Tabby Bee is one of three bees to have an official plush on the Official Bee Swarm Simulator Website, the others being Basic Bee and Vicious Bee.
+* Because of a timer glitch that stopped players from buying it early, Tabby Bee returned on sale between June 2 and June 6, 2018.
+* Tabby Bee was the third Event bee to be added to the game, after Photon Bee and Bear Bee respectively.
+* This bee, Bear Bee, Gummy Bee, Puppy Bee, Festive Bee, Windy Bee, and Digital Bee are the only Event bees which can be a first edition bee when hatching them during its first release in-game.
+* Tabby Bee, Bear Bee, Gummy Bee, Festive Bee, Photon Bee, Tadpole Bee, and Vicious Bee are the only bees to have a gifted bonus that affects their signature ability.
+* The player’s tabby love stack will not be removed if the player transforms Tabby Bee in any way.
+* Before the May 23, 2024 update, if the player already had max Tabby Love (x1000) and collected another one, it would neither increase the existing buff nor have any effect.
+* Tabby Bee is a reference to Onett's "Onett \(Developer\)") real-life cat named Sam. This is hinted in one of Onett's dialogues in his star journey quests, and later confirmed on Discord.
+* Tabby Bee, along with Basic Bee and Rascal Bee, are Onett's favorite bees.
+* Tabby Bee is mentioned in Panda Bear's dialogue during his Ultimate Ant Annihilation 1 quest. As Tabby Bee's description says, he states that Tabby Bee was raised by cats.
+* Tabby Bee is one of the few bees based off from animals other than just bees, the others being Lion Bee, Tadpole Bee, Puppy Bee, and Bear Bee.
+* Tabby Bee, despite having a 50% energy increase compared to Basic bee listed in its stats, has a base energy of 28, which is only comparable to a 40% energy increase.
+* Tabby Bee can have the highest conversion rate in the game at maximum Tabby Love.
+* This was one of the few bees that could have been summoned from Onett's Lid Art.
+* If a Tabby Bee from Onett's Lid Art produced a tabby love token, the buff would not be removed after the Tabby Bee despawns.
+Fact: The Common & Rare in Tabby Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Tabby Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Tabby Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Tabby Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Tabby Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  **Tabby Bee** •  Vicious Bee •  Windy Bee**.

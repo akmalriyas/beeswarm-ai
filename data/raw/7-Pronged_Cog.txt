@@ -1,0 +1,48 @@
+Context: Bee Swarm Simulator - 7-Pronged Cog
+
+7-Pronged Cog
+_Not to be confused withCog._
+7-Pronged Cog
+_"A component used in mysterious electronics."_
+7-Pronged Cog is a special inventory item added in the 2020-11-23 update for the Ready Player Two event. It was used as one of the two ingredients to craft the Strange Goggles.
+To obtain the 7-Pronged Cogs for the event, the player would need to redeem seven codes, discovered by various riddles scattered across the map. As 7-Pronged Cogs are unobtainable but not completely removed, any of them redeemed will remain in players' inventories.
+NOTE : These codes are now expired. They are also listed here.
+Fact: The Code in 7-Pronged Cog has/costs Riddle Source, Reward.
+Fact: The Troggles in 7-Pronged Cog has/costs Mother Bear, 1 **7-Pronged Cog** , Clover Field Code Buff (+100% Clover Field Pollen, +100% Clover Field Capacity).
+Fact: The WordFactory in 7-Pronged Cog has/costs Onett's tweet, 1 **7-Pronged Cog** , Pine Tree Forest Code Buff (+100% Pine Tree Forest Pollen, +100% Pine Tree Forest Capacity).
+Fact: The Millie in 7-Pronged Cog has/costs Wind Shrine, 1 **7-Pronged Cog** , Sunflower Field Code Buff (+100% Sunflower Field Pollen, +100% Sunflower Field Capacity).
+Fact: The Luther in 7-Pronged Cog has/costs Onett (NPC), 1 **7-Pronged Cog** , Blue Flower Field Code Buff (+100% Blue Flower Field Pollen, +100% Blue Flower Field Capacity).
+Fact: The CarmenSanDiego in 7-Pronged Cog has/costs Elite Red Guard description, 1 **7-Pronged Cog** , Rose Field Code Buff (+100% Rose Field Pollen, +100% Rose Field Capacity).
+Fact: The Jumpstart in 7-Pronged Cog has/costs Tutorial, 1 **7-Pronged Cog** , Dandelion Field Code Buff (+100% Dandelion Field Pollen, +100% Dandelion Field Capacity).
+Fact: The Dysentery in 7-Pronged Cog has/costs Ant Challenge Info, 1 **7-Pronged Cog** , Mushroom Field Code Buff (+100% Mushroom Field Pollen, +100% Mushroom Field Capacity).
+Gallery[]
+A 7-Pronged Cog in the inventory.
+Fact: The Sub-Inventories in 7-Pronged Cog has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in 7-Pronged Cog has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in 7-Pronged Cog has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in 7-Pronged Cog has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in 7-Pronged Cog has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in 7-Pronged Cog has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in 7-Pronged Cog has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in 7-Pronged Cog has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in 7-Pronged Cog has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in 7-Pronged Cog has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in 7-Pronged Cog has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in 7-Pronged Cog has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in 7-Pronged Cog has/costs ****7-Pronged Cog****.
+Fact: The Other in 7-Pronged Cog has/costs **Marshmallow Bee**.
+Fact: The Currencies in 7-Pronged Cog has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in 7-Pronged Cog has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in 7-Pronged Cog has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in 7-Pronged Cog has/costs **Parachute •  Glider**.
+Fact: The Bags in 7-Pronged Cog has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in 7-Pronged Cog has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in 7-Pronged Cog has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in 7-Pronged Cog has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in 7-Pronged Cog has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in 7-Pronged Cog has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in 7-Pronged Cog has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in 7-Pronged Cog has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in 7-Pronged Cog has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in 7-Pronged Cog has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

@@ -1,0 +1,45 @@
+Context: Bee Swarm Simulator - Translator
+
+Translator
+_"A device used to decipher languages you don't understand."_
+Translators are inventory items that allow the user to speak with Gifted Riley Bee, Gifted Bucko Bee, and Stick Bug.
+To use a translator , the player needs to talk to the NPC they want to use the translator on. The NPC will talk to the player in its language. It will then prompt the player the option to give the translator to the NPC or leave. Clicking on the option to give the NPC the translator will allow the player to talk and receive quests from the NPC.
+Translators are single-use - once the player gives an NPC a translator, the translator will be taken away from their inventory, but the player will be able to speak with them forever. If the player accidentally uses a translator on an NPC, they can leave the game as the translator only gets taken away after the player finishes speaking to that NPC.
+All three translators can only be obtained from Science Bear. He rewards the player with a translator after completing the following quests: "Limits of Language", "Beesperanto", and "Epistemological Endeavor" (which are the 21st, 26th and 31st quests).
+Trivia[]
+* The player can acquire a total of three translators throughout the game so that they can speak to all three of the NPCs that require them.
+* Without translators, it is impossible to take quests, receive rewards, talk or give presents to Gifted Bucko Bee, Stick Bug, and Gifted Riley Bee.
+* Translators were originally implemented in the 2018-11-25 update when Science Bear received an additional 10 quests. Only two were available at that time, as the third could only be obtained in Epistemological Endeavor, which is Science Bear's last quest. His last 5 quests weren't added until 2018-12-19, thus making the total amount of translators available 2 at the time.
+* There is a 5 quest difference between each translator, Limits of Language being the 21st quest, Beesperanto being the 26th, and Epistemological Endeavor being the 31st.
+* This is one of the two unique items that can only be obtained while completing a bear’s questline, the other being Spirit Petals from Spirit Bear.
+* This is one of the only items that can be given to an NPC, the other item being Presents.
+* Trying to give Gifted Riley, Gifted Bucko, or Stick Bug a present without giving it a translator will result in the regular dialogue being displayed.
+Fact: The Sub-Inventories in Translator has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Translator has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Translator has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Translator has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Translator has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Translator has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Translator has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Translator has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Translator has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Translator has/costs Quest Exclusive, ****Translator** •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Translator has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Translator has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Translator has/costs **7-Pronged Cog**.
+Fact: The Other in Translator has/costs **Marshmallow Bee**.
+Fact: The Currencies in Translator has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Translator has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Translator has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Translator has/costs **Parachute •  Glider**.
+Fact: The Bags in Translator has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Translator has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Translator has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Translator has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Translator has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Translator has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Translator has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Translator has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Translator has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Translator has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

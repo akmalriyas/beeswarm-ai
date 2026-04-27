@@ -1,0 +1,345 @@
+Context: Bee Swarm Simulator - Badge Shiver
+
+Badge Shiver
+The Wind Shrine.
+A bug that happens with the Wind Shrine when the chimes go too high up.
+Sometimes, one or more chimes disappear due to a bug when they move too high up.
+The Wind Shrine is located beyond the Windy Bee Gate, next to the Pepper Patch. It allows players to donate items to it in exchange for rewards such as Field Winds and honey. The Wind Shrine has a cooldown of 1 hour between each donation. Donating cloud vials after donating a Spirit Petal is currently the only way to obtain a Windy Bee.
+The Wind Shrine also indicates if a Wild Windy Bee is active in one of the fields. If the chimes are continuously moving around and nobody has donated recently, a Wild Windy Bee will be somewhere around the map.
+<https://bee-swarm-simulator.fandom.com/wiki/File:Moving_shrine.mp4>
+A video of Wind Shrine moving.
+The following audio plays when a player has donated something to the Wind Shrine:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Windchimedonate.ogg>
+Upon interacting with the shrine, it says "Would you like to make an offering to the Wind Shrine?" If the player clicks on the dialogue, a window pop-up will appear, in which it allows the player to donate any amount of almost any item in their inventory to the shrine. Upon doing so, a message follows, with the chimes moving around swiftly. If the player cancels the donation, it instead says "You canceled the donation."
+If the player interacts with the Shrine during cooldown, it says "You may only donate to the Shrine once per hour. Come back in x: y." (x = minutes, y = seconds)
+If the player wants to donate multiple items at once, they can hold down the "+" button. The rate at which the amount of that certain item increases the longer the "+" button is held down.
+Favor is a mechanic that affects the player's rewards from the Wind Shrine. Favor is increased by donating items.
+A Spirit Petal is NOT required to be donated to start increasing favor.
+All donations grant favor (5,000 + the favor value of all of the items donated). Below is a list of all items that can be donated to the shrine and their favor values.
+Fact: The Ticket in Badge Shiver has/costs 200.
+Fact: The Gumdrops in Badge Shiver has/costs 25.
+Fact: The Coconut in Badge Shiver has/costs 20.
+Fact: The Stinger in Badge Shiver has/costs 250.
+Fact: The Micro-Converter in Badge Shiver has/costs 250.
+Fact: The Honeysuckle in Badge Shiver has/costs 100.
+Fact: The Whirligig in Badge Shiver has/costs 100.
+Fact: The Field Dice in Badge Shiver has/costs 250.
+Fact: The Smooth Dice in Badge Shiver has/costs 100-999.
+Fact: The Loaded Dice in Badge Shiver has/costs 375-999 (Cannot determine exact favor).
+Fact: The Jelly Beans in Badge Shiver has/costs 25.
+Fact: The Red Extract in Badge Shiver has/costs 500.
+Fact: The Blue Extract in Badge Shiver has/costs 500.
+Fact: The Glitter in Badge Shiver has/costs 2,000.
+Fact: The Glue in Badge Shiver has/costs 2,000.
+Fact: The Oil in Badge Shiver has/costs 500.
+Fact: The Enzymes in Badge Shiver has/costs 500.
+Fact: The Tropical Drink in Badge Shiver has/costs 750.
+Fact: The Purple Potion in Badge Shiver has/costs 1,000.
+Fact: The Marshmallow Bee in Badge Shiver has/costs 500.
+Fact: The Magic Bean in Badge Shiver has/costs 1,000.
+Fact: The Festive Bean in Badge Shiver has/costs 5,000.
+Fact: The Cloud Vial in Badge Shiver has/costs 5,000.
+Fact: The Night Bell in Badge Shiver has/costs 5,000.
+Fact: The Box-O-Frogs in Badge Shiver has/costs 5,000.
+Fact: The Ant Pass in Badge Shiver has/costs 250.
+Fact: The Treat in Badge Shiver has/costs 0.
+Fact: The Atomic Treat in Badge Shiver has/costs 50,000.
+Fact: The Star Treat in Badge Shiver has/costs 250,000.
+Fact: The Sunflower Seed in Badge Shiver has/costs 5.
+Fact: The Strawberry in Badge Shiver has/costs 5.
+Fact: The Pineapple in Badge Shiver has/costs 5.
+Fact: The Blueberry in Badge Shiver has/costs 5.
+Fact: The Bitterberry in Badge Shiver has/costs 50.
+Fact: The Neonberry in Badge Shiver has/costs 50.
+Fact: The Moon Charm in Badge Shiver has/costs 20.
+Fact: The Soft Wax in Badge Shiver has/costs 250.
+Fact: The Hard Wax in Badge Shiver has/costs 1,000.
+Fact: The Caustic Wax in Badge Shiver has/costs 1000-9999 (Cannot determine exact favor).
+Fact: The Swirled Wax in Badge Shiver has/costs 5,000.
+Fact: The Turpentine in Badge Shiver has/costs <50,000.
+Fact: The Basic Egg in Badge Shiver has/costs 1.
+Fact: The Silver Egg in Badge Shiver has/costs 5,000.
+Fact: The Gold Egg in Badge Shiver has/costs 10,000.
+Fact: The Diamond Egg in Badge Shiver has/costs 20,000.
+Fact: The Mythic Egg in Badge Shiver has/costs 50,000.
+Fact: The Star Egg in Badge Shiver has/costs 250,000.
+Fact: The Gifted Silver Egg in Badge Shiver has/costs 50,000.
+Fact: The Gifted Gold Egg in Badge Shiver has/costs 100,000.
+Fact: The Gifted Diamond Egg in Badge Shiver has/costs 100,000.
+Fact: The Gifted Mythic Egg in Badge Shiver has/costs 250,000.
+Fact: The Royal Jelly in Badge Shiver has/costs 0.
+Fact: The Star Jelly in Badge Shiver has/costs 2,500.
+Fact: The Specific Bee Eggs in Badge Shiver has/costs 250.
+The player's chance to obtain the Windy Bee Egg increases depending on how much favor the player has with the shrine. Having higher favor will also improve the quality and quantity of winds. Favor can be roughly estimated by the messages received when the player is rewarded winds or is donating cloud vials for a Windy Bee.
+Each donation grants honey depending on the type and amount of the item donated. All donations, excluding spirit petals, grant honey, regardless of the other rewards. For example, if the player spawns a Wild Windy Bee, they will get the same amount of honey from the donation as they would if they had gotten winds instead. Below is a table listing how much honey is granted for each type of item. (can be increased by Honey Per Token)
+Fact: The Tickets in Badge Shiver has/costs 10,000 Honey.
+Fact: The Gumdrops in Badge Shiver has/costs 2,000 Honey.
+Fact: The Coconuts in Badge Shiver has/costs 100,000 Honey.
+Fact: The Stingers in Badge Shiver has/costs 50,000 Honey.
+Fact: The Micro-Converters in Badge Shiver has/costs 500,000 Honey.
+Fact: The Honeysuckles in Badge Shiver has/costs 100-999 Honey.
+Fact: The Whirligigs in Badge Shiver has/costs 25,000 Honey.
+Fact: The Field Dice in Badge Shiver has/costs 500,000 Honey.
+Fact: The Smooth Dice in Badge Shiver has/costs 1,500,000 Honey.
+Fact: The Loaded Dice in Badge Shiver has/costs 5,000,000 Honey.
+Fact: The Jelly Beans in Badge Shiver has/costs 10,000 Honey.
+Fact: The Red Extracts in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Blue Extracts in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Glitter in Badge Shiver has/costs 2,500,000 Honey.
+Fact: The Glues in Badge Shiver has/costs 2,500,000 Honey.
+Fact: The Oils in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Enzymes in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Tropical Drinks in Badge Shiver has/costs 2,000,000 Honey.
+Fact: The Purple Potions in Badge Shiver has/costs 2,000,000 Honey.
+Fact: The Marshmallow Bees in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Magic Beans in Badge Shiver has/costs 200,000 Honey.
+Fact: The Festive Beans in Badge Shiver has/costs 25,000,000 Honey.
+Fact: The Cloud Vials in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Night Bells in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Boxes-O-Frogs in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Ant Passes in Badge Shiver has/costs 100,000 Honey.
+Fact: The Treats in Badge Shiver has/costs 100 Honey.
+Fact: The Atomic Treats in Badge Shiver has/costs 5,000,000 Honey.
+Fact: The Star Treats in Badge Shiver has/costs 10,000,000 Honey.
+Fact: The Sunflower Seeds in Badge Shiver has/costs 25,000 Honey.
+Fact: The Strawberries in Badge Shiver has/costs 25,000 Honey.
+Fact: The Pineapples in Badge Shiver has/costs 25,000 Honey.
+Fact: The Blueberries in Badge Shiver has/costs 25,000 Honey.
+Fact: The Bitterberries in Badge Shiver has/costs 50,000 Honey.
+Fact: The Neonberries in Badge Shiver has/costs 50,000 Honey.
+Fact: The Moon Charms in Badge Shiver has/costs 50,000 Honey.
+Fact: The Soft Waxes in Badge Shiver has/costs 500,000 Honey.
+Fact: The Hard Waxes in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Caustic Waxes in Badge Shiver has/costs 5,000,000 Honey.
+Fact: The Swirled Waxes in Badge Shiver has/costs 3,750,000 Honey.
+Fact: The Turpentines in Badge Shiver has/costs 36,600,000 Honey.
+Fact: The Basic Eggs in Badge Shiver has/costs 10,000 Honey.
+Fact: The Silver Eggs in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Gold Eggs in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The Diamond Eggs in Badge Shiver has/costs 5,000,000 Honey.
+Fact: The Mythic Eggs in Badge Shiver has/costs 25,000,000 Honey.
+Fact: The Star Eggs in Badge Shiver has/costs 5,000,000 Honey.
+Fact: The Gifted Silver Eggs in Badge Shiver has/costs 15,000,000 Honey.
+Fact: The Gifted Gold Eggs in Badge Shiver has/costs 20,000,000 Honey.
+Fact: The Gifted Diamond Eggs in Badge Shiver has/costs 25,000,000 Honey.
+Fact: The Gifted Mythic Eggs in Badge Shiver has/costs 50,000,000 Honey.
+Fact: The Royal Jellies in Badge Shiver has/costs 1,000 Honey.
+Fact: The Star Jellies in Badge Shiver has/costs 1,000,000 Honey.
+Fact: The **Honey Bee Egg** in Badge Shiver has/costs 50,000 Honey.
+Obtaining a Windy Bee
+To get the Windy Bee from the Shrine, players must first donate a spirit petal to it. After donating a Spirit petal, any Cloud Vial donated gives the player a chance to obtain a Windy Bee Egg. The player's chance to obtain the Windy Bee Egg depends on how much favor the player has with the shrine.
+If the player receives a Windy Bee Egg, the Wind Shrine will display the following message: "And it calls back to you!". The Windy Bee victory jingle will play, and server-wide message will appear in the chat, reading "🎉 [Player] has tamed a Windy Bee! 🎉", but if it fails, the message will instead read, "But it doesn't respond..."
+The message that pops up if a player has successfully tamed Windy Bee.
+If the player had purchased a Windy Bee Egg from the Robux Shop, they would get a star treat in place of a Windy Bee Egg.
+Badge Shivers
+Badge shivers are rewards that are linked to the player's Badges. The player can shiver a badge when they have the required badges by donating certain items. Shivering a badge does not do anything to the badge itself, only granting certain rewards if you have certain badges. Donating more items at a time gives a higher chance of shivering the related badge. Some badge shivers may require multiple badges or certain tiers of badges. Other badges cannot be shivered, or they are currently unknown. Below is a list of all known badge shivers.
+The badges are "shivering", indicating badge rewards are being rewarded.
+Note: You can only shiver a badge once. The tiers of badges for many badge shivers are unknown at the moment. If there is no badge tier following the badge name, it is unknown.
+Fact: The Badge(s) in Badge Shiver has/costs Item, Reward (not including honey).
+Fact: The Sunflower Master in Badge Shiver has/costs Sunflower Seeds, 6 Micro-Converters, 6 Field Dice, 1 Magic Bean.
+Fact: The Strawberry Master in Badge Shiver has/costs Strawberries, 6 Micro-Converters, 6 Field Dice, 1 Magic Bean.
+Fact: The Pine Tree Master in Badge Shiver has/costs Blueberries, 6 Micro-Converters, 6 Field Dice, 1 Magic Bean.
+Fact: The Rose Master in Badge Shiver has/costs Oils, 6 Micro-Converters, 6 Field Dice, 3 Magic Beans.
+Fact: The Pineapple Master in Badge Shiver has/costs Pineapples, 6 Micro-Converters, 50 Moon Charms, 1 Magic Bean.
+Fact: The Bamboo Master in Badge Shiver has/costs Blueberries, 6 Micro-Converters, 6 Field Dice, 1 Magic Bean.
+Fact: The Spider Master in Badge Shiver has/costs Stingers, 6 Micro-Converters, 6 Field Dice, 3 Magic Beans.
+Fact: The Cactus Master in Badge Shiver has/costs Stingers, 6 Micro-Converters, 6 Field Dice, 3 Magic Beans.
+Fact: The Dandelion Master in Badge Shiver has/costs Treats, 6 Micro-Converters,6 Field Dice, 1 Magic Bean.
+Fact: The Battle Ace in Badge Shiver has/costs Ant Passes, 27 Stingers.
+Fact: The Pumpkin Master in Badge Shiver has/costs Treats, 6 Micro-Converters, 50 Moon Charms, 1 Magic Bean.
+Fact: The Blue Flower Master in Badge Shiver has/costs Blue Extracts, 6 Micro-Converters, 6 Field Dice, 3 Magic Beans.
+Fact: The Clover Master in Badge Shiver has/costs Royal Jellies, 6 Micro-Converters, 6 Field Dice, 1 Magic Bean.
+Fact: The Stump Master in Badge Shiver has/costs Glues, 6 Micro-Converters, 3 Glitter, 9 Jelly Beans.
+Fact: The Pine Tree in Badge Shiver has/costs Enzymes, 6 Micro-Converters, 6 Field Dice, 3 Magic Beans.
+Fact: The Goo Ace in Badge Shiver has/costs Gumdrops, 5 Glues, 50 Moon Charms, 50 Royal Jellies.
+Fact: The Goo Grandmaster in Badge Shiver has/costs Gumdrops, 1 Star Jelly, 5 Glues, 50 Moon Charms.
+Fact: The Playtime Grandmaster in Badge Shiver has/costs Tickets, 1 Gifted Gold Egg, 15 Jelly Beans, 50 Moon Charms.
+Fact: The Quest Grandmaster in Badge Shiver has/costs Tickets, 1 Gifted Diamond Egg, 25 Jelly Beans, 50 Moon Charms.
+Fact: The Mushroom + Pumpkin in Badge Shiver has/costs Magic Beans, 1 Star Jelly, 5,000 Treats.
+Fact: The Pineapple Grandmaster + Pumpkin Grandmaster in Badge Shiver has/costs Pineapples, 1 Star Jelly, 50 Moon Charms, 5,000 Treats.
+Fact: The Strawberry Master + Pine Tree Master in Badge Shiver has/costs Strawberries, 1 Star Jelly, 6 Micro-Converters, 5 Magic Beans.
+Fact: The Sunflower Master + Bamboo Master in Badge Shiver has/costs Sunflower Seeds, 1 Star Jelly, 3 Glitter, 10 Jelly Beans.
+Fact: The Bamboo Master + Cactus Master in Badge Shiver has/costs Blueberries, 1 Star Jelly, 5 Magic Beans, 5,000 Treats.
+Fact: The Pine Tree Master + Spider Master in Badge Shiver has/costs Blue Extracts, 1 Star Jelly, 6 Micro-Converters, 5 Glues.
+Fact: The Pineapple Master + Cactus Master in Badge Shiver has/costs Tropical Drinks, 1 Star Jelly, 50 Moon Charms, 3 Glitter.
+Fact: The Dandelion Master + Rose Master in Badge Shiver has/costs Treats, 1 Star Jelly, 3 Magic Beans, 3 Glitter.
+Fact: The Sunflower + Blue Flower in Badge Shiver has/costs Oils, 1 Star Jelly, 6 Field Dice, 10 Jelly Beans.
+Fact: The Playtime Ace + Blue Flower Master in Badge Shiver has/costs Field Dice, 1 Star Jelly, 10 Blue Extracts, 5,000 Treats.
+Fact: The Grandmaster Clover + Grandmaster Strawberry in Badge Shiver has/costs Royal Jellies, 1 Star Jelly, 6 Micro-Converters, 5 Glitter.
+Fact: The Playtime Ace + Mushroom Master in Badge Shiver has/costs Micro-Converters, 1 Star Jelly, 10 Red Extracts, 5,000 Treats.
+Fact: The Playtime Master + Pineapple Master in Badge Shiver has/costs Enzymes, 1 Star Jelly, 50 Moon Charms, 1 Night Bell.
+Fact: The Rose + Pine Tree in Badge Shiver has/costs Red Extracts, 1 Star Jelly, 6 Field Dice, 15 Coconuts.
+Fact: The Battle Ace + Rose Ace + Spider Ace in Badge Shiver has/costs Ant Pass, 3 Micro-Converters, 6 Stingers, 1 Magic Bean.
+Fact: The Battle Master + Cactus Master + Clover Master in Badge Shiver has/costs Ant Passes, 3 Micro-Converters, 6 Stingers, 3 Enzymes.
+Fact: The Rose Master + Bamboo Master in Badge Shiver has/costs Red Extracts, 1 Star Jelly, 6 Field Dice, 15 Coconuts.
+Fact: The Pine Tree Grandmaster in Badge Shiver has/costs Blue Extracts, 1 Star Jelly, 5 Glues, 6 Micro-Converters.
+Field Winds
+When you donate certain items to the shrine, you have a chance to summon Field Winds. The winds are random and not guaranteed. The more of the item you donate and the higher your favor, the better chance you have at getting a high stack of winds.
+* Generally, the color of item you donate correlates with the color of field you get.
+* Purple potion has bias to get a large stack in red or blue fields. Generally, it is recommended to donate a purple potion for boosting.
+* Eggs often give a large stack in most of the fields. The rarer the egg, the better and more winds.
+* Swirled wax tends to give 7-8x white field winds.
+* Gifted Gold Egg often gives 7-9x winds.
+* Gifted Diamond Egg often gives 10-11x winds.
+Donations
+The shrine will grant different rewards depending on the item donated. All donations will grant Honey and favor (both of which increase based on the amount donated), but other effects may vary. A list of possible outcomes is written below.
+The rewards from donating a Spirit Petal to the Wind Shrine.
+* Summoning clouds on fields and granting field winds.
+* Summoning a Wild Windy Bee.
+* Summoning Bean Bugs and granting a Jelly Bean.
+* Granting badge rewards.
+* Enabling the player to receive a Windy Bee and granting other rewards.
+* This refers to when you donate the Spirit Petal, which can only be done once, which grants 500 Treats, 1 Star Jelly, 5 Enzymes, 5 Oils, 5 Red Extracts, 5 Blue Extracts, 5 Tropical Drinks and 5 Magic Beans.
+* Failing to obtain a Windy Bee and granting Treats.
+* Succeeding to obtain a Windy Bee.
+* Granting Galentine's Blessing, and other rewards during Beesmas.
+* Granting 7 Jelly Beans (Ready Player Two Event, although still possible as of 2025-11-28).
+Certain items are more likely to have certain effects. For example, donating eggs other than Basic Eggs and Honey Bee Eggs will always grant field winds and donating Star Jellies, Magic Beans or Field Dice is likely to summon a Wild Windy Bee. Some items also have biases when granting field winds, such as Purple Potions being more likely to grant field winds for colored fields. Donating a diamond egg (or blue extracts) has a higher chance of granting winds for blue fields.
+Keep in mind that the rewards are somewhat random, as offering the same donation twice in the same amount may have a different result. However, more items in the donation can grant better rewards.
+Responses
+After donating an item, the Wind Shrine will display different messages, depending on the item donated and the player's favor.
+When receiving field winds, the fourth message the shrine displays is based on the player's total favor. Below is a list of messages indicating the player's total favor, along with the amount of favor it takes to get those response.
+Fact: The Message in Badge Shiver has/costs Favor amount.
+Fact: The "They're muffled, a bit grating." in Badge Shiver has/costs 0-99,999.
+Fact: The "They're soft yet endearing." in Badge Shiver has/costs 100,000-999,999.
+Fact: The "They're modest but uplifting" in Badge Shiver has/costs 1,000,000-4,999,999.
+Fact: The "They're lively, anxious" in Badge Shiver has/costs 5,000,000-9,999,999.
+Fact: The "They're blissful, triumphant!" in Badge Shiver has/costs 10,000,000+.
+The fifth message displayed when getting winds depends on the favor impact of the donation (there will not be a fifth message if the player is at the highest tier of total favor). Below is a list of these messages, along with how much favor needs to be added to receive these responses.
+Fact: The Message in Badge Shiver has/costs Amount of favor added.
+Fact: The "They stop quite suddenly." in Badge Shiver has/costs 0.1-99.
+Fact: The "Right as they fade, a hum is heard." in Badge Shiver has/costs 100-999.
+Fact: The "Right as they fade, a lively rattle is heard." in Badge Shiver has/costs 1,000-9,999.
+Fact: The "Right as they begin to fade, a drumroll is heard." in Badge Shiver has/costs 10,000-99,999.
+Fact: The "Right as they fade, a glorious clash is heard!" in Badge Shiver has/costs 100,000+.
+The player's total favor can also be estimated from the third message the shrine displays when the player donates cloud vials in an attempt to receive a Windy Bee. Below is a list of these messages, along with the amount of favor it takes to get them.
+Fact: The Message in Badge Shiver has/costs Favor amount.
+Fact: The "Merely a hum..." in Badge Shiver has/costs 0-99,999.
+Fact: The "A coyishly soft melody." in Badge Shiver has/costs 100,000-499,999.
+Fact: The "Vibrant chiming - calm and carefree." in Badge Shiver has/costs 500,000-999,999.
+Fact: The "Playfully teasing chimes and chirping." in Badge Shiver has/costs 1,000,000-2,499,999.
+Fact: The "An eager song - contagious and uplifting." in Badge Shiver has/costs 2,500,000-4,999,999.
+Fact: The "Shimmering chimes over a humbling bellow." in Badge Shiver has/costs 5,000,000-7,499,999.
+Fact: The "Like thunder roaring through a deep valley!" in Badge Shiver has/costs 7,500,000-9,999,999.
+Fact: The "You can tell that it's time!" in Badge Shiver has/costs 10,000,000+.
+Fact: The Outcome in Badge Shiver has/costs Dialogue.
+Fact: The **When it grants a badge reward** in Badge Shiver has/costs "A cool breeze emanates from the shrine.".
+"Your {Badge} begins to shiver."
+"The {Item} is sucked away into the shrine."
+"The winds swirl rewards around you!"
+Fact: The **When it grants a badge reward for a combination of two or more badges** in Badge Shiver has/costs "A cool breeze emanates from the shrine.".
+"Your {Badges} begin to shiver."
+"The {Item} glows, then evaporates away."
+"The winds swirl rewards around you!"
+Fact: The **When it grants a badge reward from donatingant passes** in Badge Shiver has/costs "A cool breeze emanates from the shrine.".
+"Your {Badges} begin to shiver."
+"The Ant Pass violently shred _[sic]_ into a thousand pieces."
+"The winds swirl rewards around you!"
+Fact: The **When it grants a badge reward from donatinggumdrops** in Badge Shiver has/costs "A cool breeze emanates from the shrine.".
+"Your {Badges} begin to shiver."
+"The Gumdrops spontaneously disappears."
+"The winds swirl rewards around you!"
+Fact: The **When it grants a badge reward from donatingmagic beans** in Badge Shiver has/costs "A cool breeze emanates from the shrine.".
+"Your {Badges} begin to shiver."
+"The Magic Bean dissolve _[sic]_ into a pile of sand."
+"The winds swirl rewards around you!"
+Fact: The **When it summons clouds and grants field wind buffs** in Badge Shiver has/costs "The {Items} are blown away in a sudden whirlwind.".
+"The air becomes cool and soothing."
+"You hear subtle chimes clinging in the distance."
+(Depends on the player's total favor)
+(Depends on the favor impact of the donation)
+"Clouds form over some of the fields."
+Fact: The **When it spawns Wild Windy Bee** in Badge Shiver has/costs "A sudden breeze sweeps the {Item} into the sky.".
+"Windy Bee's buzz is heard in the distance."
+"Amelodic chimes grow louder and louder..."
+"Wild Windy Bee is in one of the fields."
+Fact: The **When it spawns Bean Bugs** in Badge Shiver has/costs "The {items} vanish and pop right before your eyes.".
+"Nothing seems to happen."
+Fact: The **When donating a Spirit Petal** in Badge Shiver has/costs "The Spirit Petal floats gently up into the sky.".
+"The chimes ring. Clouds obscure the sun."
+"The air stands still."
+"You feel as if someone is watching..."
+"Suddenly, a breeze disturbs your bees."
+Fact: The **When cloud vials are donated to obtain a Windy Bee (Succeed)** in Badge Shiver has/costs "The Cloud Vials shatter into dust.".
+"Windy Bee's buzz is heard in the distance."
+(Depends on the player's total favor)
+"You call out to the bee..."
+"And it calls back to you!"
+Fact: The **When cloud vials are donated to obtain a Windy Bee (Fail)** in Badge Shiver has/costs "The Cloud Vials shatter into dust.".
+"Windy Bee's buzz is heard in the distance."
+(Depends on the player's total favor)
+"You call out to the bee..."
+"But it doesn't respond..."
+Fact: The **When jelly bean(s) are donated (single-time,Ready Player Two Event, although still possible)** in Badge Shiver has/costs >>☺️ Into a cash register she mooved. _[sic]_.
+>>☺️ Then her jellybean counting improved.
+Fact: The **When attempting to donate a second Spirit Petal** in Badge Shiver has/costs "The Spirit Petal floats gently up to the sky.".
+"And then falls back right into your hand."
+"Spirit Bear shouts up to you:"
+"“Only one, dear!”"
+Galentine Shrine
+The Galentine Shrine's appearance.
+The Blessing icon.
+The Galentine Shrine can be obtained after the player completes Spirit Bear's Beesmas 2020, 2021, 2022, 2024 and 2025 quests. It is the Wind Shrine decorated specifically for Galentine’s Day. There are five hearts, a large red bow on the top, and a smaller white bow between two hearts. The Wind Shrine's two 'pillars' are also coated in pink paint.
+If the player donates Strawberries, there is a chance for the player to receive several rewards and the Galentine's Blessing buff which lasts for 2 days. The odds for a successful donation starts at 1% at 1 Strawberry, and scales linearly with the number of Strawberries donated in that single donation, up to 50,000 where it is guaranteed.[1] The player can only receive the rewards once.
+The following equation determines the probability of receiving the Galentine's Blessing, where x is the number of Strawberries donated and P(x) is the probability:
+P ( x ) = ( 0.99 49999 ( x − 1 ) + 0.01 ) ∙ 100 % {49999}}(x-1)+0.01)\bullet 100\%}
+* 2025, 2024, 2022 and 2021
+Fact: The Buffs (Galentine's Blessing) in Badge Shiver has/costs Rewards.
+Fact: Buffs (Galentine's Blessing) statistic: * +50% Capacity.
+* +15% Instant Bee Ability conversion
+* +50% Rose Field pollen
+* +50% Blue Flower Field pollen
+* +50% Sunflower Field pollen
+Fact: * +50% Sunflower Field pollen requirement: * +5% Ticket Chance.
+* +5% Loot Luck
+* +1% Super-Crit Chance
+10 Jelly Beans
+Fact: 10 Jelly Beans requirement: 5 Purple Potions.
+Fact: 10 Jelly Beans requirement: 25 Honeysuckles.
+Fact: 10 Jelly Beans requirement: 50 Gumdrops.
+Fact: 10 Jelly Beans requirement: 1 Ticket Planter.
+Fact: The Buffs (Galentine's Blessing) in Badge Shiver has/costs Rewards.
+Fact: Buffs (Galentine's Blessing) statistic: * +50% Capacity.
+* +20% Instant Bee Ability conversion
+* +10% Instant Bubble Conversion
+* +50% Rose Field pollen
+* +50% Blue Flower Field pollen
+* +50% Sunflower Field pollen
+Fact: * +50% Sunflower Field pollen requirement: * +5% Ticket Chance.
+* +5% Loot Luck
+5 Jelly Beans
+Fact: 5 Jelly Beans requirement: 5 Purple Potions.
+Fact: 5 Jelly Beans requirement: 25 Gumdrops.
+Fact: 5 Jelly Beans requirement: 25 Tickets.
+A swift, warm gale blows out from the Galentine's Shrine...
+You feel the tingle of butterflies in your stomach...
+Your bees buzz in a plitter patter of delight!
+What's come over you and your swarm? Could it be love?
+❤Happy Galentines Day!❤
+* The Wind Shrine is based on a percussion instrument, the wind chimes.
+* According to Spirit Bear, the Wind Shrine is one of the oldest standing monuments in the game. She also mentions that it is even older than she is.
+* She also says that the Wind Shrine gives you different responses depending on your favor.
+The pop-up that appears when a player has less than 35 bees and attempts to donate to the Wind Shrine.
+* Using the Wind Shrine is the only way to obtain a Windy Bee, other than buying it in Robux Shop when it was first released.
+* If the player donates something, but disconnects before the rewards fade out, the next donation will give the rewards of the last donation and set a cooldown of 1 hour. This will not happen if at least one reward is collected from the Wind Shrine.
+Obtaining 8 oil from a refund.
+* If a player happens to reach the Wind Shrine without having 35 bees and tries to donate an item, a message will come up saying "Error: Player does not have 35 bees. Please show Onett. (Version {Server version})".
+* Super Smoothies, Translators, Sprinkler Builders, certain Specific Bee Eggs (all except for Honey Bee Egg), Specific Bee Jellies, Spirit Petals (if the player has already donated one), Gingerbread Bears, Snowflakes, Balloons, Planters, Robo Passes, the Beequip Case and 7-Pronged Cogs are items in the player's inventory that cannot be donated.
+The pop-up that appears when someone tries to donate 0 items.
+When donating 0 of something (e.g. 0 tickets), a message will appear saying "Error: Player does not have selected quantity of items. (Version {Server version})", or "Error: Cannot donate 0 items."
+* The chimes on the Wind Shrine are collidable and aren't anchored. This means if you try running into them, they will move.
+* The Galentine Shrine is a possible reference to the Parks & Recreation episode “Galentines Day”.
+* According to Spirit Bear, an Instant Converter was supposed to take the spot of the Wind Shrine.
+* Donating any amount of Jelly Beans for the first time will always give 7 in return.
+* The chimes (especially the right one) can sometimes get stuck on the top of the Wind Shrine. This is uncommon.
+* Donating while the chimes are still moving will result in them swinging further than usual.
+References
+1. ↑ [1] Onett's message on Discord.
+Fact: The Fields in Badge Shiver has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Badge Shiver has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Badge Shiver has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Badge Shiver has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Badge Shiver has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Badge Shiver has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Badge Shiver has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • **Wind Shrine** • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Badge Shiver has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

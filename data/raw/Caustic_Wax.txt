@@ -1,0 +1,140 @@
+Context: Bee Swarm Simulator - Caustic Wax
+
+Caustic Wax
+Caustic Wax
+_"A glowing hunk of beeswax. Has a 25% chance to GREATLY improve a Beequip - but a 75% chance to DESTROY it!"_
+Caustic Wax is an inventory item and a type of wax added in the 2021-12-26 update that can be used on a Beequip to boost its stats. Upon usage, it has a 25% chance of greatly improving the Beequip's stats; however, it has a 75% chance of permanently destroying the Beequip instead, destroying the Beequip and also wasting the Caustic Wax. Caustic Wax has Upgrade Value of 4.
+It also can be used to craft a variety of different items, such as planters and tools.
+When successfully applying Caustic Wax to a bee's Beequip, a message pops up saying:
+The Wax improved the Beequip!
+If the wax fails to upgrade the Beequip, a message will pop up saying:
+The Wax destroyed the Beequip...
+Prior to the removal of Permanent Beequips, using a Caustic Wax on a Festive Wreath or Reindeer Antlers resulted in the following message:
+Cannot use this wax on a Permanent Beequip
+Ways to Obtain[]
+* Crafting it via Blender for:
+* 5 Hard Waxes
+* 5 Enzymes
+* 25 Neonberries
+* 5,252 Royal Jellies
+* As a stack reward for adding certain stickers to the Sticker Stack:
+* Black Diamond Sticker rewards 1 caustic wax.
+* Prismatic Mushroom Sticker rewards 1 caustic wax.
+* Buying the Radioactive Bundle in Bee Bear's Catalog for 150 Gingerbread Bears and 150 Snowflakes rewards 10 caustic wax.
+* Buying the Purple-Turple Mega Pack in Bee Bear's Catalog for 250 Gingerbread Bears and 25,000 Snowflakes rewards 10 caustic wax.
+* As a reward from Gifted Riley Bee's Honeyday Candles. (0.81%)
+Drops[]
+* As a rare drop from Legendary and Mythic Puffshrooms.
+* As a very rare drop from sticker Sprouts.
+* As a drop from a lvl 17 Snowbear.
+* As a drop from certain Planters.
+* A Plastic Planter placed in the Rose Field guarantees one every month.
+* A Candy Planter placed in the Mountain Top Field guarantees one every month.
+* A Blue Clay Planter placed in the Clover Field guarantees one every month.
+* A Red Clay Planter placed in the Clover Field guarantees one every month.
+* A Tacky Planter placed in the Bamboo Field guarantees one every month.
+* A Pesticide Planter placed in any field has a rare chance of dropping one. Some fields have higher chances of dropping one such as the Strawberry Field or the Bamboo Field.
+* A Ticket Planter has a rare chance of dropping one.
+* A Heat-Treated Planter placed in the Coconut Field guarantees one every month.
+* A Hydroponic Planter placed in the Coconut Field guarantees one every month.
+* A Petal Planter placed in the Dandelion Field guarantees one every month.
+* The Planter Of Plenty has a 33% chance of dropping one.
+Quests[]
+* Gummy Bear's Goo Years Beacon quest during Beesmas 2025 rewards 5 Caustic Waxes and other items.
+* Robo Bear's Party Cake quest during Beesmas 2025 rewards 4 caustic waxes and other items.
+* Dapper Bear gives a total of 3 Caustic Wax on the following quests:
+* Dapper Bear's "The Long Haul" (#10) rewards one Caustic Wax and other items.
+* Dapper Bear's "Ongoing Maintenance" (#13) rewards one Caustic Wax and other items.
+* Dapper Bear's "More Than Myth" (#15) rewards one Caustic Wax and other items.
+Outdated Ways[]
+* From certain Gift Boxes.
+Fact: Outdated Ways[] requirement: * The Emerald Gift Box from Beesmas 2021 gave 1 Caustic Wax + other items..
+Fact: Outdated Ways[] requirement: * The Tropical Gift Box from Beesmas 2022 gave 1 Caustic Wax + other items..
+* Buying the Royal Winter Wonder Haul for 4,500 Robux awards 25 caustic wax.
+* Purchasing deals in Bee Bear's Catalog during Winter Beesmas 2024:
+* 1 Caustic Wax is included in the Candlewax Bundle.
+* 5 Caustic Wax are included in the Brilliant Beesmas Bundle.
+* 10 Caustic Wax are included in the Triumphant Turp Pack.
+Fact: Outdated Ways[] requirement: * Completing Gifted Riley Bee's Beesmas 2021 Quest rewarded 1 Caustic Wax + other items..
+* Polar Bear's "⏳ Waiting With Sun Bear (4/6): and Polar Bear" rewarded 1 Caustic Wax and other items.
+* A rare chance of being a match from Winter Memory Match.
+* As a guaranteed Drop from a level 17 Snowbear during Beesmas 2022.
+Fact: Outdated Ways[] requirement: * Purchasing the Mondo Robo Bundle for 4,500 Robux gave 25 Caustic Waxes + other items..
+Fact: Outdated Ways[] requirement: * Purchasing the Candlelight Bundle in Bee Bear's Catalog 2022 gave 10 Caustic Waxes + other items..
+Fact: Outdated Ways[] requirement: * Players who defeated at least 25 out of the 50 Mega Mechsquitos required to be defeated in Stick Bug’s Beesmas 2022 quest before the nerf got 3 Caustic Waxes + other items as compensation..
+Crafting Uses[]
+Total required for all single-purchase items: 228 Caustic Waxes
+Fact: The **Caustic Waxes** in Caustic Wax has/costs Other ingredients, Result.
+Fact: The 3 in Caustic Wax has/costs 750,000,000 Honey.
+25 Magic Beans
+25 Neonberries
+Fact: 25 Neonberries requirement: 15 Glues.
+Fact: The 10 Hard Waxes in Caustic Wax has/costs Pesticide Planter.
+Fact: The 10 in Caustic Wax has/costs 10 Super Smoothies.
+100 Star Jellies
+Fact: The 1,000 Honeysuckles in Caustic Wax has/costs Turpentine.
+Fact: The 25 in Caustic Wax has/costs 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 750 Blue Extracts.
+Fact: 75 Magic Beans requirement: 500 Soft Waxes.
+Fact: The 1 Turpentine in Caustic Wax has/costs Hydroponic Planter.
+Fact: The 50 in Caustic Wax has/costs 2.5T Honey.
+Fact: 50 requirement: 1,500 Red Extracts.
+Fact: 50 requirement: 150 Stingers.
+Fact: 50 requirement: 100 Hard Waxes.
+Fact: 50 requirement: 50 Super Smoothies.
+Fact: The 3 Invigorating Vials in Caustic Wax has/costs Dark Scythe.
+Fact: The 50 in Caustic Wax has/costs 10T Honey.
+Fact: 50 requirement: 1,500 Glues.
+Fact: 50 requirement: 2,000 Gumdrops.
+Fact: 50 requirement: 50 Super Smoothies.
+Fact: 50 requirement: 5 Turpentines.
+Gummyballer
+Fact: The 100 in Caustic Wax has/costs 100T Honey.
+500 Magic Beans
+Fact: 500 Magic Beans requirement: 100 Super Smoothies.
+Fact: 500 Magic Beans requirement: 100 Swirled Waxes.
+Fact: The 25 Turpentines in Caustic Wax has/costs The Planter Of Plenty.
+Trivia[]
+* Caustic Wax's raw ingredients cost:
+* 75 Honeysuckles
+* 750 Sunflower Seeds
+* 1,750 Pineapples
+* 165 Bitterberries
+* 25 Neonberries
+* 6,067 Royal Jellies or 6.06B Honey
+* The probability of Caustic Wax improving a Beequip 5 times in a row is 1/1024 or ~0.098%. Because of its low chances and its ability to destroy the Beequip, it is not recommended to try and use 5 Caustic Waxes on a Beequip when you are not prepared yet, instead people usually use Swirled Wax right after getting 1 successful caustic, to get upgrade rolls in desired stats.
+* For some time, this wax could not be used on permanent Beequips.
+* This is the only wax that can destroy Beequips.
+* Bubble Bee Man's Beesmas 2022 quest required players to destroy 31 Beequips with Caustic Wax.
+* Prior to the 2024-12-25 update, this item used to share the same icon with the Debug Wax.
+* Although the Debug Wax texture has been changed, both waxes do the same thing, just that Debug Waxes have a 100% chance of working.
+Fact: The Sub-Inventories in Caustic Wax has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Caustic Wax has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Caustic Wax has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Caustic Wax has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Caustic Wax has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Caustic Wax has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Caustic Wax has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Caustic Wax has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Caustic Wax has/costs **Soft Wax •  Hard Wax •  **Caustic Wax** •  Swirled Wax**.
+Fact: The or Event in Caustic Wax has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Caustic Wax has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Caustic Wax has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Caustic Wax has/costs **7-Pronged Cog**.
+Fact: The Other in Caustic Wax has/costs **Marshmallow Bee**.
+Fact: The Currencies in Caustic Wax has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Caustic Wax has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Caustic Wax has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Caustic Wax has/costs **Parachute •  Glider**.
+Fact: The Bags in Caustic Wax has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Caustic Wax has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Caustic Wax has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Caustic Wax has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Caustic Wax has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Caustic Wax has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Caustic Wax has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Caustic Wax has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Caustic Wax has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Caustic Wax has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

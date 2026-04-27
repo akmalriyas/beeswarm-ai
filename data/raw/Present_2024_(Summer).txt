@@ -1,0 +1,171 @@
+Context: Bee Swarm Simulator - Present 2024 (Summer)
+
+Present/2024 (Summer)
+Presents returned once again in Beesmas 2024 (Summer). They still had their main function of adding Ornaments to the Beesmas Tree when given to NPCs.
+Ways to obtain[]
+* Multiple quests from Bee Bear awarded a total of 12 Presents, along with other rewards.
+* Bee Bear’s Catalog sold 1 Present for 250 Snowflakes and 10 Gingerbread Bears.
+* Onett gave 1 Present (along with other items) upon claiming a hive for the first time during the event's period.
+* Donating Strawberries to the Galentine Shrine had a chance to give 1 Present, along with other rewards.
+* Completing Robo Party's rank 25 for the first time gave 1 Present, along with other rewards.
+Recipients[]
+Fact: The NPC in Present 2024 (Summer) has/costs Requirements, Reward.
+Fact: The Black Bear in Present 2024 (Summer) has/costs \-, Honey Jar Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Sunflower Field Capacity.
+Fact: * +25% Convert Rate requirement: * +5% Honey Per Pollen.
+5 Jelly Beans
+5 Micro-Converters
+25 Snowflakes
+x3 Sunflower Field Boost
+Fact: The Mother Bear in Present 2024 (Summer) has/costs \-, Stuffed Heart Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate requirement: * +25% Strawberry Field Capacity.
+Fact: * +25% Convert Rate statistic: * +10% Bee Gather Pollen.
+1 Gingerbread Bear
+Fact: 1 Gingerbread Bear requirement: 25 Moon Charms.
+Fact: 1 Gingerbread Bear requirement: 25 Gumdrops.
+x3 Dandelion Field Boost
+Fact: The Brown Bear in Present 2024 (Summer) has/costs \-, Royal Jelly Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Clover Field Capacity.
+Fact: * +25% Convert Rate statistic: * +20% Bomb Pollen.
+3 Royal Jellies
+20 Whirligigs
+1 Gingerbread Bear
+x3 Clover Field Boost
+Fact: The Panda Bear in Present 2024 (Summer) has/costs \-, Boxing Glove Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Bamboo Field Capacity.
+* +5% Bee Attack
+3 Ant Passes
+Fact: 3 Ant Passes requirement: 10 Stingers.
+25 Snowflakes
+3x Bamboo Field Boost
+Fact: The Science Bear in Present 2024 (Summer) has/costs \-, Conical Flask Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate requirement: * +25% Pineapple Patch Capacity.
+* +25% Convert Rate At Hive
+3 Neonberries
+Fact: 3 Neonberries requirement: 3 Enzymes.
+25 Snowflakes
+Fact: 25 Snowflakes requirement: 3x Pineapple Patch Boost.
+Fact: The Polar Bear in Present 2024 (Summer) has/costs \-, Cast Iron Skillet Ornament:.
+* +25% Convert Rate
+* +25% Pumpkin Patch capacity
+Fact: * +25% Pumpkin Patch capacity statistic: * +10% White Field Capacity.
+Fact: * +25% Pumpkin Patch capacity requirement: 3 Soft Waxes.
+Fact: * +25% Pumpkin Patch capacity requirement: 3 Oils.
+25 Snowflakes
+x3 Pumpkin Patch Boost
+Fact: The Dapper Bear in Present 2024 (Summer) has/costs \-, Potpourri Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Dandelion Field Capacity.
+* +5% Nectar
+Fact: * +5% Nectar requirement: 1 Ticket Planter.
+25 Snowflakes
+1 Random Nectar Vial
+x3 Spider Field Boost
+Fact: The Onett in Present 2024 (Summer) has/costs \-, Candy Cane Reindeer Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Mountain Top Field Capacity.
+Fact: * +25% Convert Rate statistic: * +20% Tool Pollen.
+1 Gingerbread Bear
+Fact: 1 Gingerbread Bear requirement: 1 Glue.
+Fact: 1 Gingerbread Bear requirement: 1 Glitter.
+1 Pink Balloon
+Super Smoothie Buff
+x3 Mountain Top Field Boost
+Fact: The Spirit Bear in Present 2024 (Summer) has/costs \-, Memory Match Champion Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Stump Field Capacity.
+Fact: * +25% Convert Rate statistic: * +5% Bee Ability Pollen.
+25 Snowflakes
+Fact: 25 Snowflakes requirement: 3 Glitter.
+Summons a Snow Storm
+Summons a Level 8 Wild Windy Bee in the Dandelion Field
+Fact: The Robo Bear in Present 2024 (Summer) has/costs Completing Robo Bear's Repairing Robo Bear., Digital Pet Ornament:.
+Fact: Robo Bear statistic: * +10% Capacity.
+Fact: Robo Bear statistic: * +25% Spider Field Capacity.
+Fact: Robo Bear statistic: * +10% Event Bee Pollen.
+Fact: Robo Bear statistic: * +5% Duped Ability Pollen.
+Fact: Robo Bear requirement: 2 Hard Waxes.
+1 Robo Pass
+1 Gingerbread Bear
+x3 Cactus Field Boost
+Fact: The Gifted Riley Bee in Present 2024 (Summer) has/costs NPC must have been given a Translator., Electric Candle Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Mushroom Field Capacity.
+Fact: * +25% Convert Rate statistic: * +25% Rose Field Capacity.
+Fact: * +25% Convert Rate statistic: * +15% Pollen from Flames.
+1 Gingerbread Bear
+Fact: 1 Gingerbread Bear requirement: 3 Red Extracts.
+3 Red Balloons
+x3 Rose Field Boost
+Fact: The Gifted Bucko Bee in Present 2024 (Summer) has/costs NPC must have been given a Translator., Snowman Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Blue Flower Field Capacity.
+Fact: * +25% Convert Rate statistic: * +25% Pine Tree Forest Capacity.
+Fact: * +25% Convert Rate statistic: * +15% Bubble Pollen.
+25 Snowflakes
+Fact: 25 Snowflakes requirement: 3 Blue Extracts.
+5 Smooth Dice
+x3 Blue Flower Field Boost
+Fact: The Stick Bug in Present 2024 (Summer) has/costs NPC must have been given a Translator., Partridge In A Stick Bug Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +25% Cactus Field Capacity.
+Fact: * +25% Convert Rate statistic: * +25% Pepper Patch Capacity.
+Fact: * +25% Convert Rate statistic: * +5% Gifted Bee Pollen.
+25 Snowflakes
+Fact: 25 Snowflakes requirement: 1 Purple Potion.
+Fact: 25 Snowflakes requirement: 25 Stingers.
+⚠️ Summons Stick Bug Challenge
+Fact: The Honey Bee "Honey Bee \(NPC\)") in Present 2024 (Summer) has/costs Player must be wearing Honey Mask., Bag Of Honey Ornament:.
+* +25% Convert Rate
+Fact: * +25% Convert Rate statistic: * +10% Epic Bee Pollen.
+Fact: * +25% Convert Rate requirement: * +10% Honey From Tokens.
+Fact: * +25% Convert Rate requirement: * +1% Honey Per Goo.
+1 Gingerbread Bear
+Fact: 1 Gingerbread Bear requirement: 33 Honeysuckles.
+3 Tropical Drinks
+x3 Pine Tree Forest Boost
+Conversion Boost (1 hour)
+Honey Bee also takes 4,500 Honey from the player upon giving it present
+Fact: The Gummy Bear in Present 2024 (Summer) has/costs Player must have completed Gummy Bear's Goo Years Beacon., Gummy Globe Ornament:.
+Fact: Gummy Bear statistic: * +10% Capacity.
+Fact: Gummy Bear requirement: * +25% Coconut Field Capacity.
+* +1% Super Crit Chance
+1 Gingerbread Bear
+Fact: 1 Gingerbread Bear requirement: 1 Caustic Wax.
+5 Loaded Dice
+Fact: 5 Loaded Dice requirement: x3 Coconut Field Boost.
+Fact: The Bubble Bee Man in Present 2024 (Summer) has/costs Player must have gifted every other NPC a Present., Bread Climp Ornament:.
+Fact: Bubble Bee Man statistic: * +10% Capacity.
+Fact: Bubble Bee Man statistic: * +10% Bubble Pollen.
+* +10% Instant Bee Gather Conversion
+Fact: * +10% Instant Bee Gather Conversion statistic: * x5 Bumble Bee Pollen.
+* +5% Super Crit Power
+2 Blue Boost Tokens
+9 Boxes-O-Frogs
+4 Robo Passes
+1 Gingerbread Bear
+1 Buoyant Bee Jelly
+x4 Mushroom Field Boost
+Dialogue[]
+Fact: The NPC in Present 2024 (Summer) has/costs Dialogue.
+Fact: The Black Bear in Present 2024 (Summer) has/costs Oh, hello there! _-Present Given-_ You're the first person to bring me a [Present] this year Which is strange, because I talk to basically every beekeeper. I can't wait to see what you got me! ...(krumple krumple)... Wow! A honey-scented bowling ball! No wonder this was sooo heavy. I didn't even know they made scented bowling balls. I've also never gone bowling. But now I'm going to give it a shot! Thanks a bunch! I got something for you as well: the [Honey Jar Ornament]! With this on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Sunflower Field and +5% Honey Per Pollen! That should help your honeymaking this Beesmas!.
+Fact: The Mother Bear in Present 2024 (Summer) has/costs The Honeydays bring the bees so much joy! _\--Present Given-_ Oh! Is this for me? How very sweet of you! I'll open it right now! ...(krumple krumple)... Aww! It's a trendy tumbler that can keep my drinks cool! Or warm, considering it's winter... Or is it winter? I'm so confused! My cubs are away at summer camp, yet this place is covered in snow. That's ok though. I'm just greatful _[sic]_ to have you around to share the Honeydays with. Now for your gifts! I got you a few things A [Gingerbread Bear], some [Gumdrops] and [Moon Charms]... And the [Stuffed Heart Ornament]! With this on the tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Strawberry Field and +10% Pollen from Bees! Merry Beesmas! Hope you enjoy those! I'm off to fill my tumbler with a strawberry spritz..
+Fact: The Brown Bear in Present 2024 (Summer) has/costs Man, it's REALLY cold this summer! _-Present Given-_ You got something in that [Present] that could warm me up? ...(krumple krumple)... Whoa! It's a 90 day membership to Beequinox, the bougiest bee-themed gym around! I think they've even got a steam room! That'll warm me up for sure. Is this you hinting that I need to work out more? Haha! Just playing. Thanks bud! Now check out what I got YOU: the [Royal Jelly Ornament]! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Clover Field And +20% Pollen from "Bomb" abilities! Happy Beesmas!.
+Fact: The Panda Bear in Present 2024 (Summer) has/costs Hmm... _-Present Given-_ A gift? Well, thank you. I'll open it now. ...(krumple krumple)... WHOA! A [Rose Headband Beequip] with a +9% Bee Attack Hive Bonus! I didn't even know they got that high. I don't have any bees that can equip this, but I'll lend this out to beekeepers in need. I got you something as well. It's the [Boxing Glove Ornament]. With that on the tree, you'll receive the following boosts: +25% Convert Rate; +25% Capacity in the Bamboo Field; And +5% Bee Attack Power! Stay safe out there, and Merry Beesmas..
+Fact: The Science Bear in Present 2024 (Summer) has/costs Beesmas in July? How peculiar... _-Present Given-_ Time has been operating rather strangely this year. Somehow the seasons have warped! Could the passage of time itself be altering? Time-dilation? Climate change? What gives? Either way, we still need to exchange our Beesmas [Presents]. I'll open mine first! ...(krumple krumple)... Fascinating! An intricate poster displaying every bee type discovered so far! Oh, but on closer inspection, some of these don't look right... In fact, some are missing wings, and others are in strange, organic, non-cube shapes! Surely this poster was generated by AI. How interesting! I'd be curious to know the prompt you used. Thank you! Now, for you, I've got something very special: the [Conical Flask] ornament! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Pineapple Patch and +25% Convert Rate at the Hive! That should speed up the conversion process considerably. However, it won't apply to conversion that occurs in the flower fields. Thanks again for all your help. Happy Honeydays! Now if you'll excuse me, I'm going to investigate this Summer Beesmas phenomenon further....
+Fact: The Polar Bear in Present 2024 (Summer) has/costs I was worried it wasn't going to snow at all this year... _-Present Given-_ Bee Bear is my cousin, and he's been eccentric from the start. Something's been up with him, and I wonder if that's why Beesmas is so late. Or, early? I don't even know anymore. He operates by his own rules. And apparently he also rules the weather! He's sure got some crazy technology up his sleeves. Anyways, let's see what you brought me! ...(krumple krumple)... Niiiice! It's a bottle of Truffle Oil! This will really spruce up my dishes with an earthy, umami flavor! How many Puffshrooms did you have to pop to get this? Thank you! Now for your present: the [Cast Iron Skillet Ornament]! With this on the tree, you'll receive these boosts: +25% Convert Rate +25% Capacity in the Pumpkin Patch And +10% White Field Capacity! Thanks for humoring my cousin, and good luck with all his Sticker quests! Happy Honeydays!.
+Fact: The Dapper Bear in Present 2024 (Summer) has/costs You're free to warm yourself up in my shop. _-Present Given-_ A present? You must really like me, huh? Well, the feeling's mutual! Let's open these bad boys up. ...(krumple krumple)... Of course! A [Sticker Planter]! So up my alley. These colorful, single-use planters are guaranteed to give Stickers when they're harvested. I'm assuming you got this from the Sticker Sprout in the Hub Field, right? So neat. You know, when I first moved here, Stickers weren't a thing. But now that they're here, I'm obsessed. They're perfect little tools of self-expression. Quirky, varied, and extremely collectable. I'd love to integrate them into my identity somehow. This [Sticker Planter] will kick-start my journey. Thanks, genuinely! And now for you, heh, a [Ticket Planter], a Nectar Vial... And the [Potpourri Ornament]. It's filled with flowers and leaves I grew in my Planters. The fragrance is pretty strong... but hey, smells like Beesmas. With this on the tree, you'll receive the following boosts: +25% Convert Rate +25% Capacity in the Dandelion Field And +5% Nectar. Hope you like it. Thanks for kickstarting my Sticker collection! And good luck with yours. Happy Honeydays!.
+Fact: The Onett in Present 2024 (Summer) has/costs Is it snowing? I can't tell from in this... cave.. _-Present Given-_ A [Present] for me? Wow, thanks! Ok, let's see what it is. ...(krumple krumple)... Oh! It's a calandar.. _[sic]_ I get it, cause I'm releasing Beesmas in July. Hah, that's funny! Well, I appreciate it, but this probably won't help me. I'll either forget to use it, or I'll lose it... I lose everything. It's a real problem. But thanks anyways! I got something for you too. It's the [Candy Cane Reindeer Ornament]! I made it myself. With this on the Beesmas tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity on the Mountain Top Field and +20% Tool Pollen! Well, hope you enjoy it and have fun honeymaking on your summer break (if you're on it)! Remember to use the Sticker Stack - the boost adds up. Merry Beesmas!.
+Fact: The Spirit Bear in Present 2024 (Summer) has/costs Mmmm...mhmm...(she's murmuring to herself with her eyes close [sic])... _-Present Given-_ ... Huh? I'm up, I'm up. Hello. Good to you see you. [sic] Hmm... what? Wait. What's in your hands? Oh! What? Wait a second... (She looks around) Why have you got that? Why does everything look like this? What's going on? What day IS it, dear??? ... That doesn't add up. But I've honestly no sense of time any more. [sic] You could tell me it was October and I'd believe you. Although, I had a suspicion I had forgotten something this year... Hmm. Oh! Wait. (She reaches into her [Petal Bag]) Heheh, I hadn't forgotten at all! I've had a [Present] waiting for you in all along... How long has it been in there? So long I don't even remember what it is! But it has your name on it, so surely it's meant for you. The one you brought me looks nicer, though. So I suppose I should go ahead and open it. Unless... ... Would it not be wrong? To open this now... willy nilly... whenever... I thought the point of Beesmas gifts was that they were an annual tradition? The rhythms of the seasons, accentuated by the Honeydays, or other customs... Produces a familiar sway that acts as a point of reference, no? For our progress... For our growth... Mmmh. They give the structure to our lives upon which change can grow! Our daily, our monthly, our yearly routines establish themselves like vines on that lattice. So would we dare shake it up!? (Cough) Dare to exchange these NOW? And risk losing that rhythm? Might knock our petals off! Before you know it, you'll be just like me. Lost in a timeless, sleepy fog. No clue what month it is. ... Hmm, but you do have a point, dear. The rhythm's already lost! Perhaps we've already moved on to this, mmm, post-annular era. Perhaps the years themselves are getting longer... Or maybe tradition was alawys a silly concept. A cage more than a stage. I mean, I've always been an innovator. A trailblaizer. [sic] Always tried to switch things up - to never settle into a groove. So why shouldn't Beesmas be now? We could open these [Presents] up, and begin to make it so. So. Let's see what you brought Spirit Bear! ...(krumple krumple)... Oh! A Flying Windy Bee Sticker! I don't remember seeing this sticker in the, what do you call it That menu that lists all the Stickers, you know, dear. The compendium? No. That's not right. ... The Index! Yes, of course. The Sticker Index. Well, last I checked this Sticker wasn't in it. That makes it extra special! Thank you so much, dear! I'll stick this somewhere nice. (She sticks it on her [Petal Wand]) Ok. Now, you open yours! Go on! ...(krumple krumple)... That's the [Memory Match Ornament]! My Memory Match Ornament. The one I won myself way back in... well, it was a long time ago. Oh, it says right there: way back in 1983! Probably before you were born, you do look so young. With that on the tree, you'll receive these boosts: +25% Convert Rate +25% Capacity in the Stump Field And +5% from Bee Abilities! Don't think they give these out anymore. The Memory Match Committee isn't what it used to be. People don't need to practice to keep their memory sharp when they've got smartphones. Every answer in their [sic] As if Memory Match actually helps with memory at all. I mean, look at me. Memory Match Champ and I can't even keep track of the month. But you enjoy that, it'll look nice on the tree! Happy Honeydays, I suppose!.
+Fact: The Robo Bear in Present 2024 (Summer) has/costs (click click click click click) _-Present Given-_ CHARITABLE GIFT DETECTED I am shocked and I am thankful and I will open this package now. >> Commencing Unwrapping Sequence ...(krumple krumple)... I\'ve been gifted 32GB OF DDR5 RAM! With this, I\'ll be able to generate challenge rounds approximately 0.389% faster! I will gladly accept this and offer you this in return: the [Digital Pet Ornament]! With that on the Beesmas Tree, you\'ll receive the following boosts: +10% Capacity +25% Capacity in the Spider Field +10% Pollen from Event Bees And +5% Pollen from Duped Abilities! Thank you generous beekeeper. >> GIFT EXCHANGE SEQUENCE COMPLETE: OUTCOME SUCCESS.
+Fact: The Gifted Riley Bee in Present 2024 (Summer) has/costs Bucko Bee better not use that Snow Machine! It's TOO DANG COLD! _-Present Given-_ What's that in your hands?? GET OUT!! A [present] for me? What could it be?! ...(krumple krumple)... WOOOOW! It's a whole book of [Red Palm Hand Stickers]! How many are in here??? Like 50? This is crazy! I'm going to stick these all over the HQ. And if I don't want to talk to someone I'll just stick one of these on them. And I'll say "talk to the hand", LOL! That'll be awesome! Thanks so much! And hey. I got YOU a [present] too... It's the [Electric Candle Ornament]! With that on the Beesmas Tree, you'll receive these boosts: +25% Convert Rate, +25% Capacity in the Rose Field and Mushroom Field, and +15% Pollen from Flames! That should heat things up for the Honeydays!.
+Fact: The Gifted Bucko Bee in Present 2024 (Summer) has/costs Look at all that beautiful snow! _-Present Given-_ You brought me a present? Now that's what I call cool. I'll go ahead and open it up! ...(krumple krumple)... What is this thing? Oh, an automatic bubble blower! Wow, with one of these, my boosts will be better than ever! We might just break the Pop Star record with this. Guess I don't need any Bubble or Tadpole Bees around anymore! Just kidding, haha. Thanks for the thoughtful gift! I also got you something: the [Snowman Ornament]! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate +25% Capacity in the Blue Flower Field and Pine Tree Forest and +15% Pollen from Bubbles! Enjoy it! And have a merry blue Beesmas!.
+Fact: The Stick Bug in Present 2024 (Summer) has/costs You flesh bugs are funny with your seasonal traditions. _-Present Given-_ They keep me entertained for sure. Now, let's see what you've brought me. ...(krumple krumple)... Oh wow, it's an entire gallon of spinner oil! These will keep my spinner traps well lubricated. They were starting to slow down! Extremely thoughtful of you, flesh bug. But you just might regret it, heheh. Now for your gift: The [Partridge In A Stick Bug Ornament]. With that on the tree, you'll receive the following buffs: +25% Convert Rate, +25% Capacity on the Cactus Field and Pepper Patch, and +5% Gifted Bee Pollen. Hope you find it useful. But first, let's test out that spinner oil..
+Fact: The Honey Bee in Present 2024 (Summer) has/costs Bzzz zzz zzuh... _-Present Given-_ Bzzz buz ZZ! ZZZZZ BZZ BZZZZ!!! ...(krumple krumple)... (You open up the [Present] for Honey Bee) (The box contains a slip of paper) (On the paper is written: "I Owe You 4,500 honey" _[sic]_ BUZZZZZZZUH BZZZZZZZ! Bzz zz zz! (Honey Bee's eye _[sic]_ open wide with joy) (You can tell it's very grateful) Bzzzz zzz buzz bz BUZZ zz. (Honey Bee pulls out a platic _[sic]_ bag full of honey) (Inside floats a crude plastic figurine of Honey Bee) Zzzz! (You can sense that with this on the Beesmas Tree, you'll receive these boosts:) (+25% Convert Rate) (+10% Epic Bee Pollen) (+10% Honey From Tokens) (And +1% Honey Per Goo!) Bzz zuh Buzz buzz BuzzZuhz (Honey Bee eyes your honey meter madly) (You can sense it wants to cash in the IOU immediately).
+Fact: The Gummy Bear in Present 2024 (Summer) has/costs A beekeeper approaches, Gummy Bee! _-Present Given-_ I do not recognise the ungooey cultural customs of you beekeepers. So primitive, so weak, so unsticky... But I will make an exception for you, gummy soldier, and will recieve your gift at once. ...(krumple krumple)... AHAHA! An entire crate of highly volatile and likely illegal GUMMYWORKS! With these, we can fill the sky with goo! Blind our enemies with an EXPLOSEIVE DISPLAY of SWEETNESS! BOOM! BOOM! KABOOM! Gummy bee is pleased. And Gummy Bee insists that we grant you this in return: the [Gummy Globe Ornament]! With that ornament on that puny tree of Beesmas, you'll recieve the following boosts: +10% Capacity +25% Coconut Field Capacity +1% Super-Crit Chance and 10% GOO! USE IT WELL!.
+Fact: The Bubble Bee Man in Present 2024 (Summer) has/costs uhhhhhhhhhhhhhh _-If the player does not meet the requirements-_ "Look. Look. look. That [Present], jjust, you hang right on to that it isn\'t MEANT for me. Beesmas is about the bees So give it to the bees. wait err,. 2 of them are bees but they don\'t have to be bees Just give them to the NPCs. The other NPCs, not me. Cause I don\'t need anything I have everything I\'d ever want, ever .. If, like, you end up giving a [Present] to EVERY other NPC, well Then yeah ok I\'ll take it. To humor you but I don\'t NEED it but that means you have to give out 15 other [Presents] first do you even know how to get that many [Presents]? Ddint think so One of them you gotta get when Onett gives them out and like he doesn\'t even know when that\'ll be. One of them you gotta get from rank 25 of the robot cake. Can you get that? Doubt it .. I mean, you probably can and I believe in you. Because because you believe in me, and the spirit of Beesmas, etc You can do it champ" _-If the player has delivered everyone a present-_ "Huhhhhh you did it. You actally did it You gave a [Present] to everyone else; And now you\'ve got one left over Well ill be an offsale hat the madman. The legend. Good on ya good on y a Nd now its my turn. ...(krumple krumple)... this box contains nothing but 6 mirrors glued to each side I gaze inside the box and see myself from multiple angles i hardly recognize myself,., I wonder if this is really how peopple see me i Question if my left eyes pupil has always had white popping through like that I wonder why my nose consists of so few polygons (cough) I ask myself, why does my skin look like that I ask myself, if im an immortal honeyday god, why do i look so frail i feel it for the first time. The urgency of mortality The horror of corporeal embodiment—that i am only what i see, From a multitude of angles. that each mirror reflects just a small glimpse of that totality/ A totality that I cant deny and I don\'t know if like that. .. Thank you. This was the greatest gift of all\' the gift of self-reflection............. ,..... Sorry, having a moment here .... So take my gift to you its,its the best thing I got it\'s. Well, just, juest go look at the tree.. And leave myself, alone, with the reflection of me merry besmas.

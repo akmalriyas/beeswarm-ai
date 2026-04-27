@@ -1,0 +1,233 @@
+Context: Bee Swarm Simulator - Moon Amulet
+
+Moon Amulet
+Datamined information: How many Moon Amulets needed to max out its quality.
+Date of datamined file: December 19th, 2024
+The Moon Amulet icon.
+The Moon Amulet is an amulet created by spending 100 Moon Charms at the Moon Amulet Generator.
+This amulet grants buffs to the owner and allows the player to walk on the moon-shaped platforms (located at the back of Dapper Bear’s Shop, in the Diamond Room, and at the 30 Bee Zone Obby) at night.
+The quality of the amulet increases linearly with the number of Moon Amulets the player has generated, up to 40 amulets, where its quality is maxed.
+When using the generator, a message will appear in the chat, saying:   The moon seems to grow brighter...
+If the player has maxed out their capacity buff, the message will instead say:   The moon seems happy!
+When the player generates a Moon Amulet, the following audio plays:
+<https://bee-swarm-simulator.fandom.com/wiki/File:MoonAmuletGet.ogg>
+Possible Buffs
+_For more information on how amulets generate, seeAmulet#Generation._
+Fact: The Number of stats taken in Moon Amulet has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Moon Amulet has/costs Capacity, +25,000 - +250,000.
+Fact: The Intervals of 25,000 in Moon Amulet has/costs 100%.
+Fact: The Potentially in Moon Amulet has/costs Ticket Chance, +1% - +5%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 0.01%.
+Fact: The Potentially in Moon Amulet has/costs Movement Collection, +1 - +3.
+Fact: The Intervals of 1 in Moon Amulet has/costs 0.04%.
+Fact: The Select 1 in Moon Amulet has/costs Bond From Treats, +3% - +10%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 50%.
+Fact: The White Pollen in Moon Amulet has/costs +20% - +50%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 50%.
+Fact: The Select 1 in Moon Amulet has/costs Pollen, +1% - +5%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 14.2857%.
+Fact: The Honey Per Pollen in Moon Amulet has/costs +2% - +8%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 14.2857%.
+Fact: The Instant Conversion in Moon Amulet has/costs +1% - +5%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 14.2857%.
+Fact: The Bond From Battle in Moon Amulet has/costs +5% - +12%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 14.2857%.
+Fact: The Pollen From Tools in Moon Amulet has/costs +10% - +20%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 14.2857%.
+Fact: The Bee Gather Pollen in Moon Amulet has/costs +10% - +25%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 14.2857%.
+Fact: The Pineapple Patch Pollen in Moon Amulet has/costs +50% - +150%.
+Fact: The Intervals of 1% in Moon Amulet has/costs 14.2857%.
+The amount of capacity the amulet gives increases by 25,000 with every new amulet, except for the 7th amulet, which does not increase the capacity. More specifically, the capacity is given by the formula  c a p a c i t y = 25000 + 225000 ∗ min ( 1 , q u a l i t y 0.24875 ) {0.24875}})} , rounded to the nearest 25,000.
+The tables below give the percentage of the other stats on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+Fact: Show/hide tables requirement: * +Ticket Chance%.
+* +Movement Collection
+* +Bond From Treats%
+Fact: * +Bond From Treats% statistic: * +White Pollen%.
+Fact: * +Bond From Treats% statistic: * +Pollen%.
+Fact: * +Bond From Treats% requirement: * +Honey Per Pollen%.
+* +Instant Conversion%
+* +Bond From Battle%
+Fact: * +Bond From Battle% statistic: * +Pollen From Tools%.
+Fact: * +Bond From Battle% statistic: * +Bee Gather Pollen%.
+Fact: * +Bond From Battle% requirement: * +Pineapple Patch Pollen%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Moon Amulet has/costs +2%, +3%, +4%, +5%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +1 in Moon Amulet has/costs +2, +3.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, +0.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +3% in Moon Amulet has/costs +4%, +5%, +6%, +7%, +8%, +9%, +10%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +20%-+29% in Moon Amulet has/costs +30%-+39%, +40%-+49%, +50%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Moon Amulet has/costs +2%, +3%, +4%, +5%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +2%-+3% in Moon Amulet has/costs +4%-+5%, +6%-+7%, +8%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Moon Amulet has/costs +2%, +3%, +4%, +5%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +5% in Moon Amulet has/costs +6%, +7%, +8%, +9%, +10%, +11%, +12%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +10%-+11% in Moon Amulet has/costs +12%-+13%, +14%-+15%, +16%-+17%, +18%-+19%, +20%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +10%-+14% in Moon Amulet has/costs +15%-+19%, +20%-+24%, +25%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Moon Amulet has/costs Stat ranges, Average.
+Fact: The +50%-+74% in Moon Amulet has/costs +75%-+99%, +100%-+124%, +125%-+149%, +150%.
+Fact: The **0** (0 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (4 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2** (8 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3** (12 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4** (16 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (20 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6** (24 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7** (28 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (32 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (36 amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (40+ amulets) in Moon Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+The Moon Amulet Generator.
+A Moon Amulet's stats.
+A glitched Moon Amulet with the incorrect capacity.
+A Moon Amulet's stats with four buffs.
+* This and the King Beetle Amulet are the only amulets that don't have different tiers.
+Fact: **1** (40+ amulets) requirement: * While the current maximum Honey Per Pollen stat is +8%, it was briefly possible to receive +9%, although this is not possible anymore..
+Fact: The Sub-Inventories in Moon Amulet has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Moon Amulet has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Moon Amulet has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Moon Amulet has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Moon Amulet has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Moon Amulet has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Moon Amulet has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Moon Amulet has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Moon Amulet has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Moon Amulet has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Moon Amulet has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Moon Amulet has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Moon Amulet has/costs **7-Pronged Cog**.
+Fact: The Other in Moon Amulet has/costs **Marshmallow Bee**.
+Fact: The Currencies in Moon Amulet has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Moon Amulet has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Moon Amulet has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Moon Amulet has/costs **Parachute •  Glider**.
+Fact: The Bags in Moon Amulet has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Moon Amulet has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Moon Amulet has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Moon Amulet has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Moon Amulet has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Moon Amulet has/costs **King Beetle Amulet •  **Moon Amulet** •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Moon Amulet has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Moon Amulet has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Moon Amulet has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Moon Amulet has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

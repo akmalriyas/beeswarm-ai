@@ -1,0 +1,25 @@
+Context: Bee Swarm Simulator - Epic Bees
+
+Epic Bees
+Fact: The Bee in Epic Bees has/costs Icon, Description.
+Fact: The Bubble Bee in Epic Bees has/costs As a larva, this bee lived in the ocean. It loves Blue flowers cause they remind it of home..
+Fact: The Bucko Bee in Epic Bees has/costs Leader of the Blue bees, and a long time rival of Riley Bee. Its tenacity is its greatest strength..
+Fact: The Commander Bee in Epic Bees has/costs A strong, no-nonsense bee who stays level-headed when things get rough..
+Fact: The Demo Bee in Epic Bees has/costs An elite Bomber Bee who has worked its way up the ranks. It is an expert in explosives..
+Fact: The Exhausted Bee in Epic Bees has/costs This bee suffers from insomnia. It moves slowly, but it never has to sleep..
+Fact: The Fire Bee in Epic Bees has/costs As an egg, this bee was accidentally left in the trunk of a car in the middle of the summer for over 3 days!.
+Fact: The Frosty Bee in Epic Bees has/costs A bee made of snow. It magically came to life after someone put a top hat on its head..
+Fact: The Honey Bee in Epic Bees has/costs A satisfied bee always full with the finest honey. If you're Iucky it will share some..
+Fact: The Rage Bee in Epic Bees has/costs A very angry bee who has been wronged its whole life. It harnesses its rage to become more powerful..
+Fact: The Riley Bee in Epic Bees has/costs Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature has elevated it above the rest..
+Fact: The Shocked Bee in Epic Bees has/costs This bee is startled by everything it comes acrossed _[sic]_. It has learned special talents to cope..
+Egg and Jelly Probability
+Fact: The Basic Egg in Epic Bees has/costs 2.5%, 0.22727%.
+Fact: The Silver Egg in Epic Bees has/costs 30%, 2.72727%.
+Fact: The Gold Egg in Epic Bees has/costs 79%, 7.18182%.
+Fact: The Diamond Egg in Epic Bees has/costs 0%, 0%.
+Fact: The Mythic Egg in Epic Bees has/costs 0%, 0%.
+Fact: The Royal Jelly in Epic Bees has/costs 27%, 2.45455%.
+Trivia[]
+* The Epic Bees rarity is tied with the Event Bees rarity for having the most bees, being 11.
+* It also contains the most amount of colored bees, with 3 red and 3 blue bees.

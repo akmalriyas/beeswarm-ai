@@ -1,0 +1,134 @@
+Context: Bee Swarm Simulator - Leaf
+
+Fact: Leaf statistic: _Not to be confused withFlowers or Pollen._.
+Leaves are entities that appear in most fields. They work similarly to sparkles and emit leaf particles. To gather leaves, the player needs to collect pollen on the tile it is on, similar to sparkles. When the leaves are gathered, a rustling sound plays, and multiple leaf particles fly out before the token appears. Rewards vary depending on which field the leaves are in but will always be in quantities of 1. For example, leaves will often spawn blueberries in blue fields. Leaves also have a rare chance of spawning an aphid that varies based on field activity, with the chance increasing if a field has been inactive for a while. They can also summon leaf stickers in most fields.
+Leaves in the Mountain Top Field are noticeably much rarer than in any other field and will always spawn an aphid or Lyrate Leaf Sticker, and on rarer occasions, a Bitterberry, Neonberry, Magic Bean, Blowing Leaf Sticker or Super Smoothie token. Leaves in the Stump Field and Ant Field cannot spawn aphids, however leaves in the Retro Swarm Challenge can.
+Rewards from leaves include:
+Fact: The Field in Leaf has/costs Possible items.
+Fact: The Sunflower Field in Leaf has/costs Sunflower Seeds.
+Magic Bean (Rare)
+Cordate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Dandelion Field in Leaf has/costs Treats.
+Glue (Rare)
+Magic Bean (Rare)
+Glitter (Extremely rare)
+Lanceolate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Mushroom Field in Leaf has/costs Treats.
+Strawberries
+Bitterberries (Uncommon)
+Royal Jelly (Somewhat Rare)
+Neonberry (Rare)
+Magic Bean (Rare)
+Red Extract (Rare)
+Reniform Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Blue Flower Field in Leaf has/costs Blueberries.
+Neonberry (Rare)
+Magic Bean (Rare)
+Blue Extract (Rare)
+Elliptic Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Clover Field in Leaf has/costs Treats.
+Royal Jellies (Uncommon)
+Magic Bean (Rare)
+Star Jelly (Very rare)
+Silver Egg (Extremely rare)
+Gold Egg (Extremely rare)
+Diamond Egg (Extremely rare)
+Lyrate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Spider Field in Leaf has/costs Treats.
+Bitterberry (Somewhat Rare)
+Magic Bean (Rare)
+Enzymes (Rare)
+Glitter (Extremely rare)
+Hastate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Strawberry Field in Leaf has/costs Strawberries.
+Magic Bean (Rare)
+Red Extract (Rare)
+Cunate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Bamboo Field in Leaf has/costs Blueberries.
+Magic Bean (Rare)
+Blue Extract (Rare)
+Lanceolate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Pineapple Patch in Leaf has/costs Pineapples.
+Neonberry (Rare)
+Magic Bean (Rare)
+Enzymes (Rare)
+Glitter (Extremely rare)
+Spatulate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare) Rhubarb Sticker (Extremely Rare)
+Fact: The Stump Field in Leaf has/costs Treats.
+Gumdrops (Uncommon)
+Magic Bean (Rare)
+Glue (Rare)
+Reniform Leaf Sticker
+Rhomboid Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Mixed Brick Field in Leaf has/costs Bricks.
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Blue Brick Field in Leaf has/costs Bricks.
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Red Brick Field in Leaf has/costs Bricks.
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The White Brick Field in Leaf has/costs Bricks.
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Pumpkin Patch in Leaf has/costs Treats.
+Magic Bean (Rare)
+Glue (Rare)
+Cunate Leaf Sticker
+Spatulate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Cactus Field in Leaf has/costs Treats.
+Strawberries
+Blueberries
+Bitterberry (Somewhat Rare)
+Stinger (Rare)
+Magic Bean (Rare)
+Rhomboid Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Rose Field in Leaf has/costs Strawberries.
+Bitterberry (Somewhat Rare)
+Magic Bean (Rare)
+Red Extract (Rare)
+Cordate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Pine Tree Forest in Leaf has/costs Blueberries.
+Neonberry (Rare)
+Magic Bean (Rare)
+Blue Extract (Rare)
+Enzymes (Rare)
+Elliptic Leaf Sticker
+Spatulate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Hub Field in Leaf has/costs Treats.
+Blueberries
+Strawberries
+Sunflower Seeds
+Oblique Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Ant Field in Leaf has/costs Tickets.
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Mountain Top Field in Leaf has/costs Bitterberries.
+Neonberries (Uncommon)
+Magic Bean (Rare)
+Super Smoothie (Extremely Rare)
+Lyrate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Coconut Field in Leaf has/costs Treats.
+Magic Bean (Rare)
+Ticket (Rare)
+Tropical Drink (Rare)
+Oblique Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)
+Fact: The Pepper Patch in Leaf has/costs Strawberries.
+Bitterberries (Uncommon)
+Magic Bean (Rare)
+Red Extract (Rare)
+Hastate Leaf Sticker
+Blowing Leaf Sticker (Extremely Rare)

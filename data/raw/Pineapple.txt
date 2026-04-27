@@ -1,0 +1,84 @@
+Context: Bee Swarm Simulator - Pineapple
+
+Pineapple
+_"Increases your bond with a bee by 25."_
+A Pineapple token.
+A Pineapple is a type of treat that can be fed to a bee to raise its bond by 25. However, when fed to a Hasty, Brave, Honey, Exhausted, Shocked, Fire, Demon, Lion, or Fuzzy Bee, the amount of bond they gain is doubled. These bees also have a small chance of becoming gifted when fed Pineapples. Mythic bees have a 1/24,000 chance to be gifted; Legendary Bees, a 1/12,000 chance; Epic bees, a 1/10,000 chance; and Rare bees, a 1/8,000 chance. Feeding a radioactive bee a pineapple has a 0.004% (1 in 25,000) to mutate a bee.
+Ways to Obtain[]
+* 5 Pineapples can be found behind the pineapple near the Treat Dispenser.
+* 1 Pineapple is given to the player every time they use the Treat Dispenser.
+* As a reward from the Ant Challenge.
+* As a reward from Memory Matches (Every type except Night Memory Match and the Winter Memory Match).
+* As a stack reward for adding certain Stickers to the Sticker Stack:
+* Shocked Hive Slot Sticker rewards 50 Pineapples.
+* Rhubarb Sticker rewards 50 Pineapples.
+Drops[]
+* Farming in the Pineapple Patch.
+* Harvesting leaves in this field may also yield Pineapples.
+* As a drop from mantises, scorpions, spiders, werewolves, Commando Chick, Stick Nymphs, Stick Bug, King Beetle, and Tunnel Bear.
+* As a drop from a Festive Gift or Festive Mark.
+* As a gift from a cub buddy.
+* As a reward for completely growing any kind of sprout except for Moon, Gummy, and Debug sprouts.
+* Planting a sprout in the Pineapple Patch yields 7x more Pineapples than other fields.
+* Harvesting sparkles (Higher chances in the Pineapple Patch).
+* As a drop from Puffshrooms.
+* As a drop from planters, which include:
+* Ticket Planters
+* Festive Planters
+* Plastic Planters
+* Candy Planters
+* Blue Clay Planters
+* Red Clay Planters
+* Pesticide Planters
+* Planters Of Plenty
+* Digging into the Beesmas Feast sometimes grants Pineapples.
+Quests[]
+* Onett gives pineapples on the following quest:
+* Star Journey 1 gives 25 Pineapples.
+* Spirit Bear gives Pineapples on the following quests:
+* Witness Grandeur gives 100 Pineapples.
+* Nature's Lessons gives 250 Pineapples.
+* Rhubarb That Could Have Been gives 250 Pineapples.
+* Do You Bee-Lleve in Magic? gives 300 Pineapples.
+* Beans Becoming gives 500 Pineapples.
+* Echoing Call gives 500 Pineapples upon receiving the quest.
+Outdated Ways[]
+* Redeeming certain expired codes:
+Fact: Outdated Ways[] requirement: * The code FourYearFiesta gave 4 **Pineapples** \+ other stuff..
+Fact: Outdated Ways[] requirement: * The code 5MMembers gave 5 **Pineapples** \+ other stuff..
+* As a drop from the Hostage Chick.
+Crafting Uses[]
+Total required for all single-purchase items: 305 Pineapples
+Fact: The **Pineapples** in Pineapple has/costs Other ingredients, Result.
+Fact: The 3 in Pineapple has/costs 3 Strawberries.
+Fact: The 3 Blueberries in Pineapple has/costs Gumdrops.
+Fact: The 5 in Pineapple has/costs 1 Royal Jelly.
+Fact: The 5 Gumdrops in Pineapple has/costs Moon Charm.
+Fact: The 5 in Pineapple has/costs 30,000 Honey.
+Fact: The 1 Moon Charm in Pineapple has/costs Helmet.
+Fact: The 50 in Pineapple has/costs 10 Royal Jellies, Enzymes.
+Fact: The 50 in Pineapple has/costs 440,000 Honey.
+Fact: 50 requirement: 50 Sunflower Seeds.
+Fact: The 3 Stingers in Pineapple has/costs Belt Bag.
+Fact: The 100 in Pineapple has/costs 2,500,000 Honey.
+Fact: 100 requirement: 25 Gumdrops.
+Fact: The 5 Moon Charms in Pineapple has/costs Propeller Hat.
+Fact: The 150 in Pineapple has/costs 12,400,000 Honey.
+Fact: 150 requirement: 150 Sunflower Seeds.
+Fact: The 10 Stingers in Pineapple has/costs Mondo Belt Bag.
+Gallery[]
+Fact: The Sub-Inventories in Pineapple has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Pineapple has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Pineapple has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Pineapple has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Pineapple has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  **Pineapple** •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Pineapple has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Pineapple has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Pineapple has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Pineapple has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Pineapple has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Pineapple has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Pineapple has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Pineapple has/costs **7-Pronged Cog**.
+Fact: The Other in Pineapple has/costs **Marshmallow Bee**.
+Fact: The Currencies in Pineapple has/costs **Brick •  Cog •  Ticket**.

@@ -1,0 +1,102 @@
+Context: Bee Swarm Simulator - Bee Bear's Catalog 2024 (Winter)
+
+Bee Bear's Catalog/2024 (Winter)
+2024 (Winter)[]
+Fact: The Bundle in Bee Bear's Catalog 2024 (Winter) has/costs Price, Gives.
+Fact: The Starter Sampler Pack in Bee Bear's Catalog 2024 (Winter) has/costs 50 Snowflakes, 3 Whirligigs.
+3 Field Dice
+3 Micro-Converters
+Fact: 3 Micro-Converters requirement: 3 Glues.
+Fact: The Balloon Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 100 Snowflakes, 1 Black Balloon.
+1 White Balloon
+1 Red Balloon
+1 Pink Balloon
+Fact: The Basic Bean Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 5 Gingerbread Bears, 10 Jelly Beans.
+5 Magic Beans
+Fact: 5 Magic Beans requirement: 5 Soft Waxes.
+Fact: The Shiny Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 200 Snowflakes, 1 Star Jelly.
+Fact: Shiny Bundle requirement: 10 Oils.
+10 Neonberries
+Fact: 10 Neonberries requirement: 25 Moon Charms.
+Fact: The Tempting Treat Pack in Bee Bear's Catalog 2024 (Winter) has/costs 10 Gingerbread Bears, 3 Atomic Treats.
+Fact: Tempting Treat Pack requirement: 100 Sunflower Seeds.
+Fact: Tempting Treat Pack requirement: 100 Pineapples.
+100 Bitterberries
+Fact: 100 Bitterberries requirement: 50 Moon Charms.
+Fact: The Candlewax Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 333 Snowflakes.
+Fact: The 3 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs 1 Electric Candle.
+Fact: 3 Gingerbread Bears requirement: 1 Caustic Wax.
+Fact: 3 Gingerbread Bears requirement: 1 Swirled Wax.
+Fact: 3 Gingerbread Bears requirement: 5 Hard Waxes.
+Fact: The Peppermint Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 750 Snowflakes, 1 Peppermint Antennas.
+5 Tropical Drinks
+Fact: 5 Tropical Drinks requirement: 15 Enzymes.
+Fact: 5 Tropical Drinks requirement: 250 Gumdrops.
+Fact: The Planter Sampler Pack in Bee Bear's Catalog 2024 (Winter) has/costs 400 Snowflakes.
+Fact: The 8 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs 1 Festive Planter.
+1 Sticker Planter
+Fact: 1 Sticker Planter requirement: 1 Ticket Planter.
+Fact: The Poinsettia Pack in Bee Bear's Catalog 2024 (Winter) has/costs 500 Snowflakes.
+Fact: The 15 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs 1 Poinsettia.
+Fact: 15 Gingerbread Bears requirement: 25 Red Extracts.
+Fact: 15 Gingerbread Bears requirement: 50 Honeysuckles.
+Fact: The Critter Comforts Pack in Bee Bear's Catalog 2024 (Winter) has/costs 4,000 Snowflakes.
+Fact: The 25 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs 1 Critter in a Stocking Sticker.
+1 Festive Bean
+50 Magic Beans
+3 Comforting Vials
+Fact: The Brilliant Beesmas Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 50 Gingerbread Bears, 1 Beesmas Tree Hat.
+1 Beesmas Light Sticker (Random Color)
+Fact: 1 Beesmas Light Sticker (Random Color) requirement: 10 Glitter.
+Fact: 1 Beesmas Light Sticker (Random Color) requirement: 5 Caustic Waxes.
+Fact: The Island Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 1,250 Snowflakes.
+Fact: The 50 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs 1 Lei.
+1 Refreshing Vial
+25 Tropical Drinks
+Fact: 25 Tropical Drinks requirement: 250 Coconuts.
+Fact: The Musical Mega-Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 123 Gingerbread Bears, 1 Music Bee Egg.
+5 Night Bells
+Fact: 5 Night Bells requirement: 10 Swirled Waxes.
+Fact: The Royal Blue Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 4,444 Snowflakes, 1 Snow Tiara.
+Fact: Royal Blue Bundle requirement: 4 Purple Potions.
+Fact: Royal Blue Bundle requirement: 44 Blue Extracts.
+44 Royal Jellies
+444 Blueberries
+Fact: The Reindeer Games Pack in Bee Bear's Catalog 2024 (Winter) has/costs 2,000 Snowflakes.
+Fact: The 200 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs 1 Reindeer Antlers.
+3 Festive Beans
+10 Smooth Dice
+10 Ant Passes
+10 Robo Passes
+Fact: The Beesmas Boosting Bundle in Bee Bear's Catalog 2024 (Winter) has/costs 50,000 Snowflakes, 5 Festive Beans.
+5 Marshmallow Bees
+Fact: 5 Marshmallow Bees requirement: 25 Purple Potions.
+100 Jelly Beans
+Fact: The Triumphant Turp Pack in Bee Bear's Catalog 2024 (Winter) has/costs 25,000 Snowflakes.
+Fact: The 250 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs 1 Turpentine.
+10 Festive Planters
+Fact: 10 Festive Planters requirement: 10 Super Smoothies.
+Fact: 10 Festive Planters requirement: 10 Caustic Waxes.
+Fact: 10 Festive Planters requirement: 10 Swirled Waxes.
+10 Loaded Dice
+Fact: The Egg in Bee Bear's Catalog 2024 (Winter) has/costs Price, Description.
+Fact: The Silver Egg in Bee Bear's Catalog 2024 (Winter) has/costs 25 Snowflakes.
+Fact: The 5 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs Hatches into a Rare, Epic, Legendary, or Mythic Bee!.
+Fact: The Gold Egg in Bee Bear's Catalog 2024 (Winter) has/costs 10 Gingerbread Bears, Hatches into a Epic, Legendary, or Mythic Bee!.
+Fact: The Diamond Egg in Bee Bear's Catalog 2024 (Winter) has/costs 1,000 Snowflakes, Always hatches into a Legendary or Mythic Bee!.
+Fact: The Mythic Egg in Bee Bear's Catalog 2024 (Winter) has/costs 500 Snowflakes.
+Fact: The 100 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs Always hatches into a random Mythic bee!.
+Fact: The Gifted Silver Egg in Bee Bear's Catalog 2024 (Winter) has/costs 2,500 Snowflakes.
+Fact: The 10 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs Always hatches into a random Gifted Rare, Epic, Legendary or Mythic bee!.
+Fact: The Gifted Gold Egg in Bee Bear's Catalog 2024 (Winter) has/costs 100 Gingerbread Bears, Always hatches into a random Gifted Epic, Legendary or Mythic bee!.
+Fact: The Gifted Diamond Egg in Bee Bear's Catalog 2024 (Winter) has/costs 15,000 Snowflakes, Always hatches into a random Gifted Legendary or Mythic bee!.
+Fact: The Gifted Mythic Egg in Bee Bear's Catalog 2024 (Winter) has/costs 10,000 Snowflakes.
+Fact: The 150 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs Always hatches into a random Gifted Mythic bee!.
+Fact: The Sticker in Bee Bear's Catalog 2024 (Winter) has/costs Price.
+Fact: The Wavy Festive Hive Skin in Bee Bear's Catalog 2024 (Winter) has/costs 5,555 Snowflakes.
+5 Gingerbread Bears
+Fact: The Flying Festive Bee Sticker in Bee Bear's Catalog 2024 (Winter) has/costs 20,000 Snowflakes.
+Fact: The Present in Bee Bear's Catalog 2024 (Winter) has/costs 250 Snowflakes.
+Fact: The 10 Gingerbread Bears in Bee Bear's Catalog 2024 (Winter) has/costs A festively wrapped gift. Exchange it with an NPC for prizes!.
+Fact: The 50 Super Smoothies in Bee Bear's Catalog 2024 (Winter) has/costs 500 Gingerbread Bears, 50 Super Smoothies! Grants many boosts for 20 minutes..
+Fact: The Star Treat in Bee Bear's Catalog 2024 (Winter) has/costs 10,000 Snowflakes, Turns a bee into a Gifted Bee!.

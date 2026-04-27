@@ -1,0 +1,82 @@
+Context: Bee Swarm Simulator - Gift Boxes 2024 (Winter)
+
+Gift Boxes/2024 (Winter)
+Fact: The Gift Box in Gift Boxes 2024 (Winter) has/costs Location, NPCs Helped, Rewards.
+Fact: The Elite Gift Box in Gift Boxes 2024 (Winter) has/costs Next to the Blue Flower Field, 2, 2 Red Extracts.
+3 Magic Beans
+200 Blueberries
+20 Snowflakes
+Fact: The Ecru Gift Box in Gift Boxes 2024 (Winter) has/costs Next to the Noob Shop, 4, 1 Star Jelly.
+5 Whirligigs
+Fact: 5 Whirligigs requirement: 100 Sunflower Seeds.
+Fact: 5 Whirligigs requirement: 2 Oils.
+2 Gingerbread Bears
+Fact: The Silky Gift Box in Gift Boxes 2024 (Winter) has/costs On Top of Blue HQ, 5, 4 Gingerbread Bears.
+8 Smooth Dice
+1 Satisfying Vial
+4 Tropical Drinks
+1 Warm Scarf
+Fact: The Sticker Gift Box in Gift Boxes 2024 (Winter) has/costs Between the Sticker-Seeker Quest Machine & Donation Board, 6, 3 Glues.
+Fact: Sticker Gift Box requirement: 3 Enzymes.
+50 Snowflakes
+3 Sticker Planters
+1 random sticker from the following pool:
+*  Random Critter Sticker
+* Pink Cupcake Sticker
+* Rhubarb Sticker
+* Coiled Snake Sticker
+Fact: The Confetti Gift Box in Gift Boxes 2024 (Winter) has/costs Above Pineapple Patch, 7, 2 Red Balloons.
+Fact: Confetti Gift Box requirement: 10 Glitter.
+3 Pink Balloons
+1 White Balloon
+50 Snowflakes
+Fact: The Cherry Gift Box in Gift Boxes 2024 (Winter) has/costs Above the Badge Bearer's Guild, 8, 25 Red Extracts.
+Fact: Cherry Gift Box requirement: 25 Hard Waxes.
+25 Jelly Beans
+1 Marshmallow Bee
+1 Invigorating Vial
+5 Gingerbread Bears
+Fact: The Honeydew Gift Box in Gift Boxes 2024 (Winter) has/costs In a cavern to the right of the Gummy Bee Egg Claim, 9, 50 Snowflakes.
+Fact: Honeydew Gift Box requirement: 10 Glues.
+Fact: Honeydew Gift Box requirement: 5 Caustic Waxes.
+5 Robo Passes
+5 Loaded Dice
+Fact: 5 Loaded Dice requirement: 500 Gumdrops.
+Fact: The Aureolin Gift Box in Gift Boxes 2024 (Winter) has/costs Near the end of Retro Swarm Challenge area, 10, 5 Gingerbread Bears.
+Fact: Aureolin Gift Box requirement: 3 Ticket Planters.
+Fact: Aureolin Gift Box requirement: 50 Honeysuckles.
+Fact: Aureolin Gift Box requirement: 10 Swirled Waxes.
+Fact: Aureolin Gift Box requirement: 25 Oils.
+One of the following Beequips:
+▪︎Electric Candle
+Fact: The Austere Gift Box in Gift Boxes 2024 (Winter) has/costs Across from the Honeyday Candles, 11, 2 Black Balloons.
+50 Snowflakes
+3 Night Bells
+10 Loaded Dice
+15 Star Jellies
+Fact: The Speckled Gift Box in Gift Boxes 2024 (Winter) has/costs On top of the Hive Hub, after completing an obby, 12, 1 Gifted Silver Egg.
+Fact: Speckled Gift Box requirement: 1,000 Sunflower Seeds.
+Fact: Speckled Gift Box requirement: 3 Super Smoothies.
+10 Tropical Drinks
+5 Gingerbread Bears
+Fact: The Mythic Gift Box in Gift Boxes 2024 (Winter) has/costs On top of Dapper Bear's Shop, 13, 10 Purple Potions.
+Fact: Mythic Gift Box requirement: 25 Red Extracts.
+Fact: Mythic Gift Box requirement: 25 Blue Extracts.
+1 Mythic Egg
+50 Snowflakes
+Fact: The Festive Gift Box in Gift Boxes 2024 (Winter) has/costs Behind Onett's Lid Art, 14, 1 Festive Wreath.
+5 Gingerbread Bears
+Fact: 5 Gingerbread Bears requirement: 10 Glues.
+2 Festive Planters
+2 Festive Beans
+Fact: 2 Festive Beans requirement: 50 Honeysuckles.
+50 Snowflakes
+Fact: The Mondo Gift Box in Gift Boxes 2024 (Winter) has/costs On top of the Mountain Top Shop, 16, 1 Star Treat.
+5 Festive Beans
+Fact: 5 Festive Beans requirement: 10 Super Smoothies.
+Fact: 5 Festive Beans requirement: 1 Turpentine.
+1 Gifted Mythic Egg
+1 Gifted Diamond Egg
+1 Gifted Gold Egg
+1 BBM From Below Sticker
+Honeyday Event Buff

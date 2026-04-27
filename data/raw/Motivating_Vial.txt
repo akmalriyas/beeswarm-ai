@@ -1,0 +1,57 @@
+Context: Bee Swarm Simulator - Motivating Vial
+
+Motivating Vial
+Motivating Vial
+Fact: Motivating Vial statistic: _"Grants 4 hours of Motivating Nectar. (Boosts: Blue Pollen, Convert Rate, Bee Ability Rate)"_.
+The Motivating Vial is a consumable nectar vial item that was added in the 2022-12-26 update. Once used, it grants the player 4 hours of the Motivating Nectar buff instantly. It can also be used to craft other accessories.
+Ways to Obtain[]
+* Using the Nectar Condenser to condense 12 hours of Motivating Nectar.
+* Adding the Motivating Nectar Icon to the Sticker Stack rewards 1 Motivating Vial.
+* Completing Dapper Bear's 8th quest rewards 1 Motivating Vial and other items.
+Outdated Ways[]
+* Purchasing the Nighttime Nectar Pack in the Robux Shop for 400 Robux granted 1 Motivating Vial and other items.
+* Purchasing the Violet Bundle from Bee Bear's Catalog during Summer 2024 for 400 Snowflakes and 20 Gingerbread Bears granted 1 Motivating Vial and other items.
+* Purchasing the Hefty Honeyday Bundle from Bee Bear's Catalog during Beesmas 2022 for 25,000 Snowflakes and 50 Gingerbread Bears granted 1 Motivating Vial and other items.
+* Opening the Mythic Gift Box rewarded 2 Motivating Vials and other items.
+* Completing Bee Bear's Peppermint Preparation (2/5) rewarded 1 Motivating Vial + other items.
+* Completing Dapper Bear's Beesmas 2022 quest rewarded 1 Motivating Vial and other items.
+Crafting Uses[]
+Fact: The **Motivating Vials** in Motivating Vial has/costs Other ingredients, Result.
+Fact: The 1 in Motivating Vial has/costs 100B Honey.
+Fact: 1 requirement: 500 Glues.
+Fact: 1 requirement: 250 Red Extracts.
+Fact: 1 requirement: 250 Blue Extracts.
+Fact: 1 requirement: 250 Glitter.
+Fact: The 1 Satisfying Vial in Motivating Vial has/costs Gummy Boots.
+Gallery[]
+Two Motivating Vial tokens from the Mythic Gift Box from Beesmas 2022.
+A Motivating Vial in the Inventory menu.
+Fact: The Sub-Inventories in Motivating Vial has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Motivating Vial has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Motivating Vial has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Motivating Vial has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Motivating Vial has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Motivating Vial has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Motivating Vial has/costs **Comforting Vial •  Invigorating Vial •  **Motivating Vial** •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Motivating Vial has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Motivating Vial has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Motivating Vial has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Motivating Vial has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Motivating Vial has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Motivating Vial has/costs **7-Pronged Cog**.
+Fact: The Other in Motivating Vial has/costs **Marshmallow Bee**.
+Fact: The Currencies in Motivating Vial has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Motivating Vial has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Motivating Vial has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Motivating Vial has/costs **Parachute •  Glider**.
+Fact: The Bags in Motivating Vial has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Motivating Vial has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Motivating Vial has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Motivating Vial has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Motivating Vial has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Motivating Vial has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Motivating Vial has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Motivating Vial has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Motivating Vial has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Motivating Vial has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

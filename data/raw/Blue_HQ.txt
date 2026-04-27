@@ -1,0 +1,126 @@
+Context: Bee Swarm Simulator - Blue HQ
+
+Front view of the Blue HQ.
+Location
+Behind the Blue Flower Field
+The Blue HQ is a two-story base with many features. The entrance can be found at the far end of the Blue Flower Field, located in the Starter Zone. It has a Bucko Bee model above the entrance. To enter, the player must have discovered 4 different blue bee types. The Blue HQ is the blue counterpart to the Red HQ.
+On the roof, there is an enlarged Bubble Wand. This wand occasionally grows a face and blows sparkles to nearby fields. This includes the Clover Field, Mushroom Field, Blue Flower Field, and the Dandelion Field.
+Interior[]
+On the first floor, there are four different objects:
+* A Blue Teleporter that will teleport the player near the Ticket Tent and Red Cannon,
+* A set of blue items for sale, (See the 'Store' section below.)
+* The Blueberry Dispenser, which gives a varying amount Blueberries depending on the number of * blue bees the player has in their hive every 4 hours,
+* The All-Time Top Blue Collectors leaderboard, which shows the top 100 players who have collected the most blue pollen.
+On the second floor, there are more features:
+* A Royal Jelly token located near the front window.
+* A Blue Field Booster that gives a 15-minute duration field boost for either the Stump Field (1 stack, only when Stump Snail is on cooldown), Pine Tree Forest (1 stack), Bamboo Field (1 stack), or the Blue Flower Field (3 stacks), and has a 45-minute cooldown.
+* Gifted Bucko Bee, who will require a Translator for it to hand out quests,
+* The Top Bucko Bee Helpers leaderboard, which is located to the left of Gifted Bucko Bee and shows the top 100 players who have completed the most Bucko Bee quests,
+* The Daily Top Blue Collectors leaderboard, which is located to the right of Gifted Bucko Bee and shows the top 100 players who have collected the most blue pollen in a day.
+There's a store in the Blue HQ that sells nine items. To open the store, press E when near the store's items and _not_ on the Blue Teleporter, Blueberry Dispenser, the Leaderboards, or the second floor.
+* Accessories
+Fact: The Bubble Wand in Blue HQ has/costs 3,500,000 Honey, Collects 6 pollen from a ring of 16 patches in 0.8 seconds. Collects x2 from blue flowers..
+Fact: The Tide Popper in Blue HQ has/costs 250 Gifted Bucko Bee quests completed.
+Fact: Tide Popper requirement: 2.5T Honey.
+Fact: Tide Popper requirement: 1,500 Blue Extracts.
+Fact: Tide Popper requirement: 150 Stingers.
+150 Tropical Drinks
+Fact: 150 Tropical Drinks requirement: 75 Swirled Waxes.
+Fact: 150 Tropical Drinks requirement: 50 Super Smoothies.
+Fact: The 3 Comforting Vials in Blue HQ has/costs Pierce through flowers and bubbles with torrential waves. Ramps up the more you pop, then unleashes tidal waves in a violent surge. Splash Balloons with tall waves to earn Tide Blessing..
+Fact: The Blue Port-O-Hive in Blue HQ has/costs 12,500,000 Honey.
+Fact: Blue Port-O-Hive requirement: 2 Blue Extracts.
+Fact: The 2 Soft Waxes in Blue HQ has/costs A Port-O-Hive dipped in shiney _[sic]_ blue paint..
+Fact: 2 Soft Waxes statistic: * +400,000 Capacity..
+* +150% Convert Rate.
+* +10% Blue Bee Convert Rate.
+* +10% Instant Blue Conversion.
+Fact: 2 Soft Waxes statistic: * +10% Blue Pollen..
+Fact: The Bubble Mask in Blue HQ has/costs 100,000,000 Honey.
+Fact: Bubble Mask requirement: 50 Blue Extracts.
+500 Blueberries
+Fact: 500 Blueberries requirement: 25 Oils.
+Fact: The 15 Glitter in Blue HQ has/costs Harness the power of the sea to enhance your Blue pollen gathering..
+Fact: 15 Glitter statistic: * x1.5 Blue Pollen..
+* +15% Instant Blue Conversion.
+Fact: 15 Glitter statistic: * x1.5 Capacity..
+Fact: 15 Glitter statistic: * x2 Bubble Pollen..
+* +30% Defense.
+* +15% Bee Ability Rate.
+* +Passive: Bubble Bombs.
+Fact: The Blue Guard in Blue HQ has/costs 1,000,000 Honey.
+50 Blueberries
+Fact: 50 Blueberries requirement: 1 Royal Jelly.
+Fact: The 3 Moon Charms in Blue HQ has/costs A durable pad worn on the right shoulder of Blue Beekeepers..
+* [Right Shoulder]
+Fact: * [Right Shoulder] statistic: * +25,000 Capacity..
+Fact: * [Right Shoulder] statistic: * +15% Blue Pollen..
+* +5% Defense.
+* +1 Blue Bee Attack.
+Fact: The Elite Blue Guard in Blue HQ has/costs 5,000,000 Honey.
+Fact: Elite Blue Guard requirement: 3 Blue Extracts.
+50 Blueberries
+5 Royal Jellies
+Fact: The 15 Moon Charms in Blue HQ has/costs A Blue Guard reserved for the most dedicated Blue Beekeepers..
+* [Right Shoulder]
+Fact: * [Right Shoulder] statistic: * +75,000 Capacity..
+Fact: * [Right Shoulder] statistic: * +25% Blue Pollen..
+* +7% Defense.
+* +50% Critical Power.
+* +1 Blue Bee Attack.
+Fact: The Bucko Guard in Blue HQ has/costs 30,000,000 Honey.
+Fact: Bucko Guard requirement: 10 Blue Extracts.
+100 Blueberries
+Fact: 100 Blueberries requirement: 5 Glues.
+Fact: The 75 Moon Charms in Blue HQ has/costs A piece of armor forged by the leader of the Blue Bees!.
+* [Right Shoulder]
+Fact: * [Right Shoulder] statistic: * +150,000 Capacity..
+Fact: * [Right Shoulder] statistic: * +35% Blue Pollen..
+* +10% Defense.
+* +75% Critical Power.
+* +2 Blue Bee Attack.
+Fact: The Blue Clay Planter in Blue HQ has/costs 10,000,000 Honey.
+5 Magic Beans
+Fact: 5 Magic Beans requirement: 15 Blue Extracts.
+Fact: The 20 Soft Waxes in Blue HQ has/costs Alone, grows in around 6 hours. Stores around 3 million Pollen. Grants bonus Blue Extracts, Micro-Converters and Honeysuckles..
+* Grows up to 25% faster in fields with Blue Flowers
+Fact: 20 Soft Waxes statistic: * Gives 50% bonus Blue Pollen from harvests.
+* Blue bees are 25% more likely to sip Nectar from this, but Red Bees avoid it.
+* Grants +20% Refreshing and Comforting Nectar
+Fact: The Hydroponic Planter in Blue HQ has/costs 150 Gifted Bucko Bee quests completed.
+Fact: Hydroponic Planter requirement: 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 750 Blue Extracts.
+Fact: 75 Magic Beans requirement: 500 Soft Waxes.
+Fact: 75 Magic Beans requirement: 25 Caustic Waxes.
+Fact: The 1 Turpentine in Blue HQ has/costs Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants bonus Blue Extract and Oils..
+* Grows up to 50% faster in fields with Blue Flowers
+Fact: 1 Turpentine statistic: * Gives 50% bonus Blue Pollen from harvests.
+* Blue bees are 50% more likely to sip Nectar from this, but Red Bees are 50% less likely
+* Grants +40% Refreshing and Comforting Nectar
+When in the shop, the following audio plays:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Vendor.ogg>
+This audio is known as "Vendor" and also plays inside the Noob Shop, Pro Shop, Mountain Top Shop, Badge Bearer's Guild, Blue HQ, Red HQ, Petal Shop, Hive Hub, and in the Blue Maze.
+Gallery[]
+The Blue HQ's Bubble Wand model's face.
+The bubbles that the Bubble Wand emits on the Blue HQ.
+The Blueberry Dispenser on the first floor of the Blue HQ.
+The Blue Teleporter on the first floor of the Blue HQ.
+The Blue Field Booster on the second floor of the Blue HQ.
+Gifted Bucko Bee on the second floor of the Blue HQ.
+A distant view of the Blue HQ at an angle.
+Blue HQ's Shop.
+Trivia[]
+* The Tide Popper is currently the most expensive item able to be bought in the Blue HQ.
+* If the player goes to the corner of the ramp inside the Blue HQ closest to the Clover Field, they will be able to hear the Crawlers music.
+* Unlike the Riley Bee model on the Red HQ, the wings of the Bucko Bee model don't have collision.
+* On 2022-01-01, there was a glitch where if the player attempted to view the Tide Popper, the game would freeze and they won't be able to exit the shop, except for rejoining the game.
+* The Blue HQ is also known as the "Blue Clubhouse." If the player does not have 4 blue bee types discovered, the top of their screen will say, "Discover 4 Blue Bee types to enter the Blue Clubhouse."
+Fact: The Fields in Blue HQ has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Blue HQ has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • **Blue HQ** • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Blue HQ has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Blue HQ has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Blue HQ has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Blue HQ has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Blue HQ has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Blue HQ has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

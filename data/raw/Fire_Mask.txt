@@ -1,0 +1,89 @@
+Context: Bee Swarm Simulator - Fire Mask
+
+Fire Mask
+Fire Mask
+Description
+"Ignite your mind to enhance your Red Bees."
+Fact: Description requirement: 100,000,000 Honey, 500 Strawberries, 50 Red Extracts, 25 Enzymes, and 15 Glue..
+Bonus Stats
+Fact: Bonus Stats statistic: x1.5 Red Pollen.
+Fact: Bonus Stats statistic: +15% Instant Red Conversion.
+Fact: Bonus Stats statistic: x1.5 Capacity.
+Fact: Bonus Stats statistic: +50% Instant Flame Conversion.
+Fact: Bonus Stats statistic: +15% Bee Attack.
+Fact: Bonus Stats statistic: +35% Defense.
+Fact: Bonus Stats statistic: +15% Bee Ability Rate.
+Fact: Bonus Stats statistic: +Passive: Ignite.
+> "_Ignite your mind to enhance your Red Bees._ "
+The Fire Mask is a mask that can be bought at the Red HQ.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 100,000,000 Honey.
+500 Strawberries
+Fact: 500 Strawberries requirement: 50 Red Extracts.
+Fact: 500 Strawberries requirement: 25 Enzymes.
+Fact: 500 Strawberries requirement: 15 Glues.
+Fact: 500 Strawberries statistic: * x1.5 Red Pollen.
+* +15% Instant Red Conversion
+Fact: * +15% Instant Red Conversion statistic: * x1.5 Capacity.
+* +50% Instant Flame Conversion
+* +15% Bee Attack
+* +35% Defense
+* +15% Bee Ability Rate
+* +Passive: Ignite:
+* Every 15th Red Ability token creates 5 spires of flames in a "+" formation that collects 6 Red, 3 White or 1 Blue pollen from 9 surrounding flowers, increased by 2% for every red bee and 4% for each Gifted Red Bee. Does 15 damage per second if touched by a mob, and lasts 4 seconds. The passive has no cooldown.
+Gallery[]
+The Ignite icon.
+Old Ignite flames damaging a Commando Chick.
+A player wearing the Fire Mask.
+The Fire Mask icon.
+Ignite flames in a field.
+Trivia[]
+* This mask is the red counterpart to the Bubble Mask.
+* The Fire Mask, the Bubble Mask, Riley Guard, Bucko Guard and the Honey Mask all represent Epic Bees.
+* Before the 2019-09-28 Update, the Fire Mask's stats were:
+Fact: Trivia[] statistic: * x1.7 Red Pollen.
+* +2 Red Bee Attack Power
+* +35% Defense
+* +15% Bee Ability Rate
+* Before the 2019-04-05 Update, the Fire Mask's stats were:
+Fact: * +15% Bee Ability Rate statistic: * +25% Bee Gather Pollen.
+* +25% Instant Conversion
+* +35% Defense
+* +11% Bee Ability Rate
+* +115% Loot Luck
+* +2 Red Bee Attack Power
+Fact: * +2 Red Bee Attack Power statistic: * x1.15 Red Pollen.
+* Before the 2019-09-28 update, it didn't have any passive ability.
+* If the player owns the Fire Mask, its passive is inherited by the Demon Mask.
+* Before the 2020-06-06 Update, the passive ability had a 5 second cooldown.
+* If a player were to Craft the items, this mask would cost 100M Honey, 8,625 Strawberries, 8,750 Pineapples, 5,625 Blueberries, 900 Royal Jellies, and all the time it takes to craft those Items.
+* Ignite forms around the 15th Red Ability token collected, no matter where it was collected.
+Fact: The Sub-Inventories in Fire Mask has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Fire Mask has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Fire Mask has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Fire Mask has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Fire Mask has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Fire Mask has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Fire Mask has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Fire Mask has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Fire Mask has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Fire Mask has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Fire Mask has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Fire Mask has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Fire Mask has/costs **7-Pronged Cog**.
+Fact: The Other in Fire Mask has/costs **Marshmallow Bee**.
+Fact: The Currencies in Fire Mask has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Fire Mask has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Fire Mask has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Fire Mask has/costs **Parachute •  Glider**.
+Fact: The Bags in Fire Mask has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Fire Mask has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Fire Mask has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  **Fire Mask** •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Fire Mask has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Fire Mask has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Fire Mask has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Fire Mask has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Fire Mask has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Fire Mask has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Fire Mask has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

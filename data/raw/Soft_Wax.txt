@@ -1,0 +1,141 @@
+Context: Bee Swarm Simulator - Soft Wax
+
+_"A squishy hunk of beeswax. Has a 100% chance to slightly improve a bee’s Beequip."_
+Soft Wax is an inventory item and a type of wax added in the 2021-12-26 update that can be used on a Beequip to boost its stats. Upon usage, it has a 100% chance to slightly improve the Beequip's stats. Soft wax has upgrade value of 1.
+It also can be used for crafting items and tools, such as planters, and other types of wax, such as, Hard Wax, Swirled Wax, and Caustic Wax. These can all be made in the Blender.
+When giving soft wax to a bee's Beequip, a message pops up saying:
+The Wax has Improved the Beequip!
+Ways to Obtain[]
+* Crafting via Blender for:
+* 5 Honeysuckles
+* 1 Enzymes
+* 10 Royal Jellies
+* As a stack reward for adding certain Stickers to the Sticker Stack:
+* Window rewards 3 soft waxes.
+* TNT rewards 3 soft waxes.
+* Jack-O-Lantern rewards 3 soft waxes.
+* Barcode rewards 3 soft waxes.
+* Spore Covered Puffshroom rewards 3 soft waxes.
+* White Button Mushroom rewards 3 soft waxes.
+* Fly Agaric Mushroom rewards 3 soft waxes.
+* Porcini Mushroom rewards 3 soft waxes.
+* Oiler Mushroom rewards 3 soft waxes.
+* Morel Mushroom rewards 3 soft waxes.
+* Chanterelle Mushroom rewards 3 soft waxes.
+* Porcelain Dipper rewards 3 soft waxes.
+* Rewarded from the Retro Swarm Challenge.
+Drops[]
+* As a drop from Aphids.
+* As a drop from Puffshrooms.
+* As a drop from Planters.
+* The Red Clay Planter and The Planter Of Plenty drop soft waxes as a bonus drop.
+* The Festive Planter can also drop soft waxes.
+* Planters in the Pumpkin Patch grant extra waxes, including soft wax.
+* A fully grown Red Clay Planter in Pumpkin Patch guarantees 2 soft waxes, along with other stuff.
+Quests[]
+* Dapper Bear gives soft waxes on the following quests:
+* Dapper Bear's Liquid Motivation (#2) rewards 3 soft waxes and other items.
+* Dapper Bear's The Trick To Tickets (#11) rewards 10 soft waxes and other items.
+Outdated Ways[]
+* Opening the Pristine Gift Box rewarded 20 soft waxes and other items.
+Fact: Outdated Ways[] requirement: * Purchasing the Waxy Bundle from Bee Bear’s Catalog rewarded 25 soft waxes + other items..
+Fact: Outdated Ways[] requirement: * Purchasing the New Year Booster Bundle from the Robux shop rewarded 15 soft waxes + other items..
+* As a reward from Winter Memory Match.
+* As a drop from Snowbear during Beesmas 2021.
+* Using Riley Bee's Honeyday Candles has a 81.3% chance to give 3 soft wax.
+* As a reward from quests.
+* Bee Bear's Shiverin' In The Snow (#7) - x3 Soft waxes (2022).
+* Bee Bear’s Upgrading The Honeydays (#13) - x10 Soft waxes (2022).
+Crafting Uses[]
+Total required for all single-purchase items: 829 Soft Waxes
+Fact: The **Soft Waxes** in Soft Wax has/costs Other ingredients, Result.
+Fact: The 1 in Soft Wax has/costs 750,000 Honey.
+Fact: The 3 Magic Beans in Soft Wax has/costs Plastic Planter.
+Fact: The 1 in Soft Wax has/costs 1 Whirligig.
+Fact: 1 requirement: 1 Red Extract.
+Fact: The 1 Blue Extract in Soft Wax has/costs Field Dice.
+Fact: The 1 in Soft Wax has/costs 12,400,000 Honey.
+Fact: 1 requirement: 150 Pineapples.
+Fact: 1 requirement: 150 Sunflower Seeds.
+Fact: The 10 Stingers in Soft Wax has/costs Mondo Belt Bag.
+Fact: The 2 in Soft Wax has/costs 12,500,000 Honey.
+Fact: The 2 Red Extracts in Soft Wax has/costs Red Port-O-Hive.
+Fact: The 2 in Soft Wax has/costs 12,500,000 Honey.
+Fact: The 2 Blue Extracts in Soft Wax has/costs Blue Port-O-Hive.
+Fact: The 3 in Soft Wax has/costs 3 Field Dice.
+3 Whirligigs
+Fact: The 3 Oils in Soft Wax has/costs Smooth Dice.
+Fact: The 3 in Soft Wax has/costs 3 Enzymes.
+33 Bitterberries
+Fact: The 33 Royal Jellies in Soft Wax has/costs Hard Wax.
+Fact: The 3 in Soft Wax has/costs 250,000,000 Honey.
+Fact: 3 requirement: 3 Glitter.
+Fact: The 10 Moon Charms in Soft Wax has/costs Porcelain Port-O-Hive.
+Fact: The 5 in Soft Wax has/costs 5,000,000 Honey.
+5 Magic Beans
+Fact: 5 Magic Beans requirement: 30 Gumdrops.
+Fact: The 3 Jelly Beans in Soft Wax has/costs Candy Planter.
+Fact: The 5 in Soft Wax has/costs 7,000,000 Honey.
+Fact: 5 requirement: 1 Glue.
+Fact: 5 requirement: 1 Oil.
+5 Neonberries
+Fact: The 10 Micro-Converters in Soft Wax has/costs Sticker-Seeker.
+Fact: The 9 in Soft Wax has/costs 3 Hard Waxes.
+Fact: 9 requirement: 6 Purple Potions.
+Fact: The 3,333 Royal Jellies in Soft Wax has/costs Swirled Wax.
+Fact: The 20 in Soft Wax has/costs 10,000,000 Honey.
+5 Magic Beans
+Fact: The 15 Red Extracts in Soft Wax has/costs Red Clay Planter.
+Fact: The 20 in Soft Wax has/costs 10,000,000 Honey.
+5 Magic Beans
+Fact: The 15 Blue Extracts in Soft Wax has/costs Blue Clay Planter.
+Fact: The 20 in Soft Wax has/costs 50,000,000 Honey.
+10 Magic Beans
+Fact: 10 Magic Beans requirement: 1 Purple Potion.
+Fact: The 5 Hard Waxes in Soft Wax has/costs Tacky Planter.
+Fact: The 250 in Soft Wax has/costs 5T Honey.
+100 Magic Beans
+Fact: 100 Magic Beans requirement: 100 Glitter.
+Fact: 100 Magic Beans requirement: 50 Swirled Waxes.
+Fact: The 25 Super Smoothies in Soft Wax has/costs Petal Planter.
+Fact: The 500 in Soft Wax has/costs 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 750 Blue Extracts.
+Fact: 75 Magic Beans requirement: 25 Caustic Waxes.
+Fact: The 1 Turpentine in Soft Wax has/costs Hydroponic Planter.
+Trivia[]
+* Soft Wax's raw ingredients cost:
+* 5 Honeysuckles
+* 50 Sunflower Seeds
+* 50 Pineapples
+* 30 Royal Jellies (30,000,000 Honey)
+* This wax, Swirled Wax and Debug Wax are the only waxes that are guaranteed to change a Beequip's stats.
+Fact: The Sub-Inventories in Soft Wax has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Soft Wax has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Soft Wax has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Soft Wax has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Soft Wax has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Soft Wax has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Soft Wax has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Soft Wax has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Soft Wax has/costs ****Soft Wax** •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Soft Wax has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Soft Wax has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Soft Wax has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Soft Wax has/costs **7-Pronged Cog**.
+Fact: The Other in Soft Wax has/costs **Marshmallow Bee**.
+Fact: The Currencies in Soft Wax has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Soft Wax has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Soft Wax has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Soft Wax has/costs **Parachute •  Glider**.
+Fact: The Bags in Soft Wax has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Soft Wax has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Soft Wax has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Soft Wax has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Soft Wax has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Soft Wax has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Soft Wax has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Soft Wax has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Soft Wax has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Soft Wax has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

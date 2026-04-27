@@ -1,0 +1,1053 @@
+Context: Bee Swarm Simulator - Festive Wreath
+
+Festive Wreath
+Festive Wreath
+"This ornate wreath was specially made to suit Festive Bee's tastes."
+Fact: Festive Wreath statistic: +Gather Amount.
+Fact: Festive Wreath statistic: +Convert Amount.
+Fact: Festive Wreath statistic: +Red Bomb Pollen%.
+Fact: Festive Wreath statistic: +Mark Duration%.
+Fact: Festive Wreath statistic: +Ability Rate%.
+Fact: Festive Wreath statistic: +Ability: Festive Mark.
+Fact: Festive Wreath statistic: +Capacity.
+Fact: Festive Wreath requirement: +Ticket Chance%.
+Fact: Festive Wreath statistic: +Red Convert Rate%.
+Fact: Festive Wreath requirement: +Honey At Hive%.
+The Festive Wreath is a level 10 Beesmas Beequip. It has an equip limit of one. It has a red color requirement. It can only be equipped to Festive Bee.
+Possible Stats
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades, Range.
+Fact: The Chance in Festive Wreath has/costs Value, Weight, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Fact: The Bias scales linearly in Festive Wreath has/costs **1**, A random value between **+1** -**+2**.
+Intervals of +1
+Fact: The Bias: {3, 1} in Festive Wreath has/costs **20**, **+5 - +55**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Fact: The Bias scales linearly in Festive Wreath has/costs **1**, A random value between **+2** -**+4**.
+Intervals of +1
+Fact: The Bias: {3, 1} in Festive Wreath has/costs **20**, **+15 - +110**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Festive Wreath has/costs \-, \-, \-, **+20% - +40%**.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Festive Wreath has/costs An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Festive Wreath has/costs **+1%**, **5**, **+2% - +13%**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Festive Wreath has/costs \-, \-, \-, **0% - +1%**.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Fact: The Bias scales linearly in Festive Wreath has/costs An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Festive Wreath has/costs A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Fact: The Bias: {2, 1} in Festive Wreath has/costs **20**, **+10,000 - +115,000**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, An exact value between **0.0001** -**0.0005**.
+Fact: The Linear scaling by a factor of 1 in Festive Wreath has/costs **+1%**, **5**, **0% - +5%**.
+Fact: Linear scaling by a factor of 1 statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, An exact value between **0.04** -**0.15**.
+Fact: The Linear scaling by a factor of 1 in Festive Wreath has/costs **+2%**, **5**, **0% - +10%**.
+Fact: Linear scaling by a factor of 1 requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, An exact value between **0.08** -**0.3**.
+Fact: The Linear scaling by a factor of 1 in Festive Wreath has/costs **+1%**, **10**, **0% - +10%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +5
+Fact: The Average value: +7.4809 in Festive Wreath has/costs **49.5025%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +18.7361 in Festive Wreath has/costs **49.5025%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +2.4377 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +24.99% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +3.47% in Festive Wreath has/costs **0.495%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +10,000
+Fact: The Average value: +11,217.4791 in Festive Wreath has/costs **0.495%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,000
+Fact: The Average value: +1,988.6151 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.005%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +5
+Fact: The Average value: +7.4809 in Festive Wreath has/costs **46.7268%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +18.7361 in Festive Wreath has/costs **46.7268%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +2.4377 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +24.99% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +3.47% in Festive Wreath has/costs **0.4673%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +10,000
+Fact: The Average value: +11,217.4791 in Festive Wreath has/costs **0.4673%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,000
+Fact: The Average value: +1,988.6151 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0047%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **1.8691%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **3.7381%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +7.991 in Festive Wreath has/costs **49.0643%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.037
+Fact: The Average value: +1.1609 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +16.5
+Fact: The Average value: +19.5122 in Festive Wreath has/costs **49.0643%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.0741
+Fact: The Average value: +2.4644 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +22%
+Fact: The Average value: +26% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.84% in Festive Wreath has/costs **0.9322%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +10,500
+Fact: The Average value: +11,537.3069 in Festive Wreath has/costs **0.9322%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,222.2222
+Fact: The Average value: +2,114.3499 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0069%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +7.991 in Festive Wreath has/costs **45.6383%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.037
+Fact: The Average value: +1.1609 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +16.5
+Fact: The Average value: +19.5122 in Festive Wreath has/costs **45.6383%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.0741
+Fact: The Average value: +2.4644 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +22%
+Fact: The Average value: +26% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.84% in Festive Wreath has/costs **0.8671%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +10,500
+Fact: The Average value: +11,537.3069 in Festive Wreath has/costs **0.8671%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,222.2222
+Fact: The Average value: +2,114.3499 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0064%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **2.3276%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **4.6551%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +7
+Fact: The Average value: +8.4943 in Festive Wreath has/costs **48.6339%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0833
+Fact: The Average value: +1.1715 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +20.2462 in Festive Wreath has/costs **48.6339%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.1667
+Fact: The Average value: +2.5036 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +24%
+Fact: The Average value: +27% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +4.07% in Festive Wreath has/costs **1.3617%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +11,000
+Fact: The Average value: +11,738.648 in Festive Wreath has/costs **1.3617%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,500
+Fact: The Average value: +2,244.9983 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0088%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +7
+Fact: The Average value: +8.4943 in Festive Wreath has/costs **44.5995%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0833
+Fact: The Average value: +1.1715 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +20.2462 in Festive Wreath has/costs **44.5995%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.1667
+Fact: The Average value: +2.5036 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +24%
+Fact: The Average value: +27% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +4.07% in Festive Wreath has/costs **1.2488%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +11,000
+Fact: The Average value: +11,738.648 in Festive Wreath has/costs **1.2488%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,500
+Fact: The Average value: +2,244.9983 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.008%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **2.7652%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **5.5303%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +8
+Fact: The Average value: +8.9965 in Festive Wreath has/costs **48.2109%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1429
+Fact: The Average value: +1.1873 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +19.5
+Fact: The Average value: +21.0047 in Festive Wreath has/costs **48.2109%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.2857
+Fact: The Average value: +2.5678 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +26%
+Fact: The Average value: +28% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +4.42% in Festive Wreath has/costs **1.7838%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +11,500
+Fact: The Average value: +12,014.2037 in Festive Wreath has/costs **1.7838%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,857.1429
+Fact: The Average value: +2,438.2748 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0106%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +8
+Fact: The Average value: +8.9965 in Festive Wreath has/costs **43.6068%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1429
+Fact: The Average value: +1.1873 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +19.5
+Fact: The Average value: +21.0047 in Festive Wreath has/costs **43.6068%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.2857
+Fact: The Average value: +2.5678 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +26%
+Fact: The Average value: +28% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +4.42% in Festive Wreath has/costs **1.6135%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +11,500
+Fact: The Average value: +12,014.2037 in Festive Wreath has/costs **1.6135%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +1,857.1429
+Fact: The Average value: +2,438.2748 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0096%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **3.1833%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **6.3666%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +9
+Fact: The Average value: +9.4983 in Festive Wreath has/costs **47.7952%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.2222
+Fact: The Average value: +1.214 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +21
+Fact: The Average value: +21.7489 in Festive Wreath has/costs **47.7952%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.4444
+Fact: The Average value: +2.7028 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +28%
+Fact: The Average value: +29% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.68% in Festive Wreath has/costs **2.1986%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +12,000
+Fact: The Average value: +12,246.6532 in Festive Wreath has/costs **2.1986%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +2,333.3333
+Fact: The Average value: +2,677.372 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0124%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +9
+Fact: The Average value: +9.4983 in Festive Wreath has/costs **42.6574%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.2222
+Fact: The Average value: +1.214 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +21
+Fact: The Average value: +21.7489 in Festive Wreath has/costs **42.6574%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.4444
+Fact: The Average value: +2.7028 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +28%
+Fact: The Average value: +29% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.68% in Festive Wreath has/costs **1.9622%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +12,000
+Fact: The Average value: +12,246.6532 in Festive Wreath has/costs **1.9622%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +2,333.3333
+Fact: The Average value: +2,677.372 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0111%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **3.5832%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **7.1664%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +10 in Festive Wreath has/costs **47.3866%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.3333
+Fact: The Average value: +1.269 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +22.5
+Fact: The Average value: +22.5 in Festive Wreath has/costs **47.3866%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.6667
+Fact: The Average value: +2.9197 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +30%
+Fact: The Average value: +30% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +5% in Festive Wreath has/costs **2.6063%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +12,500
+Fact: The Average value: +12,500 in Festive Wreath has/costs **2.6063%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +3,000
+Fact: The Average value: +3,000 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0142%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +10 in Festive Wreath has/costs **41.7484%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.3333
+Fact: The Average value: +1.269 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +22.5
+Fact: The Average value: +22.5 in Festive Wreath has/costs **41.7484%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +2.6667
+Fact: The Average value: +2.9197 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +30%
+Fact: The Average value: +30% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +5% in Festive Wreath has/costs **2.2962%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +12,500
+Fact: The Average value: +12,500 in Festive Wreath has/costs **2.2962%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +3,000
+Fact: The Average value: +3,000 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0125%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **3.9661%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **7.9322%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +10.5017 in Festive Wreath has/costs **46.985%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.5
+Fact: The Average value: +1.5 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +24
+Fact: The Average value: +23.2511 in Festive Wreath has/costs **46.985%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +3 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +32%
+Fact: The Average value: +31% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +5.6%
+Fact: The Average value: +5.32% in Festive Wreath has/costs **3.007%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +13,000
+Fact: The Average value: +12,753.3468 in Festive Wreath has/costs **3.007%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +3,400
+Fact: The Average value: +3,208.3517 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.016%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +10.5017 in Festive Wreath has/costs **40.8774%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.5
+Fact: The Average value: +1.5 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +24
+Fact: The Average value: +23.2511 in Festive Wreath has/costs **40.8774%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +3 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +32%
+Fact: The Average value: +31% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +5.6%
+Fact: The Average value: +5.32% in Festive Wreath has/costs **2.6162%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +13,000
+Fact: The Average value: +12,753.3468 in Festive Wreath has/costs **2.6162%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +3,400
+Fact: The Average value: +3,208.3517 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0139%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **4.333%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **8.666%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +11.0035 in Festive Wreath has/costs **46.5901%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.7
+Fact: The Average value: +1.7506 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +25.5
+Fact: The Average value: +23.9953 in Festive Wreath has/costs **46.5901%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3.4
+Fact: The Average value: +3.1092 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +34%
+Fact: The Average value: +32% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +6.2%
+Fact: The Average value: +5.58% in Festive Wreath has/costs **3.4011%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +13,500
+Fact: The Average value: +12,985.7963 in Festive Wreath has/costs **3.4011%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +3,800
+Fact: The Average value: +3,407.1483 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0177%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +11.0035 in Festive Wreath has/costs **40.042%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.7
+Fact: The Average value: +1.7506 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +25.5
+Fact: The Average value: +23.9953 in Festive Wreath has/costs **40.042%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3.4
+Fact: The Average value: +3.1092 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +34%
+Fact: The Average value: +32% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +6.2%
+Fact: The Average value: +5.58% in Festive Wreath has/costs **2.9231%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +13,500
+Fact: The Average value: +12,985.7963 in Festive Wreath has/costs **2.9231%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +3,800
+Fact: The Average value: +3,407.1483 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0152%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **4.6849%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **9.3698%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +11.5057 in Festive Wreath has/costs **46.2018%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8
+Fact: The Average value: +1.7942 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +27
+Fact: The Average value: +24.7538 in Festive Wreath has/costs **46.2018%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3.6
+Fact: The Average value: +3.3447 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +36%
+Fact: The Average value: +33% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +6.8%
+Fact: The Average value: +5.93% in Festive Wreath has/costs **3.7885%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +14,000
+Fact: The Average value: +13,261.352 in Festive Wreath has/costs **3.7885%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +4,200
+Fact: The Average value: +3,587.4636 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0194%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +11.5057 in Festive Wreath has/costs **39.24%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8
+Fact: The Average value: +1.7942 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +27
+Fact: The Average value: +24.7538 in Festive Wreath has/costs **39.24%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3.6
+Fact: The Average value: +3.3447 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +36%
+Fact: The Average value: +33% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +6.8%
+Fact: The Average value: +5.93% in Festive Wreath has/costs **3.2177%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +14,000
+Fact: The Average value: +13,261.352 in Festive Wreath has/costs **3.2177%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +4,200
+Fact: The Average value: +3,587.4636 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0165%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **5.0227%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **10.0454%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +12.009 in Festive Wreath has/costs **45.8199%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.9
+Fact: The Average value: +1.8244 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +28.5
+Fact: The Average value: +25.4878 in Festive Wreath has/costs **45.8199%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3.8
+Fact: The Average value: +3.4803 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +38%
+Fact: The Average value: +34% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +7.4%
+Fact: The Average value: +6.16% in Festive Wreath has/costs **4.1696%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +14,500
+Fact: The Average value: +13,462.6931 in Festive Wreath has/costs **4.1696%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +4,600
+Fact: The Average value: +3,795.0701 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0211%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +12.009 in Festive Wreath has/costs **38.4695%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.9
+Fact: The Average value: +1.8244 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +28.5
+Fact: The Average value: +25.4878 in Festive Wreath has/costs **38.4695%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +3.8
+Fact: The Average value: +3.4803 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +38%
+Fact: The Average value: +34% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +7.4%
+Fact: The Average value: +6.16% in Festive Wreath has/costs **3.5007%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +14,500
+Fact: The Average value: +13,462.6931 in Festive Wreath has/costs **3.5007%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +4,600
+Fact: The Average value: +3,795.0701 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0177%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **5.3473%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **10.6945%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +12.5191 in Festive Wreath has/costs **45.4442%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +30
+Fact: The Average value: +26.2639 in Festive Wreath has/costs **45.4442%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +4
+Fact: The Average value: +3.5623 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +40%
+Fact: The Average value: +35.01% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +6.53% in Festive Wreath has/costs **4.5444%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +15,000
+Fact: The Average value: +13,782.5209 in Festive Wreath has/costs **4.5444%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +5,000
+Fact: The Average value: +4,011.3849 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0227%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Festive Wreath has/costs Base, Upgrades.
+Fact: The Chance in Festive Wreath has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Festive Wreath has/costs **100%**, A random value between **+5** -**+15**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +12.5191 in Festive Wreath has/costs **37.7287%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Festive Wreath has/costs **20**.
+Fact: The +Convert Amount in Festive Wreath has/costs **100%**, A random value between **+15** -**+30**.
+Intervals of +1
+Biased to values near +30
+Fact: The Average value: +26.2639 in Festive Wreath has/costs **37.7287%**, A random value between **+2** -**+4**.
+Intervals of +1
+Biased to values near +4
+Fact: The Average value: +3.5623 in Festive Wreath has/costs **20**.
+Fact: The +Red Bomb Pollen% in Festive Wreath has/costs **100%**, A random value between **+20%** -**+40%**.
+Intervals of +1%
+Biased to values near +40%
+Fact: The Average value: +35.01% in Festive Wreath has/costs \-, \-, \-.
+Fact: The +Mark Duration% in Festive Wreath has/costs **100%**, A random value between **+2%** -**+8%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +6.53% in Festive Wreath has/costs **3.7729%**, **+1%**, **5**.
+Fact: The +Ability Rate% in Festive Wreath has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Ability: Festive Mark in Festive Wreath has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity in Festive Wreath has/costs **100%**, A random value between **+10,000** -**+15,000**.
+Intervals of +1,000
+Biased to values near +15,000
+Fact: The Average value: +13,782.5209 in Festive Wreath has/costs **3.7729%**, A random value between **+1,000** -**+5,000**.
+Intervals of +500
+Biased to values near +5,000
+Fact: The Average value: +4,011.3849 in Festive Wreath has/costs **20**.
+Fact: The +Ticket Chance% in Festive Wreath has/costs \-, \-, **0.0189%**, **+1%**, **5**.
+Fact: +Ticket Chance% statistic: +Red Convert Rate%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **5.6593%**, **+2%**, **5**.
+Fact: Caustic Points Only requirement: +Honey At Hive%.
+Fact: The Caustic Points Only in Festive Wreath has/costs \-, \-, **11.3186%**, **+1%**, **10**.
+Probabilities
+The tables below give the probability of a stat of Festive Wreath falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+* +Convert Amount
+Fact: * +Convert Amount statistic: * +Red Bomb Pollen%.
+* +Mark Duration%
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +5-+6 in Festive Wreath has/costs +7-+8, +9-+10, +11-+12, +13-+14, +15.
+Fact: The **0 ★** in Festive Wreath has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +7.481.
+Fact: The **0.5 ★** in Festive Wreath has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +7.991.
+Fact: The **1 ★** in Festive Wreath has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +8.494.
+Fact: The **1.5 ★** in Festive Wreath has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +8.996.
+Fact: The **2 ★** in Festive Wreath has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +9.498.
+Fact: The **2.5 ★** in Festive Wreath has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +10.
+Fact: The **3 ★** in Festive Wreath has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +10.502.
+Fact: The **3.5 ★** in Festive Wreath has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +11.0035.
+Fact: The **4 ★** in Festive Wreath has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +11.506.
+Fact: The **4.5 ★** in Festive Wreath has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +12.009.
+Fact: The **5 ★** in Festive Wreath has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +12.519.
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +15-+19 in Festive Wreath has/costs +20-+24, +25-+29, +30.
+Fact: The **0 ★** in Festive Wreath has/costs 66.119%, 26.142%, 7.682%, 0.056%, +18.736.
+Fact: The **0.5 ★** in Festive Wreath has/costs 60.082%, 31.158%, 8.698%, 0.063%, +19.512.
+Fact: The **1 ★** in Festive Wreath has/costs 50.794%, 39.107%, 10.028%, 0.07%, +20.246.
+Fact: The **1.5 ★** in Festive Wreath has/costs 30%, 58.065%, 11.855%, 0.081%, +21.0047.
+Fact: The **2 ★** in Festive Wreath has/costs 16.137%, 69.234%, 14.535%, 0.094%, +21.749.
+Fact: The **2.5 ★** in Festive Wreath has/costs 11.674%, 69.283%, 18.93%, 0.114%, +22.5.
+Fact: The **3 ★** in Festive Wreath has/costs 9.206%, 62.411%, 28.241%, 0.143%, +23.251.
+Fact: The **3.5 ★** in Festive Wreath has/costs 7.615%, 40.042%, 52.15%, 0.192%, +23.995.
+Fact: The **4 ★** in Festive Wreath has/costs 6.5%, 30.69%, 62.516%, 0.295%, +24.754.
+Fact: The **4.5 ★** in Festive Wreath has/costs 5.672%, 25.224%, 68.474%, 0.63%, +25.488.
+Fact: The **5 ★** in Festive Wreath has/costs 5.033%, 21.513%, 58.784%, 14.671%, +26.264.
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +20%-+24% in Festive Wreath has/costs +25%-+29%, +30%-+34%, +35%-+39%, +40%.
+Fact: The **0 ★** in Festive Wreath has/costs 56.062%, 26.799%, 12.954%, 4.154%, 0.032%, +25%.
+Fact: The **0.5 ★** in Festive Wreath has/costs 47.176%, 33.154%, 14.96%, 4.675%, 0.035%, +26%.
+Fact: The **1 ★** in Festive Wreath has/costs 31.164%, 45.701%, 17.748%, 5.347%, 0.039%, +27%.
+Fact: The **1.5 ★** in Festive Wreath has/costs 12.103%, 59.657%, 21.947%, 6.248%, 0.045%, +28%.
+Fact: The **2 ★** in Festive Wreath has/costs 8.033%, 55.063%, 29.33%, 7.521%, 0.053%, +29%.
+Fact: The **2.5 ★** in Festive Wreath has/costs 6.059%, 33.951%, 50.456%, 9.47%, 0.064%, +30%.
+Fact: The **3 ★** in Festive Wreath has/costs 4.875%, 23.017%, 59.147%, 12.881%, 0.08%, +31%.
+Fact: The **3.5 ★** in Festive Wreath has/costs 4.081%, 17.882%, 56.749%, 21.181%, 0.107%, +32%.
+Fact: The **4 ★** in Festive Wreath has/costs 3.511%, 14.713%, 36.522%, 45.09%, 0.163%, +33%.
+Fact: The **4.5 ★** in Festive Wreath has/costs 3.081%, 12.531%, 28.23%, 55.816%, 0.342%, +34%.
+Fact: The **5 ★** in Festive Wreath has/costs 2.746%, 10.925%, 23.327%, 51.28%, 11.722%, +35%.
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +2%-+3% in Festive Wreath has/costs +4%-+5%, +6%-+7%, +8%.
+Fact: The **0 ★** in Festive Wreath has/costs 59.657%, 30.117%, 9.868%, 0.357%, +3.5%.
+Fact: The **0.5 ★** in Festive Wreath has/costs 51.876%, 36.505%, 11.22%, 0.398%, +3.8%.
+Fact: The **1 ★** in Festive Wreath has/costs 38.863%, 47.672%, 13.015%, 0.45%, +4.1%.
+Fact: The **1.5 ★** in Festive Wreath has/costs 16.041%, 67.918%, 15.523%, 0.517%, +4.4%.
+Fact: The **2 ★** in Festive Wreath has/costs 10.288%, 69.782%, 19.323%, 0.608%, +4.7%.
+Fact: The **2.5 ★** in Festive Wreath has/costs 7.671%, 65.593%, 25.999%, 0.737%, +5%.
+Fact: The **3 ★** in Festive Wreath has/costs 6.135%, 46.226%, 46.704%, 0.936%, +5.3%.
+Fact: The **3.5 ★** in Festive Wreath has/costs 5.118%, 32.312%, 61.288%, 1.283%, +5.6%.
+Fact: The **4 ★** in Festive Wreath has/costs 4.392%, 25.639%, 67.924%, 2.045%, +5.9%.
+Fact: The **4.5 ★** in Festive Wreath has/costs 3.848%, 21.409%, 69.397%, 5.347%, +6.2%.
+Fact: The **5 ★** in Festive Wreath has/costs 3.424%, 18.432%, 49.104%, 29.041%, +6.5%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +10,000 in Festive Wreath has/costs +11,000, +12,000, +13,000, +14,000, +15,000.
+Fact: The **0 ★** in Festive Wreath has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +11,217.479.
+Fact: The **0.5 ★** in Festive Wreath has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +11,537.307.
+Fact: The **1 ★** in Festive Wreath has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +11,738.648.
+Fact: The **1.5 ★** in Festive Wreath has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +12,014.204.
+Fact: The **2 ★** in Festive Wreath has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +12,246.653.
+Fact: The **2.5 ★** in Festive Wreath has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +12,500.
+Fact: The **3 ★** in Festive Wreath has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +12,753.347.
+Fact: The **3.5 ★** in Festive Wreath has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +12,985.796.
+Fact: The **4 ★** in Festive Wreath has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +13,261.352.
+Fact: The **4.5 ★** in Festive Wreath has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +13,462.693.
+Fact: The **5 ★** in Festive Wreath has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +13,782.521.
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+* +Convert Amount
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +1 in Festive Wreath has/costs +2.
+Fact: The **0 ★** in Festive Wreath has/costs 84.657%, 15.343%, +1.153.
+Fact: The **0.5 ★** in Festive Wreath has/costs 83.906%, 16.094%, +1.161.
+Fact: The **1 ★** in Festive Wreath has/costs 82.852%, 17.148%, +1.171.
+Fact: The **1.5 ★** in Festive Wreath has/costs 81.267%, 18.733%, +1.187.
+Fact: The **2 ★** in Festive Wreath has/costs 78.601%, 21.399%, +1.214.
+Fact: The **2.5 ★** in Festive Wreath has/costs 73.105%, 26.895%, +1.269.
+Fact: The **3 ★** in Festive Wreath has/costs 50%, 50%, +1.5.
+Fact: The **3.5 ★** in Festive Wreath has/costs 24.945%, 75.055%, +1.751.
+Fact: The **4 ★** in Festive Wreath has/costs 20.575%, 79.425%, +1.794.
+Fact: The **4.5 ★** in Festive Wreath has/costs 17.563%, 82.437%, +1.824.
+Fact: The **5 ★** in Festive Wreath has/costs 15.343%, 84.657%, +1.847.
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +2 in Festive Wreath has/costs +3, +4.
+Fact: The **0 ★** in Festive Wreath has/costs 59.657%, 36.919%, 3.424%, +2.438.
+Fact: The **0.5 ★** in Festive Wreath has/costs 57.134%, 39.297%, 3.569%, +2.464.
+Fact: The **1 ★** in Festive Wreath has/costs 53.412%, 42.818%, 3.77%, +2.504.
+Fact: The **1.5 ★** in Festive Wreath has/costs 47.28%, 48.657%, 4.063%, +2.568.
+Fact: The **2 ★** in Festive Wreath has/costs 34.256%, 61.209%, 4.535%, +2.703.
+Fact: The **2.5 ★** in Festive Wreath has/costs 13.448%, 81.136%, 5.417%, +2.92.
+Fact: The **3 ★** in Festive Wreath has/costs 7.671%, 84.657%, 7.671%, +3.
+Fact: The **3.5 ★** in Festive Wreath has/costs 5.118%, 78.841%, 16.041%, +3.109.
+Fact: The **4 ★** in Festive Wreath has/costs 4.392%, 56.745%, 38.863%, +3.345.
+Fact: The **4.5 ★** in Festive Wreath has/costs 3.848%, 44.276%, 51.876%, +3.48.
+Fact: The **5 ★** in Festive Wreath has/costs 3.424%, 36.919%, 59.657%, +3.562.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: The Potential in Festive Wreath has/costs Stat ranges, Average.
+Fact: The +1,000-+1,500 in Festive Wreath has/costs +2,000-+2,500, +3,000-+3,500, +4,000-+4,500, +5,000.
+Fact: The **0 ★** in Festive Wreath has/costs 50.137%, 29.78%, 14.593%, 5.29%, 0.2%, +1,988.615.
+Fact: The **0.5 ★** in Festive Wreath has/costs 44.72%, 33.609%, 15.813%, 5.647%, 0.212%, +2,114.35.
+Fact: The **1 ★** in Festive Wreath has/costs 35.244%, 40.681%, 17.677%, 6.168%, 0.229%, +2,244.998.
+Fact: The **1.5 ★** in Festive Wreath has/costs 13.18%, 58.661%, 20.903%, 7.00046%, 0.255%, +2,438.275.
+Fact: The **2 ★** in Festive Wreath has/costs 6.694%, 56.392%, 28.065%, 8.546%, 0.303%, +2,677.372.
+Fact: The **2.5 ★** in Festive Wreath has/costs 4.062%, 26.691%, 56.387%, 12.451%, 0.408%, +3,000.
+Fact: The **3 ★** in Festive Wreath has/costs 3.294%, 19.23%, 59.525%, 17.436%, 0.516%, +3,208.352.
+Fact: The **3.5 ★** in Festive Wreath has/costs 2.771%, 15.232%, 45.715%, 35.58%, 0.702%, +3,407.148.
+Fact: The **4 ★** in Festive Wreath has/costs 2.392%, 12.663%, 31.626%, 52.221%, 1.098%, +3,587.464.
+Fact: The **4.5 ★** in Festive Wreath has/costs 2.105%, 10.854%, 25.117%, 59.351%, 2.572%, +3,795.07.
+Fact: The **5 ★** in Festive Wreath has/costs 1.879%, 9.506%, 21.016%, 44.02%, 23.579%, +4,011.385.
+Ways To Obtain
+* Opening the Festive Gift Box during Beesmas, located behind Onett's Lid Art.
+Outdated Ways
+* Opening the Festive Gift Box during Beesmas 2021 and 2022 and 2024, located behind Onett's Lid Art. Before Beesmas Summer 2024, if you already have the Festive Wreath, you would get 250 Tickets and a Festive Planter instead.
+* Completing Bee Bear's 25th Beesmas 2020 quest.
+Bee Bear's Festive Bee wearing a Festive Wreath.
+Festive Mark on a field.
+A First Edition Mutated Gifted Festive Bee wearing a Festive Wreath.
+Festive Wreath in a player's Beequip Case.
+* The Festive Wreath and the Reindeer Antlers share many similarities:
+* The two are the only Beequips to have models visible on the bee that they are equipped to.
+* Before the 2024-01-12 update's removal of permanent Beequips, the two were the only permanent Beequips in the game.
+* This was the second permanent Beequip added to the game, preceded by the Reindeer Antlers.
+* They were the only Beequips that cannot be discarded.
+* Caustic Waxes were unable to be used on these two Beequips. However, this is no longer the case.
+* A model of a Festive Bee with the Festive Wreath can be found outside the map, next to a model of a Puppy Bee with Reindeer Antlers.
+* This is the one of three Beequips to give a unique ability.
+* The other two are Snowglobe and Reindeer Antlers.
+* The model of the Festive Wreath on Festive Bee is the Deluxe Christmas Wreath Roblox accessory.
+Fact: The Sub-Inventories in Festive Wreath has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Festive Wreath has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Festive Wreath has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Festive Wreath has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Festive Wreath has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Festive Wreath has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Festive Wreath has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Festive Wreath has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Festive Wreath has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Festive Wreath has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Festive Wreath has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Festive Wreath has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Festive Wreath has/costs **7-Pronged Cog**.
+Fact: The Other in Festive Wreath has/costs **Marshmallow Bee**.
+Fact: The Currencies in Festive Wreath has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Festive Wreath has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Festive Wreath has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Festive Wreath has/costs **Parachute •  Glider**.
+Fact: The Bags in Festive Wreath has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Festive Wreath has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Festive Wreath has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Festive Wreath has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Festive Wreath has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Festive Wreath has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Festive Wreath has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Festive Wreath has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  **Festive Wreath****.
+Fact: The One-time Use in Festive Wreath has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Festive Wreath has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

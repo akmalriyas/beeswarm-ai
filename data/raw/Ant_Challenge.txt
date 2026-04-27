@@ -1,0 +1,104 @@
+Context: Bee Swarm Simulator - Ant Challenge
+
+Ant Challenge
+The interior of the Ant Challenge area.
+The exterior of the Ant Challenge area.
+The Ant Challenge is a challenge found past the Ant Gate, with the objective being to defeat as many ants as possible.
+Accessing and Participating[]
+The player needs 20 bees in order to pass the Ant Gate and play the Ant Challenge. An ant pass is also required each time to participate in the challenge. The player can obtain a free Ant Pass every two hours by using the Free Ant Pass Dispenser behind the Ant Gate. If players wish to get more ant passes, they can purchase another one for 10 Tickets each at the Ant Pass Dispenser. Panda Bear also gives ant passes in his quests sometimes.
+Gameplay[]
+Upon entering, the remaining pollen in a player's bag is instantly converted. The player has 5 minutes to defeat as many ants as they can. The timer on the right side of the anthill shows the time remaining for the challenge. The ants come in waves, starting with level 1 and 2 ants, and they increase in level with each wave. Each wave launches an assortment of ants that contain Regular Ants, Fire Ants, Army Ants, and/or Flying Ants. Every 5th wave always contains a Giant Ant, with the exception of every 40th wave, which contains 2 giant ants. Each ant defeated grants 1 point.
+To progress, fill the meter on the anthill by gathering pollen. The amount of pollen needed to progress to the next wave starts at 4,000 and increases by at least 2,000 more than the previous requirement for each wave.
+A lawnmower during the Ant Challenge.
+Upon reaching wave 8, the white doors on the sides will start flashing red. This indicates that a lawnmower is about to come out and pass through the lane the door directs to. Move away from the targeted lane to avoid getting damaged. Getting hit by a lawnmower deals 50 base damage.
+Lawnmowers will move faster and appear more frequently as the challenge progresses, with multiple lawnmowers running simultaneously possible near the end of the challenge.
+The challenge ends upon the player's death, leaving the challenge, or when the 5 minutes are up, whichever happens first. While having the Haste+ buff, if the player walks up the ant hill, the player may leave the challenge. This is a common glitch.
+Rewards[]
+_See also:Ant Amulet_
+After the challenge ends, a message box pops out on the player's screen presenting the rewards.
+Guaranteed Rewards List
+Royal Jellies
+One of the rewards from this list
+Sunflower Seeds
+Strawberries
+Blueberries
+Neonberries
+Jelly Beans
+Camphor Lip Balm
+Poinsettia(Only During Beesmas)
+Left Facing Ant Sticker(Very Rare)
+Ant Field Stamp Sticker(Unfathomably Rare)
+x2 Convert Speed Voucher(Nearly Impossible)
+The rewards increase in quality and quantity relative to the player's score. A higher score will also give players higher-tier Ant Amulets:
+Fact: The Requirements in Ant Challenge has/costs Amulet.
+Fact: The 0-24 Points in Ant Challenge has/costs Bronze Ant Amulet.
+Fact: The 25-49 Points in Ant Challenge has/costs Silver Ant Amulet.
+Fact: The 50-99 Points in Ant Challenge has/costs Gold Ant Amulet.
+Fact: The 100-149 Points in Ant Challenge has/costs Diamond Ant Amulet.
+Fact: The 150+ Points in Ant Challenge has/costs Supreme Ant Amulet.
+If the player already has an existing Ant Amulet, they may choose to keep their old one or replace it with the new one, depending on which one has better/more favorable buffs.
+* Try to collect as many tokens (Haste, Baby Love, Bear Morph, etc.) as possible before participating in the challenge.
+* Rage tokens can be used to take out ants faster, as they increase Bee Attack.
+* Certain mutations on bees that increase attack will also help in defeating ants faster.
+* Higher level bees will be able to make the later waves easier to get through. Bees with higher attack and/or speed will also prove to be more effective than those with lower attack and/or speed.
+* A high-level Vicious Bee is vital, as the spikes from its ability, Impale, can deal significant damage to multiple ants. In addition, wait to activate the ability when many ants are in the arena to maximize it effectively.
+* A Gifted Stubborn Bee can help in this case as it increases the lifespan of ability tokens, giving the player more time to spawn ants before activating abilities.
+* Windy Bee’s Tornado can be even more effective than Impale in the Ant Challenge. Not only does it collect pollen, but it also deals massive area damage (which cannot miss) and collects tokens. However, haste stacks and powerful sprinklers are required to maximize their potential.
+* Honey tokens can be used to fill the progress meter on the anthill, so the player may consider using Honey Bees or Diamond Bees to spawn Honey Gift tokens, or using a Festive Bee to collect honey tokens from Festive Gifts.
+* Having amulets that boost bee attack damage, a Gifted Brave Bee, and a Gifted Rage Bee makes it easier to defeat ants.
+* The Fire Mask and Demon Mask will boost attack and add Flame-generating passives. Well placed Flames will grant Flame Heat, collect pollen, and do damage to nearby ants.
+* Using Stingers will boost attack for a short time, which helps clear ants faster and deal with higher-level ants. The player can also use Red ExtractsRed and Blue Extracts, Oils, Glues, Tropical Drinks, and Gumdrops. This will help with honey production and boost bee capabilities but isn't necessary to get a good score.
+* Coconuts can prove to be an unpredictable but powerful tool to take out clusters of ants. Coconuts can deal incredible amounts of damage, are capable of damaging high-level ants, and collect decent amounts of pollen.
+* If the player has Coconut Clogs, catching coconuts will also grant Coconut Haste, which temporarily makes the player and their bees faster. This can be useful to escape dangerous areas.
+* To maximize the score, defeat as many ants as possible in the first three minutes, as later waves get more difficult and the lawnmowers appear more frequently and move faster.
+* Tools are the best way to fill up the honey meter, this because your bees will be attacking and won't be able to collect pollen.
+* If there is too many ants and the bees can't deal with them, the player shouldn't use their Tool because it will fill up the honey meter (if in the field) and summon more ants.
+*   * Since the player has 100% Instant Conversion in the Ant Challenge, don't try to go after tokens from Coin Scatter or coconuts, since they won't have much value, as they have nothing to convert from, making them virtually useless.
+* Sprinklers can be useful for regenerating flowers and making pollen collection easier, especially when ants and lawnmowers cut the player off from certain areas of the field.
+* During any beesmas, try to play the ant challenge with the Honeyday Buff, this will increase how fast the meter fills
+* Using the Glider can help as the player can glide over ants and fire trails, escaping from certain situations.
+* Zoom out all the way to see where all the ants are and where lawnmowers may be coming from.
+* When new ants spawn, it is a good idea to go as far away from the ant hill as possible, to avoid being hit by an incoming ant.
+* Star Saw, a Supreme Star Amulet passive, is very effective at defeating ants and collecting pollen.
+* Standing near the side of the field where the lawnmowers come out can make the lawnmowers easier to avoid.
+* The player use the small gap between the field and the wall to avoid running over fire trails, though lawnmowers and ants can still damage the player.
+* If a Honeystorm is summoned during the challenge, it is a good idea to go after the honey tokens in earlier waves or when there aren't too many ants since the honey tokens collected can contribute significantly to the honey meter when a large number of tokens are collected.
+* While the Coconut Canister’s ability, Emergency Coconut Shield, is active, getting hit by the lawnmowers will heal the player instead of damaging them.
+* Wear the Gummy Mask and intentionally activate Gummy Morph during harder stages of the challenge, as this grants +300 attack to Gummy Bee.
+* Intentionally activate the Emergency Coconut Shield 2–4 minutes before starting the challenge to avoid wasting it in early levels.
+* Though the ants spawned during the challenge are random, it is possible to predict what ants might spawn. During the first 15 rounds, flying ants are generally more common than army ants. After 15 rounds, army ants become much more common. Giants ants spawn every 5 waves, and always come with either fire ants or regular ants. This information can be helpful when dealing with quests that require defeating specific types of ants.
+* Having Invigorating Nectar can help buff bee attack.
+<https://bee-swarm-simulator.fandom.com/wiki/File:Antmarch1.ogg>
+Trivia[]
+* If a player uses a Whirligig during an Ant Challenge, it used to teleport the player to the starting platform after teleporting to the hive, thus ending the challenge and granting an amulet with the score the player left with.
+* During an unknown update, this was fixed to teleport the player to the center of the field.
+* However, during a later unknown update, the player is instead teleported back to their hive, which teleports them back to the challenge platform and ends the challenge.
+* Despite being lawnmowers, they actually do not affect any of the flowers when they pass through.
+* Prior to the 2018-11-25 update, the Ant Challenge can only hold up to 20 ants at once.[1]
+* Since the Egg Hunt 2019 update, the player can get Jelly Beans as a reward from the Ant Challenge.
+* If the player uses jelly beans while inside or right outside the Ant Challenge, no jelly bean tokens will appear.
+The Ant Challenge instant conversion buff.
+* Upon entering the arena, the player's bag will instantly be converted, and the player will gain a boost of +100% Instant Conversion. The boost is represented by the Ant Pass icon.
+* There used to be a visual glitch that when leaving the ant challenge, the player would still have this buff. It was only a visual glitch, so the player did not actually have a +100% Instant Conversion boost active.
+* Before the 2018-11-25 update, a Haste token with an expired timer would represent the boost is now represented as the Ant Pass icon.
+* There is an ant pass token hidden behind the Ant Challenge area. To get it, go behind the leaderboard and follow the hallway around the corner. This also leads to the Gummy Bee Egg Claim.
+* If the player has equipped their tool and dies right when the Ant Challenge is about to end, they will respawn without their pollen collector equipped. However, the character's arm will be positioned to look like it’s actually holding it.
+* There used to be a bug where the pollen meter displayed the cumulative total instead of the total required to reach the next wave. This was fixed in the 2018-09-10 update.
+* Players are able to glitch into the Ant Field without triggering the actual challenge. This can only be achieved by having a slow internet connection or bear morph and/or Haste+.
+* If the player leaves their sprinkler(s) in the field and the challenge ends without the player dying, the sprinklers remain in the field.
+* If a player glitches inside and then someone starts it, then the player who glitched in will be kicked out.
+* There is a rare glitch where an Ant or a Fire Ant can get stuck on the wall where the lawnmowers come from.
+* There was a glitch prior to February 2022, where sometimes, when the player starts the challenge, they won't actually be teleported inside, forfeiting the challenge instantly.
+* Giant Ants will give the player's bees 3 bond, being the least efficient way to level up bees.
+* It is only possible to go through 100 waves of the challenge. This is because it takes about three seconds to progress to the next wave and there is a total time limit of 5 minutes (300 seconds). 300 seconds divided by 3 seconds per wave would be 100 waves.
+* If the player manages to somehow glitch out of the Ant Challenge, the player will be teleported back to the center of the field. However, if you do this repeatedly, eventually the challenge will end and a message will pop up saying "Ant Challenge ended because you left."
+References[]
+1. ↑ [1] Discord message from Onett.
+Fact: The Fields in Ant Challenge has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Ant Challenge has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Ant Challenge has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Ant Challenge has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Ant Challenge has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Ant Challenge has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Ant Challenge has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • **Ant Challenge** • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Ant Challenge has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

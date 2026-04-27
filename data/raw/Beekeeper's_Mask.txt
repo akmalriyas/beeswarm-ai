@@ -1,0 +1,66 @@
+Context: Bee Swarm Simulator - Beekeeper's Mask
+
+Beekeeper's Mask
+Beekeeper's Mask
+Description
+"A veiled hat only worn by real-deal beekeepers."
+Fact: Description requirement: 20,000,000 Honey, 5 Enzymes, 3 Glue, and 1 Glitter..
+Bonus Stats
+Fact: Bonus Stats statistic: +20% Pollen.
+Fact: Bonus Stats statistic: +20% Bee Gather Pollen.
+Fact: Bonus Stats statistic: +10% Bee Ability Rate.
+Fact: Bonus Stats statistic: +25% Defense.
+> "_A veiled hat only worn by real-deal beekeepers._ "
+The Beekeeper's Mask is a mask that can be purchased from the Mountain Top Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 20,000,000 Honey.
+Fact: Crafting Ingredients requirement: 5 Enzymes.
+Fact: Crafting Ingredients requirement: 3 Glues.
+Fact: Crafting Ingredients requirement: 1 Glitter.
+Fact: Crafting Ingredients statistic: * +20% Pollen.
+Fact: Crafting Ingredients statistic: * +20% Pollen from Bees.
+* +10% Bee Ability Rate
+* +25% Defense
+Gallery[]
+The Beekeeper Mask icon
+A player wearing the Beekeeper Mask
+Trivia[]
+* This, the Propeller Hat, the Helmet, and the Strange Goggles are the only hat accessories whose designs are not based on a bee.
+* Prior to the 2018-11-25 update, it was the most expensive hat accessory in the game, costing 25 million honey and no crafting materials.
+* This item was rebalanced in the 2018-09-10 Update. Before the update, its stats were:
+Fact: Trivia[] statistic: * +25% Pollen from Bees.
+* +25% Instant Conversion
+* +25% Defense
+* +10% Bee Ability Rate
+* +100% Loot Luck
+* +20 Jump Power
+* +6 Player Movespeed
+Fact: The Sub-Inventories in Beekeeper's Mask has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Beekeeper's Mask has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Beekeeper's Mask has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Beekeeper's Mask has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Beekeeper's Mask has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Beekeeper's Mask has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Beekeeper's Mask has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Beekeeper's Mask has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Beekeeper's Mask has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Beekeeper's Mask has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Beekeeper's Mask has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Beekeeper's Mask has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Beekeeper's Mask has/costs **7-Pronged Cog**.
+Fact: The Other in Beekeeper's Mask has/costs **Marshmallow Bee**.
+Fact: The Currencies in Beekeeper's Mask has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Beekeeper's Mask has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Beekeeper's Mask has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Beekeeper's Mask has/costs **Parachute •  Glider**.
+Fact: The Bags in Beekeeper's Mask has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Beekeeper's Mask has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Beekeeper's Mask has/costs **Helmet •  Strange Goggles •  Propeller Hat •  **Beekeeper's Mask** •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Beekeeper's Mask has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Beekeeper's Mask has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Beekeeper's Mask has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Beekeeper's Mask has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Beekeeper's Mask has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Beekeeper's Mask has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Beekeeper's Mask has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

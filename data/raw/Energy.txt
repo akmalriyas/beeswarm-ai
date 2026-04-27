@@ -1,0 +1,14 @@
+Context: Bee Swarm Simulator - Energy
+
+Energy represents the number of times a bee will gather pollen from a flower, sip nectar, and attack mobs before returning to the hive to rest. Each action costs one energy. Spawning Ability Tokens does not use up energy. The energy of all bees in a hive can be increased with stacks of Polar Power from Polar Bear's quests, certain mutations, certain Beequips or by leveling up bees.
+It takes 30 seconds for a bee to rest and recover all its energy in the hive. However, there are some exceptions. Shocked Bee takes a lesser time to sleep, as well as Exhausted Bee and Photon Bee never sleeping at all. However, if the player dies or resets all bees will return to the hive to sleep regardless of any buffs, and they sleep for 30 seconds except Shocked Bee who sleeps for only 15 seconds.
+When a bee runs out of energy, a message will appear, stating,   [Type] Bee is out of energy! It's going to sleep.
+Gallery[]
+Several bees on their way to recover in the player's hive after using the double reset glitch.
+Energy bug.
+Trivia[]
+* The bees with the highest finite energy are the Lion Bee and Buoyant Bee.
+* There was a glitch where the energy of a bee would go to an absurd amount if the player used a Royal Jelly on an Exhausted Bee or Photon Bee.
+* There was glitch where dying twice in quick succession caused the player's bees to go to sleep and recover energy, instead of just the 30 second cooldown after death. This included Photon Bee and Exhausted bee, likely due to them not actually having "infinite" energy. This has been patched.
+* Exhausted Bee's base energy is set to 999,999,999,999.
+* Photon Bee's base energy is set to 999,999,999,999,999.

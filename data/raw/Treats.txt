@@ -1,0 +1,70 @@
+Context: Bee Swarm Simulator - Treats
+
+Treats are items which grant bond to bees. There are currently twelve different types of treats.
+To feed treats to their bees, players must go to their hive and open their item menu. The player must then drag the treat from the menu and to the cell of the bee to be fed, and then either type in the number of treats to feed that bee, use all of the selected treats or if possible, feed the number of treats needed to level up the bee. If the player is feeding a bee their favorite treat, gingerbread bears, or aged gingerbread bears, there is an "Until Gifted" option that automatically rolls until the bee becomes gifted, similar to using auto-jelly. The player cannot feed other player's bees.
+*  Sunflower Seed
+*  Strawberry
+*  Pineapple
+*  Blueberry
+*  Star Treat
+*  Moon Charm
+*  Bitterberry
+*  Neonberry
+*  Atomic Treat
+*  Gingerbread Bear
+*  Aged Gingerbread Bear
+Treat Table[]
+Fact: The None in Treats has/costs Bear Bee  Cobalt Bee  Crimson Bee  Digital Bee  Festive Bee  Gummy Bee  Photon Bee  Puppy Bee  Tabby Bee  Vicious Bee  Windy Bee.
+* According to Onett "Onett \(Developer\)"), the chance to get a Gifted bee from feeding favorite treats varies depending on their rarity. The chances are 1 in 8,000 for Rare bees, 1 in 10,000 for Epic bees, 1 in 12,000 for Legendary and Common bees, and 1 in 24,000 for Mythic bees.
+Trivia[]
+* A singular star treat or atomic treat gives the most bond (1,000 bond), followed by a single neonberry and aged gingerbread bear (500 bond), then gingerbread bears and moon charms (250 bond).
+* Before the 2019-04-05 update, when asked to feed strawberries or blueberries to a bee, the plural was incorrectly spelled as "Strawberrys" and "Blueberry" instead of "Strawberries" and "Blueberries."
+* However, when using fruit to craft gumdrops, for example, it is still spelled as "Blueberrys" and "Strawberrys."
+* Despite being mentioned by Spirit Bear as once being a Blueberry Field, the Blue Flower Field doesn't seem to yield more blueberries than other blue fields.
+* Treats, pineapples, strawberries, and blueberries are the only treats that can be obtained from dispensers.
+* There is a glitch in which dragging an item that is not a treat (ex: magic bean, gumdrops) to the bee causes the hive slot to turn red.
+* Onett "Onett \(Developer\)") has said that bees don't actually eat the treats, instead, they take them as gifts and hide them in fields for others to find, though Mother Bear says to feed a treat to a bee in her first quest.
+* Before the 2018-11-25 update, moon charm tokens from fireflies didn't glow.
+* Before Beesmas 2019 ended, star treats were the most expensive item in the Ticket Tent, at the price of 1,000 tickets. Since then, the cub buddy went on sale for 2,000 tickets. The mythic egg is currently the most expensive item after the removal of cub buddy from the Ticket Tent, at 2,500 tickets.
+* Before the 2019-02-01 update, Puppy Bee's Fetch treat and Festive Gift's treat tokens were the only treats that the player could collect with Token Link.
+* A normal treat resembles a Basic Bee's face.
+* A star treat is the only treat that cannot be obtained from sprouts.
+* The star treat formerly gave 100 bond instead of 1,000.
+* The pineapple used to be the only treat to have 9 bees favorite it, with other treats having 8 or less bees.
+* Currently, the strawberry is the only treat to have 8 bees favorite it, as the other treats now have 9 bees.
+* The bitterberry resembles the real-life _solanum mammosum_ , also known as a fox head or a nipplefruit.
+* The moon charm is the only item that gives bond that can be crafted in the blender.
+* Donating treats like blueberries and strawberries to the Wind Shrine can help get certain colored field winds, depending on the color of the fruit.
+* Before the 2021-12-26 update, any type of treat (besides neonberry) could only be given to a bee by 1, 50, or all/level up {number of treats}.
+* At the end of Bee Bear's quest, "By Golly, Get Jolly," Bee Bear states that star treats have a favorite song as a joke.
+* If the player tries to feed a bee using an input that isn't a number, only one treat gets fed to the bee.
+* The Sunflower Seed is the only main treat that cannot be accessed through shops or dispensers.
+Fact: The Sub-Inventories in Treats has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Treats has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Treats has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Treats has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Treats has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Treats has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Treats has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Treats has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Treats has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Treats has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Treats has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Treats has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Treats has/costs **7-Pronged Cog**.
+Fact: The Other in Treats has/costs **Marshmallow Bee**.
+Fact: The Currencies in Treats has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Treats has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Treats has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Treats has/costs **Parachute •  Glider**.
+Fact: The Bags in Treats has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Treats has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Treats has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Treats has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Treats has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Treats has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Treats has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Treats has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Treats has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Treats has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

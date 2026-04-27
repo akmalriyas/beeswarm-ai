@@ -1,0 +1,49 @@
+Context: Bee Swarm Simulator - Eviction
+
+Eviction
+Description
+"Removes a bee from the hive."
+Fact: "Removes a bee from the hive." requirement: 50,000 Honey.
+The Eviction was an inventory item that used to be purchasable in the Mountain Top Shop for 50,000 Honey. When used, it removed a bee from the hive. It was the cheapest item available at the Mountain Top Shop before being removed.
+Evictions were mainly used to remove bees and replace them with eggs if the player couldn't afford a Hive Slot, taking note that eggs could not be placed on hive slots with a bee in the game version that had evictions.
+The Eviction Shop in the Mountain Top Shop.
+Evicting a bee would completely reset the hive slot, meaning that the bee's bond, level, and gifted status, would be reset, so if a new egg were hatched, the new bee would have started at level 1. The previous bee will not affect the bee type or gifted status of the new bee.
+All evictions that anyone might have had will no longer be in their inventory.
+Way(s) To Obtain[]
+There are currently no methods to obtain the Eviction , as it has been removed from the game.
+The methods below are no longer possible.
+* Purchasing an Eviction in the Mountain Top Shop for 50,000 Honey.
+* Finishing Bubble Bee Man's Beesmas 2018 quest 'B.B.M. Mission' rewarded 800 Evictions and other items.
+Removal Reason[]
+As of the 2019-09-28 update, the player can now use eggs on existing bees, removing the need to evict bees, while also allowing a bee to keep its level. Thus, Onett "Onett \(Developer\)") removed the Eviction from both the shop and every player's inventory.
+Gallery[]
+The Eviction's associated sticker.
+Fact: The Sub-Inventories in Eviction has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Eviction has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Eviction has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Eviction has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Eviction has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Eviction has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Eviction has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Eviction has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Eviction has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Eviction has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Eviction has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Eviction has/costs ****Eviction** •  Plastic Egg**.
+Fact: The Unobtainable in Eviction has/costs **7-Pronged Cog**.
+Fact: The Other in Eviction has/costs **Marshmallow Bee**.
+Fact: The Currencies in Eviction has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Eviction has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Eviction has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Eviction has/costs **Parachute •  Glider**.
+Fact: The Bags in Eviction has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Eviction has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Eviction has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Eviction has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Eviction has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Eviction has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Eviction has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Eviction has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Eviction has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Eviction has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

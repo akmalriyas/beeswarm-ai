@@ -1,0 +1,25 @@
+Context: Bee Swarm Simulator - Soundtrack
+
+Soundtrack
+Music is a component in Bee Swarm Simulator. It is heard in the background during gameplay. Certain areas of the map have different songs. Music can be turned on or off in the System Page.
+There are 15 songs principally used, all found in Onett's inventory.
+Fact: The Title in Soundtrack has/costs File Name, Length, Roblox Library ID, Audio, Where does it play?.
+Fact: The Wax in Soundtrack has/costs wax, 1:24, 1479981863, <https://bee-swarm-simulator.fandom.com/wiki/File:Wax.ogg>, **Plays in theStarter Zone and past the Ant Gate. (Does not play during Beesmas, drone plays instead)**.
+Fact: The Bpatrol in Soundtrack has/costs bpatrol, 1:52, 1482721762, <https://bee-swarm-simulator.fandom.com/wiki/File:Bpatrol.ogg>, **Plays anywhere past theBasic Bee Gate.**.
+Fact: The Crawlers in Soundtrack has/costs crawlers, 2:29, 1598349092, <https://bee-swarm-simulator.fandom.com/wiki/File:Crawlers.ogg>, **Plays inside theKing Beetle Lair, White Tunnel, and in Commando Chick's Hideout.**.
+Fact: The Overflowin in Soundtrack has/costs overflowin4, 1:37, 2052242315, <https://bee-swarm-simulator.fandom.com/wiki/File:Overflowin4.ogg>, **Plays past theBear Gate, inside The Computer, and the Windy Bee Gate.**.
+Fact: The AntMarch in Soundtrack has/costs antmarch1, 1:41, 1954880569, <https://bee-swarm-simulator.fandom.com/wiki/File:Antmarch1.ogg>, **Plays while performing theAnt Challenge.**.
+Fact: The StarHall in Soundtrack has/costs starhall, 4:31, 2062483297, <https://bee-swarm-simulator.fandom.com/wiki/File:Starhall.ogg>, **Plays inside theStar Hall (the audio in-game is slowed down).**.
+Fact: The MountainCall in Soundtrack has/costs mountaincall, 2:36, 2281113770, <https://bee-swarm-simulator.fandom.com/wiki/File:Mountaincall.ogg>, **Plays duringnighttime.**.
+Fact: The GBTune1 in Soundtrack has/costs gbtune1, 1:27, 2529553350, <https://bee-swarm-simulator.fandom.com/wiki/File:Gbtune1.ogg>, **Plays insideGummy Bear's Lair, near the Gummy Bee Egg Claim, and near the Gooey Present area.**.
+Fact: The Vendor in Soundtrack has/costs vendor, 1:48, 2529614730, <https://bee-swarm-simulator.fandom.com/wiki/File:Vendor.ogg>, **Plays inside theNoob Shop, Pro Shop, Mountain Top Shop, Badge Bearer's Guild, Blue HQ, Red HQ, Petal Shop, Hive Hub, and in the Blue Maze.**.
+Fact: The Stickbug in Soundtrack has/costs stickbug, 1:29, 2562631515, <https://bee-swarm-simulator.fandom.com/wiki/File:Stickbug.ogg>, **Plays during theStick Bug Challenge.**.
+Fact: The Drone in Soundtrack has/costs drone, 3:24, 2677450793, <https://bee-swarm-simulator.fandom.com/wiki/File:Drone.ogg>, **Plays in theStarter Zone and past the Ant Gate during the Beesmas Event.**.
+Fact: The Hibernation in Soundtrack has/costs hibernation1, 3:42, 2993535935, <https://bee-swarm-simulator.fandom.com/wiki/File:Hibernation.ogg>, **Plays inside thesecret area below the game.**.
+Fact: The Nectar in Soundtrack has/costs nectar, 1:25, 8275544372, <https://bee-swarm-simulator.fandom.com/wiki/File:Nectar.mp3>, **Plays inside ofDapper Bear's Shop.**.
+Fact: The Digitize in Soundtrack has/costs digitize, 1:14, 11791297411, <https://bee-swarm-simulator.fandom.com/wiki/File:Digitize.ogg>, **Plays during a round of theRobo Bear Challenge or when a Robo Party is active.**.
+Fact: The RBCLoading in Soundtrack has/costs rbcloading, 0:29, 11791584693, <https://bee-swarm-simulator.fandom.com/wiki/File:Rbcloading.ogg>, **Plays before a round of theRobo Bear Challenge starts.**.
+Trivia[]
+* A majority of the songs were made using a music program called "Nanostudio" and "Nanostudio 2".
+* icedtealatte made the StarHall song.
+* This makes StarHall the only known song in game to be made by someone other than Onett "Onett \(Developer\)").

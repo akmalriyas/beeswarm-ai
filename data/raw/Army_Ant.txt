@@ -1,0 +1,58 @@
+Context: Bee Swarm Simulator - Army Ant
+
+An Army Ant is one of five mobs that is part of a family called Ants that are exclusively found in the Ant Challenge, past the Ant Gate.
+Army Ant
+Location
+Ant Field while the Ant Challenge is active.
+Fact: The Health in Army Ant has/costs Damage.
+Fact: The 50 base; Increase by level in Army Ant has/costs 40.
+Fact: The Battle Points in Army Ant has/costs Bond.
+Fact: The None in Army Ant has/costs 1.
+Fact: The Honey in Army Ant has/costs Level.
+Fact: The None in Army Ant has/costs 1-16 (Varies with Wave).
+This is one of the first Ant Challenge mobs that the player will encounter, capable of appearing on the very first wave. Despite being able to appear on the first wave, Army Ants usually start appearing at around the second or third waves.
+Army Ants have army helmets on their heads and will pursue the player. They have the ability to pounce on the player and have a little more health than most other ants. Less damage is dealt to these ants because of their defense.
+An Army Ant's level can increase depending on what wave of the Ant Challenge the player is on. They can range from level 1 up to level 16.
+Health per Level[]
+Fact: The Level in Army Ant has/costs Health.
+Fact: The 1 in Army Ant has/costs 50.
+Fact: The 2 in Army Ant has/costs 60.
+Fact: The 3 in Army Ant has/costs 70.
+Fact: The 4 in Army Ant has/costs 100.
+Fact: The 5 in Army Ant has/costs 130.
+Fact: The 6 in Army Ant has/costs 170.
+Fact: The 7 in Army Ant has/costs 210.
+Fact: The 8 in Army Ant has/costs 250.
+Fact: The 9 in Army Ant has/costs 300.
+Fact: The 10 in Army Ant has/costs 350.
+Fact: The 11 in Army Ant has/costs 400.
+Fact: The 12 in Army Ant has/costs 460.
+Fact: The 13 in Army Ant has/costs 520.
+Fact: The 14 in Army Ant has/costs 580.
+Fact: The 15 in Army Ant has/costs 640.
+Fact: The 16 in Army Ant has/costs 710.
+Strategies[]
+* Army Ants are quite slow which gives the player time to react and dodge before they pounce on the player.
+* Jumping past the Army Ant will enable your bees to lock onto the Army Ant while letting the player get around the Army Ant without getting pounced on.
+* If they appear, they occasionally spawn in waves, but not always. Vicious Bee and Windy Bee provide excellent crowd control with their abilities which could greatly help counter the large amounts of Army Ants landing on the field. Digital Bee can also stun many Army Ants at once and allow them to take extra damage via Mind Hack.
+Gallery[]
+An Army Ant next to a Gifted Frog.
+A pair of Army Ants next to a Fire Ant.
+An Army Ant getting hit by Vicious Bee's Impale.
+A statue of an Army Ant on the Ant Gate.
+An Army Ant being depicted on the Ant Pass.
+Trivia[]
+* These are the only mobs to wear equipment that gives defense against attacks.
+* There is a gate dedicated to it, which is the Ant Gate.
+* This mob is depicted on the Ant Pass.
+Fact: The Normal in Army Ant has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Army Ant has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Army Ant has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Army Ant has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Army Ant has/costs Ants, **Ant • **Army Ant** • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Army Ant has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Army Ant has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Army Ant has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Army Ant has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Army Ant has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Army Ant has/costs **Chick • Hostage Chick • Spotted Chick**.

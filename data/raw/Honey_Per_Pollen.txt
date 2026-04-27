@@ -1,0 +1,75 @@
+Context: Bee Swarm Simulator - Honey Per Pollen
+
+Fact: Honey Per Pollen statistic: # Honey Per Pollen.
+Fact: Honey Per Pollen statistic: **Honey Per Pollen** is a mechanic that increases the amount of honey earned when converting pollen. For example, if a player has 10 pollen in their container, with a 110% Honey Per Pollen multiplier, they would receive 11 honey if converted. 20 to 22, etc. To determine how much honey will be earned when converting pollen, multiply bag space _B_ , by Honey Per Pollen percentage..
+Fact: Honey Per Pollen statistic: Similar to many other boosts, (for example, Instant Conversion) the player can always check their current percentage of Honey Per Pollen on the System Page. It starts off at 100% and increases later on when the player gets more and more Honey Per Pollen boosts..
+Fact: Honey Per Pollen statistic: Honey Per Pollen, along with other boosts like Instant Conversion, goo, and extra capacity, is one of the best ways to get maximum efficiency when producing honey. These boosts, when combined with each other, are extremely helpful overall. It can affect the player's condition when, for example, grinding or converting your hive balloon..
+Fact: Honey Per Pollen statistic: Keep in mind that there is a difference between Instant Conversion and Honey Per Pollen. While both help with honey production, Instant Conversion converts pollen collected in fields into honey instantly. However, Honey Per Pollen affects the amount of honey the player makes for every pollen..
+Fact: Honey Per Pollen statistic: ## Increasing Honey per Pollen[].
+Fact: Honey Per Pollen statistic: The player can increase their Honey Per Pollen from the following sources..
+Fact: The Sources in Honey Per Pollen has/costs Boost, Duration, Other notes.
+Fact: The Moon Amulet in Honey Per Pollen has/costs +2-8%, Permanent, Boost is randomized upon generating the amulet..
+Fact: The Gummy Bee's Gifted Hive Bonus in Honey Per Pollen has/costs +5%, Permanent.
+Fact: The Goo Badge in Honey Per Pollen has/costs +2-10%, Permanent, Boost is in increment of 2, 4, 6, 8, and 10 depending on badge tier..
+Fact: The Festive Mark in Honey Per Pollen has/costs +10%, As long as within the Festive Mark range (effectively the Festive Mark's duration)., Boost only obtainable while in the field..
+Fact: The Cool Breeze (from Snowflake or Snowglobe) in Honey Per Pollen has/costs +1%~+5%, Up to 15 minutes, Boost is proportional to the buff duration (unstable)..
+Maximum boost is possible with Snowflake which is available only during Beesmas.
+Fact: The Festive Nymph Blessing (from Festive Nymph) in Honey Per Pollen has/costs +1~5%, 8 hours, Festive Nymph is available only during Beesmas..
+Fact: The Honey Jar Ornament in Honey Per Pollen has/costs +5%, Semi-permanent, Lasts permanently until Beesmas ends..
+Fact: The Wealth Clock in Honey Per Pollen has/costs x1.01-1.05, Semi-permanent, Lasts permanently until the player is off the game for longer than 15 minutes..
+Fact: The Satisfying Nectar in Honey Per Pollen has/costs x1.01~1.05, up to 24 hours, Boost is proportional to the buff duration (unstable)..
+Fact: The Refreshing Nectar in Honey Per Pollen has/costs x1.01~1.05, up to 24 hours, Boost is proportional to the buff duration (unstable)..
+Fact: The Motivating Nectar in Honey Per Pollen has/costs x1.01~1.05, up to 24 hours, Boost is proportional to the buff duration (unstable)..
+Fact: The Invigorating Nectar in Honey Per Pollen has/costs x1.01~1.05, up to 24 hours, Boost is proportional to the buff duration (unstable)..
+Fact: The Comforting Nectar in Honey Per Pollen has/costs x1.01~1.05, up to 24 hours, Boost is proportional to the buff duration (unstable)..
+Fact: The Sticker Stack Buff  Sticker in Honey Per Pollen has/costs Boost.
+Fact: The Yellow Swirled Marble in Honey Per Pollen has/costs +0.5%.
+Fact: The Diamond Trim in Honey Per Pollen has/costs +0.5%.
+Fact: The Cyan Decorative Border in Honey Per Pollen has/costs +0.5%.
+Fact: The Left Gold Swirl Fleuron in Honey Per Pollen has/costs +0.5%.
+Fact: The Right Gold Swirl Fleuron in Honey Per Pollen has/costs +0.5%.
+Fact: The Left Shining Diamond Fleuron in Honey Per Pollen has/costs +0.5%.
+Fact: The Right Shining Diamond Fleuron in Honey Per Pollen has/costs +0.5%.
+Fact: The Left Mythic Gem Fleuron in Honey Per Pollen has/costs +0.5%.
+Fact: The Right Mythic Gem Fleuron in Honey Per Pollen has/costs +0.5%.
+Fact: The Total in Honey Per Pollen has/costs +4.5%.
+Fact: Total statistic: With all combined, the maximum Honey per Pollen a player can get normally is ~184.26% (137.5% before any unique multipliers). And during Beesmas the maximum possible is ~204.36% (152.5% before any unique multipliers)..
+Fact: Total statistic: ## Other Honey per Pollen[].
+Fact: Total statistic: As there are multiple method to converting pollen into honey, there are other variant of Honey per Pollen that applies from converting in one of those method, such as converting honey at hive and Instant Conversion. Similar to Honey per Pollen they start off at 100%..
+Fact: Total statistic: Each Honey per Pollen variant stacks multiplicatively with Honey per Pollen, and other Honey per Pollen variant if possible. For example, with 110% Honey per Pollen and 150% Honey at Hive, the player is effectively having 165% Honey per Pollen only when converting pollen to honey at hive..
+Honey at Hive[]
+Fact: Honey at Hive[] statistic: **Honey at Hive** is a Honey per Pollen that applies when the player converts their pollen into honey at their hive..
+Fact: The Sources in Honey Per Pollen has/costs Boost, Duration, Other notes.
+Fact: The Dandelion Badge in Honey Per Pollen has/costs +3-15%, Permanent, Boosts in increment of 3, 6, 9, 12, and 15 depending on badge tier..
+Fact: The Balloon Blessing (from Balloon) in Honey Per Pollen has/costs x1.015~2.5, 1 hour.
+Fact: The Satisfying Nectar in Honey Per Pollen has/costs x1.05~1.5, up to 24 hours, Boost is proportional to the buff duration (unstable)..
+Fact: The Beequips' Hive Bonus  Beequip in Honey Per Pollen has/costs Boost, Max Equip Count.
+Fact: The Per Unit in Honey Per Pollen has/costs Max Total.
+Fact: The Festive Wreath in Honey Per Pollen has/costs +0-10%, +10%, 1.
+Fact: The Elf Cap in Honey Per Pollen has/costs +0-20%, +40%, 2.
+Fact: The Charm Bracelet in Honey Per Pollen has/costs +0-1%, +1%, 1.
+Fact: The Candy Ring in Honey Per Pollen has/costs +2-25%, +25%, 1.
+Fact: The Maximum Total in Honey Per Pollen has/costs +76%, 5 beequip slots.
+Fact: The Sticker Stack Buff  Sticker in Honey Per Pollen has/costs Boost.
+Fact: The Basic Red Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Basic Blue Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Basic Pink Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Basic Green Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Basic White Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Basic Black Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Wavy Yellow Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Wavy Cyan Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Wavy Purple Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Wavy Festive Hive Skin in Honey Per Pollen has/costs +1%.
+Fact: The Window in Honey Per Pollen has/costs +1%.
+Fact: The Simple Skyscraper in Honey Per Pollen has/costs +1%.
+Fact: The Total in Honey Per Pollen has/costs +12%.
+With all combined, the maximum possible Honey at Hive a player can get is 761.25% (203% before any unique multipliers).
+Fact: Total statistic: Combined with Honey per Pollen (which player can have even at hive), player can get a maximum of ~1300.67% honey per pollen when converting at hive, or ~1453.68% when including boosts from Beesmas..
+Honey from Instant Conversion[]
+Fact: Honey from Instant Conversion[] statistic: **Honey from Instant Conversion** is a Honey per Pollen that applies when pollen is converted by any Instant Conversion, that is instant conversion itself, Instant Converter, and anything that converts pollen from capacity except converting pollen at hive. Honey from Instant Conversion stat can't be found in System Page and the source is very limited..
+Fact: The Beequips' Hive Bonus  Beequip in Honey Per Pollen has/costs Boost, Max Equip Count.
+Fact: The Per Unit in Honey Per Pollen has/costs Max Total.
+Fact: The Camphor Lip Balm in Honey Per Pollen has/costs +0-10%, +10%, 1.
+Fact: The Pink Eraser in Honey Per Pollen has/costs +0.5-4%, +4%, 1.
+Fact: The Maximum Total in Honey Per Pollen has/costs +14%, 2 beequip slots.

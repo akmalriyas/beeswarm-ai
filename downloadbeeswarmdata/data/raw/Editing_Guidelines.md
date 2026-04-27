@@ -1,0 +1,20 @@
+# Editing Guidelines
+
+To reduce edit wars and other frustrations, please read the following guidelines below before making any edits. Additionally, for formatting and page content, please see the [Manual of Style](/wiki/Bee_Swarm_Simulator_Wiki:Manual_of_Style "Bee Swarm Simulator Wiki:Manual of Style"). 
+
+  * **Vandalism and troll edits are never tolerated.**
+  * **Assume good faith while editing.** If you see someone add something incorrect or mess up formatting, unless it is blatantly malicious, assume the other user meant well with the edit.
+  * **Edit Wars:** If you find yourself making the same edit a second time after it was reverted by another user, **check the page history**. There's probably a good reason why your original edit was reverted. 
+    * If you and another user cannot agree on an edit, contact them on their message wall. If you still cannot reach an agreement, contact a staff member. Continuation of the conflict on the article will result in punishment.
+  * **Edit Farming: Avoid editing the same page multiple times in a row.** There are previews to allow you to see the results of your edits. If you can't get it right in two edits, **stop editing** and ask for help. 
+    * Editing the same page multiple times in succession can result in an assumption that you are edit farming.
+  * **New Pages:** At this point, unless there's been an update, **you shouldn't be adding new pages**. If you can't find a page, assume the fault lies with you unless and until proven otherwise. You can create a post on the [Discussions](https://bee-swarm-simulator.fandom.com/f) if necessary.
+
+
+  * **Unnecessary Pages:** If you find a page that shouldn't exist (unrelated, duplicate, fanon), inform a [staff](/wiki/Bee_Swarm_Simulator_Wiki:Staff "Bee Swarm Simulator Wiki:Staff") member or edit the page and put the special code `{{Delete}}` at the top.
+  * When making an edit, it is good practice to **add a short summary of your edit**. This can help prevent miscommunication when editing.
+  * **Generative AI is not permitted to create the contents of articles.** There are few scenarios where it would be necessary, especially considering that much of the information is already based on the wiki itself.
+  * **Do not sign any main pages with your name.** Your username will be in the edit history and it does not contribute positively to the page.
+  * **Do not edit another user's profile without their permission.** There are few scenarios where it is necessary and can fall under vandalism.
+
+

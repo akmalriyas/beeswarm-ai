@@ -1,0 +1,47 @@
+Context: Bee Swarm Simulator - Bee Swarm Simulator
+
+Bee Swarm Simulator
+The most used icon for Bee Swarm Simulator.
+Bee Swarm Simulator's logo.
+Bee Swarm Simulator is an online multiplayer game made in Roblox by Onett "Onett \(Developer\)"). The purpose of the game is to hatch bees to make a swarm, collect pollen, and make it into honey. The game was in development for about three months[1][2] until it was created on March 21, 2018 and was released to the public on March 23, 2018.
+_Please note that this page does not need much expansion or information as this wiki is dedicated to the game. Please check out the other pages for more info._
+Gameplay
+The player starts off with the Tutorial, an optional 36-page slideshow which can be accessed again at any time from the “?” button on the top right corner of the screen. After that, they can claim any of the 6 unclaimed hives by pressing 'E' or clicking on the large blue button on the top of the screen when you are near your hive. New players will automatically receive a Basic Egg, a Pouch, and a Scooper. The player can use their tool to collect pollen from any Fields available. Their bag will store the pollen collected, and their bee(s) can convert the pollen into honey while the player is at their hive. The honey can be used to purchase new Tools, Accessories, Eggs, and various other Items to progress further into the game.
+The player can also receive Quests from NPCs, which mainly focus on collecting pollen and defeating Mobs, but can also have other, more advanced objectives, like collecting Ability tokens and Goo.
+Private Servers
+Private servers cost 150 Robux per month. Owners of private servers have access to the following commands:
+* "/kick PlayerName" - Kicks the given player. PlayerName must be their true Roblox username, the one that displays over their hive (not their Display Name).
+* "/ban PlayerName" - Kicks the named player and automatically kicks them if they attempt to rejoin the server. This ban will remain until the server is closed or "/unban" is used.
+* "/unban PlayerName" - Removes the named player from the ban list.
+If a private server becomes inactive by not paying for it, banned players will be unbanned when the server becomes active again.
+Game Milestones
+Fact: The Milestone in Bee Swarm Simulator has/costs Date Achieved, Reward given.
+Fact: The 4 Billion Visits in Bee Swarm Simulator has/costs 2026-02-06, Code: FOURtunate.
+Fact: The BSS Discord hit 1 million members in Bee Swarm Simulator has/costs 2026-01-18, Code: DiscordMillion.
+Fact: The 3 Billion Visits in Bee Swarm Simulator has/costs 2024-12-01, Expired Code: ThreeBeeVee.
+Fact: The BSS Club hit 15 million members in Bee Swarm Simulator has/costs 2024-03-10, Code: 15mMembers.
+Fact: The 2 million likes in Bee Swarm Simulator has/costs 2023-11-24, Expired Code: 2MLikes.
+Fact: The 2 billion visits in Bee Swarm Simulator has/costs 2022-09-04, Expired Code: 2Billion.
+Fact: The BSS Club hit 10 million members in Bee Swarm Simulator has/costs 2021-11-28, Expired Code: 10mMembers.
+Fact: The 1 million likes in Bee Swarm Simulator has/costs 2020-12-13, Expired Code: 1MLikes.
+Fact: The 1 billion visits in Bee Swarm Simulator has/costs 2020-08-13, Expired Code: BillionVisits.
+Fact: The BSS Club hit 5 million members in Bee Swarm Simulator has/costs 2020-04-16, Expired Code: 5MMembers.
+Fact: The BSS Club hit 4 million members in Bee Swarm Simulator has/costs 2019-10-19, Expired Code: 4MilMembers.
+Fact: The 500 million visits in Bee Swarm Simulator has/costs 2019-05-03, Expired Code: 500mil.
+Fact: The Won Gameplay, Best Group, and Game of the Year in Bee Swarm Simulator has/costs 2019-02-23, Expired Code: BloxyCelebration.
+Fact: The Nominated in 4 Bloxy categories in Bee Swarm Simulator has/costs 2018-11-17, Expired Code: BloxyBoost.
+Fact: The 2 million favorites in Bee Swarm Simulator has/costs 2019-01-09, Expired Code: 2MFavorites.
+Fact: The 300 million visits in Bee Swarm Simulator has/costs 2018-11-05, Expired Code: 300MVisits.
+Fact: The 1 million favorites in Bee Swarm Simulator has/costs 2018-07-04, Expired Code: 1Mfavorites.
+Fact: The BSS Club hit 1 million members in Bee Swarm Simulator has/costs 2018-06-05, Expired Code: MillionMembers.
+Fact: The 100 million visits in Bee Swarm Simulator has/costs 2018-06-04, Expired Code: 100mvisits.
+Game Statistics
+Bee Swarm Simulator currently has 4B+ visits, 6.35M+ favorites, 2.8M+ likes, 135K dislikes and a 95% rating.
+Bee Swarm Simulator is the nineteenth game on Roblox to reach 1 billion visits.
+Bee Swarm Simulator is the third most visited simulator on Roblox.
+Thumbnails
+(Current Thumbnail)
+(Current Icon)
+References
+1. ↑ [1] Discord message from Onett in the Bee Swarm Simulator Discord server.
+2. ↑ [2] Roblox Wiki Developer Connections Project interview with Onett.

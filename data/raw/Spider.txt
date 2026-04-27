@@ -1,0 +1,67 @@
+Context: Bee Swarm Simulator - Spider
+
+Location
+Spider Field
+Respawns Every
+30 minutes (25.5 minutes with Gifted Vicious Bee)
+Fact: The Health in Spider has/costs Damage.
+Fact: The 100 in Spider has/costs 20.
+Fact: The Battle Points in Spider has/costs Bond.
+Fact: The 10 in Spider has/costs 40.
+Fact: The Honey in Spider has/costs Level.
+Fact: The 1,000 in Spider has/costs 4.
+_Not to be confused withCave Monster, a similar-looking mob._
+The Spider is a level 4 mob that can only be found in the Spider Field.
+It takes 30 minutes for the spider to respawn after being defeated (25 minutes 30 seconds with a Gifted Vicious Bee). Defeating it gives 10 Battle Points and 1,000 Honey spread across as 5 Honey tokens. Various other rewards are also possible with their probability increasing with Loot Luck.
+Locations[]
+Fact: The Field in Spider has/costs Quantity, Level.
+Fact: The Spider Field and its surrounding area bordering the Strawberry and Bamboo Fields and the Basic Bee Gate. in Spider has/costs 1, 4.
+Guaranteed:
+* 10 battle points.
+* 1000 honey (increased by Honey From Tokens).
+Fact: Spider Field and its surrounding area bordering the Strawberry and Bamboo Fields and the Basic Bee Gate. requirement: *   * Tickets (25% chance, Loot Luck: + drop rate) (Increments of 1, 3, 5, 10, or 25)..
+* Bitterberries (Increments of 1, 3, 5, or 33).
+Fact: Spider Field and its surrounding area bordering the Strawberry and Bamboo Fields and the Basic Bee Gate. requirement: * Gumdrops (Loot Luck: + drop rate)..
+* Royal Jellies (Increments of 1 or 5).
+* Treats (Increments of 1, 5, or 25).
+* Pineapples (Increments of 1, 3, 33, or 333).
+* Field Dice (Increments of 1, or 5).
+* Glues (Common). (Increments of 1, 3, 5, or 10).
+* Enzymes (Common). (Increments of 1, 3, 5, 10 or 25).
+* Snowflakes (Increments of 3, 33, 333) (Beesmas only).
+* Magic Bean (Common).
+* Robo Pass (Rare).
+* Bubble Light (Rare) (Beesmas only).
+* Stingers (Very Rare) (Increments of 1, 3, or 5).
+* Star Jellies (Very Rare).
+* Forward Facing Spider Sticker (Extremely Rare)
+* Snow Tiara (Extremely rare) (Beesmas only).
+* Diamond Egg (Unfathomably Rare).
+* Gold Egg (Unfathomably Rare).
+* White Balloon (Exceptionally Rare).
+* Black Balloon (Nearly Impossible).
+Strategies[]
+* One way to keep idle while defeating the spider is to stay on the first block in the Bamboo Obby \- the spider will try to lunge towards the player, but it will be stopped by the block. The player can also stand near the edge of the Vicious Bee Egg Claim.
+* The Frozen Field Defenders Glitch can be used to kill the spider easily, just like any other normal mob.
+* Another method is to charge at the spider, then jump and glide over the spider, though this will require the Parachute or Glider.
+Gallery[]
+The Forward Facing Spider Sticker.
+Glow emitted by the spider at night.
+Trivia[]
+* This, the Mantis and the Werewolf are the only mobs that can attack players outside of their designated fields.
+* There is a Ticket token located within its residence (which is the Spider Cave).
+* The Spider is tied with the Werewolf as the regular mobs with the least amount of spawn locations, as they both only have one.
+* Unlike real-life spiders, who have eight legs and six/eight eyes, the spider only has six legs and four eyes. It also appears to have a head and thorax, despite spiders and other arachnids having a cephalothorax. This is joked about in the Forward Facing Spider sticker's description, which reads: _"Not enough legs to technically be a spider."_
+* Two creatures similar to the spider in appearance called Cave Monsters are found inside the Werewolf's Cave. However, they have vastly different stats.
+* Spiders have a faint red glow under their eyes, but it’s mostly visible at night.
+Fact: The Normal in Spider has/costs **Ladybug • Rhino Beetle • Aphid • **Spider** • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Spider has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Spider has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Spider has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Spider has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Spider has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Spider has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Spider has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Spider has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Spider has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Spider has/costs **Chick • Hostage Chick • Spotted Chick**.

@@ -1,0 +1,712 @@
+Context: Bee Swarm Simulator - Star Amulets
+
+Star Amulets
+Datamined information: Star Amulet's possible stats and relevant information.
+Date of datamined file: December 19th, 2024
+The Star Amulet is an amulet that can be purchased in five different tiers from machines in the Star Hall.
+The amulets grant buffs to the owner and always increase capacity as they go up a tier. Higher tier amulets grant more and better buffs. Diamond and Supreme Star Amulets also have additional Star Passive abilities.
+Each Star Amulet requires the user to have a certain number of gifted bee types discovered. After the user generates a Star Amulet, the user must wait 1 second to generate another one.
+The quality of the amulet increases linearly with the number of discovered gifted bee types up to a certain number, where its quality is maxed:
+* For non-Supreme Star Amulets, the player needs 45 types.
+* For Supreme Star Amulet, the player needs 50 types.
+* Note that this is currently not attainable, as there are only a total of 46 bee types in the game.
+When the player generates a Star Amulet, the following audio plays, with the sound pitch decreasing when going up in tiers:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Amulet_Generation_Star.ogg>
+Requirements
+Fact: The Requirement(s) in Star Amulets has/costs Amulet.
+Fact: The 5 Gifted Bee types discovered, costs 25M honey in Star Amulets has/costs Bronze Star Amulet.
+Fact: The 10 Gifted Bee types discovered, costs 50M honey in Star Amulets has/costs Silver Star Amulet.
+Fact: The 20 Gifted Bee types discovered, costs 250M honey in Star Amulets has/costs Gold Star Amulet.
+Fact: The 30 Gifted Bee types discovered, costs 1B honey in Star Amulets has/costs Diamond Star Amulet.
+Fact: The 40 Gifted Bee types discovered, costs 10B honey and an option to spend 500B honey for guaranteed two Passive Abilities in Star Amulets has/costs Supreme Star Amulet.
+Possible Buffs and Passives
+_For more information on how amulets generate, seeAmulet#Generation._
+* Bronze Star Amulet
+* Silver Star Amulet
+* Gold Star Amulet
+* Diamond Star Amulet
+* Supreme Star Amulet
+Bronze Star Amulet
+The icon for the Bronze Star Amulet.
+Fact: The Number of stats taken in Star Amulets has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Star Amulets has/costs Capacity, x1.25, 100%.
+Fact: The Select 2 in Star Amulets has/costs Convert Rate, x1.05 - x1.15.
+Fact: The Intervals of 0.01 in Star Amulets has/costs 22.2222%.
+Fact: The Pollen in Star Amulets has/costs +5% - +15%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+Fact: The White Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+Fact: The Red Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+Fact: The Blue Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+Fact: The Bee Ability Rate in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+Fact: The Critical Chance in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+Fact: The Bee Gather Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+Fact: The Instant Conversion in Star Amulets has/costs +3% - +10%.
+Fact: The Intervals of 1% in Star Amulets has/costs 22.2222%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* xConvert Rate
+Fact: * xConvert Rate statistic: * +Pollen%.
+Fact: * xConvert Rate statistic: * +White Pollen%.
+Fact: * xConvert Rate statistic: * +Red Pollen%.
+Fact: * xConvert Rate statistic: * +Blue Pollen%.
+* +Bee Ability Rate%
+* +Critical Chance%
+Fact: * +Critical Chance% statistic: * +Bee Gather Pollen%.
+* +Instant Conversion%
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The x1.05-x1.06 in Star Amulets has/costs x1.07-x1.08, x1.09-x1.1, x1.11-x1.12, x1.13-x1.14, x1.15.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +5%-+6% in Star Amulets has/costs +7%-+8%, +9%-+10%, +11%-+12%, +13%-+14%, +15%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +3% in Star Amulets has/costs +4%, +5%, +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.1111** (5 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Silver Star Amulet
+The icon for the Silver Star Amulet.
+Fact: The Number of stats taken in Star Amulets has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Star Amulets has/costs Capacity, x1.5, 100%.
+Fact: The Select 3 in Star Amulets has/costs Convert Rate, x1.05 - x1.15.
+Fact: The Intervals of 0.01 in Star Amulets has/costs 33.3333%.
+Fact: The Pollen in Star Amulets has/costs +5% - +15%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+Fact: The White Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+Fact: The Red Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+Fact: The Blue Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+Fact: The Bee Ability Rate in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+Fact: The Critical Chance in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+Fact: The Bee Gather Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+Fact: The Instant Conversion in Star Amulets has/costs +3% - +10%.
+Fact: The Intervals of 1% in Star Amulets has/costs 33.3333%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* xConvert Rate
+Fact: * xConvert Rate statistic: * +Pollen%.
+Fact: * xConvert Rate statistic: * +White Pollen%.
+Fact: * xConvert Rate statistic: * +Red Pollen%.
+Fact: * xConvert Rate statistic: * +Blue Pollen%.
+* +Bee Ability Rate%
+* +Critical Chance%
+Fact: * +Critical Chance% statistic: * +Bee Gather Pollen%.
+* +Instant Conversion%
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The x1.05-x1.06 in Star Amulets has/costs x1.07-x1.08, x1.09-x1.1, x1.11-x1.12, x1.13-x1.14, x1.15.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +5%-+6% in Star Amulets has/costs +7%-+8%, +9%-+10%, +11%-+12%, +13%-+14%, +15%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +3% in Star Amulets has/costs +4%, +5%, +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.2222** (10 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3333** (15 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Gold Star Amulet
+The icon for the Gold Star Amulet.
+Fact: The Number of stats taken in Star Amulets has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Star Amulets has/costs Capacity, x1.75, 100%.
+Fact: The Select 4 in Star Amulets has/costs Convert Rate, x1.05 - x1.15.
+Fact: The Intervals of 0.01 in Star Amulets has/costs 44.4444%.
+Fact: The Pollen in Star Amulets has/costs +5% - +15%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+Fact: The White Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+Fact: The Red Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+Fact: The Blue Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+Fact: The Bee Ability Rate in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+Fact: The Critical Chance in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+Fact: The Bee Gather Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+Fact: The Instant Conversion in Star Amulets has/costs +3% - +10%.
+Fact: The Intervals of 1% in Star Amulets has/costs 44.4444%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* xConvert Rate
+Fact: * xConvert Rate statistic: * +Pollen%.
+Fact: * xConvert Rate statistic: * +White Pollen%.
+Fact: * xConvert Rate statistic: * +Red Pollen%.
+Fact: * xConvert Rate statistic: * +Blue Pollen%.
+* +Bee Ability Rate%
+* +Critical Chance%
+Fact: * +Critical Chance% statistic: * +Bee Gather Pollen%.
+* +Instant Conversion%
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The x1.05-x1.06 in Star Amulets has/costs x1.07-x1.08, x1.09-x1.1, x1.11-x1.12, x1.13-x1.14, x1.15.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +5%-+6% in Star Amulets has/costs +7%-+8%, +9%-+10%, +11%-+12%, +13%-+14%, +15%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +3% in Star Amulets has/costs +4%, +5%, +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.4444** (20 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5556** (25 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7778** (35 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8889** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Diamond Star Amulet
+The icon for the Diamond Star Amulet.
+Fact: The Number of stats taken in Star Amulets has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Star Amulets has/costs Capacity, x2, 100%.
+Fact: The Select 5 in Star Amulets has/costs Convert Rate, x1.05 - x1.15.
+Fact: The Intervals of 0.01 in Star Amulets has/costs 55.5556%.
+Fact: The Pollen in Star Amulets has/costs +5% - +15%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The White Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Red Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Blue Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Bee Ability Rate in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Critical Chance in Star Amulets has/costs +1% - +5%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Bee Gather Pollen in Star Amulets has/costs +15% - +50%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Instant Conversion in Star Amulets has/costs +3% - +10%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Select 1 in Star Amulets has/costs Guiding Star, \-, 0.5%.
+Fact: The Star Shower in Star Amulets has/costs \-, 0.5%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* xConvert Rate
+Fact: * xConvert Rate statistic: * +Pollen%.
+Fact: * xConvert Rate statistic: * +White Pollen%.
+Fact: * xConvert Rate statistic: * +Red Pollen%.
+Fact: * xConvert Rate statistic: * +Blue Pollen%.
+* +Bee Ability Rate%
+* +Critical Chance%
+Fact: * +Critical Chance% statistic: * +Bee Gather Pollen%.
+* +Instant Conversion%
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The x1.05-x1.06 in Star Amulets has/costs x1.07-x1.08, x1.09-x1.1, x1.11-x1.12, x1.13-x1.14, x1.15.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +5%-+6% in Star Amulets has/costs +7%-+8%, +9%-+10%, +11%-+12%, +13%-+14%, +15%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1% in Star Amulets has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+21% in Star Amulets has/costs +22%-+28%, +29%-+35%, +36%-+42%, +43%-+49%, +50%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +3% in Star Amulets has/costs +4%, +5%, +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.6667** (30 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.7333** (33 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8** (36 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8667** (39 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9333** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (45+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Supreme Star Amulet
+The icon for the Supreme Star Amulet.
+Fact: The Number of stats taken in Star Amulets has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Star Amulets has/costs Capacity, x2.5, 100%.
+Fact: The Select 5 in Star Amulets has/costs Convert Rate, x1.05 - x1.25.
+Fact: The Intervals of 0.01 in Star Amulets has/costs 55.5556%.
+Fact: The Pollen in Star Amulets has/costs +5% - +20%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The White Pollen in Star Amulets has/costs +15% - +70%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Red Pollen in Star Amulets has/costs +15% - +70%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Blue Pollen in Star Amulets has/costs +15% - +70%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Bee Ability Rate in Star Amulets has/costs +1% - +7%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Critical Chance in Star Amulets has/costs +1% - +7%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Bee Gather Pollen in Star Amulets has/costs +15% - +70%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Instant Conversion in Star Amulets has/costs +3% - +12%.
+Fact: The Intervals of 1% in Star Amulets has/costs 55.5556%.
+Fact: The Select 1 or 2 in Star Amulets has/costs Guiding Star, \-, 16.6667% (select 1).
+33.3333% (select 2)
+Fact: The Pop Star in Star Amulets has/costs \-, 16.6667% (select 1).
+33.3333% (select 2)
+Fact: The Star Shower in Star Amulets has/costs \-, 16.6667% (select 1).
+33.3333% (select 2)
+Fact: The Gummy Star in Star Amulets has/costs \-, 16.6667% (select 1).
+33.3333% (select 2)
+Fact: The Scorching Star in Star Amulets has/costs \-, 16.6667% (select 1).
+33.3333% (select 2)
+Fact: The Star Saw in Star Amulets has/costs \-, 16.6667% (select 1).
+33.3333% (select 2)
+The Supreme Star Passives are the main feature of Supreme Star Amulets. There are 6 passives that the player can get, with a 1/6 chance of getting a specific one. There is also a 1/50 chance to get another passive, resulting in two passive abilities.
+If the player has 500B honey or more when generating an amulet, they can choose to spend that amount to guarantee a double passive.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage. Note that as of currently, the player can only have at most 46 discovered gifted types; the rest are only added for completion's sake.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* xConvert Rate
+Fact: * xConvert Rate statistic: * +Pollen%.
+Fact: * xConvert Rate statistic: * +White Pollen%.
+Fact: * xConvert Rate statistic: * +Red Pollen%.
+Fact: * xConvert Rate statistic: * +Blue Pollen%.
+* +Bee Ability Rate%
+* +Critical Chance%
+Fact: * +Critical Chance% statistic: * +Bee Gather Pollen%.
+* +Instant Conversion%
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The x1.05-x1.09 in Star Amulets has/costs x1.1-x1.14, x1.15-x1.19, x1.2-x1.24, x1.25.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, x0.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +5%-+9% in Star Amulets has/costs +10%-+14%, +15%-+19%, +20%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+25% in Star Amulets has/costs +26%-+36%, +37%-+47%, +48%-+58%, +59%-+69%, +70%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+25% in Star Amulets has/costs +26%-+36%, +37%-+47%, +48%-+58%, +59%-+69%, +70%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+25% in Star Amulets has/costs +26%-+36%, +37%-+47%, +48%-+58%, +59%-+69%, +70%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1%-+2% in Star Amulets has/costs +3%-+4%, +5%-+6%, +7%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +1%-+2% in Star Amulets has/costs +3%-+4%, +5%-+6%, +7%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +15%-+25% in Star Amulets has/costs +26%-+36%, +37%-+47%, +48%-+58%, +59%-+69%, +70%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Star Amulets has/costs Stat ranges, Average.
+Fact: The +3%-+5% in Star Amulets has/costs +6%-+8%, +9%-+11%, +12%.
+Fact: The **0.8** (40 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.82** (41 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.84** (42 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.86** (43 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.88** (44 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9** (45 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.92** (46 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.94** (47 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.96** (48 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.98** (49 gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (50+ gifted bee types) in Star Amulets has/costs 0%, 0%, 0%, 0%, +0%.
+* The Supreme Star Amulet Generator takes the place of the original spot taken by Diamond Star Amulet Generator, only a bit more moved back.
+* The Diamond Star Amulet and Supreme Star Amulet are the only two Amulets in the game that can have or always have passive abilities on them.
+* The Diamond Star Amulet can only give 2 types of passive abilities, being Guiding Star and Star Shower.
+* The Supreme Star Amulet is the only Star Amulet added after the original release of Star Amulets. It was introduced in the 2020-06-06 update, while the others were released in the 2018-07-11 update.
+* The Star Amulets used to require the gifted bee types in the player's hive. However, this was changed to only requiring discovering gifted bee types when the Supreme Star Amulet was added in the game.
+* The Supreme Star Amulet is the only Star Amulet that can have double passive abilities.
+* The Diamond Star Amulet is the only Star Amulet that has received a buff after its release.
+* In the 2020-06-06 update, Diamond Star Amulets got a 1/100 chance of getting a passive when generated.
+* The summoned Gummy Star/Pop Star/Scorching Star rotates counterclockwise around the player.
+* The background audio of Supreme Star Amulet passive abilities plays 3 times for Gummy and Scorching star, 1.5 times for Pop star and 7 times for Star Saw.
+* An Ant Pass token is located behind the Supreme Star Amulet Generator.
+* It used to be behind the Diamond Star Amulet Generator before the Supreme Star Amulet Generator took its place.
+* The Star Shower passive functions similarly to Science Bear's Beesmas Lights.
+* The audio for obtaining a Star Amulet was the same audio for completing the Ready Player Two ROBLOX event (if the player has ALL the event badges).
+* When the Star Shower Passive is activated, the big star that indicates the area that the stars will fall has a slightly stretched top.
+* If a player dies while Scorching Star, Pop Star, or Gummy Star is active, the star will continue to hover wherever the player dies. It will be without the star’s model and will not follow the player, but it will still play its tune. It will also continue giving the buffs that the passive grants.
+* In some cases, if the player has activated Pop Star and reaches the time limit, sometimes it will activate another Pop Star buff. However, it won't count the number of popped bubbles.
+* If the player has between 490 billion and 500 billion honey, it is still possible to buy the offer of granting a guaranteed double passive on a Supreme Star Amulet, costing only 490 billion.
+* The Diamond Star Amulet has a 1/1,000,000 chance of giving a Star Cub Skin.
+Fact: The Sub-Inventories in Star Amulets has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Star Amulets has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Star Amulets has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Star Amulets has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Star Amulets has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Star Amulets has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Star Amulets has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Star Amulets has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Star Amulets has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Star Amulets has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Star Amulets has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Star Amulets has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Star Amulets has/costs **7-Pronged Cog**.
+Fact: The Other in Star Amulets has/costs **Marshmallow Bee**.
+Fact: The Currencies in Star Amulets has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Star Amulets has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Star Amulets has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Star Amulets has/costs **Parachute •  Glider**.
+Fact: The Bags in Star Amulets has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Star Amulets has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Star Amulets has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Star Amulets has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Star Amulets has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Star Amulets has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  **Star Amulet** •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Star Amulets has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Star Amulets has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Star Amulets has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Star Amulets has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

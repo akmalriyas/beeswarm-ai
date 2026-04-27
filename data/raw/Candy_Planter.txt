@@ -1,0 +1,98 @@
+Context: Bee Swarm Simulator - Candy Planter
+
+Candy Planter
+Datamined information:
+* Some of the planter's stats are corrected from the in-game description.
+* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
+* How the planter generates its loot.
+Date of datamined file: December 19th, 2024
+Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
+Candy Planter
+Fact: Candy Planter statistic: _"Alone, grows in about 4 hours and stores around 1 million Pollen. Grants bonus Gumdrops and Jelly Beans._ ".
+Fact: Candy Planter requirement: 5,000,000 Honey, 5 Magic Beans, 30 Gumdrops, 3 Jelly Beans, 5 Soft Waxes..
+GROW TIME BONUS
+Fact: GROW TIME BONUS requirement: +25% in the Strawberry Field, Pineapple Patch, and Coconut Field..
+POLLEN CAPACITY
+Fact: POLLEN CAPACITY statistic: 1,000,000 Pollen.
+POLLEN MULTIPLIER
+Fact: POLLEN MULTIPLIER statistic: +10% White Pollen.
+NECTAR MULTIPLIER
+Fact: NECTAR MULTIPLIER statistic: +20% Motivating.
+BONUS ITEMS
+Jelly Beans
+The Candy Planter is a reusable planter added in the 2021-12-26 update. Alone, it grows in about 4 hours and stores 1 million pollen. When harvested, it grants bonus Gumdrops and Jelly Beans. It can be purchased at the Dapper Bear's Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 5,000,000 Honey.
+5 Magic Beans
+Fact: 5 Magic Beans requirement: 30 Gumdrops.
+3 Jelly Beans
+Fact: 3 Jelly Beans requirement: 5 Soft Waxes.
+It grows 25% faster in the Strawberry Field, Pineapple Patch, and Coconut Field, and gives 10% bonus white pollen from harvests. It also grants 20% more Motivating Nectar.
+Harvesting a fully grown Candy Planter has a 1/7 chance to spawn a Puffshroom. The spawned puffshroom is between levels 4-5, and has a:
+* ~80% chance of being a Common Puffshroom,
+* ~16% chance of being a Rare Puffshroom,
+* ~4% chance of being a Epic Puffshroom,
+When claimed, the planter gives up to 14 tokens worth of items. If the planter was fully grown when claimed, 3 of the tokens are guaranteed to be 5 Gumdrops, 1 Jelly Beans and 1 Ticket. The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the field the planter is in):
+Jelly Beans
+Glues (Rare, Increments of 1 or 10)
+Strawberries
+Sunflower Seeds
+Blueberries
+Bitterberries
+Neonberries
+Royal Jellies
+Moon Charms
+Blue Extracts
+Red Extracts
+Star Jelly (Rare)
+Bottle Cap (Very Rare)
+Sweatband (Very Rare)
+Purple Potion (Very Rare)
+Super Smoothie (Very Rare)
+Caustic Wax (Very Rare)
+Swirled Wax (Very Rare)
+Gold Egg (Very Rare)
+Turpentine (Exceptionally Rare)
+Bonus amount Gumdrops (When harvested from Blue Flower Field, Strawberry Field or Pineapple Patch)
+Fact: Turpentine (Exceptionally Rare) requirement: 10 Glues (Rare).
+Fact: Turpentine (Exceptionally Rare) requirement: 10 Glues (When you harvest the Candy Planter from the Stump Field, there is a guaranteed chance of getting 10 glues when planting the Candy Planter in the Stump Field 3 times fully grown in a row. 1 week cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Swirled Wax (When harvested from Cactus Field, 1 month cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Caustic Wax (When harvested from Mountain Top Field, 1 month cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Pink Cupcake Sticker (Very rare when you harvest from Strawberry Field).
+Gallery[]
+The Candy Planter.
+A fully grown Candy Planter.
+A Candy Planter hosting a Puffshroom.
+The Candy Planter in Dapper Bear's Shop, along with the Plastic, Tacky, Pesticide and Planter Of Plenty planters.
+Candy Planter in a player's inventory.
+A newly placed Candy Planter.
+A Turpentine from the Candy Planter.
+Fact: The Sub-Inventories in Candy Planter has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Candy Planter has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Candy Planter has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Candy Planter has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Candy Planter has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Candy Planter has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Candy Planter has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Candy Planter has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Candy Planter has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Candy Planter has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Candy Planter has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Candy Planter has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Candy Planter has/costs **7-Pronged Cog**.
+Fact: The Other in Candy Planter has/costs **Marshmallow Bee**.
+Fact: The Currencies in Candy Planter has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Candy Planter has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Candy Planter has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Candy Planter has/costs **Parachute •  Glider**.
+Fact: The Bags in Candy Planter has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Candy Planter has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Candy Planter has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Candy Planter has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Candy Planter has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Candy Planter has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Candy Planter has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Candy Planter has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Candy Planter has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Candy Planter has/costs **Plastic Planter •  **Candy Planter** •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

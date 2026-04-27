@@ -1,0 +1,54 @@
+Context: Bee Swarm Simulator - Dispensers
+
+Dispensers
+A Dispenser is a machine whose main purpose is to dispense various items or boosts to the player typically under a cooldown.
+To use a dispenser, simply stand on the pad in front of the dispenser to use it. Some of the dispensers have certain requirements in order to be used such as having enough tickets or being a part of the Bee Swarm Simulator Club. While there are some dispensers that don't directly have any requirements to be used, there are some that have indirect requirements such as the Glue Dispenser requiring the player have a certain badge to access, as the Gummy Bear's Lair requires the player to have Goo Hotshot or above to enter, or the Coconut Dispenser needing the player to defeat the Coconut Crab to gain access to it, similar to the rest of the content in the Coconut Cave or the Robo Pass Dispenser which requires the player to have 30 bees.
+Dispenser Types[]
+There are currently 12 types of dispensers listed below:
+* Club Dispensers
+* Free Dispensers
+* Ticket Dispenser
+Club Dispensers are dispensers that require the player to be part of the Bee Swarm Simulator Club in order to use them. They are the:
+*  Blueberry Dispenser
+*  Honey Dispenser
+*  Strawberry Dispenser
+*  Treat Dispenser
+Free Dispensers are dispensers that the player can use without having to join the Bee Swarm Simulator Club or spend tickets. They are the:
+*  Coconut Dispenser
+*  Free Ant Pass Dispenser
+*  Free Robo Pass Dispenser
+*  Free Royal Jelly Dispenser
+*  Glue Dispenser
+Ticket Dispensers are dispensers that require the player to spend tickets to use them. They are the:
+*  Ant Pass Dispenser
+*  Robo Pass Dispenser
+*  Royal Jelly Dispenser
+Gallery[]
+The Treat Dispenser in front of the Pro Shop.
+The Honey Dispenser.
+The Blueberry Dispenser in the Blue HQ.
+The Strawberry Dispenser outside of the Red HQ.
+The Glue Dispenser in Gummy Bear's Lair.
+The Royal Jelly Dispenser next to the Clover Field.
+The option to use the Free Royal Jelly Dispenser.
+The rewards from using the Treat Dispenser with 50 bees.
+The Free Ant Pass Dispenser and the Ant Pass Dispenser in the 20 Bee Zone.
+The Free Robo Pass Dispenser and the Robo Pass Dispenser in the 30 Bee Zone.
+The cooldown timer for attempting to use the Honey Dispenser within an hour of its last usage.
+Trivia[]
+* Of all the machines in the game, dispensers have the most variants, with a total of 12 different types.
+* The Honey Dispenser, the Strawberry Dispenser, the Blueberry Dispenser, the Royal Jelly Dispenser, and the Glue Dispenser are the only dispensers that are required to be used for a quest ("Honey Bee's Honey Wreath?" from Honey Bee "Honey Bee \(NPC\)") requires the player to use the Honey Dispenser, "BBM's Naughty List" from Bubble Bee Man requires the player to use the Royal Jelly Ticket Dispenser, and "The Power of Information" from Science Bear requires the player to use the Strawberry Dispenser, the Blueberry Dispenser, and the Glue Dispenser).
+* There are three dispensers that give treats in the game being the Treat Dispenser, the Blueberry Dispenser, and the Strawberry Dispenser.
+* The Glue Dispenser, the Free Ant Pass Dispenser, Ant Pass Dispenser, Free Robo Pass Dispenser, Robo Pass Dispenser, and the Coconut Dispenser are the only dispensers to not grant haste.
+* The Glue Dispenser, the Free Robo Pass Dispenser, and the Free Royal Jelly Dispenser are the only dispensers with a 22-hour cooldown, the longest in the game.
+* The Free Ant Pass Dispenser, the Ant Pass Dispenser, the Robo Pass Dispenser, and the Free Robo Pass Dispenser are the only dispensers that don't have any visible faucets, and instead have a small compartment, like a vending machine that gives out tickets.
+* The Glue Dispenser and the Coconut Dispenser are the only dispensers that give more items when the player upgrades the badge that corresponds to it.
+* The Coconut Dispenser is the only dispenser to give a field boost.
+Fact: The Fields in Dispensers has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Dispensers has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Dispensers has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Dispensers has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Dispensers has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Dispensers has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Dispensers has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Dispensers has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

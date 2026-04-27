@@ -1,0 +1,64 @@
+Context: Bee Swarm Simulator - Werewolf
+
+Werewolf
+Location
+Cactus Field, Pumpkin Patch
+Respawns Every
+60 minutes (1 hour) (51 minutes with Gifted Vicious Bee)
+Fact: The Health in Werewolf has/costs Damage.
+Fact: The 250 in Werewolf has/costs 35.
+Fact: The Battle Points in Werewolf has/costs Bond.
+Fact: The 25 in Werewolf has/costs 75.
+Fact: The Honey in Werewolf has/costs Level.
+Fact: The 5,000 in Werewolf has/costs 7.
+The Werewolf is a level 7 mob found only behind the Honey Bee Gate. Unlike other mobs, it defends three fields instead of one: the Cactus Field, Pine Tree Forest, and the Pumpkin Patch. It spawns at the entrance of the Werewolf's Cave, in between the Cactus Field and the Pumpkin Patch.
+It takes 1 hour for the werewolf to respawn after being defeated (51 minutes with Gifted Vicious Bee).
+Locations[]
+Fact: The Field in Werewolf has/costs Quantity, Level.
+Fact: The Entire level containing the Cactus Field, Pumpkin Patch, and Pine Tree Forest. in Werewolf has/costs 1, 7.
+Guaranteed:
+* 50 Battle Points.
+* 50,000 Honey (Increased by Honey From Tokens).
+* 750 Bond.
+Fact: Entire level containing the Cactus Field, Pumpkin Patch, and Pine Tree Forest. requirement: * Tickets (increments of 1, 3, 5, 10, 15, 20 or 25) (50% chance) (Loot Luck: +drop rate)..
+Fact: Entire level containing the Cactus Field, Pumpkin Patch, and Pine Tree Forest. requirement: * Gumdrops (increments of 1, 3, 5, 10 or 15) (Loot Luck: +drop rate)..
+* Treats (increments of 5, 10, or 50).
+* Sunflower Seeds (increments of 5, 10, 50, or 250).
+* Pineapples (increments of 1 or 20).
+* Royal Jellies (increments of 1, 5, 10, and 25).
+* Micro-Converters (Increments of 1 and 5).
+* Glues (Common) (increments of 1, 3, 5, 10, and 25).
+* Oils (Common).
+* Gingerbread Bear (increments of 1, 5) (Beesmas only).
+* Robo Passes (Rare).
+* Pinecone (Rare) (Beesmas only).
+* Star Jellies (Very Rare).
+* Loaded Dice (Very Rare).
+* Night Bell (Exceptionally Rare).
+* Diamond Egg (Extremely Rare).
+* Gifted Silver Egg (Unfathomably Rare).
+Strategies[]
+The main strategy players use is to have something in the way between them and the werewolf. The main things players use are the bigger cactus or the smaller pumpkin. The werewolf will bounce off the object when he tries to attack, making killing him easy.
+The run-and-jump method also works: like most Mobs, the werewolf gets confused while the player is in the air and will lunge at the point the player was when they jumped, not where they’re at after they jumped.
+The Frozen Field Defenders Glitch works well against the werewolf.
+Players can also just go through the Honey Bee Gate, then quickly run behind the Pine Tree nearest to the Badge Bearer's Guild. Then, if he goes back to the cave, just walk beside him and then run back behind the tree. The player should keep doing this until they defeat him.
+Trivia[]
+* This mob and the Spider are the only regularly-respawning mobs that can attack players beyond the field they spawn in.
+* This is the only normal mob to defend three fields (Cactus Field, Pumpkin Patch, and Pine Tree forest).
+* The werewolf uses the "White Fang Package" on the Roblox Catalog.
+* This was the first non-bug/arachnid mob added into the game.
+* The player can earn more than one egg after defeating the werewolf; for example, he can drop 5 Silver Eggs at once.
+* This is the second strongest normal mob in the game, only beaten by the estimated health of the cave monsters.
+* This is the first mob in which the respawn timer is 1 hour or more, the other 7 being Stump Snail, Snowbear and all other bosses.
+* If you run inside the Werewolf's Cave, you would be faced with a tunnel, which, if you cross, rewards you with a Gold Egg. However, the cave is guarded by Cave Monsters that you will have to rush past to reach the egg.
+Fact: The Normal in Werewolf has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • **Werewolf** • Cave Monster**.
+Fact: The Aphids in Werewolf has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Werewolf has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Werewolf has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Werewolf has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Werewolf has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Werewolf has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Werewolf has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Werewolf has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Werewolf has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Werewolf has/costs **Chick • Hostage Chick • Spotted Chick**.

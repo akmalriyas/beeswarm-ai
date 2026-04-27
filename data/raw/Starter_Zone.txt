@@ -1,0 +1,48 @@
+Context: Bee Swarm Simulator - Starter Zone
+
+Starter Zone
+The Starter Zone is the collection of places that do not need any bee prerequisites to access. Any player can access the Starter Zone, no matter how far they are into the game. This is also where the players' hives are.
+Fact: The **Title** in Starter Zone has/costs **Audio**, **Information**.
+Fact: The Wax in Starter Zone has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Wax.ogg>, Plays during Daytime.
+Fact: The Drone in Starter Zone has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Drone.ogg>, Plays during Daytime (Beesmas Only).
+Fact: The Mountaincall in Starter Zone has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Mountaincall.ogg>, Plays during Nighttime.
+The Starter Zone consist of the following:
+* Quest Givers
+*  Sunflower Field
+*  Dandelion Field
+*  Mushroom Field
+*  Blue Flower Field
+*  Clover Field
+*  Basic Egg Shop
+*  Noob Shop
+*  Ticket Tent
+*  Treat Shop
+*  Basic Bee Gate
+*  Ant Gate
+*  Windy Bee Gate
+*  Black Bear
+*  Brown Bear
+*  Mother Bear
+*  Rhino Beetle
+*  King Beetle
+*  Honey Dispenser
+*  Royal Jelly Dispenser
+*  Star Hall
+*  Instant Converter
+*  Wealth Clock
+*  Honeystorm Summoner
+*  Slingshot
+*  Red Cannon
+*  All-Time Top Honeymakers
+*  Daily Top Honeymakers
+*  King Beetle Lair
+*  The Blue Maze
+*  Commando Chick's Hideout
+*  The Computer
+*  Honey Wreath
+*  Gingerbread House
+*  Stockings
+*  Gummy Beacon
+Trivia[]
+* This is the only area that can get sparkles in all of its fields from non-firefly sources.
+* The Starter Zone has the most amount of Fields with 5 fields.

@@ -1,0 +1,673 @@
+Context: Bee Swarm Simulator - Beesmas Top
+
+Beesmas Top
+Beesmas Top
+"Younger bees enjoy giving this traditional Beesmas toy a spin."
+Fact: Beesmas Top statistic: +Critical Chance%.
+Fact: Beesmas Top statistic: +Ability Rate%.
+Fact: Beesmas Top statistic: +Bee Attack.
+Fact: Beesmas Top statistic: +Critical Power%.
+A Beesmas Top is a level 4 Beesmas Beequip. It has an equip limit of three. There is no color requirement. It can only be equipped to common or rare bees.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades, Range.
+Fact: The Chance in Beesmas Top has/costs Value, Weight, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Beesmas Top has/costs An exact value between **0.3** -**1**.
+Fact: The Linear scaling by a factor of 1 in Beesmas Top has/costs **+1%**, **10**, **+5% - +20%**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Beesmas Top has/costs An exact value between **0.3** -**1**.
+Fact: The Linear scaling by a factor of 1 in Beesmas Top has/costs **+1%**, **10**, **+5% - +20%**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Beesmas Top has/costs **1**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Beesmas Top has/costs **15**, **-25% - +135%**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**.
+Intervals of +1
+Fact: The Bias scales linearly in Beesmas Top has/costs \-, \-, \-, **0 - +1**.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Beesmas Top has/costs An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Beesmas Top has/costs **+1%**, **10**, **+2% - +15%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beesmas Top has/costs **18.6335%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beesmas Top has/costs **18.6335%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -25%
+Fact: The Average value: -22.52% in Beesmas Top has/costs **62.1118%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Beesmas Top has/costs **0.6211%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beesmas Top has/costs **18.6335%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beesmas Top has/costs **18.6335%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -25%
+Fact: The Average value: -22.52% in Beesmas Top has/costs **62.1118%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Beesmas Top has/costs **0.6211%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Beesmas Top has/costs **21.0347%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Beesmas Top has/costs **21.0347%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -24%
+Fact: The Average value: -22.01% in Beesmas Top has/costs **56.8505%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.28%
+Fact: The Average value: +6.36% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.3%
+Fact: The Average value: +2.85% in Beesmas Top has/costs **1.0802%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Beesmas Top has/costs **21.0347%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Beesmas Top has/costs **21.0347%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -24%
+Fact: The Average value: -22.01% in Beesmas Top has/costs **56.8505%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.28%
+Fact: The Average value: +6.36% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.3%
+Fact: The Average value: +2.85% in Beesmas Top has/costs **1.0802%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Beesmas Top has/costs **23.0608%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Beesmas Top has/costs **23.0608%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -23%
+Fact: The Average value: -21.51% in Beesmas Top has/costs **52.4109%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.63%
+Fact: The Average value: +6.61% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.12% in Beesmas Top has/costs **1.4675%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Beesmas Top has/costs **23.0608%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Beesmas Top has/costs **23.0608%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -23%
+Fact: The Average value: -21.51% in Beesmas Top has/costs **52.4109%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.63%
+Fact: The Average value: +6.61% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.12% in Beesmas Top has/costs **1.4675%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Beesmas Top has/costs **24.7934%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Beesmas Top has/costs **24.7934%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -22%
+Fact: The Average value: -21% in Beesmas Top has/costs **48.6145%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.07%
+Fact: The Average value: +6.77% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.9%
+Fact: The Average value: +3.21% in Beesmas Top has/costs **1.7987%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Beesmas Top has/costs **24.7934%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Beesmas Top has/costs **24.7934%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -22%
+Fact: The Average value: -21% in Beesmas Top has/costs **48.6145%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.07%
+Fact: The Average value: +6.77% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.9%
+Fact: The Average value: +3.21% in Beesmas Top has/costs **1.7987%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Beesmas Top has/costs **26.2919%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Beesmas Top has/costs **26.2919%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -21%
+Fact: The Average value: -20.5% in Beesmas Top has/costs **45.3309%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.67%
+Fact: The Average value: +7.12% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.31% in Beesmas Top has/costs **2.0852%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Beesmas Top has/costs **26.2919%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Beesmas Top has/costs **26.2919%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -21%
+Fact: The Average value: -20.5% in Beesmas Top has/costs **45.3309%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.67%
+Fact: The Average value: +7.12% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.31% in Beesmas Top has/costs **2.0852%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beesmas Top has/costs **27.6008%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beesmas Top has/costs **27.6008%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -20%
+Fact: The Average value: -20% in Beesmas Top has/costs **42.4628%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.5%
+Fact: The Average value: +3.5% in Beesmas Top has/costs **2.3355%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beesmas Top has/costs **27.6008%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beesmas Top has/costs **27.6008%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -20%
+Fact: The Average value: -20% in Beesmas Top has/costs **42.4628%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.5%
+Fact: The Average value: +3.5% in Beesmas Top has/costs **2.3355%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beesmas Top has/costs **28.754%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beesmas Top has/costs **28.754%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -19%
+Fact: The Average value: -19.5% in Beesmas Top has/costs **39.9361%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.69% in Beesmas Top has/costs **2.5559%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beesmas Top has/costs **28.754%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beesmas Top has/costs **28.754%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -19%
+Fact: The Average value: -19.5% in Beesmas Top has/costs **39.9361%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.69% in Beesmas Top has/costs **2.5559%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beesmas Top has/costs **29.7776%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beesmas Top has/costs **29.7776%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -18%
+Fact: The Average value: -19% in Beesmas Top has/costs **37.6932%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.1%
+Fact: The Average value: +3.79% in Beesmas Top has/costs **2.7516%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beesmas Top has/costs **29.7776%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beesmas Top has/costs **29.7776%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -18%
+Fact: The Average value: -19% in Beesmas Top has/costs **37.6932%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.1%
+Fact: The Average value: +3.79% in Beesmas Top has/costs **2.7516%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beesmas Top has/costs **30.6924%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beesmas Top has/costs **30.6924%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -17%
+Fact: The Average value: -18.49% in Beesmas Top has/costs **35.6888%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +3.88% in Beesmas Top has/costs **2.9265%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beesmas Top has/costs **30.6924%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beesmas Top has/costs **30.6924%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -17%
+Fact: The Average value: -18.49% in Beesmas Top has/costs **35.6888%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +3.88% in Beesmas Top has/costs **2.9265%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beesmas Top has/costs **31.5147%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beesmas Top has/costs **31.5147%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -16%
+Fact: The Average value: -17.99% in Beesmas Top has/costs **33.8868%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.7%
+Fact: The Average value: +4.15% in Beesmas Top has/costs **3.0837%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beesmas Top has/costs **31.5147%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beesmas Top has/costs **31.5147%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -16%
+Fact: The Average value: -17.99% in Beesmas Top has/costs **33.8868%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.7%
+Fact: The Average value: +4.15% in Beesmas Top has/costs **3.0837%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beesmas Top has/costs **32.2581%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beesmas Top has/costs **32.2581%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -15%
+Fact: The Average value: -17.48% in Beesmas Top has/costs **32.2581%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Beesmas Top has/costs **3.2258%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beesmas Top has/costs Base, Upgrades.
+Fact: The Chance in Beesmas Top has/costs Value, Chance, Value, Limit.
+Fact: The +Critical Chance% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beesmas Top has/costs **32.2581%**, **+1%**, **10**.
+Fact: The +Ability Rate% in Beesmas Top has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beesmas Top has/costs **32.2581%**, **+1%**, **10**.
+Fact: The Energy% in Beesmas Top has/costs **100%**, A random value between **-25%** -**-15%**.
+Intervals of +1%
+Biased to values near -15%
+Fact: The Average value: -17.48% in Beesmas Top has/costs **32.2581%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beesmas Top has/costs **15**.
+Fact: The +Bee Attack in Beesmas Top has/costs **10%**, **+1**, \-, \-, \-.
+Fact: The +Critical Power% in Beesmas Top has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Beesmas Top has/costs **3.2258%**, **+1%**, **10**.
+Probabilities[]
+The tables below give the probability of a stat of Beesmas Top falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Critical Chance%
+* +Ability Rate%
+Fact: The Potential in Beesmas Top has/costs Stat ranges, Average.
+Fact: The +5% in Beesmas Top has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Beesmas Top has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Beesmas Top has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Beesmas Top has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Beesmas Top has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Beesmas Top has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Beesmas Top has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Beesmas Top has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Beesmas Top has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Beesmas Top has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Beesmas Top has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Beesmas Top has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Fact: The Potential in Beesmas Top has/costs Stat ranges, Average.
+Fact: The +5% in Beesmas Top has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Beesmas Top has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Beesmas Top has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Beesmas Top has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Beesmas Top has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Beesmas Top has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Beesmas Top has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Beesmas Top has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Beesmas Top has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Beesmas Top has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Beesmas Top has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Beesmas Top has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Fact: The Potential in Beesmas Top has/costs Stat ranges, Average.
+Fact: The -25%--24% in Beesmas Top has/costs -23%--22%, -21%--20%, -19%--18%, -17%--16%, -15%.
+Fact: The **0 ★** in Beesmas Top has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, -22.5%.
+Fact: The **0.5 ★** in Beesmas Top has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, -22%.
+Fact: The **1 ★** in Beesmas Top has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, -21.5%.
+Fact: The **1.5 ★** in Beesmas Top has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, -21%.
+Fact: The **2 ★** in Beesmas Top has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, -20.5%.
+Fact: The **2.5 ★** in Beesmas Top has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, -20%.
+Fact: The **3 ★** in Beesmas Top has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, -19.5%.
+Fact: The **3.5 ★** in Beesmas Top has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, -19%.
+Fact: The **4 ★** in Beesmas Top has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, -18.5%.
+Fact: The **4.5 ★** in Beesmas Top has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, -18%.
+Fact: The **5 ★** in Beesmas Top has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, -17.5%.
+* +Critical Power%
+Fact: The Potential in Beesmas Top has/costs Stat ranges, Average.
+Fact: The +2% in Beesmas Top has/costs +3%, +4%, +5%.
+Fact: The **0 ★** in Beesmas Top has/costs 46.529%, 38.128%, 13.869%, 1.473%, +2.7%.
+Fact: The **0.5 ★** in Beesmas Top has/costs 34.018%, 48.419%, 15.914%, 1.648%, +2.9%.
+Fact: The **1 ★** in Beesmas Top has/costs 10.694%, 68.731%, 18.704%, 1.871%, +3.1%.
+Fact: The **1.5 ★** in Beesmas Top has/costs 5.854%, 69.201%, 22.781%, 2.164%, +3.2%.
+Fact: The **2 ★** in Beesmas Top has/costs 4.09%, 63.828%, 29.517%, 2.565%, +3.3%.
+Fact: The **2.5 ★** in Beesmas Top has/costs 3.151%, 46.849%, 46.849%, 3.151%, +3.5%.
+Fact: The **3 ★** in Beesmas Top has/costs 2.565%, 29.517%, 63.828%, 4.09%, +3.7%.
+Fact: The **3.5 ★** in Beesmas Top has/costs 2.164%, 22.781%, 69.201%, 5.854%, +3.8%.
+Fact: The **4 ★** in Beesmas Top has/costs 1.871%, 18.704%, 68.731%, 10.694%, +3.9%.
+Fact: The **4.5 ★** in Beesmas Top has/costs 1.648%, 15.914%, 48.419%, 34.018%, +4.1%.
+Fact: The **5 ★** in Beesmas Top has/costs 1.473%, 13.869%, 38.128%, 46.529%, +4.3%.
+* Bee Stats
+Fact: The Potential in Beesmas Top has/costs Stat ranges, Average.
+Fact: The +5% in Beesmas Top has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Beesmas Top has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Beesmas Top has/costs 23.584%, 39.456%, 20.462%, 11.13%, 4.82%, 0.549%, +6.4%.
+Fact: The **1 ★** in Beesmas Top has/costs 5.976%, 52.189%, 23.609%, 12.368%, 5.264%, 0.595%, +6.6%.
+Fact: The **1.5 ★** in Beesmas Top has/costs 2.816%, 46.175%, 29.912%, 14.459%, 5.973%, 0.665%, +6.8%.
+Fact: The **2 ★** in Beesmas Top has/costs 1.678%, 20.647%, 50.78%, 18.816%, 7.289%, 0.791%, +7.1%.
+Fact: The **2.5 ★** in Beesmas Top has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Beesmas Top has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Beesmas Top has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Beesmas Top has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Beesmas Top has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Beesmas Top has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Ways to Obtain[]
+* As a reward from the Playful Gift Box.
+* As a drop from the Stockings.
+* As a rare drop from a Mantis.
+Outdated Ways[]
+* As a reward from the Sky Blue Gift Box.
+Gallery[]
+A Beesmas Top in the Beequip Case.
+A Beesmas Top in the Beequip Inbox.
+Two Beesmas Tops equipped to a Hasty and Looker Bee.
+Trivia[]
+* This is one of eight beequips to give a negative stat.
+* The other seven are Kazoo, Whistle, Toy Horn, Toy Drum, Pink Eraser, Demon Talisman, and Lump Of Coal.
+Fact: The Sub-Inventories in Beesmas Top has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Beesmas Top has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Beesmas Top has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Beesmas Top has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Beesmas Top has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Beesmas Top has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Beesmas Top has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Beesmas Top has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Beesmas Top has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Beesmas Top has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Beesmas Top has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Beesmas Top has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Beesmas Top has/costs **7-Pronged Cog**.
+Fact: The Other in Beesmas Top has/costs **Marshmallow Bee**.
+Fact: The Currencies in Beesmas Top has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Beesmas Top has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Beesmas Top has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Beesmas Top has/costs **Parachute •  Glider**.
+Fact: The Bags in Beesmas Top has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Beesmas Top has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Beesmas Top has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Beesmas Top has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Beesmas Top has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Beesmas Top has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Beesmas Top has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Beesmas Top has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  **Beesmas Top** •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Beesmas Top has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Beesmas Top has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

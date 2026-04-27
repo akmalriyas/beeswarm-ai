@@ -1,0 +1,936 @@
+Context: Bee Swarm Simulator - Sweatband
+
+Sweatband
+"This absorbant strap keeps sweat out of your eyes while looking vaguely patriotic."
+Fact: Sweatband statistic: +Energy%.
+Fact: Sweatband statistic: +Red Gather Amount%.
+Fact: Sweatband statistic: +White Gather Amount%.
+Fact: Sweatband statistic: +Blue Gather Amount%.
+Fact: Sweatband statistic: +Red Pollen%.
+Fact: Sweatband statistic: +White Pollen%.
+Fact: Sweatband statistic: +Blue Pollen%.
+Fact: Sweatband statistic: +Max Bee Energy%.
+Fact: Sweatband statistic: +Pollen%.
+The Sweatband is a level 5 Beequip. It has an equip limit of three. There is no color requirement.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip does not use the old RNG functions.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades, Range.
+Fact: The Chance in Sweatband has/costs Value, Weight, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Sweatband has/costs **0.5**, A random value between **+1%** -**+3%**.
+Fact: The Bias scales linearly in Sweatband has/costs **20**, **+15% - +80%**.
+Fact: The +Red Gather Amount% in Sweatband has/costs An exact value between **40%** -**60%**.
+Fact: The Linear scaling by a factor of 1 in Sweatband has/costs A random value between **+15%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Sweatband has/costs **0.15**, A random value between **+1%** -**+2%**.
+Fact: The Bias scales linearly in Sweatband has/costs **20**, **0% - +60%**.
+Fact: The +White Gather Amount% in Sweatband has/costs An exact value between **40%** -**60%**.
+Fact: The Linear scaling by a factor of 1 in Sweatband has/costs A random value between **+15%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Sweatband has/costs **0.15**, A random value between **+1%** -**+2%**.
+Fact: The Bias scales linearly in Sweatband has/costs **20**, **0% - +60%**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs An exact value between **40%** -**60%**.
+Fact: The Linear scaling by a factor of 1 in Sweatband has/costs A random value between **+15%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Sweatband has/costs **0.15**, A random value between **+1%** -**+2%**.
+Fact: The Bias scales linearly in Sweatband has/costs **20**, **0% - +60%**.
+Fact: The +Red Pollen% in Sweatband has/costs An exact value between **5%** -**25%**.
+Fact: The Linear scaling by a factor of 1 in Sweatband has/costs **+1%**, An exact value between **0.0002** -**0.01**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Sweatband has/costs **+1%**, **1**, **0% - +2%**.
+Fact: The +White Pollen% in Sweatband has/costs An exact value between **5%** -**25%**.
+Fact: The Linear scaling by a factor of 1 in Sweatband has/costs **+1%**, An exact value between **0.0001** -**0.01**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Sweatband has/costs **+1%**, **1**, **0% - +2%**.
+Fact: The +Blue Pollen% in Sweatband has/costs An exact value between **5%** -**25%**.
+Fact: The Linear scaling by a factor of 1 in Sweatband has/costs **+1%**, An exact value between **0.0001** -**0.01**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Sweatband has/costs **+1%**, **1**, **0% - +2%**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, An exact value between **0.0001** -**0.02**.
+Fact: The Linear scaling by a factor of 1 in Sweatband has/costs **+1%**, **5**, **0% - +5%**.
+Fact: Linear scaling by a factor of 1 statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, An exact value between **0.0001** -**0.001**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Sweatband has/costs **+1%**, **1**, **0% - +1%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **52.6039%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **40%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **15.7812%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **40%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **15.7812%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **40%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **15.7812%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **5%**, **+1%**, **0.021%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **5%**, **+1%**, **0.0105%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **5%**, **+1%**, **0.0105%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.0105%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **52.5984%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **40%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **15.7795%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **40%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **15.7795%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **40%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +16.22% in Sweatband has/costs **15.7795%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **5%**, **+1%**, **0.021%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **5%**, **+1%**, **0.0105%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **5%**, **+1%**, **0.0105%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.0105%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0105%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **52.4425%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **42%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **15.7327%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **42%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **15.7327%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **42%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **15.7327%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **7%**, **+1%**, **0.0535%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **7%**, **+1%**, **0.0433%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **7%**, **+1%**, **0.0433%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.2192%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **52.4354%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **42%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **15.7306%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **42%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **15.7306%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **42%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +15.5%
+Fact: The Average value: +16.54% in Sweatband has/costs **15.7306%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **7%**, **+1%**, **0.0535%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **7%**, **+1%**, **0.0433%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **7%**, **+1%**, **0.0433%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.2192%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0135%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **52.2396%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **44%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **15.6719%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **44%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **15.6719%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **44%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **15.6719%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **9%**, **+1%**, **0.1125%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **9%**, **+1%**, **0.103%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **9%**, **+1%**, **0.103%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.4263%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **52.2298%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **44%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **15.6689%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **44%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **15.6689%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **44%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +16.74% in Sweatband has/costs **15.6689%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **9%**, **+1%**, **0.1125%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **9%**, **+1%**, **0.1029%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **9%**, **+1%**, **0.1029%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.4262%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0189%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **52.0111%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **46%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **15.6033%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **46%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **15.6033%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **46%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **15.6033%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **11%**, **+1%**, **0.1883%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **11%**, **+1%**, **0.1796%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **11%**, **+1%**, **0.1796%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.6314%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **51.9977%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **46%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **15.5993%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **46%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **15.5993%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **46%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +16.5%
+Fact: The Average value: +17.01% in Sweatband has/costs **15.5993%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **11%**, **+1%**, **0.1883%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **11%**, **+1%**, **0.1796%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **11%**, **+1%**, **0.1796%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.6313%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0258%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **51.7626%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **48%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **15.5288%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **48%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **15.5288%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **48%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **15.5288%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **13%**, **+1%**, **0.2774%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **13%**, **+1%**, **0.2696%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **13%**, **+1%**, **0.2696%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.8344%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **51.7451%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **48%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **15.5235%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **48%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **15.5235%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **48%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +17.25% in Sweatband has/costs **15.5235%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **13%**, **+1%**, **0.2773%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **13%**, **+1%**, **0.2695%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **13%**, **+1%**, **0.2695%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **0.8341%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0339%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **51.4978%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **50%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **15.4493%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **50%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **15.4493%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **50%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **15.4493%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **15%**, **+1%**, **0.3775%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **15%**, **+1%**, **0.3708%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **15%**, **+1%**, **0.3708%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.0351%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **51.4756%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **50%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **15.4427%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **50%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **15.4427%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **50%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +17.5%
+Fact: The Average value: +17.5% in Sweatband has/costs **15.4427%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **15%**, **+1%**, **0.3773%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **15%**, **+1%**, **0.3706%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **15%**, **+1%**, **0.3706%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.0347%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0431%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **51.2192%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **52%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **15.3658%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **52%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **15.3658%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **52%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **15.3658%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **17%**, **+1%**, **0.4871%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **17%**, **+1%**, **0.4816%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **17%**, **+1%**, **0.4816%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.2334%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **51.192%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **52%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **15.3576%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **52%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **15.3576%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **52%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +17.75% in Sweatband has/costs **15.3576%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **17%**, **+1%**, **0.4868%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **17%**, **+1%**, **0.4813%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **17%**, **+1%**, **0.4813%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.2327%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0531%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **50.9287%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **54%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **15.2786%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **54%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **15.2786%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **54%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **15.2786%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **19%**, **+1%**, **0.605%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **19%**, **+1%**, **0.6008%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **19%**, **+1%**, **0.6008%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.4291%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **50.8961%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **54%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **15.2688%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **54%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **15.2688%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **54%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +18.5%
+Fact: The Average value: +17.99% in Sweatband has/costs **15.2688%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **19%**, **+1%**, **0.6046%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **19%**, **+1%**, **0.6004%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **19%**, **+1%**, **0.6004%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.4281%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0638%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **50.6278%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **56%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **15.1883%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **56%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **15.1883%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **56%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **15.1883%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **21%**, **+1%**, **0.7303%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **21%**, **+1%**, **0.7274%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **21%**, **+1%**, **0.7274%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.6221%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **50.5897%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **56%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **15.1769%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **56%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **15.1769%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **56%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +18.26% in Sweatband has/costs **15.1769%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **21%**, **+1%**, **0.7297%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **21%**, **+1%**, **0.7269%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **21%**, **+1%**, **0.7269%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.6209%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0753%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **50.3179%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **58%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **15.0954%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **58%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **15.0954%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **58%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **15.0954%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **23%**, **+1%**, **0.8622%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **23%**, **+1%**, **0.8607%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **23%**, **+1%**, **0.8607%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.8124%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **50.2739%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **58%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **15.0822%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **58%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **15.0822%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **58%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +19.5%
+Fact: The Average value: +18.46% in Sweatband has/costs **15.0822%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **23%**, **+1%**, **0.8614%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **23%**, **+1%**, **0.86%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **23%**, **+1%**, **0.86%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.8109%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0873%**, **+1%**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **50%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **60%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **15%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **60%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **15%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **60%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **15%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **25%**, **+1%**, **1%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **25%**, **+1%**, **1%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **25%**, **+1%**, **1%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **2%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Sweatband has/costs Base, Upgrades.
+Fact: The Chance in Sweatband has/costs Value, Chance, Value, Limit.
+Fact: The +Energy% in Sweatband has/costs **100%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **49.95%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Sweatband has/costs **20**.
+Fact: The +Red Gather Amount% in Sweatband has/costs **60%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **14.985%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Sweatband has/costs **20**.
+Fact: The +White Gather Amount% in Sweatband has/costs **60%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **14.985%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Sweatband has/costs **20**.
+Fact: The +Blue Gather Amount% in Sweatband has/costs **60%**, A random value between **+15%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +18.78% in Sweatband has/costs **14.985%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Sweatband has/costs **20**.
+Fact: The +Red Pollen% in Sweatband has/costs **25%**, **+1%**, **0.999%**, **+1%**, **1**.
+Fact: The +White Pollen% in Sweatband has/costs **25%**, **+1%**, **0.999%**, **+1%**, **1**.
+Fact: The +Blue Pollen% in Sweatband has/costs **25%**, **+1%**, **0.999%**, **+1%**, **1**.
+Fact: The +Max Bee Energy% in Sweatband has/costs \-, \-, **1.998%**, **+1%**, **5**.
+Fact: +Max Bee Energy% statistic: +Pollen%.
+Fact: The Caustic Points Only in Sweatband has/costs \-, \-, **0.0999%**, **+1%**, **1**.
+Probabilities[]
+The tables below give the probability of a stat of Sweatband falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* +Red Gather Amount%
+* +White Gather Amount%
+* +Blue Gather Amount%
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +15% in Sweatband has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0 ★** in Sweatband has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +16.2%.
+Fact: The **0.5 ★** in Sweatband has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +16.5%.
+Fact: The **1 ★** in Sweatband has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +16.7%.
+Fact: The **1.5 ★** in Sweatband has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +17%.
+Fact: The **2 ★** in Sweatband has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +17.2%.
+Fact: The **2.5 ★** in Sweatband has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +17.5%.
+Fact: The **3 ★** in Sweatband has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +17.8%.
+Fact: The **3.5 ★** in Sweatband has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +18%.
+Fact: The **4 ★** in Sweatband has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +18.3%.
+Fact: The **4.5 ★** in Sweatband has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +18.5%.
+Fact: The **5 ★** in Sweatband has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +18.8%.
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +15% in Sweatband has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0 ★** in Sweatband has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +16.2%.
+Fact: The **0.5 ★** in Sweatband has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +16.5%.
+Fact: The **1 ★** in Sweatband has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +16.7%.
+Fact: The **1.5 ★** in Sweatband has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +17%.
+Fact: The **2 ★** in Sweatband has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +17.2%.
+Fact: The **2.5 ★** in Sweatband has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +17.5%.
+Fact: The **3 ★** in Sweatband has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +17.8%.
+Fact: The **3.5 ★** in Sweatband has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +18%.
+Fact: The **4 ★** in Sweatband has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +18.3%.
+Fact: The **4.5 ★** in Sweatband has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +18.5%.
+Fact: The **5 ★** in Sweatband has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +18.8%.
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +15% in Sweatband has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0 ★** in Sweatband has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +16.2%.
+Fact: The **0.5 ★** in Sweatband has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +16.5%.
+Fact: The **1 ★** in Sweatband has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +16.7%.
+Fact: The **1.5 ★** in Sweatband has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +17%.
+Fact: The **2 ★** in Sweatband has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +17.2%.
+Fact: The **2.5 ★** in Sweatband has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +17.5%.
+Fact: The **3 ★** in Sweatband has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +17.8%.
+Fact: The **3.5 ★** in Sweatband has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +18%.
+Fact: The **4 ★** in Sweatband has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +18.3%.
+Fact: The **4.5 ★** in Sweatband has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +18.5%.
+Fact: The **5 ★** in Sweatband has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +18.8%.
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +15% in Sweatband has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0 ★** in Sweatband has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +16.2%.
+Fact: The **0.5 ★** in Sweatband has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +16.5%.
+Fact: The **1 ★** in Sweatband has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +16.7%.
+Fact: The **1.5 ★** in Sweatband has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +17%.
+Fact: The **2 ★** in Sweatband has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +17.2%.
+Fact: The **2.5 ★** in Sweatband has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +17.5%.
+Fact: The **3 ★** in Sweatband has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +17.8%.
+Fact: The **3.5 ★** in Sweatband has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +18%.
+Fact: The **4 ★** in Sweatband has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +18.3%.
+Fact: The **4.5 ★** in Sweatband has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +18.5%.
+Fact: The **5 ★** in Sweatband has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +18.8%.
+* Bee Stats
+* +Red Gather Amount%
+* +White Gather Amount%
+* +Blue Gather Amount%
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +1%-+1.5% in Sweatband has/costs +1.5%-+2%, +2%-+2.5%, +2.5%-+3%.
+Fact: The **0 ★** in Sweatband has/costs 59.657%, 25%, 11.919%, 3.424%, +1.5%.
+Fact: The **0.5 ★** in Sweatband has/costs 51.876%, 30.561%, 13.715%, 3.848%, +1.6%.
+Fact: The **1 ★** in Sweatband has/costs 38.863%, 40.562%, 16.183%, 4.392%, +1.7%.
+Fact: The **1.5 ★** in Sweatband has/costs 16.041%, 59.014%, 19.827%, 5.118%, +1.8%.
+Fact: The **2 ★** in Sweatband has/costs 10.288%, 57.63%, 25.947%, 6.135%, +1.9%.
+Fact: The **2.5 ★** in Sweatband has/costs 7.671%, 42.329%, 42.329%, 7.671%, +2%.
+Fact: The **3 ★** in Sweatband has/costs 6.135%, 25.947%, 57.63%, 10.288%, +2.1%.
+Fact: The **3.5 ★** in Sweatband has/costs 5.118%, 19.827%, 59.014%, 16.041%, +2.2%.
+Fact: The **4 ★** in Sweatband has/costs 4.392%, 16.183%, 40.562%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Sweatband has/costs 3.848%, 13.715%, 30.561%, 51.876%, +2.4%.
+Fact: The **5 ★** in Sweatband has/costs 3.424%, 11.919%, 25%, 59.657%, +2.5%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +1%-+1.2% in Sweatband has/costs +1.2%-+1.4%, +1.4%-+1.6%, +1.6%-+1.8%, +1.8%-+2%.
+Fact: The **0 ★** in Sweatband has/costs 52.189%, 24.463%, 13.998%, 7.202%, 2.149%, +1.2%.
+Fact: The **0.5 ★** in Sweatband has/costs 41.972%, 30.986%, 16.431%, 8.203%, 2.408%, +1.3%.
+Fact: The **1 ★** in Sweatband has/costs 20%, 47.726%, 20%, 9.535%, 2.739%, +1.3%.
+Fact: The **1.5 ★** in Sweatband has/costs 9.014%, 50.445%, 25.96%, 11.405%, 3.176%, +1.4%.
+Fact: The **2 ★** in Sweatband has/costs 6.137%, 33.863%, 41.972%, 14.246%, 3.781%, +1.4%.
+Fact: The **2.5 ★** in Sweatband has/costs 4.675%, 19.23%, 52.189%, 19.23%, 4.675%, +1.5%.
+Fact: The **3 ★** in Sweatband has/costs 3.781%, 14.246%, 41.972%, 33.863%, 6.137%, +1.6%.
+Fact: The **3.5 ★** in Sweatband has/costs 3.176%, 11.405%, 25.96%, 50.445%, 9.014%, +1.6%.
+Fact: The **4 ★** in Sweatband has/costs 2.739%, 9.535%, 20%, 47.726%, 20%, +1.7%.
+Fact: The **4.5 ★** in Sweatband has/costs 2.408%, 8.203%, 16.431%, 30.986%, 41.972%, +1.7%.
+Fact: The **5 ★** in Sweatband has/costs 2.149%, 7.202%, 13.998%, 24.463%, 52.189%, +1.8%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +1%-+1.2% in Sweatband has/costs +1.2%-+1.4%, +1.4%-+1.6%, +1.6%-+1.8%, +1.8%-+2%.
+Fact: The **0 ★** in Sweatband has/costs 52.189%, 24.463%, 13.998%, 7.202%, 2.149%, +1.2%.
+Fact: The **0.5 ★** in Sweatband has/costs 41.972%, 30.986%, 16.431%, 8.203%, 2.408%, +1.3%.
+Fact: The **1 ★** in Sweatband has/costs 20%, 47.726%, 20%, 9.535%, 2.739%, +1.3%.
+Fact: The **1.5 ★** in Sweatband has/costs 9.014%, 50.445%, 25.96%, 11.405%, 3.176%, +1.4%.
+Fact: The **2 ★** in Sweatband has/costs 6.137%, 33.863%, 41.972%, 14.246%, 3.781%, +1.4%.
+Fact: The **2.5 ★** in Sweatband has/costs 4.675%, 19.23%, 52.189%, 19.23%, 4.675%, +1.5%.
+Fact: The **3 ★** in Sweatband has/costs 3.781%, 14.246%, 41.972%, 33.863%, 6.137%, +1.6%.
+Fact: The **3.5 ★** in Sweatband has/costs 3.176%, 11.405%, 25.96%, 50.445%, 9.014%, +1.6%.
+Fact: The **4 ★** in Sweatband has/costs 2.739%, 9.535%, 20%, 47.726%, 20%, +1.7%.
+Fact: The **4.5 ★** in Sweatband has/costs 2.408%, 8.203%, 16.431%, 30.986%, 41.972%, +1.7%.
+Fact: The **5 ★** in Sweatband has/costs 2.149%, 7.202%, 13.998%, 24.463%, 52.189%, +1.8%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Sweatband has/costs Stat ranges, Average.
+Fact: The +1%-+1.2% in Sweatband has/costs +1.2%-+1.4%, +1.4%-+1.6%, +1.6%-+1.8%, +1.8%-+2%.
+Fact: The **0 ★** in Sweatband has/costs 52.189%, 24.463%, 13.998%, 7.202%, 2.149%, +1.2%.
+Fact: The **0.5 ★** in Sweatband has/costs 41.972%, 30.986%, 16.431%, 8.203%, 2.408%, +1.3%.
+Fact: The **1 ★** in Sweatband has/costs 20%, 47.726%, 20%, 9.535%, 2.739%, +1.3%.
+Fact: The **1.5 ★** in Sweatband has/costs 9.014%, 50.445%, 25.96%, 11.405%, 3.176%, +1.4%.
+Fact: The **2 ★** in Sweatband has/costs 6.137%, 33.863%, 41.972%, 14.246%, 3.781%, +1.4%.
+Fact: The **2.5 ★** in Sweatband has/costs 4.675%, 19.23%, 52.189%, 19.23%, 4.675%, +1.5%.
+Fact: The **3 ★** in Sweatband has/costs 3.781%, 14.246%, 41.972%, 33.863%, 6.137%, +1.6%.
+Fact: The **3.5 ★** in Sweatband has/costs 3.176%, 11.405%, 25.96%, 50.445%, 9.014%, +1.6%.
+Fact: The **4 ★** in Sweatband has/costs 2.739%, 9.535%, 20%, 47.726%, 20%, +1.7%.
+Fact: The **4.5 ★** in Sweatband has/costs 2.408%, 8.203%, 16.431%, 30.986%, 41.972%, +1.7%.
+Fact: The **5 ★** in Sweatband has/costs 2.149%, 7.202%, 13.998%, 24.463%, 52.189%, +1.8%.
+Ways to Obtain[]
+* As a very rare drop from harvesting the Tacky Planter, Candy Planter, and Petal Planter. (Tacky Planter and Petal Planter have a higher chance to drop in Clover Field)
+* Buying it from Dapper Bear's Shop.
+* Completing Robo Bear's Winter 2025 Beesmas quest gives 1 Sweatband and other items.
+Gallery[]
+A Sweatband in Dapper Bear's Shop next to a Bandage and a Paperclip.
+A Sweatband equipped to a Shy Bee.
+A glitched Sweatband.
+Trivia[]
+* It is one of the first beequips added that is obtainable outside of Beesmas.
+* This Beequip was released on the 2022-04-01 update.
+* This is currently one of the only non-event Beequips that does not give an extra ability token on its stats.
+Fact: The Sub-Inventories in Sweatband has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Sweatband has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Sweatband has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Sweatband has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Sweatband has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Sweatband has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Sweatband has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Sweatband has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Sweatband has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Sweatband has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Sweatband has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Sweatband has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Sweatband has/costs **7-Pronged Cog**.
+Fact: The Other in Sweatband has/costs **Marshmallow Bee**.
+Fact: The Currencies in Sweatband has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Sweatband has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Sweatband has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Sweatband has/costs **Parachute •  Glider**.
+Fact: The Bags in Sweatband has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Sweatband has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Sweatband has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Sweatband has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Sweatband has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Sweatband has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Sweatband has/costs **Thimble •  **Sweatband** •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Sweatband has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Sweatband has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Sweatband has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

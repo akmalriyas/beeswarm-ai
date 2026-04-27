@@ -1,0 +1,82 @@
+Context: Bee Swarm Simulator - Coconut Canister
+
+Coconut Canister
+Coconut Canister
+Description
+"A back-mounted coconut that protects you during emergencies."
+Fact: The 25,000,000,000 Honey, 150 Tropical Drinks, 250 Coconuts, 150 Red Extracts, 150 Blue Extracts and 2 Refreshing Vials. in Coconut Canister has/costs 1,000,000 Pollen..
+Bonus Stats
+Fact: Bonus Stats statistic: +400% Convert Rate.
+x1.5 Convert Rate At Hive
+Fact: x1.5 Convert Rate At Hive statistic: +10% Instant Conversion.
+Fact: x1.5 Convert Rate At Hive statistic: +10% Instant White Conversion.
+Fact: x1.5 Convert Rate At Hive statistic: +100% White Pollen.
+Fact: x1.5 Convert Rate At Hive requirement: +Passive: Inspire Coconuts.
+Fact: x1.5 Convert Rate At Hive requirement: +Passive: Emergency Coconut Shield.
+> "_A back-mounted coconut that protects you during emergencies._ "
+The Coconut Canister is a bag that can be purchased in the Coconut Cave. It has the most base capacity and the highest price of all containers.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 25B Honey.
+Fact: Crafting Ingredients requirement: 250 Coconuts.
+150 Tropical Drinks
+Fact: 150 Tropical Drinks requirement: 150 Red Extracts.
+Fact: 150 Tropical Drinks requirement: 150 Blue Extracts.
+2 Refreshing Vials
+The following audio plays whenever the Emergency Coconut Shield passive ability activates: (Note: The audio in game is sped up.)
+<https://bee-swarm-simulator.fandom.com/wiki/File:Cocosiren.ogg>
+Fact: 2 Refreshing Vials statistic: * +1,000,000 Capacity..
+Fact: 2 Refreshing Vials statistic: * x1.25 Coconut Field Capacity..
+* +400% Convert Rate.
+* x1.5 Convert Rate at Hive
+* +10% Instant Conversion.
+* +10% Instant White Conversion.
+Fact: * x1.5 Convert Rate at Hive statistic: * +100% White Pollen..
+Fact: * x1.5 Convert Rate at Hive requirement: * +Passive: Emergency Coconut Shield..
+Fact: * x1.5 Convert Rate at Hive requirement: * Will activate upon taking damage. When it does, the Coconut Canister summons 5 falling coconuts and grants the "Coconut Shield" effect, which creates a translucent coconut around the player and gives +100% Defense and x1.25 Bee Attack for 10 seconds. It has a 5 minute-cooldown between activations..
+Fact: * x1.5 Convert Rate at Hive requirement: * +Passive: Inspire Coconuts..
+* Will activate after obtaining 5 stacks of Inspire. When it does, it'll summon 5 falling coconuts in the Field.
+Gallery[]
+The Emergency Coconut Shield icon
+The Inspire Coconuts Icon.
+The active Emergency Coconut Shield.
+Trivia[]
+* This, the Porcelain Port-O-Hive, the Red Port-O-Hive and the Blue Port-O-Hive are the only containers in the game that require materials other than honey to craft it.
+* If its items were to be crafted using the Blender, it would cost 25 billion Honey, 1750 Coconuts, 15000 Pineapples, 15000 Sunflower Seeds, 7500 Strawberries, 7500 Blueberries, and 9000 Royal Jellies to craft. It would also take 87.5 hours of Playtime to craft the Materials, or 1050 Tickets to speed up crafting.
+* When the Coconut Canister was first added, it was crafted with 150 Coconuts instead of 250 Coconuts, as this was the maximum amount you could hold at the time.
+* This is the only container that gives Passive Abilities.
+* This is one of the only two items in the game that gives 2 passives without having to buy another item. The other one is Gummy Boots, not including certain Supreme Star Amulets.
+* The red and blue "buttons" on each side of the canister repeatedly glow, alternating to represent the lights on ambulances. This was likely added to fit with the passive Emergency Coconut Shield, which also gives off a siren sound upon activation.
+* The buttons' flashing alternation is synced with every player who has the item equipped.
+* Note that the player must take damage directly from a mob to activate the Emergency Coconut Shield. For example, taking damage from the fire trail of Fire Ants, from the lawn mower or dying from an Obby does not activate this ability.
+* When the Emergency Coconut Shield is activated, it does not protect you from the 'Twigs' ability from Stick Bug.
+* There is a rare bug that makes it when the Emergency Coconut Shield is activated when you should've died, you will have a very small amount of health instead.
+Fact: Trivia[] statistic: * The Coconut Canister's stats display a x1.25 Capacity buff in game; however, it is meant to be a x1.25 Coconut Field Capacity buff. In spite of this, this buff does not function and grants no capacity multiplier..
+Fact: The Sub-Inventories in Coconut Canister has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Coconut Canister has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Coconut Canister has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Coconut Canister has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Coconut Canister has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Coconut Canister has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Coconut Canister has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Coconut Canister has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Coconut Canister has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Coconut Canister has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Coconut Canister has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Coconut Canister has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Coconut Canister has/costs **7-Pronged Cog**.
+Fact: The Other in Coconut Canister has/costs **Marshmallow Bee**.
+Fact: The Currencies in Coconut Canister has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Coconut Canister has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Coconut Canister has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Coconut Canister has/costs **Parachute •  Glider**.
+Fact: The Bags in Coconut Canister has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  **Coconut Canister****.
+Fact: The Guards in Coconut Canister has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Coconut Canister has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Coconut Canister has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Coconut Canister has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Coconut Canister has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Coconut Canister has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Coconut Canister has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Coconut Canister has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Coconut Canister has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

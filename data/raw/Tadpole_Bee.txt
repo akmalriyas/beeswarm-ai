@@ -1,0 +1,110 @@
+Context: Bee Swarm Simulator - Tadpole Bee
+
+Tadpole Bee
+Tadpole Bee
+_"A tiny amphibious bee who wants to become a frog when it grows up."_
+Fact: The 10 in Tadpole Bee has/costs **Speed**.
+Fact: The 11.2 in Tadpole Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #45c496 #2197A5 #45c496
+Tadpole Bee is a Blue Mythic bee.
+Tadpole Bee's favorite treat is Blueberries.
+Tadpole Bee likes the Pine Tree Forest and Stump Field. It dislikes the Cactus Field.
+Fact: Skin #45c496 #2197A5 #45c496 statistic: * Collects 10 Pollen in 6 seconds..
+* Makes 120 Honey in 4 seconds.
+* +40 Convert Amount, -20% Movespeed, -50% Gather Speed, and Energy.
+* 🌟Gifted Hive Bonus: +25% Bubble Duration
+Abilities[]
+* [Blue Boost] Grants x1.2 pollen from Blue Flowers for 15 seconds. Stacks up to 10 times.
+* [Summon Frog] Summons a frog that lasts for 20s (+2s per Level). Frogs can make bubbles after every few hops, or after collecting a token with their tongue. They also attack nearby enemies with attack equal to 5x this bee's attack.
+Fact: Abilities[] requirement: * If Gifted, this has a 10% (+2% per Level) chance to summon a Gifted Frog instead, which has increased tongue range, Token gathering and attack speed, 50% more attack, has a chance to summon golden bubbles, and can hit balloons with its tongue to convert pollen to Honey Tokens..
+* [🌟Gifted Ability: Baby Love] Grants x2 pollen and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
+* [Passive: Gathering Bubbles+] 65% chance (85% if Gifted) to spawn a Bubble when gathering. If any player touches it, it pops, collecting 4 Red/6 White/8 Blue pollen (+15% per Gifted blue bee type, +5% per bee level) from 29 nearby flowers and causing them to replenish.
+Fact: Abilities[] statistic: Tadpole Bee has a base pollen collection of **10** in **6 seconds**. That's equivalent to 1.66667  per second. (**20** in **6 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Tadpole Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Tadpole Bee has/costs with Melody.
+Fact: The Single in Tadpole Bee has/costs 10, 20, 30.
+Fact: The Double in Tadpole Bee has/costs 20, 40, 60.
+Fact: The Triple in Tadpole Bee has/costs 30, 60, 90.
+Fact: The Large in Tadpole Bee has/costs 40, 80, 120.
+Fact: The Star in Tadpole Bee has/costs 50, 100, 150.
+Tadpole Bee can make 120 in 4 seconds! That's equivalent to 30 per second. (120 in 2 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Tadpole Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Tadpole Bee has/costs 25%, 150.
+Fact: The 2 in Tadpole Bee has/costs 50%, 180.
+Fact: The 3 in Tadpole Bee has/costs 75%, 210.
+Fact: The 4 in Tadpole Bee has/costs 100%, 240.
+Fact: The 5 in Tadpole Bee has/costs 125%, 270.
+Fact: The 6 in Tadpole Bee has/costs 150%, 300.
+Fact: The 7 in Tadpole Bee has/costs 175%, 330.
+Fact: The 8 in Tadpole Bee has/costs 200%, 360.
+Fact: The _Science Enhancement_ in Tadpole Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Tadpole Bee has/costs 225%, 390.
+Fact: The 10 in Tadpole Bee has/costs 250%, 420.
+Fact: The 11 in Tadpole Bee has/costs 275%, 450.
+Fact: The 12 in Tadpole Bee has/costs 300%, 480.
+Fact: The 13 in Tadpole Bee has/costs 325%, 510.
+Fact: The 14 in Tadpole Bee has/costs 350%, 540.
+Fact: The 15 in Tadpole Bee has/costs 375%, 570.
+Fact: The 16 in Tadpole Bee has/costs 400%, 600.
+Fact: The _Science Enhancement_ in Tadpole Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Tadpole Bee has/costs 425%, 630.
+Fact: The 18 in Tadpole Bee has/costs 450%, 660.
+Fact: The 19 in Tadpole Bee has/costs 475%, 690.
+Fact: The 20 in Tadpole Bee has/costs 500%, 720.
+Fact: The 21 in Tadpole Bee has/costs 525%, 750.
+Fact: The 22 in Tadpole Bee has/costs 550%, 780.
+Fact: The 23 in Tadpole Bee has/costs 575%, 810.
+Fact: The 24 in Tadpole Bee has/costs 600%, 840.
+Fact: The _Science Enhancement_ in Tadpole Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Tadpole Bee has/costs 625%, 870.
+Fact: The 26 in Tadpole Bee has/costs 650%, 900.
+Fact: The 27 in Tadpole Bee has/costs 675%, 930.
+Fact: The 28 in Tadpole Bee has/costs 700%, 960.
+Fact: The 29 in Tadpole Bee has/costs 725%, 990.
+Fact: The 30 in Tadpole Bee has/costs 750%, 1020.
+Fact: The 31 in Tadpole Bee has/costs 775%, 1050.
+Egg and Jelly Probability
+Fact: The Basic Egg in Tadpole Bee has/costs 0%, 0%.
+Fact: The Silver Egg in Tadpole Bee has/costs 0.1%, 0.01667%.
+Fact: The Gold Egg in Tadpole Bee has/costs 1%, 0.16667%.
+Fact: The Diamond Egg in Tadpole Bee has/costs 5%, 0.83333%.
+Fact: The Mythic Egg in Tadpole Bee has/costs 100%, 16.66667%.
+Fact: The Royal Jelly in Tadpole Bee has/costs 0.004%, 0.00067%.
+Gallery[]
+A Gifted Tadpole Bee hive slot.
+Tadpole Bee's face.
+Tadpole Bee with Spicy Bee, Vector Bee, Basic Bee, and Cub Buddies in the game thumbnail.
+A “Summon Frog” token.
+A summoned normal Frog.
+A summoned Gifted Frog.
+Trivia[]
+* The Tadpole Bee, Lion Bee, Tabby Bee, Bear Bee, and Puppy Bee are the only bees to represent realistic animals.
+* The Tadpole Bee is the only Mythic bee that represents a realistic animal.
+* Tadpole Bee and Baby Bee are the only bees with the Baby Love ability.
+* Tadpole Bee and Baby Bee are also the only bees that appear smaller than the normal bee size.
+* Tadpole Bee and Windy Bee are the only bees with 2 gifted bonuses, excluding other Event Bees who enhance their ability.
+* Tadpole Bee, Vector Bee, Fuzzy Bee, Spicy Bee, Buoyant Bee and Digital Bee are the only bees with gifted exclusive abilities.
+* This bee and Spicy Bee are the only bees who can summon other entities.
+* This is the only bee that can summon a Mob.
+* Tadpole Bee and Bubble Bee are the only bees with the Gathering Bubbles passive ability.
+* Tadpole Bee, Fuzzy Bee, Spicy Bee, Buoyant Bee, and Digital Bee all have four different Abilities, the most for any bee.
+* Tadpole Bee used to be the only bee in the game that had a decimal base attack (0.5).
+* Tadpole Bee is the only Mythic bee that has its Gifted-exclusive ability token shared with another bee.
+* Along with Vector Bee and Spicy Bee, Tadpole Bee was one of the first Mythic Bees to be introduced to the game.
+* A Tadpole Bee Egg could be obtained by giving Bubble Bee Man a Present during the Beesmas 2020 event.
+* Tadpole Bee is the second mythic bee to have an egg of its own, the first being Fuzzy Bee.
+* Tadpole Bee is one of the 8 other bees with a unique trail.
+* Tadpole Bee is the blue counterpart of Spicy Bee.
+* Tadpole Bee and Fuzzy Bee are the only Mythics, when gifted, to not have any glowing parts.
+Fact: The Common & Rare in Tadpole Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Tadpole Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Tadpole Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Tadpole Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  **Tadpole Bee** •  Vector Bee**.
+Fact: The Event in Tadpole Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

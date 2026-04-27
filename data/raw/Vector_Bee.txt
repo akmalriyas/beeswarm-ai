@@ -1,0 +1,112 @@
+Context: Bee Swarm Simulator - Vector Bee
+
+Vector Bee
+Vector Bee
+_"A bee brought to life by an extremely complex trigonometric equation."_
+Fact: The 45.6 in Vector Bee has/costs **Speed**.
+Fact: The 16.24 in Vector Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #b7bcc8 #ffffff #b7bcc8
+Vector Bee is a Colorless Mythic bee.
+Vector Bee's favorite treat is Sunflower Seeds.
+Vector Bee likes the Spider Field and the Coconut Field. It dislikes the Pineapple Patch.
+Fact: Skin #b7bcc8 #ffffff #b7bcc8 statistic: * Collects 18 Pollen in 4 seconds..
+* Makes 144 Honey in 2.72 seconds.
+* +4 Attack, +8 Gather Amount, +16% Movespeed, +32% Convert Speed, +64 Convert Amount, +128% Energy.
+* 🌟 Gifted Hive Bonus: +15% Mark Duration.
+Abilities[]
+Fact: Abilities[] statistic: * **[Pollen Mark+]** Marks a large random area on the Field for 8 seconds (+0.25s per Level) that increases all pollen by 50% while that player stands in it. Stacks up to 3 times..
+* [Triangulate] Draws a triangle between the player, the bee, and the token. After 3s, it collects Ability tokens and 10 pollen (+2 per Level) from all Flowers inside. All Marks within the triangle increase the pollen by 50%.
+Fact: Abilities[] statistic: * If the triangle contains a Pollen Mark, it gains x2 White pollen..
+* If the triangle contains a Honey Mark or Festive Mark, it gains 50% instant conversion.
+* If the triangle contains a Precise Mark, it always deals critical hits.
+Fact: Abilities[] statistic: * **[🌟Gifted Ability: Mark Surge]** Causes all of the player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius. Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5 surges..
+Fact: Abilities[] statistic: * When a Honey Mark or Festive Mark surges, the Pollen is Instantly Converted..
+* When a Precise Mark surges, it always does Critical Hits.
+Fact: Abilities[] statistic: Vector Bee has a base pollen collection of **18** in **4 seconds**. That's equivalent to 4.5  per second. (**36** in **4 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Vector Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Vector Bee has/costs with Melody.
+Fact: The Single in Vector Bee has/costs 18, 36, 54.
+Fact: The Double in Vector Bee has/costs 36, 72, 108.
+Fact: The Triple in Vector Bee has/costs 54, 108, 162.
+Fact: The Large in Vector Bee has/costs 72, 144, 216.
+Fact: The Star in Vector Bee has/costs 90, 180, 270.
+Vector Bee can make 144 in 1 second!
+(144 in 0.5 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Vector Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Vector Bee has/costs 25%, 180.
+Fact: The 2 in Vector Bee has/costs 50%, 216.
+Fact: The 3 in Vector Bee has/costs 75%, 252.
+Fact: The 4 in Vector Bee has/costs 100%, 288.
+Fact: The 5 in Vector Bee has/costs 125%, 324.
+Fact: The 6 in Vector Bee has/costs 150%, 360.
+Fact: The 7 in Vector Bee has/costs 175%, 396.
+Fact: The 8 in Vector Bee has/costs 200%, 432.
+Fact: The _Science Enhancement_ in Vector Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Vector Bee has/costs 225%, 468.
+Fact: The 10 in Vector Bee has/costs 250%, 504.
+Fact: The 11 in Vector Bee has/costs 275%, 540.
+Fact: The 12 in Vector Bee has/costs 300%, 576.
+Fact: The 13 in Vector Bee has/costs 325%, 612.
+Fact: The 14 in Vector Bee has/costs 350%, 648.
+Fact: The 15 in Vector Bee has/costs 375%, 684.
+Fact: The 16 in Vector Bee has/costs 400%, 720.
+Fact: The _Science Enhancement_ in Vector Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Vector Bee has/costs 425%, 756.
+Fact: The 18 in Vector Bee has/costs 450%, 792.
+Fact: The 19 in Vector Bee has/costs 475%, 828.
+Fact: The 20 in Vector Bee has/costs 500%, 864.
+Fact: The 21 in Vector Bee has/costs 525%, 900.
+Fact: The 22 in Vector Bee has/costs 550%, 936.
+Fact: The 23 in Vector Bee has/costs 575%, 972.
+Fact: The 24 in Vector Bee has/costs 600%, 1008.
+Fact: The _Science Enhancement_ in Vector Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Vector Bee has/costs 625%, 1044.
+Fact: The 26 in Vector Bee has/costs 650%, 1080.
+Fact: The 27 in Vector Bee has/costs 675%, 1116.
+Fact: The 28 in Vector Bee has/costs 700%, 1152.
+Fact: The 29 in Vector Bee has/costs 725%, 1188.
+Fact: The 30 in Vector Bee has/costs 750%, 1224.
+Fact: The 31 in Vector Bee has/costs 775%, 1260.
+Egg and Jelly Probability
+Fact: The Basic Egg in Vector Bee has/costs 0%, 0%.
+Fact: The Silver Egg in Vector Bee has/costs 0.1%, 0.01667%.
+Fact: The Gold Egg in Vector Bee has/costs 1%, 0.16667%.
+Fact: The Diamond Egg in Vector Bee has/costs 5%, 0.83333%.
+Fact: The Mythic Egg in Vector Bee has/costs 100%, 16.66667%.
+Fact: The Royal Jelly in Vector Bee has/costs 0.004%, 0.00067%.
+Gallery[]
+Vector Bee's Face.
+A Gifted Mutated Radioactive Vector Bee hive slot.
+A Gifted Vector Bee hive slot.
+Gifted Vector Bee in the darkness.
+Triangulate token.
+A Triangulate token in action.
+Mark Surge token.
+Vector Bee with Spicy Bee, Tadpole Bee, Basic Bee, and Cub Buddies in the game thumbnail.
+The 4-Pronged Vector Bee sticker.
+Trivia[]
+* Vector Bee's stats follow a Geometric Progression pattern, where each number is double the amount of the previous number.
+* Vector Bee is the only Mythic bee to not share any of its abilities with other bees. It is also the only Mythic Bee to not have a Passive Ability.
+* Vector Bee is the only bee to have a different skin pattern on each of its sides.
+* Vector Bee's design is heavily inspired by mathematics.
+* Its relation to trigonometry is implied in its description and the triangular motifs on its head.
+* Vectors reference Euclidean vectors, objects with magnitude and direction. A triangle can be composed of three vectors.
+* Triangulation is a method to determine the location of a point through forming triangles from known points.
+* Vector Bee, Spicy Bee, Precise Bee and Buoyant Bee emit light when they are gifted.
+* Vector Bee shares similar color schemes with Brave Bee.
+* Triangulate is Onett "Onett \(Developer\)")'s favorite ability, due to the fact that he thinks it's satisfying.
+* Mark Surge token is considered by the game as "mark" token despite what the ability does doesn't create mark like what all other mark tokens do. This means the collection of Mark Surge token counts toward some quests, Coin Scatter passive ability, and anything that requires the collection of "mark" tokens.
+* Triangulate, however, is not considered as "mark" ability token.
+* In a similar fashion, Fuzz Bombs (Fuzzy Bee's ability token), Bomb Sync (Cobalt Bee and Crimson Bee's ability token) are not considered "bomb" ability tokens, and Honey Mark isn't considered as "honey" token.
+Fact: The Common & Rare in Vector Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Vector Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Vector Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Vector Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  **Vector Bee****.
+Fact: The Event in Vector Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

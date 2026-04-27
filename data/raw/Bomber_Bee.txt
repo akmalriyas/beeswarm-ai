@@ -1,0 +1,89 @@
+Context: Bee Swarm Simulator - Bomber Bee
+
+Bomber Bee
+Bomber Bee
+_"This crafty bee makes bombs which collect pollen from all nearby flowers."_
+Fact: The 20 in Bomber Bee has/costs **Speed**.
+Fact: The 15.4 in Bomber Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #f1f1f1 #1b2a35 #f1f1f1
+Bomber Bee is a Colorless Rare bee.
+Bomber Bee's favorite treat is Sunflower Seeds.
+Bomber Bee likes the Dandelion Field and the Cactus Field. It dislikes the Pumpkin Patch.
+* Collects 10 pollen in 4 seconds.
+* Makes 120 honey in 4 seconds.
+* +10% Movespeed, +40 convert amount, +1 attack.
+Fact: Skin #f1f1f1 #1b2a35 #f1f1f1 statistic: * 🌟Gifted Hive Bonus: x1.1 Bomb Pollen..
+Abilities[]
+* [Buzz Bomb] Collects 7 pollen from 13 surrounding flowers (+10% pollen per level). Combo with other bombs to increase power and stacks up to 10 times.
+Fact: Abilities[] statistic: Bomber Bee has a base pollen collection of **10** in **4 seconds**. That's equivalent to 2.5  per second. (**20** in **4 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Bomber Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Bomber Bee has/costs with Melody.
+Fact: The Single in Bomber Bee has/costs 10, 20, 30.
+Fact: The Double in Bomber Bee has/costs 20, 40, 60.
+Fact: The Triple in Bomber Bee has/costs 30, 60, 90.
+Fact: The Large in Bomber Bee has/costs 40, 80, 120.
+Fact: The Star in Bomber Bee has/costs 50, 100, 150.
+Bomber Bee can make 120 in 4 seconds! That's equivalent to 30 per second. (120 in 2 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Bomber Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Bomber Bee has/costs 25%, 150.
+Fact: The 2 in Bomber Bee has/costs 50%, 180.
+Fact: The 3 in Bomber Bee has/costs 75%, 210.
+Fact: The 4 in Bomber Bee has/costs 100%, 240.
+Fact: The 5 in Bomber Bee has/costs 125%, 270.
+Fact: The 6 in Bomber Bee has/costs 150%, 300.
+Fact: The 7 in Bomber Bee has/costs 175%, 330.
+Fact: The 8 in Bomber Bee has/costs 200%, 360.
+Fact: The _Science Enhancement_ in Bomber Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Bomber Bee has/costs 225%, 390.
+Fact: The 10 in Bomber Bee has/costs 250%, 420.
+Fact: The 11 in Bomber Bee has/costs 275%, 450.
+Fact: The 12 in Bomber Bee has/costs 300%, 480.
+Fact: The 13 in Bomber Bee has/costs 325%, 510.
+Fact: The 14 in Bomber Bee has/costs 350%, 540.
+Fact: The 15 in Bomber Bee has/costs 375%, 570.
+Fact: The 16 in Bomber Bee has/costs 400%, 600.
+Fact: The _Science Enhancement_ in Bomber Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Bomber Bee has/costs 425%, 630.
+Fact: The 18 in Bomber Bee has/costs 450%, 660.
+Fact: The 19 in Bomber Bee has/costs 475%, 690.
+Fact: The 20 in Bomber Bee has/costs 500%, 720.
+Fact: The 21 in Bomber Bee has/costs 525%, 750.
+Fact: The 22 in Bomber Bee has/costs 550%, 780.
+Fact: The 23 in Bomber Bee has/costs 575%, 810.
+Fact: The 24 in Bomber Bee has/costs 600%, 840.
+Fact: The _Science Enhancement_ in Bomber Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Bomber Bee has/costs 625%, 870.
+Fact: The 26 in Bomber Bee has/costs 650%, 900.
+Fact: The 27 in Bomber Bee has/costs 675%, 930.
+Fact: The 28 in Bomber Bee has/costs 700%, 960.
+Fact: The 29 in Bomber Bee has/costs 725%, 990.
+Fact: The 30 in Bomber Bee has/costs 750%, 1020.
+Fact: The 31 in Bomber Bee has/costs 775%, 1050.
+Egg and Jelly Probability
+Fact: The Basic Egg in Bomber Bee has/costs 10%, 1.11111%.
+Fact: The Silver Egg in Bomber Bee has/costs 64.9%, 7.21111%.
+Fact: The Gold Egg in Bomber Bee has/costs 0%, 0%.
+Fact: The Diamond Egg in Bomber Bee has/costs 0%, 0%.
+Fact: The Mythic Egg in Bomber Bee has/costs 0%, 0%.
+Fact: The Royal Jelly in Bomber Bee has/costs 70%, 7.77778%.
+Gallery[]
+Bomber Bee's old hive slot design.
+A Gifted Bomber Bee hive slot.
+Bomber Bee's face.
+Bomber Bee's original face.
+Bomber Bee on the game thumbnail.
+Trivia[]
+* Bomber Bee has a direct correlation with Demo Bee because Demo Bees are elite Bomber Bees, according to its description.
+* The Bomber Guard, which is purchased in the Pro Shop, has a special design, name and stats dedicated to Bomber Bee.
+Fact: The Common & Rare in Bomber Bee has/costs **Basic Bee •  **Bomber Bee** •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Bomber Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Bomber Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Bomber Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Bomber Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

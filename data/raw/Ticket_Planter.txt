@@ -1,0 +1,94 @@
+Context: Bee Swarm Simulator - Ticket Planter
+
+Ticket Planter
+Datamined information:
+* Some of the planter's stats are corrected from the in-game description.
+* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
+* How the planter generates its loot.
+Date of datamined file: December 19th, 2024
+Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
+Ticket Planter
+_"Grows in about 2 hours of playtime. Grants Tickets and spawns a Puffshroom!_ "
+GROW TIME BONUS
+POLLEN CAPACITY
+Fact: POLLEN CAPACITY statistic: 50,000 Pollen.
+POLLEN MULTIPLIER
+NECTAR MULTIPLIER
+x2 Refreshing
+x2 Comforting
+x2 Satisfying
+x2 Motivating
+x2 Invigorating
+BONUS ITEMS
+A Ticket Planter is a single use planter added in the 2021-12-26 update. Alone, it grows in about 2 hours and stores 50,000 pollen. When harvested, it grants bonus Tickets. A player can store up to 100 Ticket Planters at a time, but only 1 can be active.
+It does not have any growth nor pollen multipliers, and grants x2 nectar.
+Harvesting a fully grown Ticket Planter is guaranteed to spawn a Puffshroom. The spawned puffshroom is between levels 1-2, and is guaranteed to be a Common Puffshroom.
+When claimed, the planter gives up to 25 tokens worth of items. If the planter was fully grown when claimed, 1 of the tokens is guaranteed to be 10 Tickets. The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the field the planter is in):
+Possible Drops List
+Tickets (10-150)
+Royal Jellies
+Strawberries
+Sunflower Seeds
+Blueberries
+Honeysuckles
+Neonberries
+Moon Charms
+Bitterberries
+Purple Potion (Very Rare)
+Hard Wax (Rare)
+Super Smoothie (Rare)
+Star Jelly (Rare)
+Caustic Wax (Extremely rare)
+Gold Egg (Extremely rare)
+Turpentine (Exceptionally Rare)
+Ticket Voucher (Unfathomably Rare)
+Ways to obtain[]
+* Dapper Bear gives 3 Ticket Planters if the player speaks to him for the first time.
+* As a reward from certain quests:
+* If the player completes Dapper Bear’s quests and they already got Beequip slots from Bee Bear in previous years, they get a Ticket Planter for each Beequip slot.
+* Bee Bear's "Searching For Snowflakes" quest rewards 1 Ticket Planter and other items.
+* As a rare reward from the Retro Swarm Challenge.
+* As a rare drop from Sticker Sprouts.
+* As a Stack Reward for adding certain stickers to the Sticker Stack:
+* Dapper From Above Sticker rewards 1 Ticket Planter.
+* Ticket Voucher rewards 1 Ticket Planter
+* Buying the Tempting Ticket Pack from Bee Bear's Catalog for 55,555 Snowflakes gives 5 Ticket Planters and other items.
+* As a drop from Dapper Bear’s Samovar after every 5th use (except for the 25th, which drops a turpentine instead).
+Outdated Ways[]
+* By completing Gifted Riley Bee's 2021 Beesmas Quest.
+* By completing some of Bee Bear's 2021 and 2022 quests.
+* By buying certain items/bundles from Bee Bear's Catalog:
+* Buying the Festive Bundle for 5,000 Snowflakes and 100 Gingerbread Bears during Beesmas 2021 gave 10 Ticket Planters.
+* Buying the Ticket Planter for 100 Snowflakes.
+* Opening certain Gift Boxes:
+* Opening the Gilded Gift Box gave 1 Ticket Planter and other items.
+* Opening the Jubilant Gift Box gave 4 Ticket Planters and other items.
+* Opening the Vibrant Gift Box gave 1 Ticket Planter and other items.
+* Opening the Obnoxious Gift Box gave 1 Ticket Planter and other items.
+* Opening the Soothing Gift Box gave 2 Ticket Planters and other items.
+* Using certain expired codes:
+* "2Billion" gave 1 ticket planter and other items.
+* Purchasing certain Robux packs:
+* Purchasing the Cyber Mondo Monday Pack for 800 robux gave 10 Ticket Planters and other items.
+* Purchasing the 15 Ticket Planters offer for 400 robux gave 15 Ticket Planters.
+* As a drop from Robo Party mobs.
+* As a reward for completing your Robo Party.
+* As a drop from Dapper Bear's Samovar (Dropped after every 5th use, except the 25th).
+Gallery[]
+A newly placed Ticket Planter.
+A fully grown Ticket Planter.
+A degraded Ticket Planter in a field.
+A shining Ticket Planter, boosted by a Glitter
+Ticket Planters in a player's inventory.
+A Turpentine gained from a ticket planter.
+A Ticket Planter token.
+Trivia[]
+* This is one of the two planters that is guaranteed to spawn a Puffshroom. The other is the Sticker Planter.
+* This, the Sticker Planter and the Paper Planter share the same base model.
+* They also share the same outline for their decals.
+* It is one of two planters that mentions an in-game item in its name, the other planter is the Sticker Planter.
+* It gives the second-best nectar multiplier in the game, 2x, behind the Festive Planter with 3x.
+* It is one of 4 single-use planters, the others being the Paper Planter, the Festive Planter and the Sticker Planter.
+* This, the Sticker Planter and the Paper Planter are the only one-use planters in the game that can be obtained infinitely.
+Fact: The One-time Use in Ticket Planter has/costs **Paper Planter •  **Ticket Planter** •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Ticket Planter has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

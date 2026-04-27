@@ -1,0 +1,66 @@
+Context: Bee Swarm Simulator - Bucko Guard
+
+Bucko Guard
+Bucko Guard
+Description
+"A piece of armor forged by the leader of Blue Bees!"
+Fact: Description requirement: 30,000,000 Honey, 10 Blue Extracts, 100 Blueberries, 5 Glue, and 75 Moon Charms..
+Bonus Stats
+Fact: Bonus Stats statistic: +150,000 Capacity.
+Fact: Bonus Stats statistic: +35% Blue Pollen.
+Fact: Bonus Stats statistic: +10% Defense.
+Fact: Bonus Stats statistic: +75% Critical Power.
+Fact: Bonus Stats statistic: +2 Blue Bee Attack.
+> "_A piece of armor forged by the leader of Blue Bees!_ "
+The Bucko Guard is a guard purchasable in the Blue HQ. It is equipped on the right shoulder.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 30,000,000 Honey.
+Fact: Crafting Ingredients requirement: 10 Blue Extracts.
+100 Blueberries
+Fact: 100 Blueberries requirement: 5 Glues.
+Fact: 100 Blueberries requirement: 75 Moon Charms.
+This guard is one of 3 guards you can get in the Blue HQ, the others being the Blue Guard, and the Elite Blue Guard.
+Fact: 100 Blueberries statistic: * +150,000 Capacity..
+Fact: 100 Blueberries statistic: * +35% Blue Pollen..
+* +10% Defense.
+* +75% Critical Power.
+* +2 Blue Bee Attack.
+Fact: 100 Blueberries statistic: * +10% Blue Bomb Pollen..
+Gallery[]
+The Bucko Guard icon.
+Trivia[]
+* This guard represents Bucko Bee.
+* Before the 2018-11-25 update, it used to cost 60,000,000 honey and no crafting materials.
+* This is the highest tiered guard available in the Blue HQ.
+* This is the fourth most expensive item in the Blue HQ, after the Bubble Mask, the Hydroponic Planter, and the Tide Popper.
+* This guard’s red counterpart is the Riley Guard.
+* If a player were to craft the ingredients needed to craft this item, it would cost 30,000,000 honey, 2,025 blueberries, 225 royal jellies, 1,650 pineapples and 1,425 strawberries.
+Fact: The Sub-Inventories in Bucko Guard has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Bucko Guard has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Bucko Guard has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Bucko Guard has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Bucko Guard has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Bucko Guard has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Bucko Guard has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Bucko Guard has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Bucko Guard has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Bucko Guard has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Bucko Guard has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Bucko Guard has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Bucko Guard has/costs **7-Pronged Cog**.
+Fact: The Other in Bucko Guard has/costs **Marshmallow Bee**.
+Fact: The Currencies in Bucko Guard has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Bucko Guard has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Bucko Guard has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Bucko Guard has/costs **Parachute •  Glider**.
+Fact: The Bags in Bucko Guard has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Bucko Guard has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  **Bucko Guard** •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Bucko Guard has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Bucko Guard has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Bucko Guard has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Bucko Guard has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Bucko Guard has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Bucko Guard has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Bucko Guard has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Bucko Guard has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

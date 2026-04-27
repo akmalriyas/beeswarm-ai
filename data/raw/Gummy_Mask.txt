@@ -1,0 +1,104 @@
+Context: Bee Swarm Simulator - Gummy Mask
+
+Gummy Mask
+Gummy Mask
+Description
+"The official mask of a Gummy Soldier."
+Fact: "The official mask of a Gummy Soldier." requirement: 5,000,000,000 Honey, 250 Glue, 100 Enzymes, 100 Oil, 100 Glitter and 1 Satisfying Vial..
+Bonus Stats
+Fact: Bonus Stats statistic: +75% Goo.
+Fact: Bonus Stats statistic: +10% Goo Conversion.
+Fact: Bonus Stats statistic: x1.25 White Pollen.
+Fact: Bonus Stats statistic: +25% Pollen.
+Fact: Bonus Stats statistic: x1.5 Capacity.
+Fact: Bonus Stats statistic: x1.5 White Field Capacity.
+Fact: Bonus Stats statistic: +30% Defense.
+Fact: Bonus Stats statistic: +20% Bee Ability Rate.
+Fact: Bonus Stats requirement: +Passive: Coin Scatter (Needs Honey Mask).
+Fact: Bonus Stats statistic: +Passive: Gummy Morph.
+> "_The official mask of a Gummy Soldier._ "
+The Gummy Mask is a mask available for purchase in Gummy Bear's Lair. It can be reached by touching the Gummy Bee model on the Gummy Bee Egg Claim and using gumdrops if the player has obtained the Goo Hotshot badge.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 5B Honey.
+Fact: Crafting Ingredients requirement: 250 Glues.
+Fact: Crafting Ingredients requirement: 100 Enzymes.
+Fact: Crafting Ingredients requirement: 100 Oils.
+Fact: Crafting Ingredients requirement: 100 Glitter.
+1 Satisfying Vial
+Once 30 regular gumdrops are used or 10 Ability Tokens from Gummy Bee are collected, Gummy Mask's passive ability (Gummy Morph) activates with the following sound file:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Gbm.ogg>
+The appearance of the Gummy Mask has a teal gumdrop on top emitting tiny bubbles. Below that is a pink dome with a neon teal disc and a pink disc underneath. The Gummy Bee face is placed on a pink barrier surrounding the player's face.
+* +10% Goo Conversion
+Fact: * +10% Goo Conversion statistic: * x1.25 White Pollen.
+Fact: * +10% Goo Conversion statistic: * +25% Pollen.
+Fact: * +10% Goo Conversion statistic: * x1.5 Capacity.
+Fact: * +10% Goo Conversion statistic: * x1.5 White Field Capacity.
+* +30% Defense
+* +20% Bee Ability Rate
+Fact: * +20% Bee Ability Rate requirement: * +Passive: Coin Scatter (Requires Honey Mask in order to use):.
+* The passive is activated every 20 Mark Tokens. When it does, 300% of the player's total Hive Convert Amount will be converted and scattered into honey tokens, which cannot be collected through a Token Link (visible only to the player, Honey Tokens last one minute). The passive has a cooldown of two minutes before being able to be used again.
+* +Passive: Gummy Morph:
+Fact: * +20% Bee Ability Rate requirement: * The Gummy Morph will trigger every 30 gumdrops used OR 10 Gummy Bee ability tokens collected (+1 stack per gumdrops used, +3 stacks every Gummy Bee ability). When it triggers, it will turn you into Gummy Bear, your Gummy Bee will glow and leave a trail. In addition, the field will be fully covered in goo. As Gummy Bear, you will gain +75% goo, instantly converting all of it, and have increased jump power and player speed. As Gummy Bee glows, it will gather 1000% more pollen, gain +300 attack, and move 200% faster for 10 seconds. This passive does not have any cooldown time..
+Gallery[]
+The Gummy Mask icon
+The Gummy Morph icon
+The Coin Scatter icon
+A player with the Gummy Bear Morph.
+When Gummy Morph is activated, Gummy Bee will change colors, glow brighter, and leave a trail.
+The rose field covered in goo by the Gummy Bear Morph passive.
+The Gummy Mask in its shop.
+Gummy Mask's stats when it first released.
+Gummy Mask's stats before the 2019-12-23 update.
+Current Gummy Mask's stats
+Gummy Mask's stats before the 2020-04-06 update.
+Gummy Bear Morph's first stats when it came out.
+Gummy Bear Morph's old stats.
+Gummy Bear Morph's current stats.
+Trivia[]
+* If the ingredients to craft this item were to be crafted, a total of 5,000,000,000 Honey, 75,000 Blueberries, 75,000 Strawberries, 92,500 Pineapples, 5,000 Sunflower Seeds, 8,000 Royal Jellies, 100 Magic Beans and 1 Satisfying Vial of nectar are needed.
+* Upon activating the Gummy Morph, Gummy Bee will have the highest Base Attack Power of 303 damage in total.
+* This is the only mask that represents an Event bee (Gummy Bee), as the other masks are based on Epic and Legendary Bees.
+* The Gummy Mask was nerfed in the 2019-04-05 Update because it was too powerful.
+* It was later buffed a little in the 2019-04-17 Update, as people were complaining that it was extremely bad with the nerf.
+* Before the 2019-09-28 Update, if the Unlimited Gumdrops buff is active, the passive ability would not be activated from gumdrops. This is because gumdrops in the inventory weren't technically consumed upon use with the Unlimited Gumdrops buff.
+* After the update, it can now be activated with Unlimited Gumdrops.
+* The music that plays when the Gummy Bear Morph is active is a slight rendition of Gummy Bear's theme that plays in the Gummy Bear's Lair.
+* This and the Honey Mask are the only masks in the game that requires a badge to access and purchase.
+* Coincidentally, the Honey Mask is also required to unlock the coin scatter ability on this mask.
+* The Gummy Mask is the only mask in the game that requires a specific badge to access it.
+* This is the only way to get a Bear Morph ability without Robux and codes before the 2024-05-23 Update.
+* Either this mask or the Gummy Boots were needed in order to receive Gummy Bear's Beesmas quest.
+* The Gummy Morph icon is the same icon as the one for the Goo badge.
+* This and the Strange Goggles are the only items that are required to interact with NPCs. However, during Beesmas, the Honey Mask was also needed to give Honey Bee "Honey Bee \(NPC\)") a present and to receive its Beesmas quest.
+* This, the Demon Mask and the Diamond Mask are the only masks with decorative accessories (Gummy Mask has a teal gumdrop).
+* This is the 3rd most expensive item requiring Glue. In front of the Gummy Mask is Gummy Boots (2nd) and Gummyballer (1st).
+* The morph lasts a bit longer than the field being covered in goo during Gummy Morph.
+Fact: The Sub-Inventories in Gummy Mask has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Gummy Mask has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Gummy Mask has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Gummy Mask has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Gummy Mask has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Gummy Mask has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Gummy Mask has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Gummy Mask has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Gummy Mask has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Gummy Mask has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Gummy Mask has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Gummy Mask has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Gummy Mask has/costs **7-Pronged Cog**.
+Fact: The Other in Gummy Mask has/costs **Marshmallow Bee**.
+Fact: The Currencies in Gummy Mask has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Gummy Mask has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Gummy Mask has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Gummy Mask has/costs **Parachute •  Glider**.
+Fact: The Bags in Gummy Mask has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Gummy Mask has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Gummy Mask has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  **Gummy Mask** •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Gummy Mask has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Gummy Mask has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Gummy Mask has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Gummy Mask has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Gummy Mask has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Gummy Mask has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Gummy Mask has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

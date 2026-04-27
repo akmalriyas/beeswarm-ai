@@ -1,0 +1,62 @@
+Context: Bee Swarm Simulator - Onett’s Lid Art
+
+Onett’s Lid Art
+Datamined information: The probability of getting every item and bee.
+Date of datamined file: December 19th, 2024
+Onett's Lid Art after completing Onett's Beesmas quest.
+Onett's Lid Art , or Yard Art is a Beesmas decoration which is unlocked after completing Onett's Yard Art quest.
+The art is located past the Bear Gate next to Onett. It can be used every 8 hours. When activated, the player receives 3 temporary bees, an assortment of items, and a Guiding Star is activated.
+If a player attempts to use the Lid Art before completing Onett's quest, it displays the message: This art is missing something... It's not very impactful.
+Appearance[]
+The Lid Art consists of (left to right) Spirit Bear on King Beetle, Black Bear, Mother Bear, Bumble Bee and Stick Bug, and a Basic Bee fence gate.
+The names confirmed by Onett so far are: Queen Spirit Bear (Spirit Bear), King Stick Bug (Stick Bug), and King Bumble Bee (Bumble Bee).
+Onett's Lid Art before the completion of Onett's Beesmas 2020 quest and beyond.
+After completing Onett's Yard Art quest, Baby Bee, wearing a Santa hat, appears in between Black Bear and Mother Bear in the cradle.
+Item Drops[]
+* 5 Pineapples
+* 5 Strawberries
+* 5 Blueberries
+* 5 Sunflower Seeds
+* 1 Gingerbread Bear
+2 items from the following pool
+* 1 Ticket (~49.38%)
+* 10 Moon Charms (~29.63%)
+* 1 Glitter (~9.88%)
+* 1 Glue (~9.88%)
+* 1 Star Jelly (~0.99%)
+* 1 Toy Horn (~0.1%)
+* 1 Paper Angel (~0.1%)
+* 1 Box-O-Frogs (~0.04%)
+* 1 Festive Bean (~0.01%)
+Temporary Bees[]
+*  Bumble Bee (Level 20)
+*  Baby Bee (level 1)
+1 bee from the following pool
+*  Lion Bee (level 8) (~25%)
+*  Music Bee (level 8) (~25%)
+*  Cobalt Bee (level 8) (~18.75%)
+*  Crimson Bee (level 8) (~18.75%)
+*  Festive Bee (level 8) (~6.25%)
+*  Tabby Bee (level 8) (~6.25%)
+Guiding Star[]
+* A Guiding Star is summoned on 1 of the 5 fields the player has collected the least pollen from.
+Gallery[]
+The wooden frame with Basic Bee's face.
+Black Bear and Mother Bear.
+Queen Spirit Bear riding King Beetle.
+King Bumble Bee.
+King Stick Bug.
+Baby Bee wearing a Santa hat.
+An accurate recreation of Onett's Lid Art using the original images.
+Trivia[]
+* Onett's Lid Art is the only Beesmas decoration to activate a passive ability, that being the Guiding Star.
+* Originally, the message that would appear if the player tried to use Onett's Lid Art before they completed Onett's quest was This art isn't as impactful without Baby Bee in the middle...
+* This, the Gummy Beacon, and the Naughty List are tied for the longest cooldown of Beesmas decorations of 8 hours.
+* This and the Gummy Beacon were the only ways to have multiple Event bees of the same kind, although they are temporary.
+* This art is a reference to the birth of Jesus, which is celebrated by people of Christian faith during Christmas.
+* This is one of the 4 machines that grant the player temporary bees, the others being the Honeyday Candles, the Gummy Beacon and the Honey Wreath (after completing Honey Bee "Honey Bee \(NPC\)")'s quest).
+* Sometimes when players look at it from a certain view, some parts of it don't show up.
+* Having a Cobalt Bee from the Lid Art with Crimson Bee in your hive also activates both a red and blue pulse.
+* Bees summoned by Onett's Lid Art are able to attack the mobs the player's actual bees are attacking. However, they cannot convert at the hive.
+* Bees summoned by the Lid Art in 2020 may also have been gifted. It is unknown whether they granted a hive bonus or not.
+* This is the only way to summon a Guiding Star without a Supreme or Diamond Star Amulet with the respective passive.

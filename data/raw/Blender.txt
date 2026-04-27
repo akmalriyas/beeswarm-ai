@@ -1,0 +1,94 @@
+Context: Bee Swarm Simulator - Blender
+
+The Blender
+Information
+Crafting consumable items from ingredients
+Requirement(s)
+Access to the Badge Bearer's Guild
+Cooldown
+Location
+Inside the Badge Bearer's Guild
+The Blender is a machine located in the Badge Bearer's Guild. The machine's usage is to create consumable items from pre-existing items. However, the player is only able to craft one type of item at a time. There is a total of 20 different items that the machine can craft.
+Crafting[]
+The Blender interface when crafting an item.
+Each item takes 5 minutes to craft and the timer only counts down when the player is in-game, unless they have an Offline Voucher, in which it will stay active for up to 24 hours after they log out. The player can end the crafting process at any time by clicking on the "End Crafting" button. This will give the player all finished items, and all unfinished items will be turned back into their ingredients and given back to the player. If the button is green, then everything has been blended. If not (red button), then the Blender has not finished blending. The player can also speed up the blending for a varying amount of Tickets. For every 1 item being crafted, the Blender requires 1 more ticket to speed up. Except for Moon Charms and Gumdrops, for which each ticket serves for speeding up whole 10 items.
+Fact: The Result in Blender has/costs Ingredients‎.
+Fact: The Red Extract in Blender has/costs 10 Royal Jellies.
+50 Strawberries
+Fact: The Blue Extract in Blender has/costs 10 Royal Jellies.
+50 Blueberries
+Fact: The Enzymes in Blender has/costs 10 Royal Jellies.
+Fact: Enzymes requirement: 50 Pineapples.
+Fact: The Oil in Blender has/costs 10 Royal Jellies.
+Fact: Oil requirement: 50 Sunflower Seeds.
+Fact: The Glue in Blender has/costs 10 Royal Jellies.
+Fact: Glue requirement: 50 Gumdrops.
+Fact: The Tropical Drink in Blender has/costs 10 Coconuts.
+Fact: Tropical Drink requirement: 2 Enzymes.
+Fact: Tropical Drink requirement: 2 Oils.
+Fact: The Gumdrops in Blender has/costs 3 Pineapples.
+3 Strawberries
+3 Blueberries
+Fact: The Moon Charm in Blender has/costs 1 Royal Jelly.
+Fact: Moon Charm requirement: 5 Pineapples.
+Fact: Moon Charm requirement: 5 Gumdrops.
+Fact: The Glitter in Blender has/costs 25 Moon Charms.
+1 Magic Bean
+Fact: The Star Jelly in Blender has/costs 100 Royal Jellies.
+Fact: Star Jelly requirement: 3 Glitter.
+Fact: The Purple Potion in Blender has/costs 3 Neonberries.
+Fact: Purple Potion requirement: 3 Red Extracts.
+Fact: Purple Potion requirement: 3 Blue Extracts.
+Fact: Purple Potion requirement: 3 Glues.
+Fact: The Soft Wax in Blender has/costs 5 Honeysuckles.
+Fact: Soft Wax requirement: 1 Oil.
+Fact: Soft Wax requirement: 1 Enzymes.
+10 Royal Jellies
+Fact: The Hard Wax in Blender has/costs 3 Soft Waxes.
+Fact: Hard Wax requirement: 3 Enzymes.
+33 Bitterberries
+33 Royal Jellies
+Fact: The Swirled Wax in Blender has/costs 3 Hard Waxes.
+Fact: Swirled Wax requirement: 9 Soft Waxes.
+Fact: Swirled Wax requirement: 6 Purple Potions.
+3,333 Royal Jellies
+Fact: The Caustic Wax in Blender has/costs 5 Hard Waxes.
+Fact: Caustic Wax requirement: 5 Enzymes.
+25 Neonberries
+5,252 Royal Jellies
+Fact: The Field Dice in Blender has/costs 1 Soft Wax.
+1 Whirligig
+Fact: 1 Whirligig requirement: 1 Red Extract.
+Fact: 1 Whirligig requirement: 1 Blue Extract.
+Fact: The Smooth Dice in Blender has/costs 3 Field Dice.
+Fact: Smooth Dice requirement: 3 Soft Waxes.
+3 Whirligigs
+Fact: 3 Whirligigs requirement: 3 Oils.
+Fact: The Loaded Dice in Blender has/costs 3 Smooth Dice.
+Fact: Loaded Dice requirement: 3 Hard Waxes.
+Fact: Loaded Dice requirement: 3 Oils.
+Fact: Loaded Dice requirement: 1 Glue.
+Fact: The Super Smoothie in Blender has/costs 3 Neonberries.
+3 Star Jellies
+Fact: 3 Star Jellies requirement: 3 Purple Potions.
+6 Tropical Drinks
+Fact: The Turpentine in Blender has/costs 10 Super Smoothies.
+Fact: Turpentine requirement: 10 Caustic Waxes.
+100 Star Jellies
+Fact: 100 Star Jellies requirement: 1,000 Honeysuckles.
+Trivia[]
+* There is a Star Jelly token on top of the lid of the Blender. It can be obtained by repeatedly jumping on the handle with enough Jump Power or by standing on the gate to the Ace Badge section and gliding towards the top. Additionally, you may perform a difficult head-hitter to get it.
+* If you select to craft something but not actually ‘blend’ it, when you leave the blender and open it up again, it would show that you would select the number of red extracts you want to craft, even if the amount displayed is above the amount you would be able to craft with your resources, though you won't be able to select the Confirm option.
+* During the start of the Beesmas 2022, players could make progress for "collect items" quests through blender refunds; however, this was soon fixed.
+* Crafting something that requires 2 or more strawberries will appear as [-n Strawberrys], being incorrectly spelt as the correct word should be strawberries.
+There is a misspelling present when using enzymes for crafting.
+Crafting something that requires enzymes will appear as [-n Enzymess], being incorrectly spelt with an extra s at the end. However, if you craft the enzymes themselves, the correct spelling will appear.
+* The message above the buttons while crafting appears differently if one has the Offline Voucher redeemed. If the player has the Offline Voucher redeemed, it will say: "You've redeemed the offline voucher! The blender will continue running for up to 24 hours while you are offline."
+Fact: The Fields in Blender has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Blender has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Blender has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Blender has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • **Blender** • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Blender has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Blender has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Blender has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Blender has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

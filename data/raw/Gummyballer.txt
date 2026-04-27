@@ -1,0 +1,105 @@
+Context: Bee Swarm Simulator - Gummyballer
+
+Gummyballer
+Datamined information: How much pollen Gummyballer collects on its own.
+Date of datamined file: December 19th, 2024
+Gummyballer
+Fact: The **Price** in Gummyballer has/costs 1,500 Glue, 2,000 Gumdrops, 50 Caustic Waxes, 50 Super Smoothies, 5 Turpentines, 3 Satisfying Vials, 10T Honey.
+Fact: The **Shop** in Gummyballer has/costs Gummy Bear's Lair.
+Fact: **Shop** statistic: Pollen Collection.
+Fact: The **Range** in Gummyballer has/costs 29 Flowers.
+Fact: The **Collecting Pattern** in Gummyballer has/costs Ball.
+Fact: The **Collecting Time** in Gummyballer has/costs 1.
+Fact: The **Base Collection** in Gummyballer has/costs 9.
+Fact: The Flowers in Gummyballer has/costs Single, Double, Triple, Large, Star.
+Fact: The White in Gummyballer has/costs 22.5, 45, 67.5, 90, 112.5.
+Fact: The Red in Gummyballer has/costs 22.5, 45, 67.5, 90, 112.5.
+Fact: The Blue in Gummyballer has/costs 22.5, 45, 67.5, 90, 112.5.
+_Special Multiplier(s): Takes goo, if there is goo when collecting pollen it increases the stack of your gummyball._
+> "_Conjures up a delectable arsenal of gummy wrecking balls. Bombard Marks and Honey Tokens for massive gooey gains._ "
+The Gummyballer is a tool that can be crafted in Gummy Bear's Lair.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 10T Honey.
+Fact: Crafting Ingredients requirement: 1,500 Glues.
+Fact: Crafting Ingredients requirement: 2,000 Gumdrops.
+Fact: Crafting Ingredients requirement: 50 Caustic Waxes.
+Fact: Crafting Ingredients requirement: 50 Super Smoothies.
+Fact: Crafting Ingredients requirement: 5 Turpentines.
+3 Satisfying Vials
+It collects 9 pollen from 29 patches in 1 second and boosts it by x2.5. It has an average base pollen collection rate of 652.5 pollen per second.
+Every swing absorbs any collected goo and removes it from the flower. In return, it gives 12 seconds of "Gummyball" buff with a max of 1000 stacks. The amount of Gummyball stacks per collected goo patch is proportional to how fresh the goo is (the more faded the goo is, the less it gives stack to the Gummyball). The more Gummyball stacks collected, the bigger the ball on the collector becomes, along with a stronger aura around it and up to a 1.1x white pollen boost.
+Upon reaching the max stack of Gummyball (1000) or swinging with the collector above the ground (by jumping) while being inside a field, a Gummyball will launch forward from the player's faced direction and bounce around the border of the field. It leaves a trail of goo behind and collects pollen from the flowers it hits (collection and goo spread depends on the size of the Gummyball). It will also grab any ability or honey token and pop bubbles along the way. The larger the initial Gummyball stacks when it's launched, the larger the Gummyball will start as and the longer the Gummyball will last.
+The Gummyball rewards the player with "Gummyball Combo", giving 2 stacks for hitting a wall, 1 per ability token, 3 per honey token, 8 per mark and 30 per precise mark for 8 seconds. Gummyball combo has a max stack of 1000 and always provides a 1.1x white pollen boost and up to a 11x goo boost depending on the stack of Gummyball combo.
+Gummyball Combo Strategies[]
+Fact: Gummyball Combo Strategies[] requirement: * Choose a narrow field and align your character perpendicular to the field border that you're facing by using the "," and "." keys with shift lock (rotates the camera by 45 degrees) If on mobile, go in straight vertical lines across the field. When aligned, launch the Gummyball at a place with lots of active marks, including the Honey Mark (+), Pollen Mark (+), Festive Mark, and Precise Mark. This will cause the ball to go back and forth and hit the mark(s) and other things that give stacks along the way without the Gummyball going to the left/right..
+* Time the Gummyball before Gummy Morph activates (at around 21/30 if gumdrops are being dropped), so it has the time to stack up before the Gummy Morph activates.
+Sound Effects[]
+When the Gummyball is released from the Gummyballer, the following sound effect plays:
+<https://bee-swarm-simulator.fandom.com/wiki/File:GummyballLaunch.ogg>
+When the Gummyball hits the boundaries of the field, the following sound effect plays (speed and pitch increases per hit):
+<https://bee-swarm-simulator.fandom.com/wiki/File:GummyballBounce.ogg>
+Gallery[]
+The Gummyballer's associated sticker.
+The Gummyballer in Gummy Bear's shop.
+A fully stacked Gummyballer's Gummyball.
+The Gummyball buff.
+The Gummyball Combo buff.
+Gummyball in action.
+Trivia[]
+* The Gummyballer is the second most expensive item in the game in terms of honey, only behind The Planter Of Plenty which costs 100T Honey.
+* Its red counterpart is the Dark Scythe, and its blue counterpart is the Tide Popper. However, this tool is more expensive than its counterparts. This is likely because the Dark Scythe and Tide Popper require 250 quests to be finished from its corresponding shop owner, while the Gummyballer does not.
+* The Gummyballer is tied with the Pulsar and the Sticker-Seeker for the slowest tool in the game (in terms of how long the cooldown of each collection lasts).
+* On December 28, 2021, the Gummyballer was obtainable through an exploit that gave the Gummyballer for free, along with the Tide Popper and Dark Scythe.
+* Onett later patched this, and everybody who used this exploit had their data reset on their account.
+* Behind The Planter Of Plenty, this requires the most base resources to craft.
+* The Gummyballer's raw ingredients cost:
+* 10T Honey
+* 412,500 Blueberries
+* 412,500 Strawberries
+* 135,500 Sunflower Seeds
+* 902,500 Pineapples
+* 16,500 Bitterberries
+* 3,700 Neonberries
+* 12,500 Honeysuckles
+* 6,000 Coconuts
+* 812,700 Royal Jellies or 813B Honey
+* 2,400 Magic Beans or 48,000 Tickets
+* 3 Satisfying Vials or 36 hours of Satisfying Nectar
+* The Gummyballer is the only item to be added to Gummy Bear's Lair in an update after the lair came out.
+* This is the only tool that undergoes visual changes with its ability.
+* This is the only tool that has the ability to take goo patches from flowers.
+* The Gummyball on the tool moves similarly to amulets, meaning it drags behind the collector's actual movement.
+* On occasion, the Gummyball will appear to be dislocated from the collector, this occurs if either the server or client ping (response delay) is at high levels.
+* The Gummyballer, along with The Planter Of Plenty, Hydroponic Planter, Heat-Treated Planter, and the Coconut Belt are currently the only five items that require Turpentines to craft, needing 5, 25, 1, 1, and 3 respectively.
+* The Gummyballer, alongside the Dark Scythe and Tide Popper are the only items without an in-game description which details its stats.
+* The Gummyballer, as well as any other item that costed more than 1 billion Honey, used to display the honey cost as the full number, rather than abbreviating it.
+* The Gummyballer used to cost 2500 gumdrops, on May 23, 2024, this was changed to 2000 gumdrops and 3 Satisfying Nectar Vials.
+Fact: The Sub-Inventories in Gummyballer has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Gummyballer has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Gummyballer has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Gummyballer has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Gummyballer has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Gummyballer has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Gummyballer has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Gummyballer has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Gummyballer has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Gummyballer has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Gummyballer has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Gummyballer has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Gummyballer has/costs **7-Pronged Cog**.
+Fact: The Other in Gummyballer has/costs **Marshmallow Bee**.
+Fact: The Currencies in Gummyballer has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Gummyballer has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  **Gummyballer****.
+Fact: The Sprinklers in Gummyballer has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Gummyballer has/costs **Parachute •  Glider**.
+Fact: The Bags in Gummyballer has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Gummyballer has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Gummyballer has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Gummyballer has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Gummyballer has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Gummyballer has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Gummyballer has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Gummyballer has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Gummyballer has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Gummyballer has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

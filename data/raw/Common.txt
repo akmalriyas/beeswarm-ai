@@ -1,0 +1,17 @@
+Context: Bee Swarm Simulator - Common
+
+Fact: The Bee in Common has/costs Icon, Description.
+Fact: The Basic Bee in Common has/costs An ordinary bee. Well rounded and hard working!.
+Egg and Jelly Probability
+Fact: The Basic Egg in Common has/costs 87%, 87%.
+Fact: The Silver Egg in Common has/costs 0%, 0%.
+Fact: The Gold Egg in Common has/costs 0%, 0%.
+Fact: The Diamond Egg in Common has/costs 0%, 0%.
+Fact: The Mythic Egg in Common has/costs 0%, 0%.
+Fact: The Royal Jelly in Common has/costs 0%, 0%.
+Trivia[]
+* The Common rarity and the Event rarity are the only rarities of bees that can't be obtained by using a normal Royal Jelly or Star Jelly.
+* Excluding gifted forms, this and Rare bees are the only rarity of bees that has a bee that can't spawn ability tokens. The rare bee that can't spawn ability tokens is Brave Bee.
+* The Hive Slot color for a Common Bee is brown, which may represent bronze.
+* The Common rarity is the rarity with the least amount of bee types, having only 1 bee type.
+* This rarity has only three ways of getting a bee of this rarity which are Basic Eggs, Star Eggs, and the Basic Bee Jelly.

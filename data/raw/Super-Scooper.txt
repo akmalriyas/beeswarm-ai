@@ -1,0 +1,53 @@
+Context: Bee Swarm Simulator - Super-Scooper
+
+Super-Scooper
+Super-Scooper
+Fact: The **Price** in Super-Scooper has/costs 40,000 Honey.
+Fact: The **Shop** in Super-Scooper has/costs Pro Shop.
+Fact: **Shop** statistic: Pollen Collection.
+Fact: The **Range** in Super-Scooper has/costs 5 Flowers.
+Fact: The **Collecting Pattern** in Super-Scooper has/costs Line.
+Fact: The **Collecting Time** in Super-Scooper has/costs 0.5.
+Fact: The **Base Collection** in Super-Scooper has/costs 4.
+Fact: The Flowers in Super-Scooper has/costs Single, Double, Triple, Large, Star.
+Fact: The White in Super-Scooper has/costs 4, 8, 12, 16, 20.
+Fact: The Red in Super-Scooper has/costs 4, 8, 12, 16, 20.
+Fact: The Blue in Super-Scooper has/costs 4, 8, 12, 16, 20.
+_Special Multiplier(s): None_
+The Super-Scooper is a tool that can be purchased in the Pro Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 40,000 Honey.
+It collects 4 pollen from 5 flowers in a line every 0.5 seconds, which comes out to a base pollen collection rate of 40 pollen per second.
+Appearance[]
+The Super Scooper is the advanced version of the Scooper. Its blade is noticeably bigger than the Scooper and has a more rectangular shape along with it's blue and yellow scheme. The handle is the same grey as the Scooper with dark red in the middle. The pole is dark red and has 6 yellow and blue attachments on it. The player holds the Super Scooper so that it appears to be pointing upwards.
+Gallery[]
+The Super-Scooper's associated sticker.
+Fact: The Sub-Inventories in Super-Scooper has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Super-Scooper has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Super-Scooper has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Super-Scooper has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Super-Scooper has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Super-Scooper has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Super-Scooper has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Super-Scooper has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Super-Scooper has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Super-Scooper has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Super-Scooper has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Super-Scooper has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Super-Scooper has/costs **7-Pronged Cog**.
+Fact: The Other in Super-Scooper has/costs **Marshmallow Bee**.
+Fact: The Currencies in Super-Scooper has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Super-Scooper has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  **Super-Scooper** •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Super-Scooper has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Super-Scooper has/costs **Parachute •  Glider**.
+Fact: The Bags in Super-Scooper has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Super-Scooper has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Super-Scooper has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Super-Scooper has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Super-Scooper has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Super-Scooper has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Super-Scooper has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Super-Scooper has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Super-Scooper has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Super-Scooper has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

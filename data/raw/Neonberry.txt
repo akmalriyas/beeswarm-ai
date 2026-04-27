@@ -1,0 +1,100 @@
+Context: Bee Swarm Simulator - Neonberry
+
+Neonberry
+_"Increases bond with a bee by 500 and makes it Radioactive for a while."_
+A Neonberry is a type of treat that, when fed to a bee, raises its bond by 500 and makes it radioactive for 11 minutes. This is the only treat to have guaranteed chance of making the bee radioactive. These are not the favorite treat of any bee.
+Ways to Obtain[]
+* As a reward from the Ant Challenge.
+* As a common reward from Robo Bear Challenge.
+* As a Stack Reward for adding certain stickers to the Sticker Stack:
+* Wobbly Looker Bee Sticker rewards 3 neonberries.
+* Traffic Light Sticker rewards 3 neonberries.
+* Red Beesmas Light Stickerrewards 3 neonberries.
+* Green Beesmas Light Sticker rewards 3 neonberries.
+* Yellow Beesmas Light Sticker rewards 3 neonberries.
+* Blue Beesmas Light Sticker rewards 3 neonberries.
+* Atom Symbol Sticker rewards 5 neonberries.
+Drops[]
+* Has a low chance of dropping from rhino beetles, ladybugs, mantises, King Beetle, Stump Snail, Mondo Chick, and Coconut Crab.
+* Has a low chance of appearing when harvesting Sparkles.
+* Farming in the Blue Flower Field, Pineapple Patch, Mountain Top Field, and the Pine Tree Forest has a rare chance to drop neonberries.
+* Harvesting Leaves in these fields may also yield neonberries.
+* As a rare drop from a Festive Mark.
+* As a gift from a cub buddy.
+* As an uncommon drop from all sprouts.
+* Debug sprouts are guaranteed to drop neonberries.
+* As a rare drop from Mythic Meteors.
+* As an uncommon drop from Puffshrooms.
+* As a drop from planters.
+* The Pesticide Planter drops extra neonberries in the Stump Field, Mountain Top Field, and the Coconut Field.
+* Planting the Pesticide Planter in the Stump Field, then the Mountain Top Field, then the Coconut Field results in at least 25 neonberries (1 week cooldown).
+Quests[]
+* Black Bear's Triple Treck gives 1 neonberry.
+Outdated Ways[]
+* Opening the Gooey Present rewarded 10 neonberries and other items.
+* Completing Bee Bear's "Unsilent Night" quest.
+* Festive Nymphs had a chance to drop 1 neonberry.
+* Matching a pair in Winter memory match (stack of 3).
+* 3 neonberries could be found on top of the 2020 Beesmas Tree.
+* Giving a present to Science Bear or Gummy Bear during Beesmas 2020 rewarded the player with 10 neonberries.
+* Completing Gummy Bear's 'Gummy Bear's Goo Year's Beacon' quest gave 100 neonberries + other items during Beesmas 2020 and 2021.
+* Opening certain Gift Boxes across the map during Beesmas 2020:
+* Glowing Gift Box (Gave 20 neonberries + other stuff).
+* Opening certain Gift Boxes across the map during Beesmas 2021:
+* Emerald Gift Box (Gave 10 neonberries + other stuff).
+* Gummy Gift Box (Gave 25 neonberries + other stuff).
+* Digging in to the Beesmas Feast.
+* Under the 2021 Beesmas tree.
+* As a rare reward from Beesmas Feast.
+* Purchasing certain Robux Packs.
+* Purchasing the Precise Pack gave 250 neonberries + other items.
+* Redeeming certain expired codes:
+Fact: Outdated Ways[] requirement: * MondoOutage gave 1 neonberry + other stuff..
+Fact: Outdated Ways[] requirement: * FourYearFiesta gave 1 neonberry + other stuff..
+* 5Years gave 5 neonberries + other stuff.
+* 10mMembers gave 10 neonberries + other stuff.
+Fact: Outdated Ways[] requirement: * PlushFriday gave 1 neonberry + other stuff..
+* From purchasing the Shiny Bundle from Bee Bear's Catalog.
+* As a reward from a Robo Party.
+* Under the Beesmas Tree.
+Crafting Uses[]
+Total required for all single-purchase items: 30 Neonberries
+Fact: The **Neonberries** in Neonberry has/costs Other ingredients, Result.
+Fact: The 3 in Neonberry has/costs 3 Red Extracts.
+Fact: 3 requirement: 3 Blue Extracts.
+Fact: The 3 Glues in Neonberry has/costs Purple Potion.
+Fact: The 3 in Neonberry has/costs 3 Star Jellies.
+Fact: 3 requirement: 3 Purple Potions.
+Fact: The 6 Tropical Drinks in Neonberry has/costs Super Smoothie.
+Fact: The 5 in Neonberry has/costs 7,000,000 Honey.
+Fact: 5 requirement: 1 Glue.
+Fact: 5 requirement: 1 Oil.
+Fact: 5 requirement: 5 Soft Waxes.
+Fact: The 10 Micro-Converters in Neonberry has/costs Sticker-Seeker.
+Fact: The 25 in Neonberry has/costs 5 Hard Waxes.
+Fact: 25 requirement: 5 Enzymes.
+Fact: The 5,252 Royal Jellies in Neonberry has/costs Caustic Wax.
+Fact: The 25 in Neonberry has/costs 750,000,000 Honey.
+25 Magic Beans
+Fact: 25 Magic Beans requirement: 15 Glues.
+Fact: 25 Magic Beans requirement: 3 Caustic Waxes.
+Fact: 25 Magic Beans requirement: 10 Hard Waxes.
+Gallery[]
+Neonberry in inventory.
+A claimed neonberry token hidden in the Beesmas Tree.
+Vicious Bee which was affected by Neonberry, making it radioactive.
+Fact: The Sub-Inventories in Neonberry has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Neonberry has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Neonberry has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Neonberry has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Neonberry has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  **Neonberry** •  Moon Charm**.
+Fact: The Drives in Neonberry has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Neonberry has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Neonberry has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Neonberry has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Neonberry has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Neonberry has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Neonberry has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Neonberry has/costs **7-Pronged Cog**.
+Fact: The Other in Neonberry has/costs **Marshmallow Bee**.
+Fact: The Currencies in Neonberry has/costs **Brick •  Cog •  Ticket**.

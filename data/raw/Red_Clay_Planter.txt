@@ -1,0 +1,102 @@
+Context: Bee Swarm Simulator - Red Clay Planter
+
+Red Clay Planter
+Datamined information:
+* Some of the planter's stats are corrected from the in-game description.
+* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
+* How the planter generates its loot.
+Date of datamined file: December 19th, 2024
+Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
+Red Clay Planter
+Fact: Red Clay Planter statistic: _"Alone, grows in about 6 hours. Stores around 3 million Pollen. Grants bonus Red Extract and Waxes_ ".
+Fact: Red Clay Planter requirement: 10,000,000 Honey, 5 Magic Beans, 15 Red Extract, 20 Soft Waxes..
+GROW TIME BONUS
+Fact: GROW TIME BONUS statistic: +25% in fields with red flowers..
+POLLEN CAPACITY
+Fact: POLLEN CAPACITY statistic: 3,000,000 Pollen.
+POLLEN MULTIPLIER
+Fact: POLLEN MULTIPLIER statistic: +50% Red Pollen.
+Fact: POLLEN MULTIPLIER statistic: -50% Blue Pollen.
+NECTAR MULTIPLIER
+Fact: NECTAR MULTIPLIER statistic: +20% Invigorating.
+Fact: NECTAR MULTIPLIER statistic: +20% Satisfying.
+BONUS ITEMS
+Red Extract
+The Red Clay Planter is a reusable planter added in the 2021-12-26 update. Alone, it grows in about 6 hours and stores 3 million pollen. It grants bonus Red Extracts and waxes. It can be purchased in the Red HQ.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 10,000,000 Honey.
+5 Magic Beans
+Fact: 5 Magic Beans requirement: 15 Red Extracts.
+Fact: 5 Magic Beans requirement: 20 Soft Waxes.
+The planter grows 25% faster in fields with red flowers and gives 50% bonus red pollen from harvests, but also 50% less blue pollen. Red bees are 25% more likely to sip nectar from it, but Blue bees avoid sipping nectar from it. It also grants 20% more Invigorating and Satisfying Nectar.
+Harvesting a fully grown Red Clay Planter has a 1/6 chance to spawn a Puffshroom. The spawned puffshroom is between levels 4-5, and has a:
+* ~76.28% chance of being a Common Puffshroom,
+* ~19.07% chance of being a Rare Puffshroom,
+* ~4.58% chance of being a Epic Puffshroom,
+* ~0.08% chance of being a Legendary Puffshroom.
+When claimed, the planter gives up to 16 tokens worth of items. If the planter was fully grown when claimed, 3 of the tokens are guaranteed to be 1 Red Extract, 2 Soft Waxes and 1 Ticket. The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the field the planter is in):
+Red Extracts
+Caustic Wax (Very Rare)
+Swirled Wax (Very Rare)
+Blue Extracts
+Sunflower Seeds
+Strawberries
+Blueberries
+Bitterberries
+Honeysuckles
+Micro-Converters
+Jelly Beans
+Smooth Dice
+Thumbtack (Very Rare)
+Purple Potion (Very Rare)
+Star Jelly (Very Rare)
+Super Smoothie (Extremely Rare)
+Gold Egg (Extremely Rare)
+Turpentine (Exceptionally Rare)
+Red Doodle Person Sticker (Exceptionally Rare)
+Fact: Turpentine (Exceptionally Rare) requirement: 10 Stingers (Requires to be harvested from Clover Field, Spider Field and Cactus Field in stated order, 2 weeks cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 10 Soft Waxes (Rare).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Swirled Wax (When harvested from Sunflower Field, 1 month cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Swirled Wax (When harvested from Pine Tree Forest, 1 week cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Caustic Wax (When harvested from Clover Field, 1 month cooldown).
+Gallery[]
+The Red Clay Planter.
+A newly placed Red Clay Planter
+A fully grown Red Clay Planter.
+A Red Clay Planter hosting a Puffshroom.
+The Red Clay Planter in the Red HQ next to the Fire Mask.
+Red Clay Planter in a player's inventory.
+Trivia[]
+* Its blue counterpart is the Blue Clay Planter.
+* This is one of the five reusable planters to reside outside of Dapper Bear's Shop, the others being the Blue Clay Planter, Petal Planter, Hydroponic Planter, and Heat-Treated Planter.
+* This and the Heat-Treated Planter are the only planters to be sold from the Red HQ.
+* At some point the description in the inventory used to state that it grows in 4 hours, but it would actually grow in 6 hours ever since it was added.
+Fact: The Sub-Inventories in Red Clay Planter has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Red Clay Planter has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Red Clay Planter has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Red Clay Planter has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Red Clay Planter has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Red Clay Planter has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Red Clay Planter has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Red Clay Planter has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Red Clay Planter has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Red Clay Planter has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Red Clay Planter has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Red Clay Planter has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Red Clay Planter has/costs **7-Pronged Cog**.
+Fact: The Other in Red Clay Planter has/costs **Marshmallow Bee**.
+Fact: The Currencies in Red Clay Planter has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Red Clay Planter has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Red Clay Planter has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Red Clay Planter has/costs **Parachute •  Glider**.
+Fact: The Bags in Red Clay Planter has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Red Clay Planter has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Red Clay Planter has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Red Clay Planter has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Red Clay Planter has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Red Clay Planter has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Red Clay Planter has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Red Clay Planter has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Red Clay Planter has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Red Clay Planter has/costs **Plastic Planter •  Candy Planter •  **Red Clay Planter** •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

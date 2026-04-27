@@ -1,0 +1,56 @@
+Context: Bee Swarm Simulator - Belt Pocket
+
+Belt Pocket
+Belt Pocket
+Description
+"Attaches to your waist to expand the size of your container."
+Fact: Description requirement: 14,000 Honey and 10 Sunflower Seeds..
+Bonus Stats
+Fact: Bonus Stats statistic: +5,000 Capacity.
+Fact: Bonus Stats statistic: +10 Convert Amount.
+Fact: Bonus Stats statistic: +25% Loot Luck.
+> "_Attaches to your waist to expand the size of your container._ "
+The Belt Pocket is a belt accessory located in the Noob Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 14,000 Honey.
+Fact: Crafting Ingredients requirement: 10 Sunflower Seeds.
+Fact: Crafting Ingredients statistic: * +5,000 Capacity..
+* +10 Convert Amount.
+* +25% Loot Luck.
+Gallery[]
+Belt Pocket’s old stats.
+A player wearing the Belt Pocket.
+Belt Pocket's icon.
+Trivia[]
+* Unlike the Belt Bag and the Mondo Belt Bag, the Belt Pocket was not given out by Sun Bear. It was added later after Sun Bear left.
+* This is the cheapest belt accessory in the game.
+* This is the only item in the Noob Shop that gives Loot Luck.
+Fact: The Sub-Inventories in Belt Pocket has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Belt Pocket has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Belt Pocket has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Belt Pocket has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Belt Pocket has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Belt Pocket has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Belt Pocket has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Belt Pocket has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Belt Pocket has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Belt Pocket has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Belt Pocket has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Belt Pocket has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Belt Pocket has/costs **7-Pronged Cog**.
+Fact: The Other in Belt Pocket has/costs **Marshmallow Bee**.
+Fact: The Currencies in Belt Pocket has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Belt Pocket has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Belt Pocket has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Belt Pocket has/costs **Parachute •  Glider**.
+Fact: The Bags in Belt Pocket has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Belt Pocket has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Belt Pocket has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Belt Pocket has/costs ****Belt Pocket** •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Belt Pocket has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Belt Pocket has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Belt Pocket has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Belt Pocket has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Belt Pocket has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Belt Pocket has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

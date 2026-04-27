@@ -1,0 +1,107 @@
+Context: Bee Swarm Simulator - Shy Bee
+
+Shy Bee
+_"This talented bee doesn't like to socialize, it just wants to work and be left alone."_
+Fact: The 40 in Shy Bee has/costs **Speed**.
+Fact: The 18.2 in Shy Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #9f9f9f #9f9f9f #9f9f9f
+Shy Bee is a Red Legendary bee.
+Shy Bee's favorite treat is Strawberries.
+Shy Bee likes the Strawberry Field and the Pumpkin Patch. It dislikes the Pine Tree Forest.
+Fact: Skin #9f9f9f #9f9f9f #9f9f9f statistic: * Collects 10 Pollen in 2 seconds..
+* Makes 320 Honey in 4 seconds.
+* +100% Energy, +30% Movespeed, +50% Gather Speed, +240 Convert Amount, +1 Attack.
+Fact: Skin #9f9f9f #9f9f9f #9f9f9f statistic: * 🌟Gifted Hive Bonus: +5% Bee Ability Pollen..
+Abilities[]
+* [Red Boost] Grants x1.2 pollen from red Flowers for 15s. Stacks up to 10 times.
+* [Red Bomb] Collects 10 pollen from 13 surrounding red flowers (+10% pollen per Level). Combo with other bombs to increase power.
+* [Passive: Nectar Lover] This bee is twice as likely to sip Nectar from Planters. When it does, it gathers twice as much Nectar and contributes twice as much growth to the Planter.
+Fact: Abilities[] statistic: Shy Bee has a base pollen collection of **10** in **2 seconds**. That's equivalent to 5  per second. (**20** in **2 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Shy Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The Base Value in Shy Bee has/costs Red Flower, without Melody, with Melody.
+Fact: The Single in Shy Bee has/costs 10, 15, 20, 30.
+Fact: The Double in Shy Bee has/costs 20, 30, 40, 60.
+Fact: The Triple in Shy Bee has/costs 30, 45, 60, 90.
+Fact: The Large in Shy Bee has/costs 40, 60, 80, 120.
+Fact: The Star in Shy Bee has/costs 50, 75, 100, 150.
+Fact: Star statistic: Pollen Collection with Boost Tokens.
+Fact: The Boost Tokens ( or ) in Shy Bee has/costs Percentage Bonus, Collected Pollen.
+Fact: The 1 in Shy Bee has/costs 15%, 11.5.
+Fact: The 2 in Shy Bee has/costs 30%, 13.
+Fact: The 3 in Shy Bee has/costs 45%, 14.5.
+Fact: The 4 in Shy Bee has/costs 60%, 16.
+Fact: The 5 in Shy Bee has/costs 75%, 17.5.
+Fact: The 6 in Shy Bee has/costs 90%, 19.
+Fact: The 7 in Shy Bee has/costs 105%, 20.5.
+Fact: The 8 in Shy Bee has/costs 120%, 22.
+Fact: The 9 in Shy Bee has/costs 135%, 23.5.
+Fact: The 10 in Shy Bee has/costs 150%, 25.
+Shy Bee can make 320 in 4 seconds! That's equivalent to 80 per second. (320 in 2 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Shy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Shy Bee has/costs 25%, 400.
+Fact: The 2 in Shy Bee has/costs 50%, 480.
+Fact: The 3 in Shy Bee has/costs 75%, 560.
+Fact: The 4 in Shy Bee has/costs 100%, 640.
+Fact: The 5 in Shy Bee has/costs 125%, 720.
+Fact: The 6 in Shy Bee has/costs 150%, 800.
+Fact: The 7 in Shy Bee has/costs 175%, 880.
+Fact: The 8 in Shy Bee has/costs 200%, 960.
+Fact: The _Science Enhancement_ in Shy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Shy Bee has/costs 225%, 1040.
+Fact: The 10 in Shy Bee has/costs 250%, 1120.
+Fact: The 11 in Shy Bee has/costs 275%, 1200.
+Fact: The 12 in Shy Bee has/costs 300%, 1280.
+Fact: The 13 in Shy Bee has/costs 325%, 1360.
+Fact: The 14 in Shy Bee has/costs 350%, 1440.
+Fact: The 15 in Shy Bee has/costs 375%, 1520.
+Fact: The 16 in Shy Bee has/costs 400%, 1600.
+Fact: The _Science Enhancement_ in Shy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Shy Bee has/costs 425%, 1680.
+Fact: The 18 in Shy Bee has/costs 450%, 1760.
+Fact: The 19 in Shy Bee has/costs 475%, 1840.
+Fact: The 20 in Shy Bee has/costs 500%, 1920.
+Fact: The 21 in Shy Bee has/costs 525%, 2000.
+Fact: The 22 in Shy Bee has/costs 550%, 2080.
+Fact: The 23 in Shy Bee has/costs 575%, 2160.
+Fact: The 24 in Shy Bee has/costs 600%, 2240.
+Fact: The _Science Enhancement_ in Shy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Shy Bee has/costs 625%, 2320.
+Fact: The 26 in Shy Bee has/costs 650%, 2400.
+Fact: The 27 in Shy Bee has/costs 675%, 2480.
+Fact: The 28 in Shy Bee has/costs 700%, 2560.
+Fact: The 29 in Shy Bee has/costs 725%, 2640.
+Fact: The 30 in Shy Bee has/costs 750%, 2720.
+Fact: The 31 in Shy Bee has/costs 775%, 2800.
+Egg and Jelly Probability
+Fact: The Basic Egg in Shy Bee has/costs 0.5%, 0.0625%.
+Fact: The Silver Egg in Shy Bee has/costs 5%, 0.625%.
+Fact: The Gold Egg in Shy Bee has/costs 20%, 2.5%.
+Fact: The Diamond Egg in Shy Bee has/costs 95%, 11.875%.
+Fact: The Mythic Egg in Shy Bee has/costs 0%, 0%.
+Fact: The Royal Jelly in Shy Bee has/costs 3%, 0.375%.
+Gallery[]
+Shy Bee's old hive slot design.
+A Gifted Shy Bee hive slot.
+The smoke trail from a Shy Bee.
+.png "Png \(24\).png \(2 KB\)")
+Shy Bee's face.
+Shy Bee's original face.
+Trivia[]
+* This bee, Ninja Bee, Fuzzy Bee, and Windy Bee are the only bees that have only one skin color.
+* This bee used to have a spelling or grammar mistake in its description, along with Hasty Bee, Shocked Bee, and Rascal Bee, but it was fixed in an update.
+* This bee is the only bee that has a smoke effect.
+* This bee is the red counterpart of Ninja Bee.
+* A Special Jelly that changes a bee into a Shy Bee could have been obtained from the code, 'NewMic' (expired).
+* This bee, Diamond Bee and Demon Bee are the only legendary bees with a passive ability.
+Fact: The Common & Rare in Shy Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Shy Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Shy Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  **Shy Bee****.
+Fact: The Mythic in Shy Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Shy Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

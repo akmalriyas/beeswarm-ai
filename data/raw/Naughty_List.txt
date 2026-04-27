@@ -1,0 +1,22 @@
+Context: Bee Swarm Simulator - Naughty List
+
+Naughty List
+Bubble Bee Man's Naughty List after completing his Beesmas quest.
+The Naughty List is a recurring Beesmas machine that is unlocked after completing Bubble Bee Man's Beesmas quest. As the quest is currently unavailable, this machine cannot be used.
+It is located on top of the 30 Bee Gate, between Night Memory Match and Bubble Bee Man. When used, a voiceline of presumably Bubble Bee Man saying "_Naughty Naughty Naughty"_ will play server wide, and a lump of coal will fall onto each player in the server, which deals lethal damage if the player does not move out of the way. The falling coal is similar to Coconut Crab's _Coconut Attack_. If a player is killed by the falling coal, the player receives a Lump Of Coal Beequip and the Beesmas Repentance buff for 2 hours. Players can use the Naughty List every 8 hours.
+If a player attempts to use it without completing Bubble Bee Man's quest, the pop up will read: There aren't any names on the Naughty List. That can't be right...
+<https://bee-swarm-simulator.fandom.com/wiki/File:BBMNaughty.ogg>
+Bubble Bee Man’s naughty list before completing Bubble Bee Man's quest During Beesmas 2020.
+Bubble Bee Man's Naughty List text after completing his Beesmas quest.
+The coal that attempts to kill the player when someone uses Bubble Bee Man's naughty list.
+The Beesmas Repentance Buff.
+A Lump of Coal icon.
+* The Honey Wreath and Onett's Lid Art are the only Beesmas decorations to have voices play upon activation.
+* It is also the only Beesmas decoration to play an audio that contains words.
+* If a player stands on a mob while the coal was falling, it can kill the player and deal 100 damage to the mob.
+* The names that the player could see that are stated are: Aardvark Joe, Apple BEe _[sic]_ , and Applebee's Cofounder 1.
+* The Naughty List is tied for the Beesmas machine with the longest cooldown, being tied with Onett's Lid Art and the Gummy Beacon.
+* This is the only machine able to damage both players and hostile mobs.
+* The Beesmas Repentance Buff does not stack. However, the duration of the buff does stack.
+* After finishing Bubble Bee Man's quest, the dialog states that the player can use it every 22 hours. However, the player can use it every 8 hours.
+* If two or more players use the Naughty List at the same time, you can receive two or more Lumps of Coal while only dying once.

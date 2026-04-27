@@ -1,0 +1,30 @@
+Context: Bee Swarm Simulator - Sparkle
+
+A patch of flowers that has sparkles.
+Sparkles are an effect applied to certain patches of flowers that yields a token containing Honey, random treats corresponding to the field it is in, Moon Charms, or rarely Tickets, Royal Jelly, Neonberry, Star Jelly, or Glitter when harvested. When enough pollen is collected from a sparkling flower, it will yield a token for any player to collect. If it isn't collected within 10 seconds, the token will disappear.
+The largest plants in the Sunflower Field, Pineapple Patch, and Pumpkin Patch will occasionally generate a face and blow bubbles 3 to 5 times on their respective fields, creating 13 patches of pollen that sparkle. The Blue HQ's Bubble Wand blows bubbles on the Dandelion Field, Mushroom Field, Blue Flower Field, and Clover Field in a similar fashion. Each aforementioned location can generate sparkles around every 45 minutes, individually.1] Individual [fireflies that spawn during the night also leave behind sparkles on flowers they were on as they are chased off.
+Gallery[]
+Face in the Pumpkin Patch.
+Face in the Sunflower Field.
+Face on the giant bubble wand on The Blue HQ.
+Face in the Pineapple Patch.
+The sparkles left by fireflies.
+The face in the Pumpkin Patch closing its eyes before fading away.
+.png "Screenshot \(88\).png \(177 KB\)")
+Pineapple face blowing sparkles.
+Sparkle in mid-flight leaving a trail.
+Sparkles prior to the 2019-09-28 update.
+.png "Plant Face \(Blinking\).png \(2 KB\)")
+.png "Plant Face \(Inactive\).png \(2 KB\)")
+.png "Plant Face \(Active\).png \(2 KB\)")
+Trivia[]
+* In the 2018-07-11 update, the change to the size of the Clover Field was not taken into account, so the Bubble Wand model on the Blue HQ could sometimes produce sparkles in the area where there are no flowers.
+* Prior to the 2019-09-28 update, sparkles covered 4 flowers instead of 13.
+* In the 2018-09-10 update, the chances of sparkles being created were doubled.
+* The Bubble Wand model on the Blue HQ can leave sparkles right under the largest mushroom in the Mushroom Field, making it difficult to collect the rewards.
+* Sparkles used to be called "spit" by the community, which came from the various faces looking like they were spitting on the field. Onett "Onett \(Developer\)") later on named this effect "sparkles" like it is today.
+* According to Onett, the verb form for sparkles is ‘sparkletificate’.
+* When disappearing, the eyes on a face close before fading away.
+* Spirit Bear mentions the sparkles in her dialogue before you receive her 8th quest, remarking how the Sparkles are "gross" in terms of how they were created by the faces.
+References[]
+1. ↑ [1] Discord message from Onett

@@ -1,0 +1,32 @@
+Context: Bee Swarm Simulator - Mechanics
+
+Mechanics
+There are several mechanics in Bee Swarm Simulator that don't fit under bees, mobs, bears, locations, or items.
+* Related to Bees
+* Related to Player
+* Related to Stats
+These are mechanics that are related only to bees such as their energy.
+*  Bee Attack
+*  Emoticons
+*  Gifted Bee
+*  Mutation
+*  Radiation
+These are mechanics that are related only to the player such as their ability to craft or their cub buddy.
+*  Battle Points
+Fact: *  Battle Points statistic: *  Capacity.
+*  Cub Buddies
+*  Loot Luck
+*  Movement Collection
+These are mechanics that are related to the player and bee's stats or affects them such as collecting from fields or summoned from bees.
+*  Buffs & Debuffs
+*  Critical Hits
+*  Field Boost
+Fact: *  Field Boost statistic: *  Field Capacity.
+*  Field Wind
+Fact: *  Field Wind statistic: *  Honey Per Pollen.
+*  Instant Conversion
+*  Passive Abilities
+*  Pollination
+These are other mechanics.
+*  Day/Night Cycle
+*  Sparkles

@@ -1,0 +1,113 @@
+Context: Bee Swarm Simulator - Blue Drive
+
+Blue Drive
+Drives are inventory items that were introduced in the 2022-12-26 update. They can be used to repair Robo Bear, purchase Digital Bee, upgrade Digital Bee, and grant boosts during a round of the Robo Bear Challenge. All Drives (except Broken Drives) can be purchased from Robo Bear's Shop for 50 Cogs (100 Cogs for Glitched, and 5 of each other drive), and an increasing amount of Honey with each purchase.
+White Drive[]
+The White Drive, when used, grants the following boosts during a single round of Robo Bear's Challenge:
+Fact: White Drive[] statistic: * x1.25 White Pollen.
+Fact: White Drive[] statistic: * x1.25 White Field Capacity.
+* +1 Colorless Bee Attack
+Ways to Obtain[]
+* Purchasing it for 50 Cogs and a base of 250,000 Honey in Robo Bear's Shop.
+* The nth drive costs P ( n ) = 250,000 ⋅ n 2 000\cdot n^{2}} .
+* Chance to receive from Robo Bear's Challenge.
+* Completing Science Bear's "Repairing The White Drive" quest gives 1 White Drive, replacing the Broken Drive.
+* As a reward for finishing your own Robo Party.
+Outdated Ways[]
+* Purchasing it in Bee Bear's Catalog for 222 Snowflakes.
+* Purchasing the Digital Bee pack for 2,500 Robux granted 10 White Drives \+ other stuff.
+Red Drive[]
+The Red Drive, when used, grants the following boosts during a single round of Robo Bear's Challenge:
+Fact: Red Drive[] statistic: * x1.25 Red Pollen.
+Fact: Red Drive[] statistic: * x1.25 Red Field Capacity.
+* +1 Red Bee Attack
+Ways to Obtain[]
+* Purchasing it for 50 Cogs and a base of250,000 Honey in Robo Bear's Shop.
+* The nth drive costs P ( n ) = 250,000 ⋅ n 2 000\cdot n^{2}} .
+* Chance to receive from Robo Bear's Challenge.
+* Completing Panda Bear's "Ready For The Red Drive?" Quest gives 1 Red Drive (Requires you to finish Science Bear's White Drives quest first)
+* As a reward for finishing your own Robo Party.
+Outdated Ways[]
+* Completing Science Bear's 2022 Beesmas quest.
+* Purchasing the Digital Bee pack for 2,500 Robux granted 10 Red Drives \+ other stuff.
+* Opening the Festive Gift Box rewards 5 Red Drives.
+Blue Drive[]
+The Blue Drive, when used, grants the following boosts during a single round of Robo Bear's Challenge:
+Fact: Blue Drive[] statistic: * x1.25 Blue Pollen.
+Fact: Blue Drive[] statistic: * x1.25 Blue Field Capacity.
+* +1 Blue Bee Attack
+Ways to Obtain[]
+* Purchasing it for 50 Cogs and a base of250,000 Honey in Robo Bear's Shop.
+* The nth drive costs P ( n ) = 250,000 ⋅ n 2 000\cdot n^{2}} .
+* Chance to receive from Robo Bear's Challenge.
+* Completing Dapper Bear's "Barter For The Blue Drive" Quest gives 1 Blue Drive (Requires you to finish Science Bear's White Drive quest first)
+* As a reward for finishing your own Robo Party.
+Outdated Ways[]
+* Completing Dapper Bear's 2022 Beesmas quest.
+* Purchasing the Digital Bee pack for 2,500 Robux granted 10 Blue Drives \+ other stuff.
+Glitched Drive[]
+The Glitched Drive, when used, grants the following boosts during a single round of Robo Bear's Challenge:
+Fact: Glitched Drive[] statistic: * x1.25 Pollen.
+Fact: Glitched Drive[] statistic: * x1.25 Field Capacity.
+* +1 Bee Attack
+Ways to Obtain[]
+* Purchasing it for 100 Cogs, 5 Red Drives, 5 Blue Drives, 5 White Drives and a base of1,000,000 Honey in Robo Bear's Shop.
+* The nth drive costs P ( n ) = 1,000,000 ⋅ n 2 000{,}000\cdot n^{2}} .
+* It requires a Gold Cog Amulet to unlock the ability of purchasing it.
+* Completing 10 or more rounds of Robo Bear's Challenge has a chance to reward a Glitched Drive, increased chance as the player finishes the challenge on a higher round.
+* 1 Glitched Drive is guaranteed as a reward once a day after completing round 20.
+* 1 Glitched Drive is guaranteed upon completing round 25, with a 1/7 chance for a second.
+* Completing Science Bear's "Corrupting The Glitched Drive" quest gives 1 Glitched Drive (Requires you to complete Science Bear's White Drive quest, Dapper Bear's Blue Drive quest, and Panda Bear's Red Drive quest).
+* As a reward for finishing your own Robo Party.
+Outdated Ways[]
+* Completing Bee Bear's 5th 2022 Beesmas quest.
+* Purchasing the Digital Bee pack for 2,500 Robux granted 10 Glitched Drives \+ other stuff.
+* Purchasing the Mondo Robo-Bundle for 4,500 Robux grants 10 Glitched Drives \+ other stuff.
+* Purchasing the Glitching Bundle in Bee Bear's Catalog for 111 Gingerbread Bears.
+* Opening the Mondo Gift Box rewards with 10 Glitched Drives.
+Broken Drive[]
+_Main article:Broken Drive_
+The Broken Drive is a unique drive added in the 2023-05-07 update that can be collected only once, from an area behind the Robo Pass Dispenser and Free Robo Pass Dispenser. Once collected, it initiates Science Bear's drive questline. After completing Science Bear's quest, the Broken Drive will be replaced with a White Drive.
+Ways to Obtain[]
+* Found behind the Robo Pass Dispensers in the 30 Bee Zone.
+Gallery[]
+Five White Drives, Red Drives, Blue Drives, and Glitched Drives in the inventory.
+A Broken Drive Token.
+The Red Drive, White Drive, Blue Drive, and Glitched Drive in Robo Bear's Shop.
+A White Drive along with other items as a reward for completing a quest.
+A Glitched Drive along with other rewards for getting to at least Round 20 in Robo Bear's Challenge.
+Fifty Red Drives, fifty White Drives, fifty Blue Drives, and twenty-five Glitched Drives enhancing a Digital Bee.
+Trivia[]
+* Excluding the Broken Drive, these are the only items that can permanently enhance a bee.
+* Excluding the Broken Drive, these are the only items that can only be used during a challenge.
+* The existence of a Yellow Drive is hinted through Robo Bear’s 2022 present dialogue.
+* This may be a reference to the unused yellow flowers found in Onett's "Onett \(Developer\)") decal inventory.
+Fact: The Sub-Inventories in Blue Drive has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Blue Drive has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Blue Drive has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Blue Drive has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Blue Drive has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Blue Drive has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Blue Drive has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Blue Drive has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Blue Drive has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Blue Drive has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Blue Drive has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Blue Drive has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Blue Drive has/costs **7-Pronged Cog**.
+Fact: The Other in Blue Drive has/costs **Marshmallow Bee**.
+Fact: The Currencies in Blue Drive has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Blue Drive has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Blue Drive has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Blue Drive has/costs **Parachute •  Glider**.
+Fact: The Bags in Blue Drive has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Blue Drive has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Blue Drive has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Blue Drive has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Blue Drive has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Blue Drive has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Blue Drive has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Blue Drive has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Blue Drive has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Blue Drive has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

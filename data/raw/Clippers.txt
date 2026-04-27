@@ -1,0 +1,55 @@
+Context: Bee Swarm Simulator - Clippers
+
+Clippers
+Fact: The **Price** in Clippers has/costs 2,200 Honey.
+Fact: The **Shop** in Clippers has/costs Noob Shop.
+Fact: **Shop** statistic: Pollen Collection.
+Fact: The **Range** in Clippers has/costs 1 Flowers.
+Fact: The **Collecting Pattern** in Clippers has/costs Single.
+Fact: The **Collecting Time** in Clippers has/costs 0.6.
+Fact: The **Base Collection** in Clippers has/costs 9.
+Fact: The Flowers in Clippers has/costs Single, Double, Triple, Large, Star.
+Fact: The White in Clippers has/costs 9, 18, 27, 36, 45.
+Fact: The Red in Clippers has/costs 9, 18, 27, 36, 45.
+Fact: The Blue in Clippers has/costs 9, 18, 27, 36, 45.
+_Special Multiplier(s): None_
+The Clippers are a tool that was added in the 2018-06-02 update.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 2,200 Honey.
+The clippers collect 9 pollen from 1 flower tile in front of the player every 0.6 seconds. This gives it a base pollen collection rate of 13.85 pollen per second.
+Gallery[]
+The Clippers' associated sticker.
+Trivia[]
+* The Clippers are the smaller and weaker version of the Scissors with the color of the handles changed to yellow.
+* The Clippers, Electro-Magnet, Golden Rake, Spark Staff, Porcelain Dipper, Petal Wand, Dark Scythe, Tide Popper and Gummyballer are the only tools added in an update.
+* These are one of the three items in the game that can cut the vines in front of the parkour leading to Commando Chick's Hideout, the others being the Scissors and the Scythe.
+* These and the Scissors are the only tools that target one flower.
+Fact: The Sub-Inventories in Clippers has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Clippers has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Clippers has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Clippers has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Clippers has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Clippers has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Clippers has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Clippers has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Clippers has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Clippers has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Clippers has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Clippers has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Clippers has/costs **7-Pronged Cog**.
+Fact: The Other in Clippers has/costs **Marshmallow Bee**.
+Fact: The Currencies in Clippers has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Clippers has/costs **Scooper •  Rake •  **Clippers** •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Clippers has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Clippers has/costs **Parachute •  Glider**.
+Fact: The Bags in Clippers has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Clippers has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Clippers has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Clippers has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Clippers has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Clippers has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Clippers has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Clippers has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Clippers has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Clippers has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

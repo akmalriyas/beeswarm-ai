@@ -1,0 +1,123 @@
+# Manual of Style
+
+This page goes over all formatting necessary to keep the wiki consistent. Generally, this page should be used as a reference – memorizing every point isn't necessary to get started editing, but should be followed as reasonably as possible. You may refer to [this article](/wiki/FAQ/Wiki_Code "FAQ/Wiki Code") if you need further help with formatting. If you have any problems, feel free to contact a [staff member](/wiki/Bee_Swarm_Simulator_Wiki:Staff "Bee Swarm Simulator Wiki:Staff"). Additionally, please review the [Editing Guidelines](/wiki/Bee_Swarm_Simulator_Wiki:Editing_Guidelines "Bee Swarm Simulator Wiki:Editing Guidelines") before making edits. 
+
+**Note: This is a wiki that uses American English. Do not add a different language onto pages. If you would like to read a page in a different language, use a translator, or[use a version of the wiki in a different language](https://bee-swarm-simulator.fandom.com/no).**
+
+## Content
+
+  * **The wiki should reflect the current state of the game.** Rumors and future content are not permitted in articles, even if they come from Onett himself. (What he wants to deliver and what he _actually_ delivers often differ.) 
+    * This includes content from the Test Realm.
+    * This also means not writing things such as "since the [insert date here] update..." **Write what's in the game currently, as if it had always been that way**. If the old behavior may be of interest to readers, it can be added to the Trivia section.
+    * Debug/developer gear **not accessible to players** normally will not be considered as part of the current state of the game.
+  * **Do not add the Removed Content template to content that is still in the game**. Just because you can no longer obtain something does not mean it is removed content. For example, a first-edition Tabby Bee is not removed content. Only add the Removed Content template to the items that were actually removed (e.g. the Bear Bee Pack). There are other templates, such as the Unobtainable template that serve more specific functions.
+  * **Opinionated statements do not belong in articles.** You can create a blog post to do so. 
+    * Value statements like "this is a good thing" or superlatives like "greatest" may be indicative of such.
+    * Even phrasing such as "oddly enough" may carry the weight of an opinionated statement as well.
+  * At this point, unless there's been an update, **you shouldn't be adding new pages**. If you can't find a page, assume the fault lies with you unless and until proven otherwise. You can create a post on the [Discussions](https://bee-swarm-simulator.fandom.com/f) if necessary. 
+    * If you find a page that shouldn't exist (unrelated, duplicate, fanon), inform a [staff](/wiki/Template:CurrentStaff "Template:CurrentStaff") member or edit the page and put the special code `{{Delete}}` at the top.
+    * Traveling Bears who have left *do* get the Removed Content template, even if they promised to be back.
+  * **Don't add pointless trivia.** Include trivia that is actually noteworthy and not extremely obvious. 
+    * For example, if an item is the most expensive thing in the game, then it follows that it is the most expensive item in its shop. As such, adding the second trivia point adds no value to the article.
+    * Addtionally, make sure the trivia has a direct relationship if you are comparing it to something else. As an example, making the connection that Buoyant Bee has the Blue Bomb ability but Ninja Bee has the Blue Bomb+ ability doesn't have relevance since they aren't necessarily directly related.
+  * **Be efficient with file usage.** Items that share the same image (for example, the Nectar Tester using the Basic Egg icon) should all point to the same file. Don't create multiple duplicates.
+  * If you are adding information that cannot be or was not previously found in game, **add a reference with a link to source**.
+
+
+
+### Categories
+
+  * Categories are only used to categorize the subject of the **entire** article. Even if, for example, the Items article discusses removed items it will not be categorized as removed content unless **every** item is removed. 
+    * However, if the page is the sole source of documentation of a subject (i.e., Chick article, which documents specific types of chicks only there).
+  * New unused categories usually aren't needed. Evaluate if it is completely necessary before doing so. 
+    * Users are, however, permitted to use any category that is **not used in mainspace articles** in user pages and blog posts.
+  * Unhidden categories, generally, should be capitalized like a title.
+
+
+
+## Grammar
+
+In general, **please write correctly spelled grammatical sentences**. 
+
+  * Be on the lookout for things like subject-verb agreement issues, homonyms, and basic grammatical rules that are easy to mess up.
+  * Sometimes, for specific items, such as field dice, **pluralization agreement isn't always possible** since the plural form is also its singular. As such, phrases along the lines of "1 field dice" or "1 jelly beans" are permitted, but avoided unless neccessary (like listing methods of obtainment).
+  * **Galleries are subject to all the rules stated in this section.** The only exception would be that full sentences aren't always necessary to explain an image.
+  * If if you're quoting something Onett misspelled in-game verbatim (for example, in a quest dialogue), you can mark errors in the quoted text with "_[sic]_ ". Otherwise, and for other errors, you can silently correct it and make note in the page's Trivia section.
+
+
+
+### Capitalization
+
+**Use proper capitalization.** This means **all proper nouns and adjectives are capitalized**. 
+
+  * Proper nouns include: 
+    * Named locations and time frames (e.g., Dapper Bear's Shop, Red Brick Field, Beesmas Summer 2024 Event).
+    * Specific bees and bears (including Snowbear).
+    * Bosses, mini-bosses and specific aphids. 
+      * This also extends to modifications. A "First Edition Gifted Mutated Bear Bee" is treated as the bee's name.
+    * Named items (Hydroponic Planter, Compressor, Electro-Magnet).
+    * Abilities (Blue Boost, Festive Mark).
+    * Specifically named bee tiers (e.g., Blue Event bee, Legendary bee). 
+      * However, this might not apply on its own, for example, blue is lowercase in the phrase "blue fields".
+    * Specifically named stickers (e.g., Bear Bee Offer Sticker, Colorful Buttons Sticker).
+    * Badge tiers.
+    * Listed proper nouns. 
+      * For example, in the phrase, "Demon, Looker, and Buoyant Bees", the word "Bees" is still used as part of the name for each listed bee.
+  * Common nouns include: 
+    * Generic terms/categories (e.g., item, planter, machine).
+    * Mobs.
+    * Generic tems (e.g., strawberries, swirled wax). 
+      * This includes made-up item names, such as neonberries and beequips.
+      * The word "sticker", generically.
+  * There are minor exceptions such as: 
+    * Infoicon templates (like the [Cost](/wiki/Template:Cost "Template:Cost") or [Color](/wiki/Template:Color "Template:Color") template), which have a default capitalization.
+    * Copying text written by Onett, verbatim. This includes things like bee and item descriptions.
+
+
+
+### Pronouns
+
+  * Please **stick to a consistent, third person voice**. Don't use "you" if possible. Phrases such as "the player" are preferred. 
+    * There are alternative forms, for example, with the sentence, "You can purchase a sword by stepping on the pad." 
+      * Imperative form: "Step on the pad to purchase a sword."
+      * Passive voice: "Stepping on the pad purchases a sword."
+      * "The player": "The player recieves a sword upon stepping on the pad."
+    * This isn't a hard and fast rule. In certain cases, such as under Tip sections in pages, the second person view ("you") might make more sense. Yes, Wikipedia's guidelines say to not use "you" at all, but this isn't Wikipedia. Readability is more important than formality.
+    * The use of singular "they" is not necessarily completely formal; however, once again, readability and conciseness is more important than formality.
+  * **First person voice should not be used anywhere.**
+  * All **bears are "he"** unless specified otherwise, **and mobs are mostly "it"** , except the Werewolf and King Beetle, who can both be "he." Bees are "it", or "they" if necessary. 
+    * Mother Bear and Spirit Bear are female. Robo Bear is considered inanimate and therefore uses "it". All of the other bears are male.
+    * Although all bees are technically female, only neutral pronouns are used for them. 
+      * Specific bees are named in dialogue. These are exceptions, as they are being referenced as unique characters.
+    * **Bees' and bears' names are treated as proper nouns.** As such, they should not be referred to as "the Rad Bee" or "the Black Bear". Mobs' names, however, function as labels, and there for are referred to in the same manner as "the ladybug". 
+      * Names treated as proper nouns use "who", not "that".
+
+
+
+### Punctuation
+
+  * **Do not use run-on sentences** and end sentences when needed.
+  * Two different clauses (which must contain a subject and a predicate) must be separated by a conjunction, semicolon, or a period. 
+    * Using commas or no punctuation at all between two connected clauses constitutes a run-on sentence.
+  * Always end sentences with a period. Phrases listed using bullet points should end with periods as well.
+
+
+
+## Formatting
+
+Please follow proper formatting outlined here. 
+
+  * The first mention of the subject of an article should be **bold**. All subsequent mentions use regular formatting. 
+    * This also extends to the use of templates of a similar function (such as the [Color](/wiki/Template:Color "Template:Color") template).
+  * When writing dates, write out the whole date. For example, both _November 24, 2018_ and _18 May 2018_ are acceptable, though the former is preferred. If space is tight, **use ISO date format: 2018-08-11 (YYYY-MM-DD)**. 
+    * **Other date formats are not permitted** , as inconsistency between articles can create ambiguity.
+    * Additionally, please avoid punctuation other than hyphens between digits.
+  * When referencing an article/subject whose name has another part to remove ambiguity (i.e., "Honey Bee (NPC)" or "Onett (Developer)"), you shouldn't refer to the article's subject with the part in the parentheses unless necessary to prevent ambiguity.
+  * Notice templates (such as removed content) should be placed at very top of a section that it refers to. If it covers the entire article, place it at the top. There are very few situations where there are multiple templates needed when the main article's subject is removed. 
+    * A notable exception may include page transclusions.
+  * **Do not use external link syntax for internal links.** In other words, if linking to another page on the wiki, do not put [[1]](https://bee-swarm-simulator.fandom.com/) into links. In Visual Editor, there are provided options in order to do so. In Source Editor, you can follow the conventions from [this help page](/wiki/FAQ/Wiki_Code#Links "FAQ/Wiki Code").
+  * **Use headings and subheadings properly.**
+    * Headings can be toggled by clicking the text at the top that reads "Paragraph" in Visual Editor.
+  * Use **actual bullet lists** – not asterisks or hyphens.
+
+

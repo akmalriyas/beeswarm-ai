@@ -1,0 +1,109 @@
+Context: Bee Swarm Simulator - Blue Clay Planter
+
+Blue Clay Planter
+Datamined information:
+* Some of the planter's stats are corrected from the in-game description.
+* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
+* How the planter generates its loot.
+Date of datamined file: December 19th, 2024
+Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
+Blue Clay Planter
+_"Grows in about 6hrs, but faster near Blue flowers. Grants bonus Blue Extract, Micro-Converters, and x1.2 Refreshing and Comforting Nectar._ "
+Fact: Blue Clay Planter requirement: 10,000,000 Honey, 5 Magic Beans, 15 Blue Extracts, 20 Soft Waxes..
+GROW TIME BONUS
+Fact: GROW TIME BONUS statistic: +25% in fields with blue flowers..
+POLLEN CAPACITY
+Fact: POLLEN CAPACITY statistic: 3,000,000 Pollen.
+POLLEN MULTIPLIER
+Fact: POLLEN MULTIPLIER statistic: +25% Blue Pollen.
+Fact: POLLEN MULTIPLIER statistic: -25% Red Pollen.
+NECTAR MULTIPLIER
+Fact: NECTAR MULTIPLIER statistic: +20% Refreshing.
+Fact: NECTAR MULTIPLIER statistic: +20% Comforting.
+BONUS ITEMS
+Blue Extract
+Micro-Converter
+Honeysuckle
+The Blue Clay Planter is a reusable planter that was added in the 2021-12-26 update. Alone, it grows in about 6 hours and stores around 3 million pollen. When harvested, it grants bonus Blue Extracts and Micro-Converters. It is purchasable in the Blue HQ.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 10,000,000 Honey.
+5 Magic Beans
+Fact: 5 Magic Beans requirement: 15 Blue Extracts.
+Fact: 5 Magic Beans requirement: 20 Soft Waxes.
+It grows 25% faster in fields with Blue flowers, and grants 25% more blue pollen, but 25% less red pollen. Blue bees are 25% more likely to sip Nectar from this planter, but Red bees avoid sipping nectar from it. It also grants 20% more Refreshing and Comforting Nectar.
+Harvesting a fully grown Blue Clay Planter has a 1/6 chance to spawn a Puffshroom. The spawned puffshroom is between levels 4-5, and has a:
+* ~76.28% chance of being a Common Puffshroom,
+* ~19.07% chance of being a Rare Puffshroom,
+* ~4.58% chance of being a Epic Puffshroom,
+* ~0.08% chance of being a Legendary Puffshroom.
+When claimed, the planter gives up to 16 tokens worth of items. If the planter was fully grown when claimed, 4 of the tokens are guaranteed to be 1 Blue Extract, 1 Micro-Converter, 3 Honeysuckles and 1 Ticket. The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the field the planter is in):
+Blue Extract (Increments of 1 or 10)
+Micro-Converters
+Honeysuckle (Increments of 1 or 5)
+Sunflower Seeds
+Jelly Beans
+Smooth Dice
+Blueberries
+Bitterberries
+Neonberries
+Royal Jellies
+Red Extracts
+Star Jellies (Rare)
+Glitter (Rare)
+Purple Potion (Rare)
+Swirled Wax (Very Rare)
+Caustic Wax (Very Rare)
+Super Smoothie (Extremely Rare)
+Paperclip (Rare)
+Beret (Very Rare)
+Camphor Lip Balm (Very Rare)
+Turpentine (Exceptionally Rare)
+10-15 Micro-Converters (When harvested from Spider Field)
+Fact: Turpentine (Exceptionally Rare) requirement: x2 the usual Honeysuckles (When harvested from either Blue Flower Field, Rose Field or especially Sunflower Field).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Purple Potion (When harvested from a Blue Field, then Red Field in order, unknown cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Swirled Wax (When harvested from Spider Field, 1 month cooldown).
+Fact: Turpentine (Exceptionally Rare) requirement: 1 Caustic Wax (When harvested from Clover Field, 1 month cooldown).
+1 Cool Backpack Sticker (Extremely rare when harvested from Mountain Top Field)
+Gallery[]
+The Blue Clay Planter.
+A newly placed Blue Clay Planter.
+A Blue Clay Planter in a field.
+A Blue Clay Planter hosting a Puffshroom.
+The Blue Clay Planter in the Blue HQ.
+Blue Clay Planter on a player's inventory
+Blue Clay Planter dropping a Turpentine.
+Trivia[]
+* Its red counterpart is the Red Clay Planter.
+* This is the only planter that drops Honeysuckles as a bonus item.
+* This is one of the five reusable planters to reside outside of Dapper Bear's Shop, the others being the Red Clay Planter, Petal Planter, Hydroponic Planter, and Heat-Treated Planter.
+* This and the Hydroponic Planter are the only planters to be sold from the Blue HQ.
+* In the inventory's description, it doesn't say that it drops Honeysuckles as a bonus drop.
+Fact: The Sub-Inventories in Blue Clay Planter has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Blue Clay Planter has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Blue Clay Planter has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Blue Clay Planter has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Blue Clay Planter has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Blue Clay Planter has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Blue Clay Planter has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Blue Clay Planter has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Blue Clay Planter has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Blue Clay Planter has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Blue Clay Planter has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Blue Clay Planter has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Blue Clay Planter has/costs **7-Pronged Cog**.
+Fact: The Other in Blue Clay Planter has/costs **Marshmallow Bee**.
+Fact: The Currencies in Blue Clay Planter has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Blue Clay Planter has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Blue Clay Planter has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Blue Clay Planter has/costs **Parachute •  Glider**.
+Fact: The Bags in Blue Clay Planter has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Blue Clay Planter has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Blue Clay Planter has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Blue Clay Planter has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Blue Clay Planter has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Blue Clay Planter has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Blue Clay Planter has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Blue Clay Planter has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Blue Clay Planter has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Blue Clay Planter has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  **Blue Clay Planter** •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

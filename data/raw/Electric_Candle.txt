@@ -1,0 +1,803 @@
+Context: Bee Swarm Simulator - Electric Candle
+
+Electric Candle
+Electric Candle
+"A battery powered candle that produces an acceptible flicker."
+Fact: Electric Candle statistic: +Red Gather Amount%.
+Fact: Electric Candle statistic: +Flame Pollen%.
+Fact: Electric Candle statistic: +Gathering Flames Chance%.
+Fact: Electric Candle statistic: +Energy%.
+Fact: Electric Candle statistic: +Flame Pollen%.
+An Electric Candle is a level 6 Beesmas Beequip. It has an equip limit of three. There is a red color requirement.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades, Range.
+Fact: The Chance in Electric Candle has/costs Value, Weight, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Electric Candle has/costs **1**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Electric Candle has/costs **20**, **+5% - +50%**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Electric Candle has/costs **1**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Electric Candle has/costs **20**, **+5% - +50%**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Electric Candle has/costs An exact value between **0.1** -**0.5**.
+Fact: The Linear scaling by a factor of 1 in Electric Candle has/costs **+1%**, **20**, **+1% - +25%**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Fact: The Bias scales linearly in Electric Candle has/costs \-, \-, \-, **+5% - +10%**.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Fact: The Bias scales linearly in Electric Candle has/costs **+1%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Electric Candle has/costs An exact value between **0.01** -**0.05**.
+Fact: The Linear scaling by a factor of 1 in Electric Candle has/costs **+1%**, **10**, **0% - +11%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Electric Candle has/costs **47.3934%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Electric Candle has/costs **47.3934%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.96% in Electric Candle has/costs **4.7393%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +5%
+Fact: The Average value: +6.25% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 1%
+Fact: The Average value: 2% in Electric Candle has/costs **+1%**, **0.4739%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Electric Candle has/costs **47.3934%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Electric Candle has/costs **47.3934%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.96% in Electric Candle has/costs **4.7393%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +5%
+Fact: The Average value: +6.25% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 1%
+Fact: The Average value: 2% in Electric Candle has/costs **+1%**, **0.4739%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Electric Candle has/costs **46.4253%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Electric Candle has/costs **46.4253%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +2.19% in Electric Candle has/costs **6.4995%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +5.5%
+Fact: The Average value: +6.5% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 1.4%
+Fact: The Average value: 2.2% in Electric Candle has/costs **+1%**, **0.65%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Electric Candle has/costs **46.4253%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Electric Candle has/costs **46.4253%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +2.19% in Electric Candle has/costs **6.4995%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +5.5%
+Fact: The Average value: +6.5% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 1.4%
+Fact: The Average value: 2.2% in Electric Candle has/costs **+1%**, **0.65%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Electric Candle has/costs **45.4959%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Electric Candle has/costs **45.4959%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +2.42% in Electric Candle has/costs **8.1893%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +6%
+Fact: The Average value: +6.75% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 1.8%
+Fact: The Average value: 2.4% in Electric Candle has/costs **+1%**, **0.8189%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Electric Candle has/costs **45.4959%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Electric Candle has/costs **45.4959%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +2.42% in Electric Candle has/costs **8.1893%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +6%
+Fact: The Average value: +6.75% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 1.8%
+Fact: The Average value: 2.4% in Electric Candle has/costs **+1%**, **0.8189%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Electric Candle has/costs **44.603%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Electric Candle has/costs **44.603%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.56% in Electric Candle has/costs **9.8127%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +6.5%
+Fact: The Average value: +7% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 2.2%
+Fact: The Average value: 2.6% in Electric Candle has/costs **+1%**, **0.9813%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Electric Candle has/costs **44.603%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Electric Candle has/costs **44.603%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.56% in Electric Candle has/costs **9.8127%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +6.5%
+Fact: The Average value: +7% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 2.2%
+Fact: The Average value: 2.6% in Electric Candle has/costs **+1%**, **0.9813%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Electric Candle has/costs **43.7445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Electric Candle has/costs **43.7445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.84% in Electric Candle has/costs **11.3736%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +7%
+Fact: The Average value: +7.25% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 2.6%
+Fact: The Average value: 2.8% in Electric Candle has/costs **+1%**, **1.1374%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Electric Candle has/costs **43.7445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Electric Candle has/costs **43.7445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.84% in Electric Candle has/costs **11.3736%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +7%
+Fact: The Average value: +7.25% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 2.6%
+Fact: The Average value: 2.8% in Electric Candle has/costs **+1%**, **1.1374%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Electric Candle has/costs **42.9185%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Electric Candle has/costs **42.9185%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Electric Candle has/costs **12.8755%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 3%
+Fact: The Average value: 3% in Electric Candle has/costs **+1%**, **1.2876%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Electric Candle has/costs **42.9185%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Electric Candle has/costs **42.9185%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Electric Candle has/costs **12.8755%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 3%
+Fact: The Average value: 3% in Electric Candle has/costs **+1%**, **1.2876%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Electric Candle has/costs **42.123%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Electric Candle has/costs **42.123%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.16% in Electric Candle has/costs **14.3218%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +8%
+Fact: The Average value: +7.75% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 3.4%
+Fact: The Average value: 3.2% in Electric Candle has/costs **+1%**, **1.4322%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Electric Candle has/costs **42.123%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Electric Candle has/costs **42.123%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.16% in Electric Candle has/costs **14.3218%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +8%
+Fact: The Average value: +7.75% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 3.4%
+Fact: The Average value: 3.2% in Electric Candle has/costs **+1%**, **1.4322%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Electric Candle has/costs **41.3565%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Electric Candle has/costs **41.3565%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.44% in Electric Candle has/costs **15.7155%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +8.5%
+Fact: The Average value: +8% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 3.8%
+Fact: The Average value: 3.4% in Electric Candle has/costs **+1%**, **1.5715%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Electric Candle has/costs **41.3565%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Electric Candle has/costs **41.3565%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.44% in Electric Candle has/costs **15.7155%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +8.5%
+Fact: The Average value: +8% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 3.8%
+Fact: The Average value: 3.4% in Electric Candle has/costs **+1%**, **1.5715%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Electric Candle has/costs **40.6174%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Electric Candle has/costs **40.6174%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +3.58% in Electric Candle has/costs **17.0593%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +9%
+Fact: The Average value: +8.25% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 4.2%
+Fact: The Average value: 3.6% in Electric Candle has/costs **+1%**, **1.7059%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Electric Candle has/costs **40.6174%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Electric Candle has/costs **40.6174%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +3.58% in Electric Candle has/costs **17.0593%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +9%
+Fact: The Average value: +8.25% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 4.2%
+Fact: The Average value: 3.6% in Electric Candle has/costs **+1%**, **1.7059%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Electric Candle has/costs **39.9042%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Electric Candle has/costs **39.9042%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +3.81% in Electric Candle has/costs **18.3559%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +9.5%
+Fact: The Average value: +8.5% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 4.6%
+Fact: The Average value: 3.8% in Electric Candle has/costs **+1%**, **1.8356%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Electric Candle has/costs **39.9042%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Electric Candle has/costs **39.9042%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +3.81% in Electric Candle has/costs **18.3559%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +9.5%
+Fact: The Average value: +8.5% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 4.6%
+Fact: The Average value: 3.8% in Electric Candle has/costs **+1%**, **1.8356%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Electric Candle has/costs **39.2157%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Electric Candle has/costs **39.2157%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.04% in Electric Candle has/costs **19.6078%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +10%
+Fact: The Average value: +8.75% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 5%
+Fact: The Average value: 4% in Electric Candle has/costs **+1%**, **1.9608%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Electric Candle has/costs Base, Upgrades.
+Fact: The Chance in Electric Candle has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Electric Candle has/costs **39.2157%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Electric Candle has/costs **20**.
+Fact: The +Flame Pollen% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Electric Candle has/costs **39.2157%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Electric Candle has/costs **20**.
+Fact: The +Gathering Flames Chance% in Electric Candle has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.04% in Electric Candle has/costs **19.6078%**, **+1%**, **20**.
+Fact: The +Energy% in Electric Candle has/costs **100%**, A random value between **+5%** -**+10%**.
+Biased to values near +10%
+Fact: The Average value: +8.75% in Electric Candle has/costs \-, \-, \-.
+Fact: The +Flame Pollen% in Electric Candle has/costs A random value between **1%** -**5%**.
+Biased to values near 5%
+Fact: The Average value: 4% in Electric Candle has/costs **+1%**, **1.9608%**, **+1%**, **10**.
+Probabilities[]
+The tables below give the probability of a stat of Electric Candle falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* +Red Gather Amount%
+Fact: * +Red Gather Amount% statistic: * +Flame Pollen%.
+* +Gathering Flames Chance%
+Fact: The Potential in Electric Candle has/costs Stat ranges, Average.
+Fact: The +5% in Electric Candle has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Electric Candle has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Electric Candle has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Electric Candle has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Electric Candle has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Electric Candle has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Electric Candle has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Electric Candle has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Electric Candle has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Electric Candle has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Electric Candle has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Electric Candle has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Fact: The Potential in Electric Candle has/costs Stat ranges, Average.
+Fact: The +5% in Electric Candle has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Electric Candle has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Electric Candle has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Electric Candle has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Electric Candle has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Electric Candle has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Electric Candle has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Electric Candle has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Electric Candle has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Electric Candle has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Electric Candle has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Electric Candle has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Fact: The Potential in Electric Candle has/costs Stat ranges, Average.
+Fact: The +1% in Electric Candle has/costs +2%, +3%, +4%, +5%.
+Fact: The **0 ★** in Electric Candle has/costs 38.493%, 35.788%, 17.594%, 7.309%, 0.816%, +2%.
+Fact: The **0.5 ★** in Electric Candle has/costs 21.459%, 48.646%, 20.693%, 8.291%, 0.911%, +2.2%.
+Fact: The **1 ★** in Electric Candle has/costs 5.144%, 58.953%, 25.285%, 9.586%, 1.032%, +2.4%.
+Fact: The **1.5 ★** in Electric Candle has/costs 3.068%, 51.184%, 33.184%, 11.375%, 1.189%, +2.6%.
+Fact: The **2 ★** in Electric Candle has/costs 2.196%, 28.373%, 54.00013%, 14.028%, 1.403%, +2.8%.
+Fact: The **2.5 ★** in Electric Candle has/costs 1.712%, 18.459%, 59.657%, 18.459%, 1.712%, +3%.
+Fact: The **3 ★** in Electric Candle has/costs 1.403%, 14.028%, 54.00013%, 28.373%, 2.196%, +3.2%.
+Fact: The **3.5 ★** in Electric Candle has/costs 1.189%, 11.375%, 33.184%, 51.184%, 3.068%, +3.4%.
+Fact: The **4 ★** in Electric Candle has/costs 1.032%, 9.586%, 25.285%, 58.953%, 5.144%, +3.6%.
+Fact: The **4.5 ★** in Electric Candle has/costs 0.911%, 8.291%, 20.693%, 48.646%, 21.459%, +3.8%.
+Fact: The **5 ★** in Electric Candle has/costs 0.816%, 7.309%, 17.594%, 35.788%, 38.493%, +4%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Electric Candle has/costs Stat ranges, Average.
+Fact: The +5%-+6% in Electric Candle has/costs +6%-+7%, +7%-+8%, +8%-+9%, +9%-+10%.
+Fact: The **0 ★** in Electric Candle has/costs 52.189%, 24.463%, 13.998%, 7.202%, 2.149%, +6.2%.
+Fact: The **0.5 ★** in Electric Candle has/costs 41.972%, 30.986%, 16.431%, 8.203%, 2.408%, +6.5%.
+Fact: The **1 ★** in Electric Candle has/costs 20%, 47.726%, 20%, 9.535%, 2.739%, +6.7%.
+Fact: The **1.5 ★** in Electric Candle has/costs 9.014%, 50.445%, 25.96%, 11.405%, 3.176%, +7%.
+Fact: The **2 ★** in Electric Candle has/costs 6.137%, 33.863%, 41.972%, 14.246%, 3.781%, +7.2%.
+Fact: The **2.5 ★** in Electric Candle has/costs 4.675%, 19.23%, 52.189%, 19.23%, 4.675%, +7.5%.
+Fact: The **3 ★** in Electric Candle has/costs 3.781%, 14.246%, 41.972%, 33.863%, 6.137%, +7.8%.
+Fact: The **3.5 ★** in Electric Candle has/costs 3.176%, 11.405%, 25.96%, 50.445%, 9.014%, +8%.
+Fact: The **4 ★** in Electric Candle has/costs 2.739%, 9.535%, 20%, 47.726%, 20%, +8.3%.
+Fact: The **4.5 ★** in Electric Candle has/costs 2.408%, 8.203%, 16.431%, 30.986%, 41.972%, +8.5%.
+Fact: The **5 ★** in Electric Candle has/costs 2.149%, 7.202%, 13.998%, 24.463%, 52.189%, +8.8%.
+* Bee Stats
+* +Red Gather Amount%
+Fact: * +Red Gather Amount% statistic: * +Flame Pollen%.
+Fact: The Potential in Electric Candle has/costs Stat ranges, Average.
+Fact: The +1% in Electric Candle has/costs +2%.
+Fact: The **0 ★** in Electric Candle has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Electric Candle has/costs 83.906%, 16.094%, +1.2%.
+Fact: The **1 ★** in Electric Candle has/costs 82.852%, 17.148%, +1.2%.
+Fact: The **1.5 ★** in Electric Candle has/costs 81.267%, 18.733%, +1.2%.
+Fact: The **2 ★** in Electric Candle has/costs 78.601%, 21.399%, +1.2%.
+Fact: The **2.5 ★** in Electric Candle has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **3 ★** in Electric Candle has/costs 50%, 50%, +1.5%.
+Fact: The **3.5 ★** in Electric Candle has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Electric Candle has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Electric Candle has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Electric Candle has/costs 15.343%, 84.657%, +1.8%.
+Fact: The Potential in Electric Candle has/costs Stat ranges, Average.
+Fact: The +1% in Electric Candle has/costs +2%.
+Fact: The **0 ★** in Electric Candle has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Electric Candle has/costs 83.906%, 16.094%, +1.2%.
+Fact: The **1 ★** in Electric Candle has/costs 82.852%, 17.148%, +1.2%.
+Fact: The **1.5 ★** in Electric Candle has/costs 81.267%, 18.733%, +1.2%.
+Fact: The **2 ★** in Electric Candle has/costs 78.601%, 21.399%, +1.2%.
+Fact: The **2.5 ★** in Electric Candle has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **3 ★** in Electric Candle has/costs 50%, 50%, +1.5%.
+Fact: The **3.5 ★** in Electric Candle has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Electric Candle has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Electric Candle has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Electric Candle has/costs 15.343%, 84.657%, +1.8%.
+Ways to Obtain[]
+* As a reward from Brown Bear's Stockings.
+* Completing Gifted Riley Bee's 2025 Beesmas quest rewarded 1 Electric Candle \+ other stuff.
+Outdated Ways[]
+* Buying the "Waxy Bundle" from Bee Bear’s Catalog for 1,500 Snowflakes and 15 Gingerbread Bears granted 1 Electric Candle \+ other stuff.
+* Completing Bee Bear's Snow Cub Reformation (1/5) rewarded 1 Electric Candle \+ other stuff.
+* Redeeming the code, "WintersEnd" (Gave 1 Electric Candle \+ other stuff).
+* Buying the "Candlelight Bundle" from Bee Bear's Catalog for 1,500 Snowflakes and 50 Gingerbread Bears grants 1 Electric Candle \+ other stuff.
+* Upon Completing Gifted Riley Bee's 2024 Beesmas Quest.
+* Buying the "Candlewax Bundle" from Bee Bear's Catalog for 333 Snowflakes and 3 Gingerbread Bears grants 1 Electric Candle \+ other stuff
+* Completing Gifted Riley Bee's 2024 Winter Beesmas Quest rewarded 1 Electric Candle \+ other stuff.
+Gallery[]
+Three Electric Candles in the Beequip Storage.
+An Electric Candle equipped to a Fire Bee.
+An Electric Candle token from the Stockings.
+* Riley Bee's Beesmas ornament has a similar design and shares the same name as this Beequip.
+Fact: The Sub-Inventories in Electric Candle has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Electric Candle has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Electric Candle has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Electric Candle has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Electric Candle has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Electric Candle has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Electric Candle has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Electric Candle has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Electric Candle has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Electric Candle has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Electric Candle has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Electric Candle has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Electric Candle has/costs **7-Pronged Cog**.
+Fact: The Other in Electric Candle has/costs **Marshmallow Bee**.
+Fact: The Currencies in Electric Candle has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Electric Candle has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Electric Candle has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Electric Candle has/costs **Parachute •  Glider**.
+Fact: The Bags in Electric Candle has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Electric Candle has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Electric Candle has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Electric Candle has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Electric Candle has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Electric Candle has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Electric Candle has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Electric Candle has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  **Electric Candle** •  Festive Wreath**.
+Fact: The One-time Use in Electric Candle has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Electric Candle has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

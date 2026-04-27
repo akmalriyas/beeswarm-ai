@@ -1,0 +1,501 @@
+Context: Bee Swarm Simulator - Bandage
+
+"Heals cuts in no time and make a bee look tough."
+Fact: Bandage statistic: +Gather Amount.
+Fact: Bandage statistic: +Energy%.
+Fact: Bandage statistic: +Bee Attack%.
+Fact: Bandage statistic: +Bee Attack.
+xBee Attack
+A Bandage is a level 3 Beequip. It has an equip limit of three. There is no color requirement.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip does not use the old RNG functions.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades, Range.
+Fact: The Chance in Bandage has/costs Value, Weight, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Fact: The Bias scales linearly in Bandage has/costs **0.5**, **+1**, **10**, **+3 - +16**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Bandage has/costs **0.5**, **+1%**, **10**, **+5% - +20%**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Bandage has/costs \-, \-, \-, **+1% - +3%**.
+Fact: Bias scales linearly statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, An exact value between **0.01** -**0.1**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 2 in Bandage has/costs **+1**, **1**, **0 - +1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, An exact value between **0.001** -**0.01**.
+Fact: The Linear scaling by a factor of 1 in Bandage has/costs **+0.01**, **1**, **x1 - x1.01**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +3.7029 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +3.7029 in Bandage has/costs **49.456%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Bandage has/costs **49.456%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +1.44% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.9891%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.0989%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3.3
+Fact: The Average value: +3.8519 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.52% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3.3
+Fact: The Average value: +3.8519 in Bandage has/costs **49.3681%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Bandage has/costs **49.3681%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.52% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +1.52% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **1.0762%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.1876%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3.6
+Fact: The Average value: +4.1175 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.66% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3.6
+Fact: The Average value: +4.1175 in Bandage has/costs **49.1932%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Bandage has/costs **49.1932%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.66% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +1.66% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **1.3381%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.2755%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3.9
+Fact: The Average value: +4.2125 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.89% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +3.9
+Fact: The Average value: +4.2125 in Bandage has/costs **48.9333%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Bandage has/costs **48.9333%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.89% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +1.89% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **1.7714%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.3621%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +4.2
+Fact: The Average value: +4.3056 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.96% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +4.2
+Fact: The Average value: +4.3056 in Bandage has/costs **48.5909%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Bandage has/costs **48.5909%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.96% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +1.96% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **2.3712%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.447%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +4.5
+Fact: The Average value: +4.5 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +4.5
+Fact: The Average value: +4.5 in Bandage has/costs **48.1696%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Bandage has/costs **48.1696%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +2% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **3.131%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.5299%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +4.8
+Fact: The Average value: +4.6944 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.04% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +4.8
+Fact: The Average value: +4.6944 in Bandage has/costs **47.6735%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Bandage has/costs **47.6735%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.04% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +2.04% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **4.0427%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.6102%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +5.1
+Fact: The Average value: +4.7875 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.4%
+Fact: The Average value: +2.11% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +5.1
+Fact: The Average value: +4.7875 in Bandage has/costs **47.1076%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Bandage has/costs **47.1076%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.4%
+Fact: The Average value: +2.11% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +2.11% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **5.097%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.6878%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +5.4
+Fact: The Average value: +4.8825 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +5.4
+Fact: The Average value: +4.8825 in Bandage has/costs **46.477%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Bandage has/costs **46.477%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +2.34% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **6.2837%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.7622%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +5.7
+Fact: The Average value: +5.1481 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +5.7
+Fact: The Average value: +5.1481 in Bandage has/costs **45.7875%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Bandage has/costs **45.7875%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +2.48% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **7.5916%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.8333%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +5.2971 in Bandage has/costs **50%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Bandage has/costs **50%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Bandage has/costs \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Bandage has/costs Base, Upgrades.
+Fact: The Chance in Bandage has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Bandage has/costs **100%**, A random value between **+3** -**+6**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +5.2971 in Bandage has/costs **45.045%**, **+1**, **10**.
+Fact: The +Energy% in Bandage has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Bandage has/costs **45.045%**, **+1%**, **10**.
+Fact: The +Bee Attack% in Bandage has/costs **100%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Bandage has/costs \-, \-, \-.
+Fact: Average value: +2.56% statistic: +Bee Attack.
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **9.009%**, **+1**, **1**.
+xBee Attack
+Fact: The Caustic Points Only in Bandage has/costs \-, \-, **0.9009%**, **+0.01**, **1**.
+Probabilities[]
+The tables below give the probability of a stat of Bandage falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* +Gather Amount
+* +Bee Attack%
+Fact: The Potential in Bandage has/costs Stat ranges, Average.
+Fact: The +3 in Bandage has/costs +4, +5, +6.
+Fact: The **0 ★** in Bandage has/costs 46.529%, 38.128%, 13.869%, 1.473%, +3.703.
+Fact: The **0.5 ★** in Bandage has/costs 34.018%, 48.419%, 15.914%, 1.648%, +3.852.
+Fact: The **1 ★** in Bandage has/costs 10.694%, 68.731%, 18.704%, 1.871%, +4.118.
+Fact: The **1.5 ★** in Bandage has/costs 5.854%, 69.201%, 22.781%, 2.164%, +4.213.
+Fact: The **2 ★** in Bandage has/costs 4.09%, 63.828%, 29.517%, 2.565%, +4.306.
+Fact: The **2.5 ★** in Bandage has/costs 3.151%, 46.849%, 46.849%, 3.151%, +4.5.
+Fact: The **3 ★** in Bandage has/costs 2.565%, 29.517%, 63.828%, 4.09%, +4.694.
+Fact: The **3.5 ★** in Bandage has/costs 2.164%, 22.781%, 69.201%, 5.854%, +4.787.
+Fact: The **4 ★** in Bandage has/costs 1.871%, 18.704%, 68.731%, 10.694%, +4.882.
+Fact: The **4.5 ★** in Bandage has/costs 1.648%, 15.914%, 48.419%, 34.018%, +5.148.
+Fact: The **5 ★** in Bandage has/costs 1.473%, 13.869%, 38.128%, 46.529%, +5.297.
+Fact: The Potential in Bandage has/costs Stat ranges, Average.
+Fact: The +5% in Bandage has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Bandage has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Bandage has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Bandage has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Bandage has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Bandage has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Bandage has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Bandage has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Bandage has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Bandage has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Bandage has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Bandage has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Fact: The Potential in Bandage has/costs Stat ranges, Average.
+Fact: The +1% in Bandage has/costs +2%, +3%.
+Fact: The **0 ★** in Bandage has/costs 59.657%, 36.919%, 3.424%, +1.4%.
+Fact: The **0.5 ★** in Bandage has/costs 51.876%, 44.276%, 3.848%, +1.5%.
+Fact: The **1 ★** in Bandage has/costs 38.863%, 56.745%, 4.392%, +1.7%.
+Fact: The **1.5 ★** in Bandage has/costs 16.041%, 78.841%, 5.118%, +1.9%.
+Fact: The **2 ★** in Bandage has/costs 10.288%, 83.577%, 6.135%, +2%.
+Fact: The **2.5 ★** in Bandage has/costs 7.671%, 84.657%, 7.671%, +2%.
+Fact: The **3 ★** in Bandage has/costs 6.135%, 83.577%, 10.288%, +2%.
+Fact: The **3.5 ★** in Bandage has/costs 5.118%, 78.841%, 16.041%, +2.1%.
+Fact: The **4 ★** in Bandage has/costs 4.392%, 56.745%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Bandage has/costs 3.848%, 44.276%, 51.876%, +2.5%.
+Fact: The **5 ★** in Bandage has/costs 3.424%, 36.919%, 59.657%, +2.6%.
+Ways to Obtain[]
+* Can be purchased in Dapper Bear's Shop.
+* As a reward from the Ant Challenge.
+Gallery[]
+A Bandage in Dapper Bear's Shop able to be crafted.
+A Bandage in the Beequip Case.
+A Bandage equipped to a Lion Bee.
+Fact: The Sub-Inventories in Bandage has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Bandage has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Bandage has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Bandage has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Bandage has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Bandage has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Bandage has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Bandage has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Bandage has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Bandage has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Bandage has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Bandage has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Bandage has/costs **7-Pronged Cog**.
+Fact: The Other in Bandage has/costs **Marshmallow Bee**.
+Fact: The Currencies in Bandage has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Bandage has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Bandage has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Bandage has/costs **Parachute •  Glider**.
+Fact: The Bags in Bandage has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Bandage has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Bandage has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Bandage has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Bandage has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Bandage has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Bandage has/costs **Thimble •  Sweatband •  **Bandage** •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Bandage has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Bandage has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Bandage has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

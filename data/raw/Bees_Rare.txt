@@ -1,0 +1,23 @@
+Context: Bee Swarm Simulator - Bees Rare
+
+Bees/Rare
+Fact: The Bee in Bees Rare has/costs Icon, Description.
+Fact: The Bomber Bee in Bees Rare has/costs This crafty bee makes bombs which collect pollen from all nearby flowers..
+Fact: The Brave Bee in Bees Rare has/costs This loyal bee will do anything to protect its owner..
+Fact: The Bumble Bee in Bees Rare has/costs A mellow fellow who moves a little slow, but works harder and longer than others..
+Fact: The Cool Bee in Bees Rare has/costs A sarcastic bee who's a little better than the others. Sometimes boosts pollen from Blue flowers..
+Fact: The Hasty Bee in Bees Rare has/costs A quick bee who always zips arounds _[sic]_. Sometimes it even makes YOU move faster..
+Fact: The Looker Bee in Bees Rare has/costs This silent bee is always watching and gaining valuable insights..
+Fact: The Rad Bee in Bees Rare has/costs A stylish bee with a taste for red flowers. Everyone wants to be this bee..
+Fact: The Rascal Bee in Bees Rare has/costs A mischievous bee who moves quick and hits hard. Keep an eye out on this one..
+Fact: The Stubborn Bee in Bees Rare has/costs A hardheaded bee who can't be bossed around. It tells others where to go..
+Egg and Jelly Probability
+Fact: The Basic Egg in Bees Rare has/costs 10%, 1.11111%.
+Fact: The Silver Egg in Bees Rare has/costs 64.9%, 7.21111%.
+Fact: The Gold Egg in Bees Rare has/costs 0%, 0%.
+Fact: The Diamond Egg in Bees Rare has/costs 0%, 0%.
+Fact: The Mythic Egg in Bees Rare has/costs 0%, 0%.
+Fact: The Royal Jelly in Bees Rare has/costs 70%, 7.77778%.
+Trivia[]
+* A Rare Bee's hive color is white.
+* All colorless Rare Bees except Stubborn Bee have a guard named after them, which are all sold in the Pro Shop.

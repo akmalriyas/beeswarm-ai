@@ -1,0 +1,794 @@
+Context: Bee Swarm Simulator - Candy Ring
+
+Candy Ring
+"Keeps some sugar on hand to satisfy on demand."
+Fact: Candy Ring statistic: +Energy.
+Fact: Candy Ring statistic: +Convert Amount%.
+Fact: Candy Ring statistic: +Ability Rate%.
+Fact: Candy Ring requirement: +Honey At Hive%.
+Fact: Candy Ring requirement: +Honey Per Goo%.
+Fact: Candy Ring requirement: xHoney From Tokens.
+The Candy Ring is a level 14 Beequip. It has an equip limit of one. There is no color requirement. It can only be equipped to Stubborn, Bumble, Honey, Diamond, Festive and Gummy bees.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip does not use the old RNG functions.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades, Range.
+Fact: The Chance in Candy Ring has/costs Value, Weight, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Fact: The Bias scales linearly in Candy Ring has/costs **0.5**, A random value between **+6** -**+8**.
+Intervals of +1
+Fact: The Bias: {2, 1} in Candy Ring has/costs **20**, **+60 - +240**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Candy Ring has/costs **0.5**, **0%**.
+A random value between (+3% - +50%)
+Intervals of +100%
+Fact: The Bias: {2, 1} in Candy Ring has/costs **10**, **+20% - +30%**.
+Fact: Bias: {2, 1} statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Candy Ring has/costs An exact value between **0.1** -**0.2**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Candy Ring has/costs **+1%**, **3**, **+1% - +5%**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Candy Ring has/costs An exact value between **0.01** -**0.1**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Candy Ring has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Candy Ring has/costs **10**, **+2% - +25%**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, An exact value between **0.005** -**0.05**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Candy Ring has/costs **+1%**, **6**, **+1% - +7%**.
+Fact: Scaling power: 1.5 requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, An exact value between **5e-05** -**0.0002**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 1.5 in Candy Ring has/costs **+0.01**, **1**, **x1 - x1.01**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +60
+Fact: The Average value: +65 in Candy Ring has/costs **49.2611%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +6.4377 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +22.48% in Candy Ring has/costs **49.2611%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Candy Ring has/costs **0.9852%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **0.4926%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +60
+Fact: The Average value: +65 in Candy Ring has/costs **44.841%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +6.4377 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +22.48% in Candy Ring has/costs **44.841%**, **0%**, **10**.
+Fact: Average value: +22.48% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Candy Ring has/costs **8.9682%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Candy Ring has/costs **0.8968%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **0.4484%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0045%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +62
+Fact: The Average value: +66 in Candy Ring has/costs **49.0548%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.0632
+Fact: The Average value: +6.4602 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +21%
+Fact: The Average value: +22.99% in Candy Ring has/costs **49.0548%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.18% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.3%
+Fact: The Average value: +2.85% in Candy Ring has/costs **1.2603%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **0.6302%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +62
+Fact: The Average value: +66 in Candy Ring has/costs **44.544%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.0632
+Fact: The Average value: +6.4602 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +21%
+Fact: The Average value: +22.99% in Candy Ring has/costs **44.544%**, **0%**, **10**.
+Fact: Average value: +22.99% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.18% in Candy Ring has/costs **9.1905%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.3%
+Fact: The Average value: +2.85% in Candy Ring has/costs **1.1444%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **0.5722%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0049%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +64
+Fact: The Average value: +67 in Candy Ring has/costs **48.6819%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.1789
+Fact: The Average value: +6.5093 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +22%
+Fact: The Average value: +23.49% in Candy Ring has/costs **48.6819%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.21% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.12% in Candy Ring has/costs **1.7574%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **0.8787%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +64
+Fact: The Average value: +67 in Candy Ring has/costs **44.0109%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.1789
+Fact: The Average value: +6.5093 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +22%
+Fact: The Average value: +23.49% in Candy Ring has/costs **44.0109%**, **0%**, **10**.
+Fact: Average value: +23.49% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.21% in Candy Ring has/costs **9.5895%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.12% in Candy Ring has/costs **1.5888%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **0.7944%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0056%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +66
+Fact: The Average value: +68 in Candy Ring has/costs **48.2075%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.3286
+Fact: The Average value: +6.5967 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +23%
+Fact: The Average value: +24% in Candy Ring has/costs **48.2075%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.3%
+Fact: The Average value: +1.25% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.9%
+Fact: The Average value: +3.21% in Candy Ring has/costs **2.39%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **1.195%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +66
+Fact: The Average value: +68 in Candy Ring has/costs **43.3392%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.3286
+Fact: The Average value: +6.5967 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +23%
+Fact: The Average value: +24% in Candy Ring has/costs **43.3392%**, **0%**, **10**.
+Fact: Average value: +24% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.3%
+Fact: The Average value: +1.25% in Candy Ring has/costs **10.0921%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.9%
+Fact: The Average value: +3.21% in Candy Ring has/costs **2.1486%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **1.0743%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0065%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +68
+Fact: The Average value: +69 in Candy Ring has/costs **47.6575%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.506
+Fact: The Average value: +6.8107 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +24%
+Fact: The Average value: +24.5% in Candy Ring has/costs **47.6575%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.32% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.31% in Candy Ring has/costs **3.1233%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **1.5617%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +68
+Fact: The Average value: +69 in Candy Ring has/costs **42.5699%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.506
+Fact: The Average value: +6.8107 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +24%
+Fact: The Average value: +24.5% in Candy Ring has/costs **42.5699%**, **0%**, **10**.
+Fact: Average value: +24.5% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.32% in Candy Ring has/costs **10.6679%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.31% in Candy Ring has/costs **2.7899%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **1.3949%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0075%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +70
+Fact: The Average value: +70 in Candy Ring has/costs **47.0487%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.7071
+Fact: The Average value: +6.9333 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +25%
+Fact: The Average value: +25% in Candy Ring has/costs **47.0487%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.5%
+Fact: The Average value: +3.5% in Candy Ring has/costs **3.9351%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **1.9676%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +70
+Fact: The Average value: +70 in Candy Ring has/costs **41.7297%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.7071
+Fact: The Average value: +6.9333 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +25%
+Fact: The Average value: +25% in Candy Ring has/costs **41.7297%**, **0%**, **10**.
+Fact: Average value: +25% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Candy Ring has/costs **11.2967%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.5%
+Fact: The Average value: +3.5% in Candy Ring has/costs **3.4903%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **1.7451%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0086%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +72
+Fact: The Average value: +71 in Candy Ring has/costs **46.3933%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.9295
+Fact: The Average value: +6.9863 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +26%
+Fact: The Average value: +25.5% in Candy Ring has/costs **46.3933%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.69% in Candy Ring has/costs **4.809%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **2.4045%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +72
+Fact: The Average value: +71 in Candy Ring has/costs **40.8384%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +6.9295
+Fact: The Average value: +6.9863 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +26%
+Fact: The Average value: +25.5% in Candy Ring has/costs **40.8384%**, **0%**, **10**.
+Fact: Average value: +25.5% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Candy Ring has/costs **11.9637%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.69% in Candy Ring has/costs **4.2332%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **2.1166%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0098%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +74
+Fact: The Average value: +72 in Candy Ring has/costs **45.7012%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +7.1713
+Fact: The Average value: +7.0349 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +27%
+Fact: The Average value: +26% in Candy Ring has/costs **45.7012%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.1%
+Fact: The Average value: +3.79% in Candy Ring has/costs **5.7318%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **2.8659%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +74
+Fact: The Average value: +72 in Candy Ring has/costs **39.9116%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +7.1713
+Fact: The Average value: +7.0349 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +27%
+Fact: The Average value: +26% in Candy Ring has/costs **39.9116%**, **0%**, **10**.
+Fact: Average value: +26% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Candy Ring has/costs **12.6573%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.1%
+Fact: The Average value: +3.79% in Candy Ring has/costs **5.0057%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **2.5028%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.011%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +76
+Fact: The Average value: +73 in Candy Ring has/costs **44.9803%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +7.4311
+Fact: The Average value: +7.1274 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +28%
+Fact: The Average value: +26.51% in Candy Ring has/costs **44.9803%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +3.88% in Candy Ring has/costs **6.693%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **3.3465%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +76
+Fact: The Average value: +73 in Candy Ring has/costs **38.9618%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +7.4311
+Fact: The Average value: +7.1274 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +28%
+Fact: The Average value: +26.51% in Candy Ring has/costs **38.9618%**, **0%**, **10**.
+Fact: Average value: +26.51% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Candy Ring has/costs **13.3681%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +3.88% in Candy Ring has/costs **5.7974%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **2.8987%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0123%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +78
+Fact: The Average value: +74 in Candy Ring has/costs **44.2374%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +7.7076
+Fact: The Average value: +7.4279 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +29%
+Fact: The Average value: +27.01% in Candy Ring has/costs **44.2374%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.7%
+Fact: The Average value: +4.15% in Candy Ring has/costs **7.6834%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **3.8417%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +78
+Fact: The Average value: +74 in Candy Ring has/costs **37.999%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +7.7076
+Fact: The Average value: +7.4279 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +29%
+Fact: The Average value: +27.01% in Candy Ring has/costs **37.999%**, **0%**, **10**.
+Fact: Average value: +27.01% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Candy Ring has/costs **14.0886%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.7%
+Fact: The Average value: +4.15% in Candy Ring has/costs **6.5999%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **3.3%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0135%**, **+0.01**, **1**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +80
+Fact: The Average value: +75 in Candy Ring has/costs **43.4783%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +8
+Fact: The Average value: +7.5623 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +30%
+Fact: The Average value: +27.52% in Candy Ring has/costs **43.4783%**, **0%**, **10**.
+Fact: The +Ability Rate% in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Candy Ring has/costs \-, \-, \-.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Candy Ring has/costs **8.6957%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **4.3478%**, **+1%**, **6**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Candy Ring has/costs Base, Upgrades.
+Fact: The Chance in Candy Ring has/costs Value, Chance, Value, Limit.
+Fact: The +Energy in Candy Ring has/costs **100%**, A random value between **+60** -**+80**.
+Intervals of +0.01
+Biased to values near +80
+Fact: The Average value: +75 in Candy Ring has/costs **37.0316%**, A random value between **+6** -**+8**.
+Intervals of +1
+Biased to values near +8
+Fact: The Average value: +7.5623 in Candy Ring has/costs **20**.
+Fact: The +Convert Amount% in Candy Ring has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +30%
+Fact: The Average value: +27.52% in Candy Ring has/costs **37.0316%**, **0%**, **10**.
+Fact: Average value: +27.52% statistic: +Ability Rate%.
+Fact: The Caustic Points Only in Candy Ring has/costs **100%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Candy Ring has/costs **14.8126%**, **+1%**, **3**.
+Fact: The +Honey At Hive% in Candy Ring has/costs **100%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Candy Ring has/costs **7.4063%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Candy Ring has/costs **10**.
+Fact: The +Honey Per Goo% in Candy Ring has/costs **100%**, **+1%**, **3.7032%**, **+1%**, **6**.
+Fact: +Honey Per Goo% requirement: xHoney From Tokens.
+Fact: The Caustic Points Only in Candy Ring has/costs \-, \-, **0.0148%**, **+0.01**, **1**.
+Probabilities[]
+The tables below give the probability of a stat of Candy Ring falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount%
+* +Ability Rate%
+Fact: The Potential in Candy Ring has/costs Stat ranges, Average.
+Fact: The +60-+64.99 in Candy Ring has/costs +65-+69.99, +70-+74.99, +75-+79.99, +80.
+Fact: The **0 ★** in Candy Ring has/costs 59.623%, 25.017%, 11.929%, 3.431%, 0%, +65.
+Fact: The **0.5 ★** in Candy Ring has/costs 51.832%, 30.585%, 13.727%, 3.856%, 0%, +66.
+Fact: The **1 ★** in Candy Ring has/costs 38.794%, 40.607%, 16.198%, 4.401%, 0%, +67.
+Fact: The **1.5 ★** in Candy Ring has/costs 15.996%, 59.027%, 19.847%, 5.129%, 0%, +68.
+Fact: The **2 ★** in Candy Ring has/costs 10.263%, 57.61%, 25.979%, 6.149%, 1e-05%, +69.
+Fact: The **2.5 ★** in Candy Ring has/costs 7.654%, 42.131%, 42.526%, 7.689%, 1e-05%, +70.
+Fact: The **3 ★** in Candy Ring has/costs 6.122%, 25.916%, 57.65%, 10.312%, 1e-05%, +71.
+Fact: The **3.5 ★** in Candy Ring has/costs 5.106%, 19.807%, 59.0005%, 16.086%, 1e-05%, +72.
+Fact: The **4 ★** in Candy Ring has/costs 4.382%, 16.168%, 40.517%, 38.932%, 2e-05%, +73.
+Fact: The **4.5 ★** in Candy Ring has/costs 3.839%, 13.703%, 30.536%, 51.921%, 3e-05%, +74.
+Fact: The **5 ★** in Candy Ring has/costs 3.417%, 11.909%, 24.983%, 59.46%, 0.232%, +75.
+Fact: The Potential in Candy Ring has/costs Stat ranges, Average.
+Fact: The +20%-+21% in Candy Ring has/costs +22%-+23%, +24%-+25%, +26%-+27%, +28%-+29%, +30%.
+Fact: The **0 ★** in Candy Ring has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +22.5%.
+Fact: The **0.5 ★** in Candy Ring has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +23%.
+Fact: The **1 ★** in Candy Ring has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +23.5%.
+Fact: The **1.5 ★** in Candy Ring has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +24%.
+Fact: The **2 ★** in Candy Ring has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +24.5%.
+Fact: The **2.5 ★** in Candy Ring has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +25%.
+Fact: The **3 ★** in Candy Ring has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +25.5%.
+Fact: The **3.5 ★** in Candy Ring has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +26%.
+Fact: The **4 ★** in Candy Ring has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +26.5%.
+Fact: The **4.5 ★** in Candy Ring has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +27%.
+Fact: The **5 ★** in Candy Ring has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +27.5%.
+Fact: The Potential in Candy Ring has/costs Stat ranges, Average.
+Fact: The +1% in Candy Ring has/costs +2%.
+Fact: The **0 ★** in Candy Ring has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Candy Ring has/costs 82.437%, 17.563%, +1.2%.
+Fact: The **1 ★** in Candy Ring has/costs 79.425%, 20.575%, +1.2%.
+Fact: The **1.5 ★** in Candy Ring has/costs 75.055%, 24.945%, +1.2%.
+Fact: The **2 ★** in Candy Ring has/costs 67.918%, 32.082%, +1.3%.
+Fact: The **2.5 ★** in Candy Ring has/costs 50%, 50%, +1.5%.
+Fact: The **3 ★** in Candy Ring has/costs 32.082%, 67.918%, +1.7%.
+Fact: The **3.5 ★** in Candy Ring has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Candy Ring has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Candy Ring has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Candy Ring has/costs 15.343%, 84.657%, +1.8%.
+Fact: **5 ★** requirement: * +Honey At Hive%.
+Fact: The Potential in Candy Ring has/costs Stat ranges, Average.
+Fact: The +2% in Candy Ring has/costs +3%, +4%, +5%.
+Fact: The **0 ★** in Candy Ring has/costs 46.529%, 38.128%, 13.869%, 1.473%, +2.7%.
+Fact: The **0.5 ★** in Candy Ring has/costs 34.018%, 48.419%, 15.914%, 1.648%, +2.9%.
+Fact: The **1 ★** in Candy Ring has/costs 10.694%, 68.731%, 18.704%, 1.871%, +3.1%.
+Fact: The **1.5 ★** in Candy Ring has/costs 5.854%, 69.201%, 22.781%, 2.164%, +3.2%.
+Fact: The **2 ★** in Candy Ring has/costs 4.09%, 63.828%, 29.517%, 2.565%, +3.3%.
+Fact: The **2.5 ★** in Candy Ring has/costs 3.151%, 46.849%, 46.849%, 3.151%, +3.5%.
+Fact: The **3 ★** in Candy Ring has/costs 2.565%, 29.517%, 63.828%, 4.09%, +3.7%.
+Fact: The **3.5 ★** in Candy Ring has/costs 2.164%, 22.781%, 69.201%, 5.854%, +3.8%.
+Fact: The **4 ★** in Candy Ring has/costs 1.871%, 18.704%, 68.731%, 10.694%, +3.9%.
+Fact: The **4.5 ★** in Candy Ring has/costs 1.648%, 15.914%, 48.419%, 34.018%, +4.1%.
+Fact: The **5 ★** in Candy Ring has/costs 1.473%, 13.869%, 38.128%, 46.529%, +4.3%.
+* Bee Stats
+* Hive Bonuses
+Fact: The Potential in Candy Ring has/costs Stat ranges, Average.
+Fact: The +6 in Candy Ring has/costs +7, +8.
+Fact: The **0 ★** in Candy Ring has/costs 59.657%, 36.919%, 3.424%, +6.438.
+Fact: The **0.5 ★** in Candy Ring has/costs 57.525%, 38.928%, 3.547%, +6.46.
+Fact: The **1 ★** in Candy Ring has/costs 52.863%, 43.339%, 3.798%, +6.509.
+Fact: The **1.5 ★** in Candy Ring has/costs 44.515%, 51.304%, 4.181%, +6.597.
+Fact: The **2 ★** in Candy Ring has/costs 23.676%, 71.576%, 4.748%, +6.811.
+Fact: The **2.5 ★** in Candy Ring has/costs 12.284%, 82.1%, 5.616%, +6.933.
+Fact: The **3 ★** in Candy Ring has/costs 8.421%, 84.532%, 7.047%, +6.986.
+Fact: The **3.5 ★** in Candy Ring has/costs 6.316%, 83.881%, 9.803%, +7.035.
+Fact: The **4 ★** in Candy Ring has/costs 4.989%, 77.284%, 17.726%, +7.127.
+Fact: The **4.5 ★** in Candy Ring has/costs 4.081%, 49.044%, 46.875%, +7.428.
+Fact: The **5 ★** in Candy Ring has/costs 3.424%, 36.919%, 59.657%, +7.562.
+Fact: **5 ★** requirement: * +Honey At Hive%.
+Fact: The Potential in Candy Ring has/costs Stat ranges, Average.
+Fact: The +1% in Candy Ring has/costs +2%.
+Fact: The **0 ★** in Candy Ring has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Candy Ring has/costs 84.462%, 15.538%, +1.2%.
+Fact: The **1 ★** in Candy Ring has/costs 83.843%, 16.157%, +1.2%.
+Fact: The **1.5 ★** in Candy Ring has/costs 82.689%, 17.311%, +1.2%.
+Fact: The **2 ★** in Candy Ring has/costs 80.752%, 19.248%, +1.2%.
+Fact: The **2.5 ★** in Candy Ring has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Candy Ring has/costs 71.278%, 28.722%, +1.3%.
+Fact: The **3.5 ★** in Candy Ring has/costs 53.932%, 46.068%, +1.5%.
+Fact: The **4 ★** in Candy Ring has/costs 28.722%, 71.278%, +1.7%.
+Fact: The **4.5 ★** in Candy Ring has/costs 20.226%, 79.774%, +1.8%.
+Fact: The **5 ★** in Candy Ring has/costs 15.343%, 84.657%, +1.8%.
+Ways to Obtain[]
+* Can be purchased from Dapper Bear's Beequip Shop.
+* As a reward from the Ant Challenge.
+* As a reward from the Robo Bear Challenge.
+* As a drop from Hydroponic Planter in the Stump Field, Blue Flower Field, Sunflower Field, and the Pine Tree Forest.
+* As a drop from Petal Planter.
+Outdated Methods[]
+* As a reward from completing Gummy Bear's Beesmas Summer or Winter 2024 quests.
+Fact: The Sub-Inventories in Candy Ring has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Candy Ring has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Candy Ring has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Candy Ring has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Candy Ring has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Candy Ring has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Candy Ring has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Candy Ring has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Candy Ring has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Candy Ring has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Candy Ring has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Candy Ring has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Candy Ring has/costs **7-Pronged Cog**.
+Fact: The Other in Candy Ring has/costs **Marshmallow Bee**.
+Fact: The Currencies in Candy Ring has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Candy Ring has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Candy Ring has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Candy Ring has/costs **Parachute •  Glider**.
+Fact: The Bags in Candy Ring has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Candy Ring has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Candy Ring has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Candy Ring has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Candy Ring has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Candy Ring has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Candy Ring has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  **Candy Ring****.
+Fact: The Beesmas in Candy Ring has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Candy Ring has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Candy Ring has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

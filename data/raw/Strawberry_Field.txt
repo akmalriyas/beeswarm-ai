@@ -1,0 +1,63 @@
+Context: Bee Swarm Simulator - Strawberry Field
+
+Strawberry Field
+Strawberry Field
+FIELD COLOR
+BEE PREREQUISITES
+NECTAR TYPE
+Refreshing Nectar
+FIELD DIMENSIONS
+22 × 26 flowers
+FLOWER COUNT
+BEE PREFERENCES
+The Strawberry Field is a field located past the Basic Bee Gate, to the left of the Spider Field, and beside the Vicious Bee Egg Claim. This field is protected by 2 ladybugs; one of which is level 2 and the other level 3.
+This field can spawn honey, Strawberry, Red Boost, Red Extract, Bitterberry, Ticket and Royal Jelly tokens while collecting pollen.
+Bees that like the Strawberry Field are Fire Bee, Riley Bee, and Shy Bee. Bees that dislike the Strawberry Field are Cool Bee, Bubble Bee, Bucko Bee, and Windy Bee.
+This field grants Refreshing Nectar when a planter is placed here.
+It is a 22x26 field, containing 572 flowers. The flowers are red and white, in sizes of single, double, and triple.
+Fact: The Flowers in Strawberry Field has/costs White, Red, Blue, Total.
+Fact: The Single in Strawberry Field has/costs 29, 5%, 86, 15%, 0, 0%, **114**, **20%**.
+Fact: The Double in Strawberry Field has/costs 107, 18.75%, 322, 56.25%, 0, 0%, **429**, **75%**.
+Fact: The Triple in Strawberry Field has/costs 7, 1.25%, 21, 3.75%, 0, 0%, **29**, **5%**.
+Fact: The Total in Strawberry Field has/costs **143**, **25%**, **429**, **75%**, **0**, **0%**, **572**, **100%**.
+_Note:_ flower counts within the table may vary due to rounding. Additionally, in game, all flowers are randomly generated and may not precisely align with the percentages.
+Obtaining Boosts[]
+Fact: Obtaining Boosts[] requirement: * Using the Red Field Booster may give a Strawberry Field Boost. When it does, it will give +100% Strawberry Field pollen for 15 minutes..
+The Strawberry Field boost icon.
+* Using glitter in the Strawberry Field will add 100% Strawberry Field pollen onto the current boost for 15 minutes if the boost isn't already maxed out.
+* Using field dice, smooth dice, or loaded dice may add 100% - 300% Strawberry Field pollen for 15 minutes if the current boost isn't already maxed out and also what type of dice is used.
+Fact: Obtaining Boosts[] requirement: * Strawberry Field Winds can be obtained through the Wind Shrine or codes. They have a base of +20% instant Strawberry Field conversion, and give +5% instant Strawberry Field conversion and +15% Strawberry Field pollen for each stack. Strawberry Field Winds can stack up to a total of 15 times..
+Fact: Obtaining Boosts[] requirement: * The field can be boosted by the King Beetle Amulet. If it has a Strawberry Field Boost, it can boost the field by +1% up to a max of +100% pollen..
+The methods below are no longer possible.[]
+* Giving a present to certain NPCs:
+* Gifted Riley Bee gave Strawberry Field Boost x3 and other boosts and items.
+* Onett gave Strawberry Field Boost x1 and other boosts and items.
+Fact: Obtaining Boosts[] statistic: * Purchasing a Strawberry Field Market Boost from the Boost Market will give x1.5 Strawberry Field Capacity, x1.25 Strawberry Field Pollen, x1.25 Red Bomb Pollen, and x1.25 Convert Rate At Hive..
+* Redeeming certain expired codes:
+Fact: Obtaining Boosts[] requirement: * Friday (Gave Strawberry Field Boost x5 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * SugarRush (Gave Strawberry Field Boost x3 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * FruitMachine (Gave Strawberry Field Boost x1 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * Berlin (Gave Strawberry Field Boost x4 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * 1mFavorites (Gave Strawberry Field Boost x1 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * WikiHonor (Gave Strawberry Field Boost x3 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * JollyJelly (Gave Strawberry Field Boost x3 and Strawberry Field Winds x3 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * FestiveFinale (Gave Strawberry Field Boost x3 and Strawberry Field Winds x2 + other stuff).
+Fact: Obtaining Boosts[] requirement: * WeekExtension (Gives Strawberry Field Boost x3 + Strawberry Field Winds x10 + other stuff).
+Fact: Obtaining Boosts[] requirement: * 1MLikes (Gives Strawberry Field Boost x1 + other stuff)..
+Gallery[]
+The Strawberry Field's associated field stamp.
+Trivia[]
+* This is the third smallest field in the game, outranked by the Stump Field and Pumpkin Patch.
+* There is a strawberry token behind the biggest strawberry in the top left of the field.
+* This is one of six fields that fireflies can travel to during nighttime, with the others being Bamboo Field, Cactus Field, Pineapple Patch, Rose Field, and Spider Field.
+* Mother Bear states that finding strawberry tokens are much more common in this field than in any other field.
+* According to Spirit Bear, the Strawberry in the field were planted from seeds imported from Sweden. She also states that sprouts in this field spawn the most strawberry tokens, 8 times more than normal sprouts.
+* If you run towards the strawberry on the corner fast enough, you may glitch inside of the strawberry. If this happens you will have to reset your character, rejoin the game, or use a Whirligig.
+Fact: The Fields in Strawberry Field has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • **Strawberry Field** • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Strawberry Field has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Strawberry Field has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Strawberry Field has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Strawberry Field has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Strawberry Field has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Strawberry Field has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Strawberry Field has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

@@ -1,0 +1,66 @@
+Context: Bee Swarm Simulator - Zombie
+
+Location
+Retro Swarm Challenge
+Respawns Every
+Fact: The Health in Zombie has/costs Damage.
+Fact: The 80 base; Increases by level in Zombie has/costs ?.
+Fact: The Battle Points in Zombie has/costs Bond.
+Fact: The None in Zombie has/costs None.
+Fact: The Honey in Zombie has/costs Level.
+Fact: The None in Zombie has/costs 1-30 (Varies by round).
+The Zombie is one of the mobs exclusive in the Retro Swarm Challenge.
+Behavior[]
+Zombies go in one direction towards the hives. Unlike the Slime, Zombies prioritize chasing the first nearby player to get into its aggression zone and will keep chasing the player until it dies or if the player it is pursuing is out of range.
+Health per Level[]
+Fact: The Level in Zombie has/costs Health.
+Fact: The 1 in Zombie has/costs 50.
+Fact: The 2 in Zombie has/costs 150.
+Fact: The 3 in Zombie has/costs 200.
+Fact: The 4 in Zombie has/costs 250.
+Fact: The 5 in Zombie has/costs 300.
+Fact: The 6 in Zombie has/costs 350.
+Fact: The 7 in Zombie has/costs 400.
+Fact: The 8 in Zombie has/costs 500.
+Fact: The 9 in Zombie has/costs 600.
+Fact: The 10 in Zombie has/costs 700.
+Fact: The 11 in Zombie has/costs 900.
+Fact: The 12 in Zombie has/costs 1,000.
+Fact: The 13 in Zombie has/costs 1,100.
+Fact: The 14 in Zombie has/costs 1,300.
+Fact: The 15 in Zombie has/costs 1,500.
+Fact: The 16 in Zombie has/costs 1,800.
+Fact: The 17 in Zombie has/costs 2,500.
+Fact: The 18 in Zombie has/costs 3,000.
+Fact: The 19 in Zombie has/costs 5,000.
+Fact: The 20 in Zombie has/costs 7,000.
+Fact: The 21 in Zombie has/costs 9,000.
+Fact: The 22 in Zombie has/costs 11,000.
+Fact: The 23 in Zombie has/costs 12,000.
+Fact: The 24 in Zombie has/costs 14,000.
+Fact: The 25 in Zombie has/costs 15,000.
+Fact: The 26 in Zombie has/costs 16,500.
+Fact: The 27 in Zombie has/costs 17,000.
+Fact: The 28 in Zombie has/costs 18,000.
+Fact: The 29 in Zombie has/costs 20,000.
+Fact: The 30 in Zombie has/costs 25,000.
+Zombies are essentially just Slimes but much easier to deal with. They can be easily led off track and effectively stopped for good if the round consists purely of Zombies. Much of the same tips for Zombies also apply for Slimes.
+* The most important and useful tip is to realize how Zombies function. They move in a straight line but can be distracted by players if they approach close enough. This massively reduces the threat and power of Zombies.
+* Zombies almost always spawn in hordes. It is advised to use crowd-controlling bees like Digital Bee and Vicious Bee, as Mind Hack and Impale can help out massively, especially in the later rounds where Zombies start increasing in level and health drastically.
+* Remember that Zombies can damage you simply by coming into contact with you. If you are not careful and become too reckless, you can die somewhat easily to hordes.
+* However, you should note that unlike Slimes, Zombies don't increase in size the higher level they are, meaning that dying to them is much less likely.
+* Try upgrading from the normal sword to the Firebrand as soon as possible. There is an massive damage boost that comes with this, and you'll be able to kill low to mid-level Zombies with ease before they even get a chance to sufficiently damage you. The Illumina is an even bigger help, but it may start becoming irrelevant by the time you reach round 20 or 21.
+* Swords as a whole start becoming futile by round 20/21 as the Zombies increase in health and spawn in larger numbers. By this point, it is advised that you buy bees that are preferably at the level that the Zombies are, which is most likely too much to handle for early and midgame players.
+* You can use the Trowel to temporarily block Zombies from approaching the hives, but this isn't very useful unless you're also dealing with Slimes (this allows you to prioritize Slimes, which cannot be steered toward the player, unlike Zombies).
+* Star Saw can easily target hordes of Zombies.
+Fact: The Normal in Zombie has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Zombie has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Zombie has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Zombie has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Zombie has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Zombie has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Zombie has/costs **Slime • **Zombie** • Brick Bloom**.
+Fact: The Robo Bear Challenge in Zombie has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Zombie has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Zombie has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Zombie has/costs **Chick • Hostage Chick • Spotted Chick**.

@@ -1,0 +1,145 @@
+Context: Bee Swarm Simulator - Swirled Wax
+
+Swirled Wax
+Swirled Wax
+_"A spiraled hunk of beeswax. Used to redetermine the stats of a Bee's Beequip."_
+Swirled Wax is an inventory item and a type of wax that can be used on a beequip to reroll its stats. Beequips with higher potential have a greater chance of having better stats when rerolled. Swirled wax has Upgrade Value of 0.
+When used on a beequip, it will change its stats. If the Beequip has waxes used on it, it will alter the enhancements as well.
+When a swirled wax is applied to a beequip, a message pops up saying:
+The Wax altered the Beequip's stats
+Sometimes, the stats won't show any changes when you use a swirled wax. Most of the time, the bug can be fixed by rejoining the game.
+Ways to Obtain[]
+* Crafting it via the Blender for:
+* 3 Hard Waxes
+* 9 Soft Waxes
+* 6 Purple Potions
+* 3,333 Royal Jellies
+* As a stack reward for adding certain stickers to the Sticker Stack:
+* Auryn rewards 1 swirled wax.
+* Pearl Girl rewards 1 swirled wax.
+* As a reward from the Winter Memory Match.
+* Opening Crafty Gift Box (11th) gives 5 Swirled Waxes alongside other rewards.
+* Purchasing "Frozen Forest Pack" and "Snow Queen Bundle" bundles in Bee Bear's Catalog gives 5 Swirled Waxes amongst other rewards.
+* Purchasing "Purple-Turple Mega Pack" bundle in Bee Bear's Catalog gives 10 Swirled Waxes and other rewards.
+* Giving a Present to Honey Bee "Honey Bee \(NPC\)") rewards 3 Swirled Waxes alongside other items.
+* Purchasing "Merry Mythic Mondo-Haul" bundle in Shop rewards 25 Swirled Waxes with other rewards
+Drops[]
+* As a reward from Gifted Riley Bee's Honeyday Candles. (1.62%)
+* As a drop from a level 13 Snowbear.
+* As a rare drop from a Epic Puffshroom. An uncommon drop from a Legendary Puffshroom, and a common drop from a Mythic Puffshroom.
+* As a very rare drop from Diamond Aphids.
+* As a drop from certain planters.
+* Planting a Plastic Planter in the Coconut Field guarantees one every month.
+* Planting a Candy Planter in the Cactus Field guarantees one every month.
+* Planting a Blue Clay Planter in the Spider Field guarantees one every month.
+* Planting a Red Clay Planter in any field has a rare chance of dropping one. However, planting it in any blue field has a higher chance of dropping one swirled wax, and planting it in the Sunflower Field guarantees one every month also planting it in the Pine Tree Forest guarantees one every week.
+* Planting a Tacky Planter in the Pumpkin Patch guarantees one every month.
+* Planting a Pesticide Planter in the Strawberry Field guarantees one every month.
+* Planting a Heat-Treated Planter in the Blue Flower Field guarantees one every month.
+* Planting a Hydroponic Planter in the Mushroom Field guarantees one every month.
+* Planting a Petal Planter in the Strawberry Field guarantees one every month.
+* The Planter Of Plenty has a high chance of dropping one swirled wax in any field.
+* The Planter Of Plenty may drop 5 swirled waxes with one every month.
+Quests[]
+* Gifted Riley Bee rewards 5 Swirled Waxes and other items upon completing "Riley Bee's Honeyday Candles".
+* Stick Bug rewards 5 Swirled Waxes and other items upon completing "Stick Bug's Nymph Hats".
+* Dapper Bear gives Swirled Waxes upon completion of the following quests:
+* Dapper Bear's "Means of Mutation" (#5) rewards 1 swirled wax and other items.
+* Dapper Bear's "The Long Haul" (#10) rewards 1 swirled wax and other items.
+* Dapper Bear's "The Trick To Tickets" (#11) rewards 1 swirled wax and other items.
+* Dapper Bear's "Solitarily Steadfast" (#14) rewards 1 swirled wax and other items.
+* Dapper Bear's "More Than Myth" (#15) rewards 1 swirled wax and other items.
+* Dapper Bear's "Sticker Style" (#16) rewards 1 swirled wax and other items.
+* Dapper Bear's "Barter For The Blue Drive" rewards 1 swirled wax and other items.
+* Dapper Bear's "Dapper Bear's Samovar" rewards 1 swirled wax and other items.
+Outdated Ways[]
+* During the Beesmas 2020 event, Riley Bee's Honeyday Candles always gave 1 swirled wax whenever using it.
+* During the Beesmas 2021 and 2022 events, using Riley Bee's Honeyday Candles had a 1.63% chance to give 3 swirled wax.
+* Giving presents to certain NPCs:
+* Gifted Riley Bee gave 1 swirled wax and other stuff during Beesmas 2020 and 2021.
+* Completing Bee Bear's "Snow Cub Reformation (3/5)" 2021 Beesmas quest rewarded the player with 1 swirled wax and other items.
+* Completing Dapper Bear's 2021 Beesmas quest rewarded the player 1 swirled wax and other items.
+* Opening the Jubilant and Mythic Gift Box gave 2 swirled waxes and other items.
+* Buying the Festive Frenzy Haul in the Robux Shop gave 25 swirled waxes.
+* Bee Bear's "Red and Blue Beesmas" in Beesmas 2022 gave 1 swirled wax and other items.
+* Stick Bug's Beesmas quest 2022 gave 3 swirled waxes and other items.
+* Spirit Bear's Beesmas quest 2022 gave 3 swirled waxes and other items.
+Fact: Outdated Ways[] requirement: * Purchasing the Candlelight Bundle in Bee Bear's Catalog 2022 gave 10 swirled waxes + other items..
+Fact: Outdated Ways[] requirement: * Purchasing the Mondo Robo Bundle for 4,500 Robux gave 25 swirled waxes + other items..
+* Purchasing the Royal Winter Wonder Haul Pack for 4,500 Robux gives 25 swirled wax.
+* Purchasing certain bundles in Bee Bear's Catalog:
+* 1 swirled wax is included in the Candlewax Bundle (Beesmas Winter 2024).
+* 10 swirled wax was included in the Musical Mega-Bundle (Beesmas Winter 2024).
+* 10 swirled wax was included in the Triumphant Turp Pack (Beesmas Winter 2024).
+Fact: Outdated Ways[] requirement: * Purchasing the Candlelight Bundle gave 10 swirled waxes + other items (Beesmas 2022)..
+* Mother Bear's "Waiting With Sun Bear (5/6): And Mother Bear. Again" gave 1 swirled wax and other items.
+Crafting Uses[]
+Total required for all single-purchase items: 250 Swirled Waxes
+Fact: The **Swirled Waxes** in Swirled Wax has/costs Other ingredients, Result.
+Fact: The 25 in Swirled Wax has/costs 150 Gifted Riley Bee quests completed 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 750 Red Extracts.
+Fact: 75 Magic Beans requirement: 150 Hard Waxes.
+Fact: The 1 Turpentine in Swirled Wax has/costs Heat-Treated Planter.
+Fact: The 50 in Swirled Wax has/costs 5T Honey.
+100 Magic Beans
+Fact: 100 Magic Beans requirement: 100 Glitter.
+Fact: 100 Magic Beans requirement: 250 Soft Waxes.
+Fact: The 25 Super Smoothies in Swirled Wax has/costs Petal Planter.
+Fact: The 75 in Swirled Wax has/costs 250 Gifted Bucko Bee quests completed.
+Fact: 75 requirement: 2.5T Honey.
+Fact: 75 requirement: 1,500 Blue Extracts.
+Fact: 75 requirement: 150 Stingers.
+150 Tropical Drinks
+Fact: 150 Tropical Drinks requirement: 50 Super Smoothies.
+Fact: The 3 Comforting Vials in Swirled Wax has/costs Tide Popper.
+Fact: The 100 in Swirled Wax has/costs 100T Honey.
+500 Magic Beans
+Fact: 500 Magic Beans requirement: 100 Super Smoothies.
+Fact: 500 Magic Beans requirement: 100 Caustic Waxes.
+The Planter Of Plenty
+Trivia[]
+* This is the first wax to be added to the game. It was added in Beesmas 2020 while the rest were added in Beesmas 2021.
+* This wax, Soft Wax and Debug Wax are the only waxes guaranteed to change a Beequip's stats.
+* Before the 2021-12-26 update, this item had no favor when donated to the Wind Shrine.
+* Swirled wax used to have a limit of 5, but the limit was removed in the 2021-12-26 update.
+* Before the 2021-12-26 update, swirled wax did not have a wick in its icon design.
+* This is the only wax that was not included in the Waxy Bundle.
+* Swirled wax's raw ingredients cost:
+* 90 Honeysuckles
+* 900 Sunflower Seeds
+* 4,050 Pineapples
+* 3,600 Strawberries
+* 3,600 Blueberries
+* 99 Bitterberries
+* 18 Neonberries
+* 4,602 Royal Jellies or 4.60B Honey
+Fact: The Sub-Inventories in Swirled Wax has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Swirled Wax has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Swirled Wax has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Swirled Wax has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Swirled Wax has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Swirled Wax has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Swirled Wax has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Swirled Wax has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Swirled Wax has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  **Swirled Wax****.
+Fact: The or Event in Swirled Wax has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Swirled Wax has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Swirled Wax has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Swirled Wax has/costs **7-Pronged Cog**.
+Fact: The Other in Swirled Wax has/costs **Marshmallow Bee**.
+Fact: The Currencies in Swirled Wax has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Swirled Wax has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Swirled Wax has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Swirled Wax has/costs **Parachute •  Glider**.
+Fact: The Bags in Swirled Wax has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Swirled Wax has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Swirled Wax has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Swirled Wax has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Swirled Wax has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Swirled Wax has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Swirled Wax has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Swirled Wax has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Swirled Wax has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Swirled Wax has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

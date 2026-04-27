@@ -1,0 +1,470 @@
+# Bee Bear/2020
+
+![Hivesticker eviction](https://static.wikia.nocookie.net/bee-swarm-simulator/images/e/e3/Hivesticker_eviction.png/revision/latest/scale-to-width-down/100?cb=20240120131955) | **This piece of content goes bye bye.** The following content has been removed from the game. The contents below may be archival, but feel free to edit below.  
+---|---  
+  
+## Festive Bee And Festive Wreath Quests (25)[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBee_Bear%2F2020%3Fveaction%3Dedit%26section%3D1&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+### Quests[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBee_Bear%2F2020%3Fveaction%3Dedit%26section%3D2&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+Quest name  | Requirements  | Rewards   
+---|---|---  
+First Questline   
+Beesmas Beequips  | 
+
+  * Collect 1,000 White [Pollen](/wiki/Pollen "Pollen").
+  * Collect 1,000 Red [Pollen](/wiki/Pollen "Pollen").
+  * Collect 5 [Snowflake](/wiki/Snowflake "Snowflake") Tokens.
+
+| ![Honey](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c6/Honey.png/revision/latest/scale-to-width-down/25?cb=20230410071605)2,500 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](https://static.wikia.nocookie.net/bee-swarm-simulator/images/a/ae/Gingerbread_Bear.png/revision/latest/scale-to-width-down/25?cb=20230404041818)1 [Gingerbread Bear](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Elf Cap](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Elf Cap](/wiki/Elf_Cap "Elf Cap")  
+![Beequip Case](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Beequip Case](/wiki/Beequip "Beequip")  
+Bee Bear's Catalog  | 
+
+  * Collect 5,000 White Pollen.
+  * Collect 5,000 Pollen from the [Clover Field](/wiki/Clover_Field "Clover Field").
+  * Admire Black Bear's [Honey Wreath](/wiki/Honey_Wreath "Honey Wreath") 2 times.
+  * Equip 1 [Beequips](/wiki/Beequip "Beequip") to [Bees](/wiki/Bees "Bees") in your [Hive](/wiki/Hive "Hive").
+  * Purchase 1 Item from [Bee Bear's Catalog](/wiki/Bee_Bear%27s_Catalog "Bee Bear's Catalog").
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)15,000 [Honey](/wiki/Honey "Honey")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Gingerbread Bear](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+Beesmas Unboxing Begins  | 
+
+  * Collect 1,000 Blue [Pollen](/wiki/Pollen "Pollen").
+  * Collect 10 Snowflake Tokens.
+  * Defeat 3 [Spiders](/wiki/Spider "Spider").
+  * Deliver a Present.
+  * Open 1 [Gift Box](/wiki/Gift_Boxes "Gift Boxes") around the map.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)30,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Gingerbread Bear](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Jelly Beans](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Jelly Beans](/wiki/Jelly_Beans "Jelly Beans")  
+![Micro-Converter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Micro-Converters](/wiki/Micro-Converter "Micro-Converter")  
+Search In The Stockings  | 
+
+  * Collect 50,000 Pollen.
+  * Collect 30,000 Pollen from the [Bamboo Field](/wiki/Bamboo_Field "Bamboo Field").
+  * Collect 30,000 Pollen from the [Strawberry Field](/wiki/Strawberry_Field "Strawberry Field").
+  * Collect 8 Tokens from Brown Bear's [Stockings](/wiki/Stockings "Stockings").
+  * Equip 3 Beequips to Bees in your Hive.
+  * Open 2 Gift Boxes around the map.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)75,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Gingerbread Bear](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Gumdrops](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)25 [Gumdrops](/wiki/Gumdrops "Gumdrops")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+Subdue The Snowbear  | 
+
+  * Collect 120,000 Pollen.
+  * Collect 40,000 Pollen from the [Sunflower Field](/wiki/Sunflower_Field "Sunflower Field").
+  * Collect 40,000 Pollen from the [Dandelion Field](/wiki/Dandelion_Field "Dandelion Field").
+  * Feed 25 [Sunflower Seeds](/wiki/Sunflower_Seed "Sunflower Seed") to your Bees.
+  * Check Mother Bear's [Gingerbread House](/wiki/Gingerbread_House "Gingerbread House") 2 times.
+  * Purchase 2 Items from Bee Bear's Catalog.
+  * Open 3 Gift Boxes around the map.
+  * Summon and Defeat a Level 5 [Snowbear](/wiki/Snow_Bear "Snow Bear").
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)200,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Gingerbread Bear](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Beequip Case](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Beequip Case](/wiki/Beequip "Beequip") Slots   
+Snowflake Feast  | 
+
+  * Collect 250,000 Pollen from the [Pineapple Patch](/wiki/Pineapple_Patch "Pineapple Patch").
+  * Feed 25 [Pineapples](/wiki/Pineapple "Pineapple") to your Bees.
+  * Feed 25 [Strawberries](/wiki/Strawberry "Strawberry") to your Bees.
+  * Feed 25 [Blueberries](/wiki/Blueberry "Blueberry") to your Bees.
+  * Match 3 Pairs in [Memory Match](/wiki/Memory_Match "Memory Match") Games.
+  * Collect 100 Snowflake Tokens.
+  * Equip 4 Beequips to Bees in your Hive.
+  * Deliver 3 Presents.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)500,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)2 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Jelly Beans](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Jelly Beans](/wiki/Jelly_Beans "Jelly Beans")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+Naughty Knock-Out  | 
+
+  * Collect 500,000 Red [Pollen](/wiki/Pollen "Pollen").
+  * Collect 200,000 Pollen from the [Cactus Field](/wiki/Cactus_Field "Cactus Field").
+  * Collect 250 Battle Tokens.
+  * Collect 50 Tokens from Snowbears.
+  * Defeat 5 Spiders.
+  * Defeat 3 [Vicious Bees](/wiki/Rogue_Vicious_Bee "Rogue Vicious Bee").
+  * Open 4 Gift Boxes around the map.
+  * Catch 10 of Science Bear's Falling [Beesmas Lights](/wiki/Beesmas_Lights "Beesmas Lights").
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)750,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)2 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Stinger](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Stingers](/wiki/Stinger "Stinger")  
+![Oil](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Oil](/wiki/Oil "Oil")  
+Beesmas Bundles And Bean Bugs  | 
+
+  * Collect 750,000 White Pollen.
+  * Collect 250,000 Pollen from the [Pumpkin Patch](/wiki/Pumpkin_Patch "Pumpkin Patch").
+  * Collect 250,000 Pollen from the [Mushroom Field](/wiki/Mushroom_Field "Mushroom Field").
+  * Collect 10 Tokens from [Bean Bugs](/wiki/Bean_Bug "Bean Bug").
+  * Collect 1,000 [Honey Tokens](/wiki/Ability_Tokens "Ability Tokens").
+  * Admire Black Bear's Honey Wreath 4 times.
+  * Purchase 3 Items from [Bee Bear's Catalog](/wiki/Bee_Bear%27s_Catalog "Bee Bear's Catalog").
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1,200,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)2 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Stinger](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Stingers](/wiki/Stinger "Stinger")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+Presents to Polar Bear  | 
+
+  * Collect 2,000,000 Pollen.
+  * Use 3 Micro-Converters.
+  * Use 3 [Field Dice](/wiki/Field_Dice "Field Dice").
+  * Catch 50 of Science Bear's Falling Beesmas Lights
+  * Collect 15 Tokens from Brown Bear's Stockings.
+  * Collect 100 Tokens from [Sprouts](/wiki/Sprout "Sprout").
+  * Collect 200 Snowflake Tokens.
+  * Complete 3 [Polar Bear](/wiki/Polar_Bear "Polar Bear") quests.
+  * Equip 6 Beequips to your hive.
+  * Deliver 4 Presents.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)2,500,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)2 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Magic Bean](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Magic Bean](/wiki/Magic_Bean "Magic Bean")  
+![Enzymes](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Enzymes](/wiki/Enzymes "Enzymes")  
+Festive Feast With the Whole Family  | 
+
+  * Collect 2,500,000 White Pollen.
+  * Collect 2,500,000 Red [Pollen](/wiki/Pollen "Pollen").
+  * Feed 1 [Neonberry](/wiki/Neonberry "Neonberry") to your Bees.
+  * Share 10 Jelly Bean Tokens.
+  * Collect 25 [Moon Charm](/wiki/Moon_Charm "Moon Charm") Tokens.
+  * Defeat 3 [Werewolves](/wiki/Werewolf "Werewolf").
+  * Dig in to Polar Bear's [Beesmas Feast](/wiki/Beesmas_Feast "Beesmas Feast") 3 times.
+  * Purchase 4 Items from Bee Bear's Catalog.
+  * Deliver 5 Presents.
+  * Summon and Defeat a Level 6 Snowbear.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)7,500,000 [Honey](/wiki/Honey "Honey")  
+![Peppermint Antennas](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Peppermint Antennas](/wiki/Peppermint_Antennas "Peppermint Antennas")  
+![Beequip Case](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Beequip Case](/wiki/Beequip "Beequip") Slots   
+Holly Jolly Tokens  | 
+
+  * Collect 4,000,000 Pollen from the [Pine Tree Forest](/wiki/Pine_Tree_Forest "Pine Tree Forest").
+  * Collect 4,000,000 Pollen from the [Rose Field](/wiki/Rose_Field "Rose Field").
+  * Collect 4,000,000 Pollen from the [Clover Field](/wiki/Clover_Field "Clover Field").
+  * Collect 400 [Haste](/wiki/Ability_Tokens#Haste "Ability Tokens") Tokens.
+  * Collect 400 [Focus](/wiki/Ability_Tokens#Focus "Ability Tokens") Tokens.
+  * Collect 400 Snowflake Tokens.
+  * Check Mother Bear's Gingerbread House 3 times.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)15,000,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Magic Bean](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Magic Bean](/wiki/Magic_Bean "Magic Bean")  
+![Micro-Converter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Micro-Converters](/wiki/Micro-Converter "Micro-Converter")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+Walking in a Windy Wonderland  | 
+
+  * Collect 20,000,000 White Pollen.
+  * Use 50 Snowflakes.
+  * Use 10 [Cloud Vials](/wiki/Cloud_Vial "Cloud Vial").
+  * Collect 50 Tokens from [Wild Windy Bee](/wiki/Wild_Windy_Bee "Wild Windy Bee").
+  * Admire Black Bear's Honey Wreath 5 times.
+  * Purchase 5 Items from Bee Bear's Catalog.
+  * Equip 8 Beequips to Bees in your Hive.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)30,000,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Neonberry](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Neonberries](/wiki/Neonberry "Neonberry")  
+![Field Dice](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Field Dice](/wiki/Field_Dice "Field Dice")  
+![Glitter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Glitter](/wiki/Glitter "Glitter")  
+Twinkling Tinsel Token Treck  | 
+
+  * Collect 40,000,000 Pollen.
+  * Pop 25 Bubbles.
+  * Collect 250 Tokens from Sprouts.
+  * Collect 25 Tokens from [Sparkles](/wiki/Sparkles "Sparkles").
+  * Collect 25 Gumdrops Tokens.
+  * Collect 15 Tokens from Brown Bear's Stockings.
+  * Collect 10 [Ticket](/wiki/Ticket "Ticket") Tokens.
+  * Catch 75 of Science Bear's Falling Beesmas Lights.
+  * Open 5 Gift Boxes around the map.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)50,000,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Gumdrops](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)50 [Gumdrops](/wiki/Gumdrops "Gumdrops")  
+![Oil](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Oil](/wiki/Oil "Oil")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+Beequips and Berries Make Me So Merry  | 
+
+  * Collect 50,000,000 Pollen from the [Mountain Top Field](/wiki/Mountain_Top_Field "Mountain Top Field").
+  * Collect 50,000,000 Blue [Pollen](/wiki/Pollen "Pollen").
+  * Feed 200 Sunflower Seeds to your Bees.
+  * Feed 200 Blueberries to your Bees.
+  * Feed 100 [Bitterberries](/wiki/Bitterberry "Bitterberry") to your Bees.
+  * Feed 50 Moon Charms to your Bees.
+  * Feed 1 Gingerbread Bear to your Bees.
+  * Dig in to Polar Bear's Beesmas Feast 4 times.
+  * Collect 500 Snowflake Tokens.
+  * Equip 9 Beequips to Bees in your Hive.
+  * Deliver 6 Presents.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)75,000,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)2 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Neonberry](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)10 [Neonberries](/wiki/Neonberry "Neonberry")  
+![Glue](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Glue](/wiki/Glue "Glue")  
+![Tropical Drink](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Tropical Drink](/wiki/Tropical_Drink "Tropical Drink")  
+**Festive Fight Finale** | 
+
+  * Collect 100,000,000 White Pollen.
+  * Collect 30,000,000 Pollen from the [Pine Tree Forest](/wiki/Pine_Tree_Forest "Pine Tree Forest").
+  * Collect 30,000,000 Pollen from the Dandelion Field.
+  * Collect 10,000,000 [Goo](/wiki/Goo "Goo").
+  * Complete 5 Polar Bear quests.
+  * Check Mother Bear's Gingerbread House 4 times.
+  * Defeat 5 Werewolves.
+  * Defeat 1 Vicious Bee.
+  * Deliver 7 Presents.
+  * Summon and Defeat a Level 8 Snowbear.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)100,000,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Beequip Case](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Beequip Case](/wiki/Beequip "Beequip") Slots  
+![Basic Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Festive Bee Egg](/wiki/Egg#Festive_Bee_Egg "Egg") or ![Ticket](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)500 [Tickets](/wiki/Ticket "Ticket") (if the player already has a Festive Bee)   
+Second Questline   
+Festive Wreath Workshop 1  | 
+
+  * Collect 200,000,000 Red [Pollen](/wiki/Pollen "Pollen")
+  * Collect 60,000,000 Pollen from the Pumpkin Patch.
+  * Feed 5 Neonberries to your Bees.
+  * Feed 50 Moon Charms to your Bees.
+  * Use 50 Snowflakes.
+  * Collect 100 Tokens from Festive Gifts.
+  * Craft 50 Ingredients with the Blender.
+  * Defeat 15 Mantises.
+  * Equip 11 Beequips to Bees in your hive
+  * Purchase 7 Items from Bee Bear's Catalog.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)150,000,000 [Honey](/wiki/Honey "Honey")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 2  | 
+
+  * Collect 500,000,000 Pollen.
+  * Collect 15,000,000 Goo from the [Pine Tree Forest](/wiki/Pine_Tree_Forest "Pine Tree Forest").
+  * Collect 15,000,000 Goo from the Rose Field.
+  * Collect 15,000,000 Goo from the [Spider Field](/wiki/Spider_Field "Spider Field").
+  * Collect 100 Gumdrops Tokens.
+  * Spawn 150 Flames.
+  * Pop 150 Bubbles.
+  * Gander at Onett's Lid Art 1 time.
+  * Open 6 Gift Boxes around the map.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)250,000,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Glitter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Glitter](/wiki/Glitter "Glitter")  
+![Micro-Converter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Micro-Converters](/wiki/Micro-Converter "Micro-Converter")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 3  | 
+
+  * Collect 500,000,000 Blue [Pollen](/wiki/Pollen "Pollen").
+  * Collect 140,000,000 Pollen from Clover Field.
+  * Collect 110,000,000 Pollen from Blue Flower Field.
+  * Collect 80,000,000 Pollen from Pineapple Patch.
+  * Collect 40,000,000 Goo from Red Flowers.
+  * Collect 250 Pineapple Tokens.
+  * Collect 50 Tokens from [Fireflies](/wiki/Fireflies "Fireflies").
+  * Collect 150 Snowflake Tokens.
+  * Collect 100 Tokens from Wild Windy Bee.
+  * Defeat 5 Werewolves.
+  * Check Mother Bear's Gingerbread House 1 time.
+  * Puchase 9 Items from Bee Bear's Catalog.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)500,000,000 [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Gumdrops](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)100 [Gumdrops](/wiki/Gumdrops "Gumdrops")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 4  | 
+
+  * Collect 1,000,000,000 Pollen.
+  * Collect 300,000,000 Pollen from the [Pepper Patch](/wiki/Pepper_Patch "Pepper Patch").
+  * Collect 300,000,000 Pollen from the [Bamboo Field](/wiki/Bamboo_Field "Bamboo Field").
+  * Collect 300,000,000 Pollen from the [Sunflower Field](/wiki/Sunflower_Field "Sunflower Field").
+  * Collect 1,000 Red Boost Tokens.
+  * Collect 500 Sunflower Seed Tokens.
+  * Collect 250 Tokens from Snowbears.
+  * Craft 75 Ingredients with the Blender.
+  * Equip 14 Beequips to Bees in your hive.
+  * Collect 10 Tokens from Brown Bear's Stockings.
+  * Defeat 1 King Beetle.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1B [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Magic Bean](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Magic Beans](/wiki/Magic_Bean "Magic Bean")  
+![Enzymes](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Enzymes](/wiki/Enzymes "Enzymes")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 5  | 
+
+  * Collect 1,000,000,000 White Pollen.
+  * Collect 1,000,000,000 Pollen from the [Cactus Field](/wiki/Cactus_Field "Cactus Field").
+  * Collect 50,000,000 Goo from the [Sunflower Field](/wiki/Sunflower_Field "Sunflower Field").
+  * Collect 1,000 Mark Tokens.
+  * Catch 50 Falling Coconuts.
+  * Catch 100 of Science Bear's Falling Beesmas Lights.
+  * Check Mother Bear's Gingerbread House 2 times.
+  * Admire Black Bear's Honey Wreath 5 times.
+  * Defeat 5 Spiders.
+  * Summon and Defeat a Level 10 Snowbear.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1.5B [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+![Ticket](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)100 [Tickets](/wiki/Ticket "Ticket")  
+![Beequip Case](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Beequip Case](/wiki/Beequip "Beequip") Slot  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 6  | 
+
+  * Collect 1,500,000,000 Pollen from the Mountain Top Field.
+  * Collect 1,200,000,000 Pollen from the Strawberry Field.
+  * Collect 250,000,000 Goo.
+  * Collect 250 Tokens from Festive Gifts.
+  * Feed 250 Sunflower Seeds to your Bees.
+  * Feed 250 Pineapples to your Bees.
+  * Feed 250 Strawberries to your Bees.
+  * Feed 250 Blueberries to your Bees.
+  * Feed 250 Bitterberries to your Bees.
+  * Collect 250 Tokens from Mondo Chick.
+  * Dig in to Polar Bear's Beesmas Feast 4 times.
+  * Purchase 10 Items from Bee Bear's Catalog.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)2B [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Field Dice](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Field Dice](/wiki/Field_Dice "Field Dice")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 7  | 
+
+  * Collect 4,000,000,000 Red [Pollen](/wiki/Pollen "Pollen").
+  * Collect 1,000 Strawberry Tokens.
+  * Collect 50 Ticket Tokens.
+  * Feed 25 Neonberries to your Bees.
+  * Collect 20 Tokens from Brown Bear's Stockings.
+  * Check Mother Bear's Gingerbread House 2 times.
+  * Defeat 20 Rhino Beetles.
+  * Defeat 1 King Beetle.
+  * Catch 10 Mythic Meteors.
+  * Open 7 Gift Boxes around the map.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3B [Honey](/wiki/Honey "Honey")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 8  | 
+
+  * Collect 5,000,000,000 Pollen from the [Pine Tree Forest](/wiki/Pine_Tree_Forest "Pine Tree Forest").
+  * Collect 1,000,000,000 Pollen from the Mushroom Field.
+  * Collect 250,000,000 Goo from Red Flowers.
+  * Collect 250 Moon Charm Tokens.
+  * Use 10 Micro-Converters.
+  * Use 10 Field Dice.
+  * Use 200 Snowflakes.
+  * Share 100 Jelly Bean Tokens.
+  * Activate 4 Honeystorms.
+  * Use Bucko Bee's Snow Machine 4 times.
+  * Defeat 25 Scorpions.
+  * Defeat 1 Tunnel Bear.
+  * Purchase 11 items from Bee Bear's Catalog.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5B [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Purple Potion](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Purple Potion](/wiki/Purple_Potion "Purple Potion")  
+![Box-O-Frogs](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)3 [Boxes-O-Frogs](/wiki/Box-O-Frogs "Box-O-Frogs")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+Festive Wreath Workshop 9  | 
+
+  * Collect 10,000,000,000 White Pollen.
+  * Collect 5,000,000,000 Pollen from the Rose Field.
+  * Collect 1,000,000,000 Goo.
+  * Collect 1,000 Pineapple Tokens.
+  * Collect 1,000 Tokens from Stick Nymphs.
+  * Collect 1,000 Bomb Tokens.
+  * Collect 100 Melody Tokens.
+  * Complete 10 Polar Bear Quests.
+  * Catch 50 Mythic Meteors.
+  * Craft 100 Ingredients with the Blender
+  * Admire Riley Bee's Honeyday Candles 3 times.
+  * Open 8 Gift Boxes around the map.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)10B [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+![Glitter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Glitter](/wiki/Glitter "Glitter")  
+![Present](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Present](/wiki/Present "Present")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot   
+**Festive Wreath Workshop 10** | 
+
+  * Collect 25,000,000,000 Pollen.
+  * Collect 500 Tokens from Festive Gifts.
+  * Collect 2,500 Mark Tokens
+  * Collect 1,000 Snowflake Tokens.
+  * Collect 50 Ticket Tokens.
+  * Collect 200 Gumdrops Tokens.
+  * Catch 150 of Science Bear's Falling Beesmas Lights.
+  * Deliver 12 Presents.
+  * Defeat 5 Vicious Bees.
+  * Defeat 1 King Beetle.
+  * Defeat 1 Tunnel Bear.
+  * Summon and Defeat a Level 12 Snowbear.
+  * Admire Black Bear's Honey Wreath 2 times.
+  * Dig in to Polar Bear's Beesmas Feast 2 times.
+  * Check Mother Bear's Gingerbread House 2 times.
+  * Gander at Onett's Lid Art 2 times
+  * Admire Riley Bee's Honeyday Candles 2 times.
+  * Use Bucko Bee's Snow Machine 2 times.
+  * Purchase 13 Items from Bee Bear's Catalog.
+
+| ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)15B [Honey](/wiki/Honey "Honey")  
+![Gingerbread Bear](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)5 [Gingerbread Bears](/wiki/Gingerbread_Bear "Gingerbread Bear")  
+[![Beequip Storage](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c2/Beequip_Storage.png/revision/latest?cb=20210219114615) 1 [Beequip Storage](/wiki/Beequip "Beequip") Slot  
+![Festive Wreath](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Festive Wreath](/wiki/Festive_Wreath "Festive Wreath")  
+  
+### Dialogue[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBee_Bear%2F2020%3Fveaction%3Dedit%26section%3D3&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+Quest name  | Dialogue   
+---|---  
+Beesmas Beequips  | Ho ho ho! Yes, it's time! It's Beesmas! The most magical honeyday of the year! It's a time for appreciating our bees, and everything they do for us! A time for giving gifts, and receiving gifts too. This year, I've got the perfect gift for you and your bees! The [Beequip Case]! Oh ho ho ho! What's that, you ask? Well.. As a beekeeper, you wear all sorts of equipment. Hats, bags, and more. Why shouldn't your BEES do the same? Well, this year they CAN! Just look at Puppy Bee, with that red nose! So festively fashionable! With the [Beequip Case], you can give BEEs EQUIPment to hold - or as I like to call it, Beequipment! Ho ho! And if you help me prepare for Beesmas, I've got a special [Beequip Case] just for you. There's so much to do, and Beesmas is approaching fast! So let's not delay: Collect 1000 Red Pollen, 1000 White Pollen... And collect 5 [Snowflake] tokens! It's winter, so [Snowflakes] are falling all over the flower fields! _-During-_ Hurry, hurry! Your bees have been so good this year, they deserve Beequips. Complete my quest, and it'll be time to dress them up! _-Completion-_ Ho ho! You've done it! Quickly, Festive Bee - fetch that [Beequip Case]. The beekeeper has earned it! With this [Beequip Case], you'll be able to equip certain items to your bees. Beequips can have many effects: they change a bee's stats, grant bonuses to your entire hive... And even teach your bees new abilities! To get you started, I'll give you an [Elf Cap] to test out. Currently, your [Beequip Case] can only hold 3 Beequips at a time. That means you can only equip 3 Beequips to your bees at once! But if you find extra Beequips that can't fit in your case, just check the Beequip Storage to your right. Now, let's make haste! There's more to do and so little time! And so, so many special rewards for you to earn! Ho ho ho ho!   
+Bee Bear's Catalog  | Beesmas is about the joy bees bring to our lives! It's also about the healthy stimulation of cash into our economy, generated by people purchasing gifts! That's why this year, I've brought along something special: Bee Bear's Catalog! In here, you can purchase a variety of useful items. But not with Honey! Oh ho ho oh no, I only accept the most merry of currencies: [Gingerbread Bears] and [Snowflakes]! See, Gingerbread Cub here isn't just standing around to be cute! His job is to entice you into purchasing the Gingerbread Cub Pack from my catalog! I pay him by the hour, ho ho! By completing my quests, and by helping other Bears around the map prepare for Beesmas... You can earn yourself enough [Gingerbread Bears] to purchase a Gingerbread Cub Buddy of your own! First, why not help Black Bear with his Honey Wreath? Oh ho... poor Black Bear just can't seem to get it right. If you do, I've got some special rewards for you... Now, collect 5000 White pollen, 5000 pollen from the Clover Field. Admire Black Bear's Honey Wreath 2 times. Equip 1 Beequip to your bee - the [Elf Cap] I gave you should do! And purchase 1 offer in my Catalog! Just click the little [Gingerbread Bear] icon on the right of your screen. _-During-_ Black Bear has been such a good, good bear this year. But being well behaved doesn't mean you've got talent, ho ho ho! _-Completion-_ 🎵 Deck the Bees with hats and trinkets 🎵 🎵 Fa la la la laaa, la laa laa laa 🎵 🎵 Collect snow to purchase Beequips 🎵 🎵 Fa la la la laaa, la laa laa laa 🎵 Good work, little one! Now you're getting into the groove of Beesmas! Whats [sic] that? How does Bee Bear keep his catalog prices so low, you ask? Ho ho! With Beesmas Magic of course! And the loving labor of my hive of Festive Bees. All work and no pay, ho ho! If you complete just 13 more of my quests, I'll give you a [Festive Bee] of your own! (Or 500 tickets if you already have one, ho ho) But that's for later: For now, here's your reward: A [Present]! Ho ho, but it's not for you - not really! Deliver this [Present] to a bear of your choice to make their Beesmas truly magical. If you do, I'm sure they'll have something in return to give to you. Now go, go! Deliver the [Present], then return to Bee Bear for more winter wonder work!   
+Beesmas Unboxing Begins  | Delivering [Presents] is all fine and good. But opening presents is even better! And if you help enough bears decorate the map for Beesmas... You'll be able to open Gift Boxes I've hidden just for you all around the map! Ho ho ho. But you better not open them until you help those bears! Bee Bear is always watching, and so is you know who... You wouldn't want to end up on his naughty list! Ho ho! Collect 2000 Blue Pollen... Collect 10 [Snowflake] tokens... Defeat 3 Spiders... Deliver 1 [Present] to a character of your choice... And open 1 Gift Box - AFTER you help 3 Bears prepare for Beesmas. _-During-_ Oh, we're so, so far behind... The bears will all need your help if we're going to save Beesmas this year. Quickly, go talk to each one and see what they need. _-Completion-_ Oh, how magical! You've brought joy to so many bears already - and you've gotten some joy in return! But you know what would bring you even more joy? A bigger [Beequip Case]! Complete just 2 more of my quests, and I'll double the size from 3 slots to 6! And complete 12 more of my quests, and you'll earn that Festive Bee / market equivalent ticket reward!   
+Search In The Stockings  | Little cubs and bees all around the world wait patiently all year for Beesmas... But especially for Beesmas Stockings! Stuffed to the brim with the jolliest of junk! So many trinkets, so many toys - so many [Beequips] can be found in Stockings! Don't believe me? Ho ho! Just ask Brown Bear. Collect 50,000 White pollen... Collect 30,000 pollen from the Bamboo Field... Collect 30,000 pollen from the Strawberry Field... Collect 8 tokens from Brown Bear's stockings... And open 2 Gift Boxes around the map! _-During-_ Gingerbread Cub was born in a Stocking! Ho ho ho. That's right! Stuffing stockings with cookies, that's how Cub Buddies are made! _-Completion-_ 🎵 Puppy the red-nosed Event Bee 🎵 🎵 Had a very shiny nose 🎵 🎵 He loves collecting pollen 🎵 🎵 With his tennis ball that glows! 🎵 Ho ho! Puppy Bee loves it when I sing. Marvelous work, little one! Keep the ball rolling! Complete 1 more quest, and I'll double the size of your [Beequip Case]! And complete 11 more quests and you'll earn your Festive Bee!   
+Subdue the Snowbear  | To be a good Bee Bear helper, your bees will need to be disciplined. Oh yes. Just look at my prescious [sic] Festive Bee. Obeys my every command! And is willing to get down and dirty when things get rough! Beesmas battles are a perfect way to keep your bees disciplined and in shape! Thankfully Panda Bear's here to help us with that... For the next quest, you'll need to take down a Level 5 Snowbear! Those naughty bears need someone to keep them in check. Ho ho ho ho ho. _-During-_ Mother Bear's Gingerbread House is magic, just like me! It generates [Gingerbread Bears] out of thin air! All it costs is the electricity needed to run your device! Hopefully you don't pay the bills. Ho ho ho ho! _-Completion-_ Ho ho! You took down the Snowbear, I bet you're feeling quite jolly! But don't get too jolly, or that'll be your folly. Each time you defeat the Snowbear, it comes back bigger and badder. But that's a problem for another day. For now, your reward: 3 [Beequip Case Slots]! And a Warm Scarf to test them out. Now you can equip Beequips to up to 8 bees at a time! Magnificent! But we aren't done yet, not even close! Beesmas day approaches fast and we still have so much preparing to do!   
+Snowflake Feast  | Giving gifts is one of the selfless ways you can prove you're a good person! Yes, every time you do a good deed, it doesn't go unseen! The great Bubble Bee Man in the sky is always watching, especially around Beesmas! Everything good you do gives you +1 point on his Good Beekeeper list. But everything bad you do... oh ho ho ho... thats +60 points on the Naughty list. So, whats your score? Have you been a naughty or nice? If you're worried, I have an offer for you: Complete this quest, and I'll put in a good word with Bubble Bee Man for you directly! _-During-_ Bubble Bee Man is the one who originally blessed us with this most fabulous of honeydays! His splendor and beauty is unmatched by any bee or man. And he's so gracius, too! How did I first gain all my festively magical powers? By worshiping _[sic]_ Bubble Bee Man! Even when my parents said it was unhealthy! Ho ho! _-Completion-_ 🎵 Oh the numbers of quests are frightful... 🎵 🎵 But these prizes are so delightful 🎵 🎵 So if you wanna make that dough 🎵 🎵 Catch the snow, catch the snow, catch the snow! 🎵 Ho ho ho! You've done it! You caught those flakes! And look, my Festive Bee has another [Present] for you to deliver! Beesmas is coming along splendidly! But we can't rest until all the decorations are done. Just 10 more quests until you get a Festive Bee (or 500 Tickets) of your own!   
+Naughty Knock-Out  | The Beesmas Lights twinkle and glow, and fill us all with wonder. They also cause stray lightbults _[sic]_ to fall from the sky into the fields, quite violently! If one hits you, it'll fill you with Beesmas Inspiration! Granting x2 Pollen for 5 seconds! Yes! It's magical. But you want to know what's not magical? The baddies around the map! Spiders, Snowbears, and even Vicious Bees. Naughty naughty creatures! They want to destroy the festivities. They're waging a war against Beesmas! Beesmas of all things! Oh ho oh no no no. Let us put an end to those who would seek to destroy Beesmas! Gingerbread Cub says to do it now, swiftly, in an overwhelming show of force, ho ho! _-During-_ Vicious Bee has never been on Bubble Bee Man's nice list. Not once in years and years! That arrogant bee doesn't even try to be nice! It WANTS to be naughty! Well, there's no place for creatures like that in this winter wonderland. Show Vicious Bee we mean Beesmas Business! _-Completion-_ Ho ho! You did it! You game _[sic]_ them a brilliant Beesmas beatdown! With those nasty Vicious Bees out of the way, we can get back to what really matter. _[sic]_ Purchasing things from Bee Bear's Catalog! And completing more of my quests! Complete 3 more, and I'll give you 3 additional [Beequip Case Slots]. And complete 9 more for a Festive Bee or 500 Tickets of your own!   
+Beesmas Bundles and Bean Bugs  | Reindeer Puppy Bee is so adorable, and Gingerbread Cub too! All those adorable things and more in Bee Bear's jolly ol' Catalog! You won't find better prices anywhere - this I can guarantee! Bee Bear has all the best sources. Because Bee Bear is magic! Purchase a little piece of that magic for yourself to hold dear year round only from 1 place: Bee Bear's Catalog! So bring your [Gingerbread Bears], bring your [Snowflakes]! Bring your Festive Bee, if you have one. If you don't, well bring a Basic Bee, it doesn't matter. There _[sic]_ something for all bees of all types and rarities in Bee Bear's Catalog! But you won't find Bean Bugs in there. Although you'll need to find some for this quest! Just wait around, and sure enough they'll come. _-During-_ Bean Bugs aren't naughty or nice. Their brains are too small to comprehend such things! Oh ho ho. To be blissfully unaware of the moral implications of your own actions! That would be a Beesmas blessing! _-Completion-_ 🎵 Oh, Festive Bee, oh Festive Bee 🎵 🎵 Your ribbon is so pretty 🎵 🎵 Oh, Festive Bee, oh Festive Bee 🎵 🎵 I'm happy that you're with me 🎵 Ho ho ho. Yes, a song for Festive Bee too! All the bees deserve their own songs, because they bring us so much joy! And you know who else brings us joy? The bears, here on the mountain! So take this [Present] and deliver it to one of them right now, to show you care. Then hurry back, you know the drill! Ho ho!   
+Presents for Polar Bear  | The Honeydays are a time for being with family. That's why I brought Festive Bee, Puppy Bee, and Gingerbread Cub! But the reason I'm here in the first place, is because I have family who live here. Can you guess who? Ho ho ho! I bet you know! My dear, dear cousin Polar Bear! The greatest chef in all the land. He's been having a tough year, sad to say. But we can fix that! Why don't you complete a few of his quests, while we continue our work on preparing for Beesmas? _-During-_ Polar Bear is my baby cousin. Can you believe it, ho ho? I know what you're thinking. Why do I look so much younger, and more jubilent? It's because I'm never stressed! I'm always filled with pure joy and it keeps me young! _-Completion-_ Look Festive Bee! The beekeeper completed its latest quest! By golly, think of the boundless Beesmas joy they've already spread! Decorations all around us - coming together so splendidly. Ho ho ho. Just 1 more quest, and I've got 3 special [Beequip Case Slots] for you! And just 7 more quests until you earn a Festive Bee of your own! Or [Tickets]! Both are good.   
+Festive Feast With the Whole Family  | On Beesmas Day, we take time to appreciate what really matters. We sit down with our loved ones, and we eat an obscene amount of honey. We don't judge eachother, because we LOVE one another. It doesn't matter how much we eat. Puppy Bee eats non-stop but I don't judge his _[sic]_ , isn't that right Puppy Bee? Puppy Bee will eat ANYTHING, ho ho ho! The veterinarian bills can vouch for that. And that's good because it means he appreciates everything he's given. I appreciate all your help! And I appreciate the Beesmas Feast my cousin made! I can smell it all the way from down here! Oh how I wish I could just have a taste. But I can't, oh no. If I move, new beekeepers won't be able to start their quests. But YOU can do it for me! Oh yes! Do have a taste, and then come tell Bee Bear everything about it. Ho ho ho ho. I want a description so detailed I can taste it. But that's not all, theres _[sic]_ so much more to do! Be sure to take down that naughty Snowbear as well. It's back for more! _-During-_ Sharing [Jelly Beans] is just one of the ways you can show you care! Another way you can show you care is by completing my quest. _-Completion-_ 🎵 Siiiilent night.. 🎵 🎵 Hooooney night... 🎵 🎵 Beesmas Feast is quite a sight 🎵 🎵 Stuff our faces, so morbid and wild 🎵 🎵 [Treats] and Honey so tasty yet mild 🎵 🎵 🎵 Our hungers never ceeeeAAsse 🎵 🎵 While digging in to Beesmas Feast 🎵 Oh ho ho ho! You look so satisfied that I can practically taste the meal! Your dedication, and boundless hunger, has earned you this: 3 additional [Beequip Case Slots]! Now you can equip Beequips to up to 11 Bees at a time! Oh, and take these [Peppermint Antennas]! Your bees are bound to love those! Now let your stomache settle and then return back for more Honeyday chorse. Just 5 more quests to go until you've earned a Festive Bee, maybe! Or [Tickets]!   
+Holly Jolly Tokens  | The powers of Bees never cease to amaze me! Not only can they pick up pollen with their tiny, square bodies... They can turn it into honey through centrifugal force alone! Ho ho ho how? And that's not all - they can spawn Ability Tokens! I can't even spawn a regular Token! But I CAN spawn amazing deals, in Bee Bear's wonderful winter Catalog! All you need to do, is collect [Gingerbread Bears] and [Snowflakes] and those deals can be YOURS! And with a hive of magical, stupendous bees as great as YOUR bees that should be EASY! Ho ho ho! Yes, your bees are much better than my bees! Look at Puppy Bee - no numbers on its wings. That's a Level 1 Puppy Bee. Sad! Ho ho ho. Oh, don't take it so personally Puppy Bee. At least you've got those Reindeer Horns. _-During-_ Haste is great, for mortal beekeepers like yourself. Me, I can fly faster than the speed of light! Propelled by pure Beesmas bliss! That's how I deliver presents to all the cubs all around the world! Yes, I really do it! _-Completion-_ Ability Tokens are like a little gift from your bees to you. And this [Present] is like a literal gift, from you to someone else! Quickly, deliver it at once and let us continue these jolly jobs which bring us so much joy. There are only 4 more to go until your Festive Bee!!   
+Walking in a Windy Wonderland  | In the cool, cold depths of winter... High above the trees... There lives a special little bee... Who you've met, in a breeze... Even Bubble Bee Man cannot see, The movements of the Windy Bee! Ho ho ho! That's a little poem I made up just now! That's one of my many magical talents I have as a Honeyday deity. Anyhow, I need you to you _[sic]_ find that pretty little bee and, YOU KNOW. Deliver it just a pinch of Beesmas brutality! Don't ask me why! That's a Bee Bear's secret! Ho ho ho ho. _-During-_ If Bubble Bee Man could see Windy Bee, I guarantee it would be on the Naughty List. Dare I say theres _[sic]_ no bee naughtier. Not even Vicious Bee! So do teach it a lesson! And do the other things I asked, do it for Bee Bear's sake. _-Completion-_ 🎵 Falling Lights, they're a glistnin' 🎵 🎵 Honey Wreath, we ain't missin' 🎵 🎵 A beautiful sight, that Windy Bee fight 🎵 🎵 Questing in a Beesmas Wonderlannnnd 🎵 Wonderful! But what's most wonderful of all... Is how many items you've purchased from Bee Bear's very great value Catalog! With all the [Gingerbread Bears] and [Snowflakes] you've spent, I'll be able to do Beesmas again. That's right. If you don't buy stuff from my catalog, Beesmas is canceled next year! Ho ho! All of your bees will be so sad, and it'll be all your fault. And Bubble Bee Man, oh he won't go easy on you at all, not like me! You'll be working in the coal mines for the rest of your life! But these are all hypotheticals, ho ho! Because you DO buy stuff from my Catalog! And you're only 3 quests away from your Festive Bee / 500 Tickets BONUS! Ho ho hurraaaaaaah!   
+Twinkling Tinsel Token Treck  | The mountain is practically shimmering with Honeyday splendor thanks to you and your bees! But Festive Bee is still not satisfied! I'm satisfied, and I tried to reason with Festive Bee. I said to her, "Hasn't the Beekeeper done enough? It's Beesmas they should be with their family. Their real life family, not their bees. They've worked so hard and everyone is already so happy" But Festive Bee will not budge! She says "It could be more festive. More magical." HOW Festive Bee? LOOK AROUND! Oh you silly bee oh ho ho ho. But it's the boss, not me. Your work is not done, little one. I mean, to me it's done. But Festive Bee says no. Festive Bee says you don't get to spend any time with your real family. Only the bees matter to Festive Bee. Even I think she's going too far, me the Bee Bear the bear whose dedicated his life to celebrating the bees. But it is what it is! HO ho! _-During-_ Gingerbread Cub Buddy thinks you've done an exceptional job. If it were up to Gingerbread Cub Buddy, you'd already be done with my quests. _-Completion-_ Look, Festive Bee. The beekeeper collected all those ridiculous shiny things you asked for. Are you satisfied now? Is Beesmas saved?? No? Ooooh no oh ho ho ho Ok well then I guess you better take this [Present]. I'm sure someone could use it. And maybe, just maybe, that'll be enough to satisfy Festive Bee. Just 2 more quests to go. And you'll get not only Festive Bee, but 3 additional [Beequip Case Slots]!   
+Beequips and Berries Make Me So Merry  | Ho ho ho. Your Beequip collection is coming along nicely, isn't it, little one? But it's a little small if I'm honest. Size isn't everything, but still. Wouldn't you like 3 more [Beequip Case Slots]? Oh yes, I can tell. Your bees would certainly like 3 more slots. But to earn them, you'll need to complete 2 more quests. This quest won't give you [Beequip Case Slots]. Nor the Festive Bee. This is basically a filler quest. ho ho! But it's also the 2nd to last quest before my FIRST questline is complete! And Beesmas will be saved! This one's all about giving back to your bees. The bees who made this all possible! The bees! The bees! Yes the bees! Puppy Bee. Festive Bee - YOU Are the stats! Look - all those decorations on the Beesmas Tree: They're not for the bears, they're for the BEES. POLLEN collection. Bears don't collect pollen. CONVERT RATE. Bears only convert honey to fat. Ho ho ho. This is BEE Swarm Simulator, not Bear Swarm Simulator. And it was all gifted to us by the Bubble BEE Man not the Bubble BEAR Man or the Bubble MAN man. So give your bees everything they want, don't ask any questions and never think twice. The Honeydays are a time for GIVING and not for thinking. Not for reflecting on your priorities, or for evaluating what you're doing. You just DO IT. You just complete the quests, for the sake of the bees. Your homework - your family. Your affiliations. The other games on ROBLOX... What do they matter, compared to the BEES. Look at them! They are pure. They are unadultarated JOY of SWEET HONEY MAKING AND GIVING AND THAT IS ALL THAT MATTERS! SO BLESSEDLY DOTH SAYETH THE BUBBLE BEE MAN, AND BEE BEAR! Can I get a A-BEE. NOT an Amen. _-During-_ Ho ho ho ho ho ho ho ho Ho ho ho ho ho. Don't forget the [Snowflakes]! _-Completion-_ 🎵 I don't want a lot for Beesmas 🎵 🎵 Alls I want is for the bees 🎵 🎵 Nothing on my list is destined 🎵 🎵 For me to use personally 🎵 🎵 I just want the bees to know 🎵 🎵 They're the ones that I love soo 🎵 Nothing else is truuUUUUUUUUUUe 🎵 🎵 Bees are more important 🎵 🎵 Than YOUUUUUUUUU. Oooouu 🎵 OOOOOooOOO YES YES YES YES It is true, it is. And you've pulled through, little one, you've done it! Even though we aren't as important as the bees, we still deserve respect for our accomplishments And you've brough Beesmas Joy to this entire mountain. And you've equipped SO many Bees with Beequips! It's all coming together! The Honeydays are in FULL HONEY SWING. Like a whole honey playground. And you've almost gotten your FESTIVE BEE!!!! As Beesmas Day approaches ever closer, I get filled with even more untamable amounts of Honeyday bliss, and my own Bee Bear self dissolves away, into a holly jolly wholistic oneness with all of the Bees, and you, and the bears, and Bubble Bee Man mustn't forget him, ho ho! And oh it is awesome and terrifying at the same time, but that's the MAGIC of it! So let go, tune out, dive right into this honey heaven I'm in with Festive Bee and Puppy Bee right now! Just 1 more quest and you're there too!   
+Festive Fight Finale  |  Oh ho ho ho. Look around! Bee proud, dear beekeeper, of all you've brought to this mountain! Beesmas decorations operational, all around us! All the bears are happy. Even Panda Bear! And the bees look so blissful in their merry little get-ups. The Beequips have done their job! We have been truly blessed by you know who, and by our bees this year. What better way to celebrate that fact, than to expand your [Beequip Case Slot] another time. AND to give you a Festive Bee or Market Price of your own! FINALLY! YES! HO HO HO! But don't get ahead of yourself - this one won't be easy! But nothing in life that's worth having, is easy to have. Except for family. But that's beside the point. Puppy Bee, Festive Bee, fetch me the 15th quest's tasks. Hurry, now, hurry! Gingerbread Cub Buddy don't just stand there dancing get ready for the big one, the BIG quest! Because Beesmas is so close, yet so far. Can this beekeeper pull through? I believe they can! And anything is possible, as long as you believe!   
+_-During-_ BELIEVE in your bees. BELIEVE in me! And BELIEVE in BBM as well. 3 EASY steps to a life of JOLLY JOYOUS SATISFACTION eternally. Ho ho! _-Completion (Before Festive Wreath Quest added)-_ Ding dong ding dong ding dong ding dong! 🎵 Joy to the bees, the quest is done 🎵 Let you, receive, your BEE 🎵 🎵 Your Festive Bee is ready 🎵 🎵 Prepare to view 🎵 🎵 How many things Festive Bee 🎵 🎵 Will offer you, you'll see 🎵 🎵 There isn't a better bee than Festive Bee 🎵 Or is there! There is, Festive Bee with [Festive Wreath]! But Onett hasn't completed that quest line yet. So you'll have to settle for Festive Bee for now. Come back in a week or so, and I'll have some extra magical quests ready for you _[Sic]_ And by magical, I mean beyond tedious. Beyond excruciating. They will test your sanity. If you've got any left, ho ho ho! But anyhow! Festive Bee says you've saved Beesmas sufficiently now! The [Festive Bee Egg] or [500 Tickets] - they're a gift from Festive Bee to you! And my gift is 3 additional [Beequip Case Slots]. Your hive will be completely obscured by Beesmas trinkets that it'll be difficult for you to see which bees you have! So thank you, little one! Thank you for saving this Beesmas and spreading so much joy! Thank you for taking so _[Sic]_ good care of your bees! Thank you for BELIEVEING in the magic of Beesmas. And untill Onett uploads the [Festive Wreath] quest, go spend sometime with your family!   
+Festive Wreath Workshop 1  | Ho ho ho! Beesmas is saved, thanks to you and your bees! Yes, everything is merry! Joy to the world! Or so it seems... Alas, it isn't so. Sadly there are many naughty folk who believe Beesmas must end. "It's gone on for too long", they say. They're a bunch of scrooges! Tsk tsk tsk. If you help me extend Beesmas into the foreseeable future, I've got a splendid gift for you: The [Festive Wreath]! Ho ho! Complete 10 more quests, and I'll help you make one of these most magical Beequips as well. They're made specially for Festive Bee, and they grant new powers! Take a look at my Festive Bee, smooshed right into that wreath like a thumb in a plum! Adorable! Your Festive Bee can have one too - but the quests won't be easy, oh no no no. Everyone wants Beesmas to end except for us. It's be us against the world! When they say "It's February, just stop already" we'll just sing our carols louder and louder! We'll just defiantly make you a [Festive Wreath], and then the festive fun never ever has to end! _-During-_ If one day of Beesmas is nice, then 365 days of Beesmas is thrice-sextuply-quince as nice! Festive Bee, Puppy Bee, get comfy! We're here forever now! Ho ho ho. _-Completion-_ Splendid work! With your help, Beesmas has only just begun! Your Festive Bee excitedly awaits its [Festive Wreath] - only 9 quests to go! But for now, how about we make some more room in the Beequip Storage chest for you? With each remaining quest, I'll add 1 more storage slot. You know what they say - the more the merrier! And why not take this [Present] as well. What a surprise it'll be for the NPC who receives it this late! Ho ho!   
+Festive Wreath Workshop 2  | Each and every one of us must do our part to keep the magic of Beesmas alive! Some of us do it by sharing gifts, some of us do that through song, and some of us do it by refusing to take down our decorations even when the HOA starts getting fussy. Onett's makeshift yard art is a perfect example of someone boldly presenting their love of Beesmas through art, even when they probably shouldn't, because they aren't very talented. That's real dedication! Go check out his yard art while we continue our work on your [Festive Wreath]! A little bit of bubbles, a little bit of flames - it'll all come together to make a truly magical Beequip. _-During-_ Your [Festive Wreath] won't make itself! Yes, I'm magical, but my magic has it's limits. [Festive Wreaths] are so powerful, they can only be forged with require blood, sweat and tears! Ho ho! _-Completion-_ 🎵 Iiii'm dreaming... 🎵 🎵 Of a loooooong, Beesmas... 🎵 🎵 Just like the one we're having now 🎵 🎵 Where the quests continue 🎵 🎵 And the works never through... 🎵 🎵 And it just keeps going on some how! 🎵 Ho ho ho! That's right! It just goes on and on and on and on. Good work! Your [Festive Wreath] is starting to come along now. 8 more quests and it'll be ready for action!   
+Festive Wreath Workshop 3  | There are many other Honeydays throughout the year. Yes it's true! But none as magical as Beesmas, ho ho ho - not even close. Compared to Beesmas, the other Honeydays are like tiny little sleighbells, and Beesmas is like the Liberty Bell in Philadelphia! SOOO much bigger and more important! Now, every Honeyday is special in its own way. But Beesmas is more special. So if the other Honedays have to step aside for even more Beesmas, that's quite all right, ho ho! _-During-_ Gingerbread Cub threw a fit when I said we're skipping Easter this year. It has a nasty, nasty sweet tooth, and it wants some [Marshmallow Bees]. Weren't those 250 [Gingerbread Bears] enough?? _-Completion-_ Yes, yes! You and your bees are working quite efficiently, like fantastic little elves! Your [Festive Wreath] is taking shape. It looks a bit like a moldy donut at this point! And more importantly, you're doing a splendid job bankrolling my effort to make Beesmas a year-long thing by purchasing an inordinately generous amount of quality goods from my catalog! Everything's proceeding quite nicely! But we can't stop now. So much more to do! 7 more quests and it'll be ready for you. But first, take this [Present] to a very special friend!   
+Festive Wreath Workshop 4  | Building a [Festive Wreath] is a daunting task. It's difficult even for the best of us! If you feel like you're about to give up, just close your eyes, and make a little wish... Just whisper: "Give me the will and determination to power through these tedious trials" And he may answer you call for help, with a second wind of festive vigor! Yes, Bubble Bee Man is always listening. He's listening to us right now. Ho ho ho... For example, he heard what you said about Puppy Bee, Festive Bee. He heard it and then he told it to me. It wasn't very nice at all. Maybe I should take your [Festive Wreath] and give it to the beekeeper. Oh ho ho, no I couldn't do that. The beekeeper must forge their [Festive Wreath] themselves. _-During-_ Festive Bee said Puppy Bee is useless without its Gifted Hive Bonus! Can you believe that? And I thought Festive was supposed to be a jolly, joyous bee. _-Completion-_ 🎵 We're making a wreath, and it's turning out nice 🎵 🎵 Any old wreath would never suffice 🎵 🎵 [Festive Wreaths] are coming, to town! 🎵 Ho ho ho. Not my best lyrical work. Spectacular work, little one! If I didn't know better, I'd say you've got a little magic in your as well! Just 6 more quests to go until your [Festive Wreath] is finished!   
+Festive Wreath Workshop 5  | They said it couldn't be done. They said it wouldn't make any sense. And yet, here we are, dragging Beesmas deep into the new year! With no sign of stopping, ho ho! Haters will say Beesmas takes place in December. To them we say "Bah humbug"! Once we've finished your [Festive Wreath], there will be no getting rid of Beesmas! It'll be with you all year long. And the Festive Marks it produces are so big... That nobody will be able to ignore it! You and your bees just need to keep collecting those ingredients, and my Festive Bee will keep slaving away constructing your [Festive Wreath]. And Gingerbread Cub Buddy will prepare the tasks for your next quest. While Puppy Bee will continues to provides the moral support. Next up, you'll need to harvest the soul of a level 10 Snowbear! It's the secret ingredient that makes a [Festive Wreath] truly special. _-During-_ Back in my workshop, I've got a hive full of level 20 Gifted Festive Bees! Ho ho ho! The Festive Bee I brought with me isn't quite on their level yet. She's getting there though! Slowly but surely. _-Completion-_ Ho ho hoorah! You've done it again! Through hard work and the magic of Beesmas, you've prevailed through 5 exceptionally difficult quests! And now your [Festive Wreath] is halfway complete. Just 5 more quests to go! To celebrate your progress, I've prepared a slightly-better-than-usual reward just for you: 100 [Tickets] and a [Beequip Case Slot]! Ho ho ho! Now your Beequip case has a nice and even 15 slots. 14 slots just looker sloppy! You're doing a spectacular job dragging Beesmas on and on and on! Hopefully you maintain that merry determination through the remaining quests. They're merrily merciless to say the least! Ho ho ho ho!   
+Festive Wreath Workshop 6  | Gather round, little ones. Let's have a little chat. Puppy Bee, Gingerbread Cub, you listen up too. During all the festivities, we sometimes forget to appreciate the moment, we're so busy opening [Presents] and constructing [Festive Wreaths] that we forget what's truly important. Like being thankful for our loved ones, and the precious bond between a beekeeper and their bees... And becoming overwhelmed with spiritual awe at the glory of the Bubble Bee Mas, and all he's given us... Or being blessed with deals so good they're practically a steal in Bee Bear's always-low-prices Catalog... And of course, getting really fat so that we may endure the cold, cool winter. All those things are what Beesmas is REALLY about. We musn't forget it! So next time you're frolicing through a snowstorm, or beating up a Snowbear... Just remember... you've also got to do those other things too! And that's the way it's going to be forever, from here on out. Forever and ever, in this neverending Beesmas wonder land, from which there's no escape. _-During-_ Eat up, bees! Stuff those precious little faces full of [Treats] as fast as you can! Quickly, now, quickly! Fatten up before you freeze to death! _-Completion-_ 🎵 O come, all beekeepers 🎵 🎵 Joyful and triumphant 🎵 🎵 O come ye, o cooome ye to Beesmas Mountain 🎵 🎵 Thaat's what I call it. The name is a biiig hit. 🎵 We call it "Beesmas Mountain" 🎵 🎵 We all say Beesmas Moountain... 🎵 🎵 So come to Beesmas MooUntain... 🎵 🎵 To earn quest awards! 🎵 Ho ho ho! Yes, "Beesmas Mountain" is the perfect name for this place! Especially now that you've transformed it into a jovial utopia with all these decorations! All Beesmas Mountain needs now is a [Festive Wreath] for your Festive Bee. Just 4 more quests to go, and we can wrap it up!   
+Festive Wreath Workshop 7  | Ho ho ho. I've seen many, many Beesmases in my time, but never one quite as nice as this! And that's saying a lot - I do this every year, and I'm over 250 years old! How, you ask? Ho ho ho haven't you learned? I'm MAGIC! Every little thing I do is magic! Like bringing Gingerbread Cub Buddy to life - that's pure magic. And getting fitting my chubby little Festive Bee into that [Festive Wreath] - that took some REAL magic! But even with all my magic, I've never been able to accomplish what YOU'VE accomplished. You've kept last year's Beesmas joy alive MONTHS into the next year. Yes, through your determination, and the joy of your bees, this Beesmas simply refuses to end! And when your [Festive Wreath] is complete - it never has to! These remaining quests will add the finishing touches to your wreath. But don't let your guard down - they're the most tedious ones yet by far! _-During-_ Ho ho ho, are you as excited for Summertime Beesmas as I am? We'll be hosting Beesmas barbeques soaking in those festive Beesmas sunbeams. This neverending Beesmas just keeps getting better and better! _-Completion-_ Fantastic work! Seeing you catch those meteors sure made ME merry, at least! Oooh, everything is going so spendidly that it almost feels like a dream... Except this is a dream we'll NEVER wake up from! When your [Festive Wreath] is complete, it'll be a jolly Beesmas-dream filled slumber party for the rest of our lives! Ho ho ho ho! Whoever said a good thing can't last certainly looks silly now. Just 3 more quests until the wreath is complete!   
+Festive Wreath Workshop 8  | Delivering [Presents] is certainly one of the greatest joys of Beesmas, but making enough [Presents] for everyone is a challenge, even for a magical Bee Bear like myself! Thankfully there are other methods of giving back to your family and friends, like sharing your [Jelly Beans] to grant them amazing boosts! Or activating Bucko Bee's Snow Machine to share [Snowflake] to all players on the map. In order to charge your [Festive Wreath]'s magical powers, you'll need to share such gifts with countless friends! Yes, the pure joy of giving itself is the secret ingredient in a quality [Festive Wreath]. So go, go! Go spread joy to others in the most efficient ways possible! It's the only way we'll finish in time! _-During-_ Have you ever seen Monsters Inc? The Pixar movie? Well, you know how the monsters charge up batteries by scaring children? Ho ho ho, well what we're doing is basically that, but the opposite! We charge up our festive powers through spreading pure joy! ... Festive Bee has just informed me that the monsters end up charging their batteries through laughter. So basically the same thing we're doing. Please don't sue us Pixar! Ho ho ho ho! _-Completion-_ 🎵 Iiii saw Cool Bee kissing Black Bear's paws 🎵 🎵 Underneath the Honey Wreath last niiight 🎵 🎵 Why it did that sure beats me 🎵 🎵 But what an _[sic]_ akward thing to see 🎵 🎵 Cool Bee kissing Black Bear's paaawsss laaast NIIIGHT 🎵 Ho ho ho! Cool Bee can be pretty weird. Anyways, you did it! You charged up your [Festive Wreath] with the pure joy of others! Now there's only 2 more steps to go before it's ready for your Festive Bee!   
+Festive Wreath Workshop 9  | This Beesmas has been the best one yet! And there's no signs of it stopping! My Festive Bee is getting a little concerned, ho ho ho! What's the matter, Festive Bee? Isn't this what you wanted? Non-stop winter wonderland holly jolly magical merriment everywhere you look! What's that? You couldn't possibly be getting TIRED of Beesmas? Not you too, Festive Bee! You're supposed to be my #1 supporter! Could it be that maybe, just maybe, this neverending Beesmas plan wasn't a good idea? Has Bee Bear made a folly by being just a little TOO jolly? ...No. What would BBM think if he could hear me right now? And he CAN hear me! Oh ho ho oh no. If I don't believe in the magic of Beesmas, then WHO WILL? Just snap out of it Festive Bee, this Beesmas is just getting started! The beekeeper just needs to finish 2 more quests, and their [Festive Wreath] will be complete. Maybe that will cheer you up... _-During-_ This is what I get for letting Festive Bee skip BBM Sunday school. My own bees, starting to lose their belief in Beesmas! What kind of Honeyday deity lets their OWN BEES stray in such a way! Ho ho oh no no no... _-Completion-_ Oh, wonderful! Watching you complete that exceptionally hard quest has snapped Festive Bee out of her scroogy stupor! We're back in action! And Beesmas 2020/2021/2XXX has been saved once more! And it can be saved forever, if you complete just 1 more quest. It'll be a true challenge, a test of faith... But you can do it! As long as you BELIEVE.   
+Festive Wreath Workshop 10  | Looking around at each and every one of your bees... It's clear to see that this Beesmas has been an undeniable success! Oh yes! They're all full of cheer, decked out in Beequips, and stuffed full of delicious Beesmas [Treats]! Our merry mission was a success! What more could I ask for? You know... I'm beginning to think that maybe the best way to celebrate Beesmas forever... Is to keep the joy of our bees alive in out heart, and to cherish the memories we've made, always. Ho ho! Yes, it's true. after a chat with my bees and Gingerbread Cub, we've made a decision. After your [Festive Wreath] is done, we'll return to my workshop to prepare for next winters festivities. It'll be up to you and YOUR Festive Bee, decked out in its [Festive Wreath], to keep the memories of Beesmas alive. How does that sound, little ones? Are we all ready to move on with our lives? Ho ho ho ho! Not so fast! Not until the beekeeper's [Festive Wreath] is complete! So buckle up and brace yourself for the most daunting Beesmas quest yet. This is the moment of the truth! Remember. Bubble Bee Man is watching! Let's fire up the festivities to 110% and finish up your [Festive Wreath]! _-During-_ Yes, I did say this Beesmas would go on forever... Why the sudden change of heart? Ho ho ho, to be honest, it wasn't my idea! We held a vote. My bees and Gingerbread Cub Buddy all voted to go home! Even though my vote counts double, I was overruled, 3 to 2... _-Completion-_ Oh ho ho ho oh oh Oh yeaaah!! You've done it, little helper! You've done it all! You've spread inordinate amounts of Beesmas joy to every bear and bee on this mountain! You've extended this traditionally December-centric holiday well into the new year! You've purchased enough goods in my catalog to kickstart next year's Beesmas planning! And most importantly of all, you've finished constructing your [Festive Wreath]! With this equipped to your Festive Bee, the magic of Beesmas will stay with you all year long! It'll be a constant reminder of all you accomplished this magical Honeyday season. And now my bees and I can get ready to return to my workshop, to prepare new gifts for next winter! Ho ho ho, don't be sad! Remember... Beesmas can be a year long thing, as long as you keep the magic alive in your heart! All you have to do is believe in your bees, believe in Bubble Bee Man, and always keep that [Festive Wreath] equipped to our Festive Bee from here on out! Never remove it, ever, or all your memories of this year's Beesmas will be lost! It'll be like it never happened - everyone will forget all the joy you spread. Also your Festive Bee will lose 5 levels, and it'll become ungifted. So go, go enjoy that [Festive Wreath] and keep spreading Beesmas cheer year round! Be a good beekeeper, stay out of trouble! Puppy Bee, pack up your ball. We're heading out! Farewell, dear beekeeper! And Merrrrrry Beesmaasssss!   
+Conclusion  | My Festive Bee and I can move so fast, that it appears like we're still standing here when we're actually not. We're just popping in every other millisecond to keep things looking festive! Ho ho ho! I'm delivering thousands of gifts as we speak. That's the power of Beesmas! As long as you beelieve.   
+  
+## Words of Farewell[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBee_Bear%2F2020%3Fveaction%3Dedit%26section%3D4&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+Multiple announcements were made by Bee Bear before his departure. These announcements are:   
+  
+---  
+Servers will reboot at the end of this hour to remove the winter event.   
+Bee Bear: Ho ho ho, cool your jets little ones! We'll be back next year!   
+Bee Bear: Its up to the Beekeepers to keep the spirit of Beesmas alive while we're gone.   
+Bee Bear: Time to pack up, and fly back home! Imagine how boring it will be here without us, ho ho!   
+Bee Bear: Now everyone be good and log off before the reboot, or you'll end up on next years naughty list! Merrry Beesmasss! So looong everyone!   
+Bee Bear: Go on, exit the game, really! Come back in a few minutes! Ho ho ho you better go go go! 

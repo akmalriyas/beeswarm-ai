@@ -1,0 +1,2027 @@
+Context: Bee Swarm Simulator - Demon Talisman
+
+Demon Talisman
+Demon Talisman
+"An ornament trying hard to look conventionally evil."
+Fact: Demon Talisman statistic: +Bee Attack%.
+Fact: Demon Talisman statistic: +Gather Amount%.
+Fact: Demon Talisman statistic: +Ability Pollen%.
+Fact: Demon Talisman statistic: +Gathering Flames Chance%.
+Fact: Demon Talisman statistic: +Super-Crit Chance%.
+-Movespeed%
+Fact: -Movespeed% statistic: +Ability: Inferno.
+Fact: -Movespeed% statistic: +Red Bomb Pollen%.
+Fact: -Movespeed% statistic: +Flame Pollen%.
+Fact: -Movespeed% statistic: +Instant Red Bomb Conversion%.
+Fact: -Movespeed% statistic: +Instant Flame Conversion%.
+Fact: -Movespeed% statistic: +Instant Demon Bee Conversion%.
+-Max Bee Energy%
+-Player Movespeed
+Fact: -Player Movespeed statistic: xBlue Pollen.
+Fact: -Player Movespeed statistic: +Super-Crit Power%.
+The Demon Talisman is a level 13 beequip. It has an equip limit of one. There is a red color requirement. It can only be equipped to a mutated Demon Bee.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip does not use the old RNG functions.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades, Range.
+Fact: The Chance in Demon Talisman has/costs Value, Weight, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs **0.33**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Demon Talisman has/costs **5**, **+50% - +95%**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs **0.166**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Demon Talisman has/costs **15**, **+50% - +160%**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs **0.166**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Demon Talisman has/costs **15**, **+50% - +160%**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs An exact value between **10%** -**50%**.
+Fact: The Linear scaling by a factor of 1 in Demon Talisman has/costs A random value between **+10%** -**+15%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs **0.23**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Demon Talisman has/costs **3**, **0% - +21%**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs An exact value between **10%** -**50%**.
+Fact: The Linear scaling by a factor of 1 in Demon Talisman has/costs A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs **0.1**, **+2%**, **10**, **0% - +30%**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs \-, \-, \-, **-40% - -30%**.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs \-, \-, \-, **-80% - -70%**.
+Fact: Bias scales linearly statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, An exact value between **0.000125** -**0.001**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 0.5 in Demon Talisman has/costs **-**, **1**, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs An exact value between **0.4** -**0.6**.
+Fact: The Linear scaling by a factor of 1 in Demon Talisman has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Demon Talisman has/costs **11**, **+7% - +35%**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs An exact value between **0.4** -**0.6**.
+Fact: The Linear scaling by a factor of 1 in Demon Talisman has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Demon Talisman has/costs **11**, **+7% - +35%**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs An exact value between **0.1** -**0.25**.
+Fact: The Linear scaling by a factor of 1 in Demon Talisman has/costs **+1%**, **5**, **+6% - +14%**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs An exact value between **0.1** -**0.25**.
+Fact: The Linear scaling by a factor of 1 in Demon Talisman has/costs **+1%**, **5**, **+6% - +14%**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-, **+10% - +10%**.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Demon Talisman has/costs \-, \-, \-, **-25% - -20%**.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-, **-5 - -5**.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-, **x0.5 - x0.5**.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, An exact value between **0.05** -**0.2**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 2 in Demon Talisman has/costs **+2%**, **5**, **0% - +10%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +50%
+Fact: The Average value: +54.99% in Demon Talisman has/costs **16.5663%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +50%
+Fact: The Average value: +54.99% in Demon Talisman has/costs **8.3333%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4.44% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +50%
+Fact: The Average value: +54.99% in Demon Talisman has/costs **8.3333%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4.44% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **10%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Demon Talisman has/costs **11.5462%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **10%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Demon Talisman has/costs **5.0201%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -40%
+Fact: The Average value: -37.52% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -80%
+Fact: The Average value: -77.52% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +8.47% in Demon Talisman has/costs **20.0803%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +8.47% in Demon Talisman has/costs **20.0803%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.7% in Demon Talisman has/costs **5.0201%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.7% in Demon Talisman has/costs **5.0201%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -25%
+Fact: The Average value: -23.78% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +50%
+Fact: The Average value: +54.99% in Demon Talisman has/costs **16.1596%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +50%
+Fact: The Average value: +54.99% in Demon Talisman has/costs **8.1288%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4.44% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +50%
+Fact: The Average value: +54.99% in Demon Talisman has/costs **8.1288%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4.44% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **10%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Demon Talisman has/costs **11.2628%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **10%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Demon Talisman has/costs **4.8969%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -40%
+Fact: The Average value: -37.52% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -80%
+Fact: The Average value: -77.52% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -77.52% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0061%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +8.47% in Demon Talisman has/costs **19.5874%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +8.47% in Demon Talisman has/costs **19.5874%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.7% in Demon Talisman has/costs **4.8969%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.7% in Demon Talisman has/costs **4.8969%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -25%
+Fact: The Average value: -23.78% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **2.4484%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +52%
+Fact: The Average value: +56% in Demon Talisman has/costs **16.0039%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.06%
+Fact: The Average value: +3.46% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +52%
+Fact: The Average value: +56% in Demon Talisman has/costs **8.0504%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.06%
+Fact: The Average value: +4.46% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +52%
+Fact: The Average value: +56% in Demon Talisman has/costs **8.0504%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.06%
+Fact: The Average value: +4.46% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **14%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Demon Talisman has/costs **11.1542%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **14%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Demon Talisman has/costs **4.8497%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -39%
+Fact: The Average value: -37.01% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -79%
+Fact: The Average value: -77.01% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7.6%
+Fact: The Average value: +8.84% in Demon Talisman has/costs **20.3686%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7.6%
+Fact: The Average value: +8.84% in Demon Talisman has/costs **20.3686%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.3%
+Fact: The Average value: +6.85% in Demon Talisman has/costs **5.5771%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.3%
+Fact: The Average value: +6.85% in Demon Talisman has/costs **5.5771%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -24.5%
+Fact: The Average value: -23.46% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +52%
+Fact: The Average value: +56% in Demon Talisman has/costs **15.6109%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.06%
+Fact: The Average value: +3.46% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +52%
+Fact: The Average value: +56% in Demon Talisman has/costs **7.8528%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.06%
+Fact: The Average value: +4.46% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +52%
+Fact: The Average value: +56% in Demon Talisman has/costs **7.8528%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.06%
+Fact: The Average value: +4.46% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **14%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Demon Talisman has/costs **10.8804%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **14%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Demon Talisman has/costs **4.7306%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -39%
+Fact: The Average value: -37.01% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -79%
+Fact: The Average value: -77.01% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -77.01% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.019%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7.6%
+Fact: The Average value: +8.84% in Demon Talisman has/costs **19.8685%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +7.6%
+Fact: The Average value: +8.84% in Demon Talisman has/costs **19.8685%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.3%
+Fact: The Average value: +6.85% in Demon Talisman has/costs **5.4402%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.3%
+Fact: The Average value: +6.85% in Demon Talisman has/costs **5.4402%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -24.5%
+Fact: The Average value: -23.46% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **2.4363%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +54%
+Fact: The Average value: +57% in Demon Talisman has/costs **15.4784%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.18%
+Fact: The Average value: +3.51% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +54%
+Fact: The Average value: +57% in Demon Talisman has/costs **7.7861%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.18%
+Fact: The Average value: +4.51% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +54%
+Fact: The Average value: +57% in Demon Talisman has/costs **7.7861%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.18%
+Fact: The Average value: +4.51% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **18%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Demon Talisman has/costs **10.788%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **18%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Demon Talisman has/costs **4.6904%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -38%
+Fact: The Average value: -36.51% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -78%
+Fact: The Average value: -76.51% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.2%
+Fact: The Average value: +9.07% in Demon Talisman has/costs **20.6379%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.2%
+Fact: The Average value: +9.07% in Demon Talisman has/costs **20.6379%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.6%
+Fact: The Average value: +7.12% in Demon Talisman has/costs **6.0976%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.6%
+Fact: The Average value: +7.12% in Demon Talisman has/costs **6.0976%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -24%
+Fact: The Average value: -23.26% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +54%
+Fact: The Average value: +57% in Demon Talisman has/costs **15.0787%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.18%
+Fact: The Average value: +3.51% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +54%
+Fact: The Average value: +57% in Demon Talisman has/costs **7.585%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.18%
+Fact: The Average value: +4.51% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +54%
+Fact: The Average value: +57% in Demon Talisman has/costs **7.585%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.18%
+Fact: The Average value: +4.51% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **18%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Demon Talisman has/costs **10.5094%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **18%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Demon Talisman has/costs **4.5693%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -38%
+Fact: The Average value: -36.51% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -78%
+Fact: The Average value: -76.51% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -76.51% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0236%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.2%
+Fact: The Average value: +9.07% in Demon Talisman has/costs **20.1049%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.2%
+Fact: The Average value: +9.07% in Demon Talisman has/costs **20.1049%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.6%
+Fact: The Average value: +7.12% in Demon Talisman has/costs **5.9401%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.6%
+Fact: The Average value: +7.12% in Demon Talisman has/costs **5.9401%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -24%
+Fact: The Average value: -23.26% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **2.5588%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +56%
+Fact: The Average value: +58% in Demon Talisman has/costs **14.9864%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.33%
+Fact: The Average value: +3.6% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +56%
+Fact: The Average value: +58% in Demon Talisman has/costs **7.5386%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.33%
+Fact: The Average value: +4.6% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +56%
+Fact: The Average value: +58% in Demon Talisman has/costs **7.5386%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.33%
+Fact: The Average value: +4.6% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **22%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Demon Talisman has/costs **10.445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **22%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Demon Talisman has/costs **4.5413%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -37%
+Fact: The Average value: -36% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -77%
+Fact: The Average value: -76% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.8%
+Fact: The Average value: +9.42% in Demon Talisman has/costs **20.8901%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.8%
+Fact: The Average value: +9.42% in Demon Talisman has/costs **20.8901%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.9%
+Fact: The Average value: +7.21% in Demon Talisman has/costs **6.5849%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.9%
+Fact: The Average value: +7.21% in Demon Talisman has/costs **6.5849%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -23.5%
+Fact: The Average value: -22.99% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +56%
+Fact: The Average value: +58% in Demon Talisman has/costs **14.5624%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.33%
+Fact: The Average value: +3.6% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +56%
+Fact: The Average value: +58% in Demon Talisman has/costs **7.3253%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.33%
+Fact: The Average value: +4.6% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +56%
+Fact: The Average value: +58% in Demon Talisman has/costs **7.3253%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.33%
+Fact: The Average value: +4.6% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **22%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Demon Talisman has/costs **10.1496%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **22%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Demon Talisman has/costs **4.4129%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -37%
+Fact: The Average value: -36% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -77%
+Fact: The Average value: -76% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -76% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0267%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.8%
+Fact: The Average value: +9.42% in Demon Talisman has/costs **20.2992%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +8.8%
+Fact: The Average value: +9.42% in Demon Talisman has/costs **20.2992%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.9%
+Fact: The Average value: +7.21% in Demon Talisman has/costs **6.3986%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +6.9%
+Fact: The Average value: +7.21% in Demon Talisman has/costs **6.3986%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -23.5%
+Fact: The Average value: -22.99% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **2.8022%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +58%
+Fact: The Average value: +59% in Demon Talisman has/costs **14.5246%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.51%
+Fact: The Average value: +3.81% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +58%
+Fact: The Average value: +59% in Demon Talisman has/costs **7.3063%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.51%
+Fact: The Average value: +4.81% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +58%
+Fact: The Average value: +59% in Demon Talisman has/costs **7.3063%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.51%
+Fact: The Average value: +4.81% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **26%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Demon Talisman has/costs **10.1232%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **26%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Demon Talisman has/costs **4.4014%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -36%
+Fact: The Average value: -35.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -76%
+Fact: The Average value: -75.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +9.4%
+Fact: The Average value: +9.68% in Demon Talisman has/costs **21.1268%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +9.4%
+Fact: The Average value: +9.68% in Demon Talisman has/costs **21.1268%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.2%
+Fact: The Average value: +7.31% in Demon Talisman has/costs **7.0423%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.2%
+Fact: The Average value: +7.31% in Demon Talisman has/costs **7.0423%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -23%
+Fact: The Average value: -22.75% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +58%
+Fact: The Average value: +59% in Demon Talisman has/costs **14.0624%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.51%
+Fact: The Average value: +3.81% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +58%
+Fact: The Average value: +59% in Demon Talisman has/costs **7.0738%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.51%
+Fact: The Average value: +4.81% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +58%
+Fact: The Average value: +59% in Demon Talisman has/costs **7.0738%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.51%
+Fact: The Average value: +4.81% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **26%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Demon Talisman has/costs **9.8011%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **26%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Demon Talisman has/costs **4.2613%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -36%
+Fact: The Average value: -35.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -76%
+Fact: The Average value: -75.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -75.5% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0289%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +9.4%
+Fact: The Average value: +9.68% in Demon Talisman has/costs **20.4544%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +9.4%
+Fact: The Average value: +9.68% in Demon Talisman has/costs **20.4544%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.2%
+Fact: The Average value: +7.31% in Demon Talisman has/costs **6.8181%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.2%
+Fact: The Average value: +7.31% in Demon Talisman has/costs **6.8181%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -23%
+Fact: The Average value: -22.75% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **3.1534%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +60%
+Fact: The Average value: +60% in Demon Talisman has/costs **14.0905%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.71%
+Fact: The Average value: +3.93% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +60%
+Fact: The Average value: +60% in Demon Talisman has/costs **7.088%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.71%
+Fact: The Average value: +4.93% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +60%
+Fact: The Average value: +60% in Demon Talisman has/costs **7.088%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.71%
+Fact: The Average value: +4.93% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **30%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Demon Talisman has/costs **9.8207%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **30%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Demon Talisman has/costs **4.2699%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -35%
+Fact: The Average value: -35% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -75%
+Fact: The Average value: -75% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +10% in Demon Talisman has/costs **21.3493%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +10% in Demon Talisman has/costs **21.3493%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Demon Talisman has/costs **7.4722%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Demon Talisman has/costs **7.4722%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -22.5%
+Fact: The Average value: -22.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +60%
+Fact: The Average value: +60% in Demon Talisman has/costs **13.5789%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.71%
+Fact: The Average value: +3.93% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +60%
+Fact: The Average value: +60% in Demon Talisman has/costs **6.8306%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.71%
+Fact: The Average value: +4.93% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +60%
+Fact: The Average value: +60% in Demon Talisman has/costs **6.8306%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.71%
+Fact: The Average value: +4.93% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **30%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Demon Talisman has/costs **9.4641%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **30%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Demon Talisman has/costs **4.1148%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -35%
+Fact: The Average value: -35% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -75%
+Fact: The Average value: -75% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -75% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0306%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +10% in Demon Talisman has/costs **20.5741%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +10% in Demon Talisman has/costs **20.5741%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Demon Talisman has/costs **7.2009%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Demon Talisman has/costs **7.2009%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -22.5%
+Fact: The Average value: -22.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **3.6005%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +62%
+Fact: The Average value: +61% in Demon Talisman has/costs **13.6816%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.93%
+Fact: The Average value: +3.99% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +62%
+Fact: The Average value: +61% in Demon Talisman has/costs **6.8823%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.93%
+Fact: The Average value: +4.99% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +62%
+Fact: The Average value: +61% in Demon Talisman has/costs **6.8823%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.93%
+Fact: The Average value: +4.99% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **34%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Demon Talisman has/costs **9.5357%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **34%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Demon Talisman has/costs **4.1459%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -34%
+Fact: The Average value: -34.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -74%
+Fact: The Average value: -74.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10.6%
+Fact: The Average value: +10.32% in Demon Talisman has/costs **21.5589%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10.6%
+Fact: The Average value: +10.32% in Demon Talisman has/costs **21.5589%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.8%
+Fact: The Average value: +7.69% in Demon Talisman has/costs **7.8773%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.8%
+Fact: The Average value: +7.69% in Demon Talisman has/costs **7.8773%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -22%
+Fact: The Average value: -22.25% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +62%
+Fact: The Average value: +61% in Demon Talisman has/costs **13.1119%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.93%
+Fact: The Average value: +3.99% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +62%
+Fact: The Average value: +61% in Demon Talisman has/costs **6.5957%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.93%
+Fact: The Average value: +4.99% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +62%
+Fact: The Average value: +61% in Demon Talisman has/costs **6.5957%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +4.93%
+Fact: The Average value: +4.99% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **34%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Demon Talisman has/costs **9.1386%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **34%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Demon Talisman has/costs **3.9733%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -34%
+Fact: The Average value: -34.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -74%
+Fact: The Average value: -74.5% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -74.5% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0319%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10.6%
+Fact: The Average value: +10.32% in Demon Talisman has/costs **20.6611%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +10.6%
+Fact: The Average value: +10.32% in Demon Talisman has/costs **20.6611%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.8%
+Fact: The Average value: +7.69% in Demon Talisman has/costs **7.5493%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +7.8%
+Fact: The Average value: +7.69% in Demon Talisman has/costs **7.5493%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -22%
+Fact: The Average value: -22.25% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **4.1322%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +64%
+Fact: The Average value: +62% in Demon Talisman has/costs **13.2957%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.17%
+Fact: The Average value: +4.03% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +64%
+Fact: The Average value: +62% in Demon Talisman has/costs **6.6882%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.17%
+Fact: The Average value: +5.03% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +64%
+Fact: The Average value: +62% in Demon Talisman has/costs **6.6882%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.17%
+Fact: The Average value: +5.03% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **38%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Demon Talisman has/costs **9.2667%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **38%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Demon Talisman has/costs **4.029%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -33%
+Fact: The Average value: -34% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -73%
+Fact: The Average value: -74% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.2%
+Fact: The Average value: +10.58% in Demon Talisman has/costs **21.7566%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.2%
+Fact: The Average value: +10.58% in Demon Talisman has/costs **21.7566%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.1%
+Fact: The Average value: +7.79% in Demon Talisman has/costs **8.2595%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.1%
+Fact: The Average value: +7.79% in Demon Talisman has/costs **8.2595%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -21.5%
+Fact: The Average value: -22.01% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +64%
+Fact: The Average value: +62% in Demon Talisman has/costs **12.6614%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.17%
+Fact: The Average value: +4.03% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +64%
+Fact: The Average value: +62% in Demon Talisman has/costs **6.369%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.17%
+Fact: The Average value: +5.03% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +64%
+Fact: The Average value: +62% in Demon Talisman has/costs **6.369%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.17%
+Fact: The Average value: +5.03% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **38%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Demon Talisman has/costs **8.8246%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **38%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Demon Talisman has/costs **3.8368%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -33%
+Fact: The Average value: -34% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -73%
+Fact: The Average value: -74% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -74% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0329%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.2%
+Fact: The Average value: +10.58% in Demon Talisman has/costs **20.7186%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.2%
+Fact: The Average value: +10.58% in Demon Talisman has/costs **20.7186%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.1%
+Fact: The Average value: +7.79% in Demon Talisman has/costs **7.8654%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.1%
+Fact: The Average value: +7.79% in Demon Talisman has/costs **7.8654%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -21.5%
+Fact: The Average value: -22.01% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **4.7384%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +66%
+Fact: The Average value: +63% in Demon Talisman has/costs **12.931%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.43%
+Fact: The Average value: +4.13% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +66%
+Fact: The Average value: +63% in Demon Talisman has/costs **6.5047%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.43%
+Fact: The Average value: +5.13% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +66%
+Fact: The Average value: +63% in Demon Talisman has/costs **6.5047%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.43%
+Fact: The Average value: +5.13% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **42%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Demon Talisman has/costs **9.0125%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **42%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Demon Talisman has/costs **3.9185%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -32%
+Fact: The Average value: -33.49% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -72%
+Fact: The Average value: -73.49% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.8%
+Fact: The Average value: +10.93% in Demon Talisman has/costs **21.9436%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.8%
+Fact: The Average value: +10.93% in Demon Talisman has/costs **21.9436%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.4%
+Fact: The Average value: +7.88% in Demon Talisman has/costs **8.6207%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.4%
+Fact: The Average value: +7.88% in Demon Talisman has/costs **8.6207%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -21%
+Fact: The Average value: -21.74% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +66%
+Fact: The Average value: +63% in Demon Talisman has/costs **12.2272%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.43%
+Fact: The Average value: +4.13% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +66%
+Fact: The Average value: +63% in Demon Talisman has/costs **6.1506%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.43%
+Fact: The Average value: +5.13% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +66%
+Fact: The Average value: +63% in Demon Talisman has/costs **6.1506%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.43%
+Fact: The Average value: +5.13% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **42%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Demon Talisman has/costs **8.522%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **42%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Demon Talisman has/costs **3.7052%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -32%
+Fact: The Average value: -33.49% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -72%
+Fact: The Average value: -73.49% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -73.49% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0336%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.8%
+Fact: The Average value: +10.93% in Demon Talisman has/costs **20.7491%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +11.8%
+Fact: The Average value: +10.93% in Demon Talisman has/costs **20.7491%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.4%
+Fact: The Average value: +7.88% in Demon Talisman has/costs **8.1514%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.4%
+Fact: The Average value: +7.88% in Demon Talisman has/costs **8.1514%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -21%
+Fact: The Average value: -21.74% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **5.4096%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +68%
+Fact: The Average value: +64% in Demon Talisman has/costs **12.5858%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.71%
+Fact: The Average value: +4.43% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +68%
+Fact: The Average value: +64% in Demon Talisman has/costs **6.331%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.71%
+Fact: The Average value: +5.43% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +68%
+Fact: The Average value: +64% in Demon Talisman has/costs **6.331%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.71%
+Fact: The Average value: +5.43% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **46%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Demon Talisman has/costs **8.7719%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **46%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Demon Talisman has/costs **3.8139%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -31%
+Fact: The Average value: -32.99% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -71%
+Fact: The Average value: -72.99% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +12.4%
+Fact: The Average value: +11.16% in Demon Talisman has/costs **22.1205%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +12.4%
+Fact: The Average value: +11.16% in Demon Talisman has/costs **22.1205%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.7%
+Fact: The Average value: +8.15% in Demon Talisman has/costs **8.9626%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.7%
+Fact: The Average value: +8.15% in Demon Talisman has/costs **8.9626%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -20.5%
+Fact: The Average value: -21.54% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +68%
+Fact: The Average value: +64% in Demon Talisman has/costs **11.8091%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.71%
+Fact: The Average value: +4.43% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +68%
+Fact: The Average value: +64% in Demon Talisman has/costs **5.9403%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.71%
+Fact: The Average value: +5.43% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +68%
+Fact: The Average value: +64% in Demon Talisman has/costs **5.9403%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +5.71%
+Fact: The Average value: +5.43% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **46%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Demon Talisman has/costs **8.2306%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **46%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Demon Talisman has/costs **3.5785%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -31%
+Fact: The Average value: -32.99% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -71%
+Fact: The Average value: -72.99% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -72.99% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0342%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +12.4%
+Fact: The Average value: +11.16% in Demon Talisman has/costs **20.7554%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +12.4%
+Fact: The Average value: +11.16% in Demon Talisman has/costs **20.7554%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.7%
+Fact: The Average value: +8.15% in Demon Talisman has/costs **8.4095%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +8.7%
+Fact: The Average value: +8.15% in Demon Talisman has/costs **8.4095%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -20.5%
+Fact: The Average value: -21.54% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **6.1372%**, **+2%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +70%
+Fact: The Average value: +65.01% in Demon Talisman has/costs **12.2585%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +70%
+Fact: The Average value: +65.01% in Demon Talisman has/costs **6.1664%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +5.56% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +70%
+Fact: The Average value: +65.01% in Demon Talisman has/costs **6.1664%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +5.56% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **50%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Demon Talisman has/costs **8.5438%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **50%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Demon Talisman has/costs **3.7147%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -30%
+Fact: The Average value: -32.48% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -70%
+Fact: The Average value: -72.48% in Demon Talisman has/costs \-, \-, \-.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +11.53% in Demon Talisman has/costs **22.2883%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +11.53% in Demon Talisman has/costs **22.2883%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.3% in Demon Talisman has/costs **9.2868%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.3% in Demon Talisman has/costs **9.2868%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -20%
+Fact: The Average value: -21.22% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Demon Talisman has/costs Base, Upgrades.
+Fact: The Chance in Demon Talisman has/costs Value, Chance, Value, Limit.
+Fact: The +Bee Attack% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +70%
+Fact: The Average value: +65.01% in Demon Talisman has/costs **11.4068%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Demon Talisman has/costs **5**.
+Fact: The +Gather Amount% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +70%
+Fact: The Average value: +65.01% in Demon Talisman has/costs **5.738%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +5.56% in Demon Talisman has/costs **15**.
+Fact: The +Ability Pollen% in Demon Talisman has/costs **100%**, A random value between **+50%** -**+70%**.
+Intervals of +1%
+Biased to values near +70%
+Fact: The Average value: +65.01% in Demon Talisman has/costs **5.738%**, A random value between **+4%** -**+6%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +5.56% in Demon Talisman has/costs **15**.
+Fact: The +Gathering Flames Chance% in Demon Talisman has/costs **50%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Demon Talisman has/costs **7.9502%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Demon Talisman has/costs **3**.
+Fact: The +Super-Crit Chance% in Demon Talisman has/costs **50%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Demon Talisman has/costs **3.4566%**, **+2%**, **10**.
+Fact: The -Movespeed% in Demon Talisman has/costs **100%**, A random value between **-40%** -**-30%**.
+Intervals of +1%
+Biased to values near -30%
+Fact: The Average value: -32.48% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Energy% in Demon Talisman has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -70%
+Fact: The Average value: -72.48% in Demon Talisman has/costs \-, \-, \-.
+Fact: Average value: -72.48% statistic: +Ability: Inferno.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **0.0346%**, **-**, **1**.
+Fact: The +Red Bomb Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +11.53% in Demon Talisman has/costs **20.7397%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Demon Talisman has/costs **11**.
+Fact: The +Flame Pollen% in Demon Talisman has/costs **100%**, A random value between **+7%** -**+13%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +11.53% in Demon Talisman has/costs **20.7397%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Demon Talisman has/costs **11**.
+Fact: The +Instant Red Bomb Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.3% in Demon Talisman has/costs **8.6415%**, **+1%**, **5**.
+Fact: The +Instant Flame Conversion% in Demon Talisman has/costs **100%**, A random value between **+6%** -**+9%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.3% in Demon Talisman has/costs **8.6415%**, **+1%**, **5**.
+Fact: The +Instant Demon Bee Conversion% in Demon Talisman has/costs **100%**, **+10%**, \-, \-, \-.
+Fact: The -Max Bee Energy% in Demon Talisman has/costs **100%**, A random value between **-25%** -**-20%**.
+Intervals of +1%
+Biased to values near -20%
+Fact: The Average value: -21.22% in Demon Talisman has/costs \-, \-, \-.
+Fact: The -Player Movespeed in Demon Talisman has/costs **100%**, **-5**, \-, \-, \-.
+Fact: The xBlue Pollen in Demon Talisman has/costs **100%**, **x0.5**, \-, \-, \-.
+Fact: xBlue Pollen statistic: +Super-Crit Power%.
+Fact: The Caustic Points Only in Demon Talisman has/costs \-, \-, **6.9132%**, **+2%**, **5**.
+Probabilities[]
+The tables below give the probability of a stat of Demon Talisman falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Bee Attack%
+* +Gather Amount%
+Fact: * +Gather Amount% statistic: * +Ability Pollen%.
+* +Gathering Flames Chance%
+* +Super-Crit Chance%
+* -Movespeed%
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +50%-+54% in Demon Talisman has/costs +55%-+59%, +60%-+64%, +65%-+69%, +70%.
+Fact: The **0 ★** in Demon Talisman has/costs 56.062%, 26.799%, 12.954%, 4.154%, 0.032%, +55%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 47.176%, 33.154%, 14.96%, 4.675%, 0.035%, +56%.
+Fact: The **1 ★** in Demon Talisman has/costs 31.164%, 45.701%, 17.748%, 5.347%, 0.039%, +57%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 12.103%, 59.657%, 21.947%, 6.248%, 0.045%, +58%.
+Fact: The **2 ★** in Demon Talisman has/costs 8.033%, 55.063%, 29.33%, 7.521%, 0.053%, +59%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 6.059%, 33.951%, 50.456%, 9.47%, 0.064%, +60%.
+Fact: The **3 ★** in Demon Talisman has/costs 4.875%, 23.017%, 59.147%, 12.881%, 0.08%, +61%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 4.081%, 17.882%, 56.749%, 21.181%, 0.107%, +62%.
+Fact: The **4 ★** in Demon Talisman has/costs 3.511%, 14.713%, 36.522%, 45.09%, 0.163%, +63%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 3.081%, 12.531%, 28.23%, 55.816%, 0.342%, +64%.
+Fact: The **5 ★** in Demon Talisman has/costs 2.746%, 10.925%, 23.327%, 51.28%, 11.722%, +65%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +50%-+54% in Demon Talisman has/costs +55%-+59%, +60%-+64%, +65%-+69%, +70%.
+Fact: The **0 ★** in Demon Talisman has/costs 56.062%, 26.799%, 12.954%, 4.154%, 0.032%, +55%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 47.176%, 33.154%, 14.96%, 4.675%, 0.035%, +56%.
+Fact: The **1 ★** in Demon Talisman has/costs 31.164%, 45.701%, 17.748%, 5.347%, 0.039%, +57%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 12.103%, 59.657%, 21.947%, 6.248%, 0.045%, +58%.
+Fact: The **2 ★** in Demon Talisman has/costs 8.033%, 55.063%, 29.33%, 7.521%, 0.053%, +59%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 6.059%, 33.951%, 50.456%, 9.47%, 0.064%, +60%.
+Fact: The **3 ★** in Demon Talisman has/costs 4.875%, 23.017%, 59.147%, 12.881%, 0.08%, +61%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 4.081%, 17.882%, 56.749%, 21.181%, 0.107%, +62%.
+Fact: The **4 ★** in Demon Talisman has/costs 3.511%, 14.713%, 36.522%, 45.09%, 0.163%, +63%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 3.081%, 12.531%, 28.23%, 55.816%, 0.342%, +64%.
+Fact: The **5 ★** in Demon Talisman has/costs 2.746%, 10.925%, 23.327%, 51.28%, 11.722%, +65%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +50%-+54% in Demon Talisman has/costs +55%-+59%, +60%-+64%, +65%-+69%, +70%.
+Fact: The **0 ★** in Demon Talisman has/costs 56.062%, 26.799%, 12.954%, 4.154%, 0.032%, +55%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 47.176%, 33.154%, 14.96%, 4.675%, 0.035%, +56%.
+Fact: The **1 ★** in Demon Talisman has/costs 31.164%, 45.701%, 17.748%, 5.347%, 0.039%, +57%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 12.103%, 59.657%, 21.947%, 6.248%, 0.045%, +58%.
+Fact: The **2 ★** in Demon Talisman has/costs 8.033%, 55.063%, 29.33%, 7.521%, 0.053%, +59%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 6.059%, 33.951%, 50.456%, 9.47%, 0.064%, +60%.
+Fact: The **3 ★** in Demon Talisman has/costs 4.875%, 23.017%, 59.147%, 12.881%, 0.08%, +61%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 4.081%, 17.882%, 56.749%, 21.181%, 0.107%, +62%.
+Fact: The **4 ★** in Demon Talisman has/costs 3.511%, 14.713%, 36.522%, 45.09%, 0.163%, +63%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 3.081%, 12.531%, 28.23%, 55.816%, 0.342%, +64%.
+Fact: The **5 ★** in Demon Talisman has/costs 2.746%, 10.925%, 23.327%, 51.28%, 11.722%, +65%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +10% in Demon Talisman has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0 ★** in Demon Talisman has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +11.2%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +11.5%.
+Fact: The **1 ★** in Demon Talisman has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +11.7%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +12%.
+Fact: The **2 ★** in Demon Talisman has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +12.2%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +12.5%.
+Fact: The **3 ★** in Demon Talisman has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +12.8%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +13%.
+Fact: The **4 ★** in Demon Talisman has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +13.3%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +13.5%.
+Fact: The **5 ★** in Demon Talisman has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +13.8%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +5% in Demon Talisman has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Demon Talisman has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Demon Talisman has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Demon Talisman has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Demon Talisman has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Demon Talisman has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Demon Talisman has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The -40%--39% in Demon Talisman has/costs -38%--37%, -36%--35%, -34%--33%, -32%--31%, -30%.
+Fact: The **0 ★** in Demon Talisman has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, -37.5%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, -37%.
+Fact: The **1 ★** in Demon Talisman has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, -36.5%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, -36%.
+Fact: The **2 ★** in Demon Talisman has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, -35.5%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, -35%.
+Fact: The **3 ★** in Demon Talisman has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, -34.5%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, -34%.
+Fact: The **4 ★** in Demon Talisman has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, -33.5%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, -33%.
+Fact: The **5 ★** in Demon Talisman has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, -32.5%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The -80%--79% in Demon Talisman has/costs -78%--77%, -76%--75%, -74%--73%, -72%--71%, -70%.
+Fact: The **0 ★** in Demon Talisman has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, -77.5%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, -77%.
+Fact: The **1 ★** in Demon Talisman has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, -76.5%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, -76%.
+Fact: The **2 ★** in Demon Talisman has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, -75.5%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, -75%.
+Fact: The **3 ★** in Demon Talisman has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, -74.5%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, -74%.
+Fact: The **4 ★** in Demon Talisman has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, -73.5%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, -73%.
+Fact: The **5 ★** in Demon Talisman has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, -72.5%.
+Fact: **5 ★** statistic: * +Red Bomb Pollen%.
+Fact: **5 ★** statistic: * +Flame Pollen%.
+* +Instant Red Bomb Conversion%
+* +Instant Flame Conversion%
+* -Max Bee Energy%
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +7%-+8% in Demon Talisman has/costs +9%-+10%, +11%-+12%, +13%.
+Fact: The **0 ★** in Demon Talisman has/costs 59.657%, 30.117%, 9.868%, 0.357%, +8.5%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 51.876%, 36.505%, 11.22%, 0.398%, +8.8%.
+Fact: The **1 ★** in Demon Talisman has/costs 38.863%, 47.672%, 13.015%, 0.45%, +9.1%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 16.041%, 67.918%, 15.523%, 0.517%, +9.4%.
+Fact: The **2 ★** in Demon Talisman has/costs 10.288%, 69.782%, 19.323%, 0.608%, +9.7%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 7.671%, 65.593%, 25.999%, 0.737%, +10%.
+Fact: The **3 ★** in Demon Talisman has/costs 6.135%, 46.226%, 46.704%, 0.936%, +10.3%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 5.118%, 32.312%, 61.288%, 1.283%, +10.6%.
+Fact: The **4 ★** in Demon Talisman has/costs 4.392%, 25.639%, 67.924%, 2.045%, +10.9%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 3.848%, 21.409%, 69.397%, 5.347%, +11.2%.
+Fact: The **5 ★** in Demon Talisman has/costs 3.424%, 18.432%, 49.104%, 29.041%, +11.5%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +7%-+8% in Demon Talisman has/costs +9%-+10%, +11%-+12%, +13%.
+Fact: The **0 ★** in Demon Talisman has/costs 59.657%, 30.117%, 9.868%, 0.357%, +8.5%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 51.876%, 36.505%, 11.22%, 0.398%, +8.8%.
+Fact: The **1 ★** in Demon Talisman has/costs 38.863%, 47.672%, 13.015%, 0.45%, +9.1%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 16.041%, 67.918%, 15.523%, 0.517%, +9.4%.
+Fact: The **2 ★** in Demon Talisman has/costs 10.288%, 69.782%, 19.323%, 0.608%, +9.7%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 7.671%, 65.593%, 25.999%, 0.737%, +10%.
+Fact: The **3 ★** in Demon Talisman has/costs 6.135%, 46.226%, 46.704%, 0.936%, +10.3%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 5.118%, 32.312%, 61.288%, 1.283%, +10.6%.
+Fact: The **4 ★** in Demon Talisman has/costs 4.392%, 25.639%, 67.924%, 2.045%, +10.9%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 3.848%, 21.409%, 69.397%, 5.347%, +11.2%.
+Fact: The **5 ★** in Demon Talisman has/costs 3.424%, 18.432%, 49.104%, 29.041%, +11.5%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +6% in Demon Talisman has/costs +7%, +8%, +9%.
+Fact: The **0 ★** in Demon Talisman has/costs 46.529%, 38.128%, 13.869%, 1.473%, +6.7%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 34.018%, 48.419%, 15.914%, 1.648%, +6.9%.
+Fact: The **1 ★** in Demon Talisman has/costs 10.694%, 68.731%, 18.704%, 1.871%, +7.1%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 5.854%, 69.201%, 22.781%, 2.164%, +7.2%.
+Fact: The **2 ★** in Demon Talisman has/costs 4.09%, 63.828%, 29.517%, 2.565%, +7.3%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 3.151%, 46.849%, 46.849%, 3.151%, +7.5%.
+Fact: The **3 ★** in Demon Talisman has/costs 2.565%, 29.517%, 63.828%, 4.09%, +7.7%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 2.164%, 22.781%, 69.201%, 5.854%, +7.8%.
+Fact: The **4 ★** in Demon Talisman has/costs 1.871%, 18.704%, 68.731%, 10.694%, +7.9%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 1.648%, 15.914%, 48.419%, 34.018%, +8.1%.
+Fact: The **5 ★** in Demon Talisman has/costs 1.473%, 13.869%, 38.128%, 46.529%, +8.3%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +6% in Demon Talisman has/costs +7%, +8%, +9%.
+Fact: The **0 ★** in Demon Talisman has/costs 46.529%, 38.128%, 13.869%, 1.473%, +6.7%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 34.018%, 48.419%, 15.914%, 1.648%, +6.9%.
+Fact: The **1 ★** in Demon Talisman has/costs 10.694%, 68.731%, 18.704%, 1.871%, +7.1%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 5.854%, 69.201%, 22.781%, 2.164%, +7.2%.
+Fact: The **2 ★** in Demon Talisman has/costs 4.09%, 63.828%, 29.517%, 2.565%, +7.3%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 3.151%, 46.849%, 46.849%, 3.151%, +7.5%.
+Fact: The **3 ★** in Demon Talisman has/costs 2.565%, 29.517%, 63.828%, 4.09%, +7.7%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 2.164%, 22.781%, 69.201%, 5.854%, +7.8%.
+Fact: The **4 ★** in Demon Talisman has/costs 1.871%, 18.704%, 68.731%, 10.694%, +7.9%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 1.648%, 15.914%, 48.419%, 34.018%, +8.1%.
+Fact: The **5 ★** in Demon Talisman has/costs 1.473%, 13.869%, 38.128%, 46.529%, +8.3%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The -25% in Demon Talisman has/costs -24%, -23%, -22%, -21%, -20%.
+Fact: The **0 ★** in Demon Talisman has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, -23.8%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, -23.5%.
+Fact: The **1 ★** in Demon Talisman has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, -23.3%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, -23%.
+Fact: The **2 ★** in Demon Talisman has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, -22.8%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, -22.5%.
+Fact: The **3 ★** in Demon Talisman has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, -22.2%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, -22%.
+Fact: The **4 ★** in Demon Talisman has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, -21.7%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, -21.5%.
+Fact: The **5 ★** in Demon Talisman has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, -21.2%.
+* Bee Stats
+* Hive Bonuses
+* +Bee Attack%
+* +Gather Amount%
+Fact: * +Gather Amount% statistic: * +Ability Pollen%.
+* +Gathering Flames Chance%
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +3% in Demon Talisman has/costs +4%, +5%.
+Fact: The **0 ★** in Demon Talisman has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 57.525%, 38.928%, 3.547%, +3.5%.
+Fact: The **1 ★** in Demon Talisman has/costs 52.863%, 43.339%, 3.798%, +3.5%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 44.515%, 51.304%, 4.181%, +3.6%.
+Fact: The **2 ★** in Demon Talisman has/costs 23.676%, 71.576%, 4.748%, +3.8%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 12.284%, 82.1%, 5.616%, +3.9%.
+Fact: The **3 ★** in Demon Talisman has/costs 8.421%, 84.532%, 7.047%, +4%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 6.316%, 83.881%, 9.803%, +4%.
+Fact: The **4 ★** in Demon Talisman has/costs 4.989%, 77.284%, 17.726%, +4.1%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 4.081%, 49.044%, 46.875%, +4.4%.
+Fact: The **5 ★** in Demon Talisman has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +4% in Demon Talisman has/costs +5%, +6%.
+Fact: The **0 ★** in Demon Talisman has/costs 59.657%, 36.919%, 3.424%, +4.4%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 57.525%, 38.928%, 3.547%, +4.5%.
+Fact: The **1 ★** in Demon Talisman has/costs 52.863%, 43.339%, 3.798%, +4.5%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 44.515%, 51.304%, 4.181%, +4.6%.
+Fact: The **2 ★** in Demon Talisman has/costs 23.676%, 71.576%, 4.748%, +4.8%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 12.284%, 82.1%, 5.616%, +4.9%.
+Fact: The **3 ★** in Demon Talisman has/costs 8.421%, 84.532%, 7.047%, +5%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 6.316%, 83.881%, 9.803%, +5%.
+Fact: The **4 ★** in Demon Talisman has/costs 4.989%, 77.284%, 17.726%, +5.1%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 4.081%, 49.044%, 46.875%, +5.4%.
+Fact: The **5 ★** in Demon Talisman has/costs 3.424%, 36.919%, 59.657%, +5.6%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +4% in Demon Talisman has/costs +5%, +6%.
+Fact: The **0 ★** in Demon Talisman has/costs 59.657%, 36.919%, 3.424%, +4.4%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 57.525%, 38.928%, 3.547%, +4.5%.
+Fact: The **1 ★** in Demon Talisman has/costs 52.863%, 43.339%, 3.798%, +4.5%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 44.515%, 51.304%, 4.181%, +4.6%.
+Fact: The **2 ★** in Demon Talisman has/costs 23.676%, 71.576%, 4.748%, +4.8%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 12.284%, 82.1%, 5.616%, +4.9%.
+Fact: The **3 ★** in Demon Talisman has/costs 8.421%, 84.532%, 7.047%, +5%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 6.316%, 83.881%, 9.803%, +5%.
+Fact: The **4 ★** in Demon Talisman has/costs 4.989%, 77.284%, 17.726%, +5.1%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 4.081%, 49.044%, 46.875%, +5.4%.
+Fact: The **5 ★** in Demon Talisman has/costs 3.424%, 36.919%, 59.657%, +5.6%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +1% in Demon Talisman has/costs +2%.
+Fact: The **0 ★** in Demon Talisman has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 84.462%, 15.538%, +1.2%.
+Fact: The **1 ★** in Demon Talisman has/costs 83.843%, 16.157%, +1.2%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 82.689%, 17.311%, +1.2%.
+Fact: The **2 ★** in Demon Talisman has/costs 80.752%, 19.248%, +1.2%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Demon Talisman has/costs 71.278%, 28.722%, +1.3%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 53.932%, 46.068%, +1.5%.
+Fact: The **4 ★** in Demon Talisman has/costs 28.722%, 71.278%, +1.7%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 20.226%, 79.774%, +1.8%.
+Fact: The **5 ★** in Demon Talisman has/costs 15.343%, 84.657%, +1.8%.
+Fact: **5 ★** statistic: * +Red Bomb Pollen%.
+Fact: **5 ★** statistic: * +Flame Pollen%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +1% in Demon Talisman has/costs +2%.
+Fact: The **0 ★** in Demon Talisman has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 84.462%, 15.538%, +1.2%.
+Fact: The **1 ★** in Demon Talisman has/costs 83.843%, 16.157%, +1.2%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 82.689%, 17.311%, +1.2%.
+Fact: The **2 ★** in Demon Talisman has/costs 80.752%, 19.248%, +1.2%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Demon Talisman has/costs 71.278%, 28.722%, +1.3%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 53.932%, 46.068%, +1.5%.
+Fact: The **4 ★** in Demon Talisman has/costs 28.722%, 71.278%, +1.7%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 20.226%, 79.774%, +1.8%.
+Fact: The **5 ★** in Demon Talisman has/costs 15.343%, 84.657%, +1.8%.
+Fact: The Potential in Demon Talisman has/costs Stat ranges, Average.
+Fact: The +1% in Demon Talisman has/costs +2%.
+Fact: The **0 ★** in Demon Talisman has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Demon Talisman has/costs 84.462%, 15.538%, +1.2%.
+Fact: The **1 ★** in Demon Talisman has/costs 83.843%, 16.157%, +1.2%.
+Fact: The **1.5 ★** in Demon Talisman has/costs 82.689%, 17.311%, +1.2%.
+Fact: The **2 ★** in Demon Talisman has/costs 80.752%, 19.248%, +1.2%.
+Fact: The **2.5 ★** in Demon Talisman has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Demon Talisman has/costs 71.278%, 28.722%, +1.3%.
+Fact: The **3.5 ★** in Demon Talisman has/costs 53.932%, 46.068%, +1.5%.
+Fact: The **4 ★** in Demon Talisman has/costs 28.722%, 71.278%, +1.7%.
+Fact: The **4.5 ★** in Demon Talisman has/costs 20.226%, 79.774%, +1.8%.
+Fact: The **5 ★** in Demon Talisman has/costs 15.343%, 84.657%, +1.8%.
+Ways to obtain[]
+* Can be purchased from Dapper Bear's Beequip Shop.
+* As a drop from the Heat-Treated Planter and Pesticide Planter.
+* As a exceptionally rare reward from Robo Bear Challenge.
+Fact: The Sub-Inventories in Demon Talisman has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Demon Talisman has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Demon Talisman has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Demon Talisman has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Demon Talisman has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Demon Talisman has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Demon Talisman has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Demon Talisman has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Demon Talisman has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Demon Talisman has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Demon Talisman has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Demon Talisman has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Demon Talisman has/costs **7-Pronged Cog**.
+Fact: The Other in Demon Talisman has/costs **Marshmallow Bee**.
+Fact: The Currencies in Demon Talisman has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Demon Talisman has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Demon Talisman has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Demon Talisman has/costs **Parachute •  Glider**.
+Fact: The Bags in Demon Talisman has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Demon Talisman has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Demon Talisman has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Demon Talisman has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Demon Talisman has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Demon Talisman has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Demon Talisman has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  **Demon Talisman** •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Demon Talisman has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Demon Talisman has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Demon Talisman has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

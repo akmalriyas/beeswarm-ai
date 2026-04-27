@@ -1,0 +1,69 @@
+Context: Bee Swarm Simulator - Comforting Vial
+
+Comforting Vial
+Comforting Vial
+Fact: Comforting Vial statistic: _"Grants 4 hours of Comforting Nectar. (Boosts: Blue Pollen, Convert Rate, Convert Rate at hive.)"_.
+The Comforting Vial is a consumable nectar vial item that was added in the 2022-12-26 update. Once used, it grants the player 4 hours of the Comforting Nectar buff instantly. It can also be used to craft other accessories and tools.
+Ways to Obtain[]
+* Completing Dapper Bear's 6th, 10th, and 13th quests each reward 1 Comforting Vial and other items.
+* Completing Dapper Bear's Blue Drive quest rewards 1 Comforting Vial and other items.
+* Using the Nectar Condenser to condense 12 hours of Comforting Nectar.
+* Adding the Comforting Nectar Icon to the Sticker Stack rewards 1 Comforting Vial.
+* Buying the Frozen Forest Pack from Bee Bear's Catalog for 1,200 Snowflakes and 60 Gingerbread Bears grants 1 Comforting Vial and other items.
+* Giving a Present to Gifted Bucko Bee rewards 1 Comforting Vial and other items.
+Outdated Ways[]
+* Giving a Present to Gifted Bucko Bee during Beesmas 2022 rewarded 1 Comforting Vial and other items.
+* Buying the Hefty Honeyday Bundle from Bee Bear's Catalog granted 5 Comforting Vials and other items.
+* Purchasing the Nighttime Nectar Pack in the Robux Shop rewarded 1 Comforting Vial and other items.
+* Opening Certain Gift Boxes:
+* Opening the Soothing Gift Box rewarded 2 Comforting Vials and other items.
+* Completing certain quests:
+* Completing Bucko Bee's Snow Machine during Beesmas 2022 rewarded 1 Comforting Vial and other items.
+* Completing Peppermint Preparation 2 (Bee Bear) rewarded 1 Comforting Vial and other items.
+* Completing Bubble Bee Man's Naughty List in Beesmas 2022 rewarded 8 Comforting Vials and other items.
+Crafting Uses[]
+Total required for all single-purchase items: 4 Comforting Vials
+Fact: The **Comforting Vials** in Comforting Vial has/costs Other ingredients, Result.
+Fact: The 1 in Comforting Vial has/costs 5B Honey.
+Fact: 1 requirement: 250 Blue Extracts.
+Fact: 1 requirement: 150 Oils.
+Fact: 1 requirement: 100 Glitter.
+Fact: The 5 Diamond Eggs in Comforting Vial has/costs Diamond Mask.
+Fact: The 3 in Comforting Vial has/costs 2.5T Honey.
+Fact: 3 requirement: 1,500 Blue Extracts.
+Fact: 3 requirement: 150 Stingers.
+150 Tropical Drinks
+Fact: 150 Tropical Drinks requirement: 75 Swirled Waxes.
+Fact: The 50 Super Smoothies in Comforting Vial has/costs Tide Popper.
+Gallery[]
+A Comforting Vial in the Inventory Menu.
+A Comforting Vial being given as a reward along other items for completing Gifted Bucko Bee's Beesmas 2022 quest.
+Fact: The Sub-Inventories in Comforting Vial has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Comforting Vial has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Comforting Vial has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Comforting Vial has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Comforting Vial has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Comforting Vial has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Comforting Vial has/costs ****Comforting Vial** •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Comforting Vial has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Comforting Vial has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Comforting Vial has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Comforting Vial has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Comforting Vial has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Comforting Vial has/costs **7-Pronged Cog**.
+Fact: The Other in Comforting Vial has/costs **Marshmallow Bee**.
+Fact: The Currencies in Comforting Vial has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Comforting Vial has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Comforting Vial has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Comforting Vial has/costs **Parachute •  Glider**.
+Fact: The Bags in Comforting Vial has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Comforting Vial has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Comforting Vial has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Comforting Vial has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Comforting Vial has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Comforting Vial has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Comforting Vial has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Comforting Vial has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Comforting Vial has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Comforting Vial has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

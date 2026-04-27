@@ -1,0 +1,83 @@
+Context: Bee Swarm Simulator - Instant Conversion
+
+Instant Conversion
+Fact: Instant Conversion statistic: **Instant Conversion** is a mechanic that instantly converts some of the player's collected pollen into honey. The amount of converted pollen depends on how much instant conversion (%) the player has, with support from the respective type of instant conversion (white, red, and blue instant conversion, etc.). This effectively makes the player's bag bigger, in the sense that the player can collect more pollen than the bag would normally hold. The player's Honey Per Pollen stat boosts the amount of honey received from instant conversion. There are also color variants for each flower color (blue, red, white) that only instantly convert pollen of their respective colors..
+Instant Conversion Variants[]
+Instant Conversion has 8 variants :
+* Flame Conversion
+* Field Conversion (e.g. field winds)
+* Colored Conversion
+* Goo Conversion
+* Bomb Conversion
+* Unique Instant Conversion
+* Instant Tool Conversion
+* Bee Gather Conversion
+Goo Conversion[]
+_Goo Conversion_ converts a flat amount of pollen equal to a percentage of the Goo collected from a flower.
+Unique Instant Conversion[]
+_Unique Instant Conversion_ is applied independently of all other Instant Conversion types.
+For example, if you have two different sources of 50% Unique Instant Conversion , each source is applied separately. This results in an effective 75% Instant Conversion , not 100%.
+Conversion Order[]
+Instant Conversion is applied in the following order:[1]
+1. Colored Conversion
+2. Field Conversion
+3. Regular Instant Conversion
+4. Goo Conversion
+It is unknown where Unique Instant Conversion and Ability-specific Instant Conversion is placed in this order.
+For example, if a player has 50% of four different conversion variants and collects 10,000 red pollen, 50% of the pollen is converted, then 50% of the remaining amount, and so on for each variant.
+Increasing Instant Conversion[]
+* Instant Conversion is increased by:
+Fact: Increasing Instant Conversion[] requirement: * Enzymes (+10%).
+* Tropical Drinks (+10%)
+Fact: * Tropical Drinks (+10%) requirement: * Super Smoothies (+20%, overwrites Enzymes and Tropical Drinks).
+* Cactus Badge (+5%)
+* Gifted Photon Bee (+5%)
+* Port-O-Hive (5%)
+* Coconut Canister or Porcelain Port-O-Hive (10%)
+* Star Amulet (up to 12%)
+* Moon Amulet (up to 5%)
+* Festive Blessing Buff (100%)
+* Maximum Instant Conversion is 157% not accounting for codes.
+* Instant White Conversion is increased by amulets, the Pineapple Badge, Gifted Windy Bee or with the Coconut Canister.
+* Instant Red Conversion is increased by the Mushroom Badge (up to 15%), Gifted Crimson Bee (15%), or the Demon Mask (20%).
+* Instant Blue Conversion is increased by the Blue Flower Badge (up to 15%), Gifted Cobalt Bee (15%) or the Diamond Mask(15%).
+* Instant Field Conversion (field winds) are granted by donating to the Wind Shrine or from certain codes.
+* Goo Conversion is increased by the Shell Amulet, Gummy Mask, Gummy Morph, or Gummy Star.
+* Instant Flame Conversion is granted by the Fire Mask, Demon Mask and Scorching Star.
+* Instant Bomb Conversion is granted by Festive Mark and Gifted Demon Bee.
+* Unique Instant Conversion is granted by Coconut Combo, Clouds, Puffshroom Blessing, Beequips, Refreshing Nectar and Blooms
+* Instant Bee Gather Conversion is granted by the Pink Jelly Bean buff.
+* Instant Tool Conversion is granted by the Teal Jelly Bean buff.
+Effects[]
+* When instant conversion is in effect, and pollen text is turned on, the player will see yellow numbers in addition to the blue/red/white pollen numbers while they're working in the fields. Those yellow numbers are the amount of pollen that instantly became honey; Collected honey amounts also show up in yellow, but those are also listed in the bottom right corner of the player's screen.
+* The formula for the effective increase in capacity given by instant conversion is: (x/(100-x)), where x is the player's total instant conversion.
+Fact: The Instant Conversion in Instant Conversion has/costs Increase in effective capacity.
+Fact: The 5% in Instant Conversion has/costs 5.26%.
+Fact: The 10% in Instant Conversion has/costs 11.11%.
+Fact: The 15% in Instant Conversion has/costs 17.65%.
+Fact: The 20% in Instant Conversion has/costs 25%.
+Fact: The 25% in Instant Conversion has/costs 33.33%.
+Fact: The 30% in Instant Conversion has/costs 42.86%.
+Fact: The 35% in Instant Conversion has/costs 53.85%.
+Fact: The 40% in Instant Conversion has/costs 66.67%.
+Fact: The 45% in Instant Conversion has/costs 81.82%.
+Fact: The 50% in Instant Conversion has/costs 100%.
+Fact: The 55% in Instant Conversion has/costs 122.22%.
+Fact: The 60% in Instant Conversion has/costs 150%.
+Fact: The 65% in Instant Conversion has/costs 185.71%.
+Fact: The 70% in Instant Conversion has/costs 233.33%.
+Fact: The 75% in Instant Conversion has/costs 300%.
+Fact: The 80% in Instant Conversion has/costs 400%.
+Fact: The 85% in Instant Conversion has/costs 566.67%.
+Fact: The 90% in Instant Conversion has/costs 900%.
+Fact: The 95% in Instant Conversion has/costs 1,900%.
+Fact: The 100% in Instant Conversion has/costs ∞.
+Trivia[]
+* The Festive Blessing buff from Festive Bee's Festive Gift token or Festive Sprouts grants 100% Instant Conversion temporarily. If the player has a full container with 100% Instant Conversion, collecting pollen will not transfer into honey.
+* The Gummy Morph also grants 200% Goo Conversion while covering the whole field in goo.
+* The Ant Challenge Buff grants 100% instant Ant Field Conversion.
+Fact: Trivia[] statistic: * Pollen collected from the Hub Field is instantly converted..
+* Super-Crits and Golden Bubbles instantly convert all pollen they collect.
+* Tadpole Bee used to give 25% Instant Bubble Conversion before the 2024-05-23 update.
+References[]
+1. ↑ [1] Discord message from Onett

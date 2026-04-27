@@ -1,0 +1,30 @@
+Context: Bee Swarm Simulator - Sprinklers
+
+Sprinklers
+_"Use while standing in flowers to place a Sprinkler."_
+Sprinklers are items that can be placed in fields by players to help with flower regeneration. They can be bought in the Badge Bearer's Guild, accessible by obtaining 15 badges of any kind. There are five sprinklers in the game: the Basic Sprinkler, the Silver Soakers, the Golden Gushers, the Diamond Drenchers and The Supreme Saturator. They all look similar; a simple sprinkler that stands up from the ground beneath the flower the player is standing on. The material the sprinkler is made of is based on the tier color. (The only exception to this is The Supreme Saturator, which has a giant golden sprinkler sticking through a neon blue bear head.) The higher level the sprinkler is, the more players can place (with the exception of The Supreme Saturator) and the more effective it can be. Sprinklers can't be placed in the Hub Field.
+All five sprinklers in the Badge Bearer's Guild.
+The Basic Sprinkler is unlocked as soon as a player is able to enter the Badge Bearer's Guild. However, the Silver Soakers require 10 Hotshot badges, the Golden Gushers require 10 Ace badges, the Diamond Drenchers require 10 Master badges and The Supreme Saturator requires 10 Grandmaster badges.
+Players cannot place their own sprinklers within 8 flowers of each other. However, they can place their sprinklers right next to a different player's sprinkler. When they place their sprinkler too close to another one of theirs, the player gets a message that says:  Cannot place sprinklers this close to eachother _[sic]_
+However, the the Sprinkler Glitch can occur if the player places a sprinkler mid-air, overriding the restriction and planting sprinklers closer than normal.
+Note that what players are able to buy is actually a sprinkler _builder_ , which is a permanent tool that players can access via the eggs/items tab whenever they like. Players can activate it by placing the item on the bottom middle of their screen and clicking it (or their corresponding hotkeys, if the player is on a PC). If a player places more sprinklers than they can place, the oldest one will be removed. A sprinkler that is placed in a field will stay there until the player who placed it removes it by placing it elsewhere, or until the player dies or leaves the game.
+Fact: The (How many can be placed at once) in Sprinklers has/costs 1, 2, 3, 4, 1.
+Fact: The (How far the sprinkler reaches) in Sprinklers has/costs 7, 7, 8, 8, 16.
+Fact: The (How much pollen the flower increases by) in Sprinklers has/costs 7, 7, 8, 9, 10.
+Fact: The (How often the sprinkler activates) in Sprinklers has/costs 5 sec, 4.5 sec, 4.5 sec, 4 sec, 1 sec.
+Fact: The (How long it takes for the sprinkler to build) in Sprinklers has/costs 6 sec, 5 sec, 5 sec, 4 sec, 3 sec.
+Fact: The (the number and tier of badges need to unlock) in Sprinklers has/costs 10 Cadet.
+Fact: The (Tier 1) in Sprinklers has/costs 10 Hotshot.
+Fact: The (Tier 2) in Sprinklers has/costs 10 Ace.
+Fact: The (Tier 3) in Sprinklers has/costs 10 Master.
+Fact: The (Tier 4) in Sprinklers has/costs 10 Grandmaster.
+Fact: The **Cost** in Honey in Sprinklers has/costs 1,111,111, 22,222,222, 333,333,333, 4,444,444,444, 55,555,555,555.
+When a sprinkler is placed in a field, the following audio plays:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Sprinklerbuild.ogg>
+When a sprinkler regenerates flowers, the following audio plays:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Sprinklerwater.ogg>
+Gallery[]
+A Silver Soaker sprinkler in a field.
+Text becoming invisible through the water of the sprinkler.
+An aerial shot of the "golden" effect emitted by the sprinkler water during a honeystorm.
+An aerial shot of the "white" effect emitted by the sprinkler water during a snow storm.

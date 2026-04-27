@@ -1,0 +1,33 @@
+Context: Bee Swarm Simulator - Trading
+
+Two players trading in the trading menu.
+Trading is a mechanic added in the 2024-01-12 update, which allows players to trade Beequips, Cub Buddy Skins and stickers. The trade request menu can either be opened by going to settings or walking over a player's hive and accepting the prompt for a trade request. You can add or remove an item by interacting with the button in the top left corner of the item. When ready, both players select the accept button before waiting 5–20 seconds (depending on the total value of the trade). Once the time is over, the trade menu closes, and both players receive their items and get taken to the items' stats.
+Trading can be done an unlimited number of times to an unlimited number of players. But you cannot trade with multiple players at a time. A player has to accept or decline a trade request before being able to get a trade request from the same player again. You can also change whether you can receive trade requests by going into settings and finding "Allow trade requests". A player can be ineligible to receive trade requests for either not having unlocked trading yet or having their trade requests disabled. The requirements for unlocking trading are:
+* Playtime Cadet Badge (8 hours of playtime)
+* Ability Cadet Badge (2500 Ability Tokens)
+* Battle Hotshot Badge (1000 Battle Points)
+If a player is unable to receive trading requests, one of two messages will appear depending on which reason it is. If they don't have trading unlocked, then: "[{Player} has not unlocked trading (Requires Playtime Cadet, Ability Cadet, and Battle Hotshot Badges)]" else if it's because they have trading requests disabled: "[{Player} has disabled trading]". If the player decides to cancel a trade, both players keep their items, and the trade menu closes before a popup appears telling both players that the trade has been cancelled.
+* Beware of scams involving trust trades or cross trades. Make sure that the items traded are of similar value before accepting the trade.
+* Make fair and cancel unfair trades. If you make an unfair trade, or if the other player makes an unfair trade, it is likely that the trade will be cancelled, and you should cancel an unfair trade.
+* Use the item inspector. You should use the item inspector to your advantage to make sure the item's balanced (if you are also a collector) also take the item's rarity into consideration. The item inspector is a must in ensuring that Beequips have the stats that you are looking for.
+Gallery[]
+The trading arrows that appear whenever you initiate a trade with a player.
+A player sending a trade request to another player.
+The pop-up that shows up when another player sends you a trade request.
+The menu that pops up when the player would like to trade with another.
+Both players agreeing upon a successful trade.
+A trade being completed.
+A trade being cancelled.
+The pop-up that appears if an unqualified player attempts to trade a Gamer Chat Icon or Play Button sticker.
+The pop-up that appears if an newly acquired Beequip was attempted to be traded to another player.
+The pop-up that appears if a player tries to trade a cub skin to another player who has not unlocked a Cub Buddy.
+The older version of a player's trading being locked because of requirements.
+An updated requirement and text style of a player's trading being locked because of requirements.
+Trading disabled by Onett.
+Trading enabled by Onett in all servers
+A trade being over 5 seconds long.
+Trivia[]
+* The item inspector in the trading menu is the only official way to see the methods of obtainment for the Play Button and Gamer Chat Icon stickers, as they do not appear in the Sticker Index.
+* Trading was disabled for an unknown reason on September 26, 2025.
+* Trading has been re-enabled on December 17, 2025. However, trading was only allowed in the Hive Hub and trading of Cub Skins were disabled.
+* Over a week later, on December 28, 2025, trading was re-enabled for all servers.

@@ -1,0 +1,110 @@
+Context: Bee Swarm Simulator - Micro-Converter
+
+Micro-Converter
+Micro-Converter
+Fact: Micro-Converter statistic: _"Instantly converts all Pollen in your bag to Honey."_.
+The Micro-Converter is an inventory item added in the 2019-04-05 update. When used, it instantly converts all pollen in the player's bag into honey. It acts as an Instant Converter without the need for tickets and the journey to the hive, a significantly shorter cooldown, and is portable.
+Fact: Micro-Converter statistic: The amount of honey the player receives from a micro-converter is not affected by their Convert Rate, although it is affected by Honey Per Pollen..
+The player can have a maximum of 15 micro-converters in their inventory at a time. Obtaining more than 15 will not add any micro-converters to their inventory unless purchased from the Robux Shop, obtained from Quests, or adding certain stickers to your Sticker Stack.
+The following audio plays when a micro-converter is used: <https://bee-swarm-simulator.fandom.com/wiki/File:Mconv.ogg>
+Ways To Obtain[]
+* Rarely dropped when defeating mobs, such as a rhino beetle, mantis, werewolf, Tunnel Bear and aphid, or guaranteed drop from Coconut Crab and Mondo Chick.
+* Completing some of Black Bear's Star Jelly quests "Black Bear") and Black Bear's Mythic Egg quests (15 in total).
+* Completing some of Spirit Bear's quests "Spirit Bear").
+* Completing Dapper Bear's 4th 9th, and 13th quest.
+* Completing 10, 30, 70, 155, 170, 215, and 270 Brown Bear quests will reward an additional 5 micro-converters, and completing 80 will reward an additional 10 micro-converters.
+* A rare gift from Festive Gifts.
+* As a rare drop from Festive Mark.
+* As a reward for donating to the Wind Shrine.
+* Matching a pair of micro-converters in Memory Matches (available in increments of 1, 2, 6, or 5 depending on which Memory Match).
+* Rarely through a Cub Buddy gift in increments of 1 or 5.
+* A token behind Black Bear in between the Red HQ and the Windy Bee Gate.
+* As a drop from a Blue Clay Planter.
+* Planting it in the Spider Field makes it drop at least 10 Micro-Converters.
+* As a reward from Robo Bear Challenge.
+* As a reward from Retro Swarm Challenge
+* As a Stack Reward for adding certain stickers to the Sticker Stack:
+* The Alert Icon rewards 3 micro-converters.
+* The Simple Skyscraper rewards 3 micro-converters.
+* The Lightning rewards 3 micro-converters.
+* The Grey Diamond Logo rewards 3 micro-converters.
+* The Magnet rewards 3 micro-converters.
+* The Spark Staff rewards 3 micro-converters.
+* The Cub Buddy Voucher rewards 3 micro-converters.
+Outdated Ways[]
+* Completing certain Egg Hunt quests rewarded micro-converters and other items.
+* Opening the Shady Present gave 24 micro-converters and other items.
+* Purchasing the Booster Bundle in Bee Bear's Catalog for 33 Snowflakes and 3 Gingerbread Bears gave 5 micro-converters and other items.
+* Purchasing the Robotic Bundle in Bee Bear's Catalog for 2,500 Snowflakes and 50 Gingerbread Bears gave 25 micro-converters and other items.
+* The Vibrant Gift Box and the Charcoal Gift Box both granted micro-converters.
+* Giving a present to Gifted Bucko Bee rewarded 5 micro-converters and other items.
+* Completing Honey Bee's (NPC) "Honey Bee \(NPC\)") Beesmas 2022 quest gave 9 Micro-Converters.
+* Completing some of Bee Bear's quests.
+* Redeeming certain expired codes:
+* WalmartToys (Gave 3 micro-converters + other stuff).
+* ClubConverters (Gave 10 micro-converters).
+* 1MLikes (Gave 1 micro-converter + other stuff).
+* PlushFriday (Gave 1 micro-converter + other stuff).
+* ThnxCyasToyBox (Gave 1 micro-converter + other stuff).
+* 5Years (Gave 5 micro-converters + other stuff).
+* 4MilMembers (Gave 4 micro-converters + other stuff).
+* FuzzyFarewell (Gave 3 micro-converters + other stuff).
+* SpaceReboot (Gave 5 micro-converters + other stuff).
+* BillionVisits (Gave 10 micro-converters + other stuff).
+* NewMic (Gave 10 micro-converters + other stuff).
+* WintersEnd (Gave 1 micro-converter + other stuff).
+* 3YearParty (Gave 5 micro-converters + other stuff).
+* MondoOutage (Gave 3 micro-converters + other stuff).
+* FourYearFiesta (Gave 4 micro-converters + other stuff).
+* Purchasing certain finished packs from the Robux Shop:
+* Purchasing the Spikey Spring Basket pack gave 15 micro-converters and other items.
+* Puchasing the Cyber Monday Deal gave 10 micro-converters and other items.
+* A token to the right of the Mythic Present (gave 3 Micro-Converters). (Beesmas 2019)
+* As a drop from Stockings during Beesmas 2020 and 2021.
+* The Peppermint Gift Box gave 6 micro-converters and other items.
+* Dropped when defeating Festive Nymphs.
+* 3 Located Infront of the Computer
+Crafting Uses[]
+Total required for all single-purchase items: 10 Micro-Converters
+Fact: The **Micro-Converters** in Micro-Converter has/costs Other ingredients, Result.
+Fact: The 10 in Micro-Converter has/costs 7,000,000 Honey.
+Fact: 10 requirement: 1 Glue.
+Fact: 10 requirement: 1 Oil.
+Fact: 10 requirement: 5 Soft Waxes.
+5 Neonberries
+Gallery[]
+A micro-converter token.
+A player exceeding the cap.
+A player obtaining 5 micro-converters.
+Trivia[]
+Fact: Trivia[] statistic: * If the player tries to use a micro-converter without any pollen in their bag, a message will pop up saying "You need Pollen to use a Micro-Converter.".
+* Since the 2019-09-28 update, the hotkey for this item (C), along with those of stingers and gumdrops, have been removed.
+Fact: The Sub-Inventories in Micro-Converter has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Micro-Converter has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  **Micro-Converter** •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Micro-Converter has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Micro-Converter has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Micro-Converter has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Micro-Converter has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Micro-Converter has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Micro-Converter has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Micro-Converter has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Micro-Converter has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Micro-Converter has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Micro-Converter has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Micro-Converter has/costs **7-Pronged Cog**.
+Fact: The Other in Micro-Converter has/costs **Marshmallow Bee**.
+Fact: The Currencies in Micro-Converter has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Micro-Converter has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Micro-Converter has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Micro-Converter has/costs **Parachute •  Glider**.
+Fact: The Bags in Micro-Converter has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Micro-Converter has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Micro-Converter has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Micro-Converter has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Micro-Converter has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Micro-Converter has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Micro-Converter has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Micro-Converter has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Micro-Converter has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Micro-Converter has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

@@ -1,0 +1,44 @@
+Context: Bee Swarm Simulator - Beesmas Feast
+
+Beesmas Feast
+Beesmas Feast
+The Beesmas Feast after completing Polar Bear's Beesmas quest
+Information
+Obtaining bond, Bitterberries, and various treats
+Requirement(s)
+Completion of Polar Bear's Beesmas quest
+Cooldown
+Location
+Behind Polar Bear
+The Beesmas Feast is a Beesmas-exclusive machine which can be unlocked after completing Polar Bear's Beesmas quest.
+It can be used every 90 minutes. When used, it grants the player bond for all of their bees and a variety of treats. It is positioned behind Polar Bear. The amount of bond and rewards are affected by the amount of Polar Power the player currently has.
+Upon digging into the feast, two notifications appear:
+🍴 Serving up some Beesmas Dinner 🍴
+🍴 More Polar Power = Larger Servings! 🍴
+If a player walks onto the platform without completing his quest, it displays this message, "An empty plate... where’s the Beesmas Feast, Polar Bear?"
+Rewards[]
+Fact: The Reward in Beesmas Feast has/costs Amount.
+Fact: The Bond (per bee) in Beesmas Feast has/costs 100 + ⌊ PolarPower 1.5 10 ⌋ ⋅ 10 }^{1.5}}{10}}\right\rfloor \cdot 10}.
+Fact: The Treats (total) in Beesmas Feast has/costs 2 ⋅ ⌊ 25 + ⌊ PolarPower 1.5 + 0.5 ⌋ 2 + 0.5 ⌋ }^{1.5}+0.5\right\rfloor }{2}}+0.5\right\rfloor }.
+Fact: The Bitterberries (total) in Beesmas Feast has/costs 2 ⋅ ⌊ 10 + ⌊ PolarPower 0.4 + 0.5 ⌋ 2 + 0.5 ⌋ }^{0.4}+0.5\right\rfloor }{2}}+0.5\right\rfloor }.
+One of the following:
+Strawberries
+Blueberries
+Fact: The Sunflower Seeds in Beesmas Feast has/costs 2 ⋅ ⌊ 15 + ⌊ PolarPower 0.6 + 0.5 ⌋ 2 + 0.5 ⌋ }^{0.6}+0.5\right\rfloor }{2}}+0.5\right\rfloor }.
+Gallery[]
+A player claiming tokens from the Beesmas Feast.
+The Beesmas Feast before completing Polar Bear's Beesmas quest.
+Trivia[]
+* A variety of foods can be seen on the Beesmas feast. These include:
+* Bitterberries.
+* A floret of broccoli.
+* A carrot.
+* A stew that seems to contain chives, onions, corn, peas, and meat.
+* Polar Bear's feast design is reminiscent to Big Ol' Turkey Legs, a running gag within the ThnxCya community.
+* Polar Bear's dialogue after you complete his Beesmas 2020 quest directly referenced this, with the phrase "_A big ol' turkey and treat..._ ".
+* Onett "Onett \(Developer\)") stated on Discord that the Beesmas Feast was made using the Hostage Chicks from the Egg Hunt 2020 event.[1]
+* The eating sound is a cut out section of the song "_Nom Nom Nom Nom Nom Nom Nom_ ", made by Parry Grip.
+* The Beesmas Feast used to drop all the 4 treats but was changed in Beesmas 2022.
+* It was introduced in Beesmas 2020, and has returned in every Beesmas since.
+References[]
+1. ↑ [1] Discord message from Onett in Bee Swarm Simulator Discord server.

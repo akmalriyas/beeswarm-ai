@@ -1,0 +1,528 @@
+Context: Bee Swarm Simulator - Ant Amulet
+
+Ant Amulet
+Datamined information: Ant Amulet's possible stats and relevant information.
+Date of datamined file: December 19th, 2024
+Assumptions made:
+* The quality of the amulet increases linearly. The formula for calculating the quality of the amulet is unknown, so this can't be confirmed.
+* All tiers of the amulet have the same quality scaling, even if it is impossible to obtain the tier with said quality.
+The Ant Amulet is an amulet that is always obtained from participating in the Ant Challenge.
+The amulet gives the player buffs and will always boost Convert Rate. There are five tiers of Ant Amulets, each awarded for reaching a certain point milestone in the Ant Challenge.
+The quality of the amulet increases linearly with the player’s score until a score of 400,[1] where its quality is maxed.
+Requirements
+Fact: The Requirement(s) in Ant Amulet has/costs Amulet.
+Fact: The 0-24 Points in the Ant Challenge in Ant Amulet has/costs Bronze Ant Amulet.
+Fact: The 25-49 Points in the Ant Challenge in Ant Amulet has/costs Silver Ant Amulet.
+Fact: The 50-99 Points in the Ant Challenge in Ant Amulet has/costs Gold Ant Amulet.
+Fact: The 100-149 Points in the Ant Challenge in Ant Amulet has/costs Diamond Ant Amulet.
+Fact: The 150+ Points in the Ant Challenge in Ant Amulet has/costs Supreme Ant Amulet.
+Possible Buffs
+_For more information on how amulets generate, seeAmulet#Generation._
+* Bronze Ant Amulet
+* Silver Ant Amulet
+* Gold Ant Amulet
+* Diamond Ant Amulet
+* Supreme Ant Amulet
+Bronze Ant Amulet
+The icon for the Bronze Ant Amulet.
+Fact: The Number of stats taken in Ant Amulet has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Ant Amulet has/costs Convert Rate, +15% - +35%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 100%.
+Fact: The Select 2 in Ant Amulet has/costs White Pollen, +1% - +5%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Red Pollen in Ant Amulet has/costs +1% - +5%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Blue Pollen in Ant Amulet has/costs +1% - +5%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* +Convert Rate%
+Fact: * +Convert Rate% statistic: * +White Pollen%.
+Fact: * +Convert Rate% statistic: * +Red Pollen%.
+Fact: * +Convert Rate% statistic: * +Blue Pollen%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +15%-+19% in Ant Amulet has/costs +20%-+24%, +25%-+29%, +30%-+34%, +35%.
+Fact: The **0** (0 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0075** (3 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.015** (6 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0225** (9 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.03** (12 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0375** (15 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.045** (18 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0525** (21 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.06** (24 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Ant Amulet has/costs +2%, +3%, +4%, +5%.
+Fact: The **0** (0 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0075** (3 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.015** (6 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0225** (9 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.03** (12 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0375** (15 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.045** (18 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0525** (21 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.06** (24 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Ant Amulet has/costs +2%, +3%, +4%, +5%.
+Fact: The **0** (0 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0075** (3 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.015** (6 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0225** (9 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.03** (12 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0375** (15 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.045** (18 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0525** (21 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.06** (24 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Ant Amulet has/costs +2%, +3%, +4%, +5%.
+Fact: The **0** (0 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0075** (3 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.015** (6 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0225** (9 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.03** (12 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0375** (15 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.045** (18 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0525** (21 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.06** (24 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Silver Ant Amulet
+The icon for the Silver Ant Amulet.
+Fact: The Number of stats taken in Ant Amulet has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Ant Amulet has/costs Convert Rate, +40% - +60%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 100%.
+Fact: The Select 1 in Ant Amulet has/costs Player Movespeed, +1, 33.3333%.
+Fact: The Critical Chance in Ant Amulet has/costs +1%, 33.3333%.
+Fact: The Critical Power in Ant Amulet has/costs +5% - +10%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 33.3333%.
+Fact: The Select 2 in Ant Amulet has/costs White Pollen, +5% - +10%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Red Pollen in Ant Amulet has/costs +5% - +10%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Blue Pollen in Ant Amulet has/costs +5% - +10%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* +Convert Rate%
+* +Critical Power%
+Fact: * +Critical Power% statistic: * +White Pollen%.
+Fact: * +Critical Power% statistic: * +Red Pollen%.
+Fact: * +Critical Power% statistic: * +Blue Pollen%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +40%-+44% in Ant Amulet has/costs +45%-+49%, +50%-+54%, +55%-+59%, +60%.
+Fact: The **0.0625** (25 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.07** (28 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0775** (31 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.085** (34 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0925** (37 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (40 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1075** (43 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.115** (46 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1225** (49 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +5% in Ant Amulet has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.0625** (25 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.07** (28 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0775** (31 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.085** (34 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0925** (37 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (40 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1075** (43 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.115** (46 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1225** (49 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +5% in Ant Amulet has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.0625** (25 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.07** (28 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0775** (31 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.085** (34 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0925** (37 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (40 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1075** (43 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.115** (46 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1225** (49 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +5% in Ant Amulet has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.0625** (25 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.07** (28 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0775** (31 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.085** (34 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0925** (37 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (40 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1075** (43 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.115** (46 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1225** (49 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +5% in Ant Amulet has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0.0625** (25 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.07** (28 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0775** (31 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.085** (34 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.0925** (37 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1** (40 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1075** (43 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.115** (46 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1225** (49 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Gold Ant Amulet
+The icon for the Gold Ant Amulet.
+Fact: The Number of stats taken in Ant Amulet has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Ant Amulet has/costs Convert Rate, +60% - +80%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 100%.
+Fact: The Potentially in Ant Amulet has/costs Bee Attack, +0 - +1.
+Fact: The Intervals of 1 in Ant Amulet has/costs 0.25%.
+Fact: The Select 1 in Ant Amulet has/costs Player Movespeed, +1 - +2.
+Fact: The Intervals of 1 in Ant Amulet has/costs 33.3333%.
+Fact: The Critical Chance in Ant Amulet has/costs +1% - +2%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 33.3333%.
+Fact: The Critical Power in Ant Amulet has/costs +10% - +25%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 33.3333%.
+Fact: The Select 2 in Ant Amulet has/costs White Pollen, +10% - +15%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Red Pollen in Ant Amulet has/costs +10% - +15%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Blue Pollen in Ant Amulet has/costs +10% - +15%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* +Convert Rate%
+* +Bee Attack
+* +Player Movespeed
+* +Critical Chance%
+* +Critical Power%
+Fact: * +Critical Power% statistic: * +White Pollen%.
+Fact: * +Critical Power% statistic: * +Red Pollen%.
+Fact: * +Critical Power% statistic: * +Blue Pollen%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +60%-+64% in Ant Amulet has/costs +65%-+69%, +70%-+74%, +75%-+79%, +80%.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +0 in Ant Amulet has/costs +1.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +1 in Ant Amulet has/costs +2.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Ant Amulet has/costs +2%.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +10%-+14% in Ant Amulet has/costs +15%-+19%, +20%-+24%, +25%.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +10% in Ant Amulet has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +10% in Ant Amulet has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +10% in Ant Amulet has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0.125** (50 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1425** (57 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.16** (64 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.1775** (71 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.195** (78 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2125** (85 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.23** (92 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2475** (99 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Diamond Ant Amulet
+The icon for the Diamond Ant Amulet.
+Fact: The Number of stats taken in Ant Amulet has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Ant Amulet has/costs Convert Rate, +80% - +90%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 100%.
+Fact: The Select 2 in Ant Amulet has/costs Player Movespeed, +2, 66.6667%.
+Fact: The Critical Chance in Ant Amulet has/costs +1% - +2%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Critical Power in Ant Amulet has/costs +25% - +40%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Select 2 in Ant Amulet has/costs White Pollen, +15% - +20%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Red Pollen in Ant Amulet has/costs +15% - +20%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Blue Pollen in Ant Amulet has/costs +15% - +20%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* +Convert Rate%
+* +Critical Chance%
+* +Critical Power%
+Fact: * +Critical Power% statistic: * +White Pollen%.
+Fact: * +Critical Power% statistic: * +Red Pollen%.
+Fact: * +Critical Power% statistic: * +Blue Pollen%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +80%-+81% in Ant Amulet has/costs +82%-+83%, +84%-+85%, +86%-+87%, +88%-+89%, +90%.
+Fact: The **0.25** (100 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2675** (107 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.285** (114 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3025** (121 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.32** (128 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3375** (135 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.355** (142 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3725** (149 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Ant Amulet has/costs +2%.
+Fact: The **0.25** (100 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.2675** (107 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.285** (114 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.3025** (121 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.32** (128 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.3375** (135 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.355** (142 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.3725** (149 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +25%-+29% in Ant Amulet has/costs +30%-+34%, +35%-+39%, +40%.
+Fact: The **0.25** (100 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2675** (107 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.285** (114 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3025** (121 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.32** (128 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3375** (135 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.355** (142 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3725** (149 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +15% in Ant Amulet has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0.25** (100 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2675** (107 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.285** (114 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3025** (121 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.32** (128 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3375** (135 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.355** (142 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3725** (149 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +15% in Ant Amulet has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0.25** (100 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2675** (107 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.285** (114 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3025** (121 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.32** (128 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3375** (135 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.355** (142 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3725** (149 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +15% in Ant Amulet has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0.25** (100 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.2675** (107 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.285** (114 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3025** (121 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.32** (128 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3375** (135 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.355** (142 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.3725** (149 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Supreme Ant Amulet
+The icon for the Supreme Ant Amulet.
+Fact: The Number of stats taken in Ant Amulet has/costs Stat, Range, Probability of being selected.
+Fact: The Guaranteed in Ant Amulet has/costs Convert Rate, +90% - +110%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 100%.
+Fact: The Select 3 in Ant Amulet has/costs Player Movespeed, +2 - +3.
+Fact: The Intervals of 1 in Ant Amulet has/costs 60%.
+Fact: The Critical Chance in Ant Amulet has/costs +2% - +3%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 60%.
+Fact: The Critical Power in Ant Amulet has/costs +35% - +50%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 60%.
+Fact: The Bee Attack in Ant Amulet has/costs +1, 60%.
+Fact: The Pollen in Ant Amulet has/costs +1% - +5%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 60%.
+Fact: The Select 2 in Ant Amulet has/costs White Pollen, +20% - +30%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Red Pollen in Ant Amulet has/costs +20% - +30%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+Fact: The Blue Pollen in Ant Amulet has/costs +20% - +30%.
+Fact: The Intervals of 1% in Ant Amulet has/costs 66.6667%.
+The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see the designated subpage.
+_Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* +Convert Rate%
+* +Player Movespeed
+* +Critical Chance%
+* +Critical Power%
+Fact: * +Critical Power% statistic: * +Pollen%.
+Fact: * +Critical Power% statistic: * +White Pollen%.
+Fact: * +Critical Power% statistic: * +Red Pollen%.
+Fact: * +Critical Power% statistic: * +Blue Pollen%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +90%-+94% in Ant Amulet has/costs +95%-+99%, +100%-+104%, +105%-+109%, +110%.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +2 in Ant Amulet has/costs +3.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, +0.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +2% in Ant Amulet has/costs +3%.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +35%-+39% in Ant Amulet has/costs +40%-+44%, +45%-+49%, +50%.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +1% in Ant Amulet has/costs +2%, +3%, +4%, +5%.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +20%-+21% in Ant Amulet has/costs +22%-+23%, +24%-+25%, +26%-+27%, +28%-+29%, +30%.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +20%-+21% in Ant Amulet has/costs +22%-+23%, +24%-+25%, +26%-+27%, +28%-+29%, +30%.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The Quality in Ant Amulet has/costs Stat ranges, Average.
+Fact: The +20%-+21% in Ant Amulet has/costs +22%-+23%, +24%-+25%, +26%-+27%, +28%-+29%, +30%.
+Fact: The **0.375** (150 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.4375** (175 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5** (200 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.5625** (225 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.625** (250 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.6875** (275 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.75** (300 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.8125** (325 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.875** (350 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **0.9375** (375 kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+Fact: The **1** (400+ kills) in Ant Amulet has/costs 0%, 0%, 0%, 0%, 0%, 0%, +0%.
+* The Supreme Ant Amulet is the only tier of Ant Amulets that resembles a Flying Ant rather than a Regular Ant.
+* The higher the tiers get, the more sparkles are emitted from the Ant Amulet.
+References
+1. ↑ Information was sourced from Nabees, a former staff member for the game, though the source cannot be confirmed.
+Fact: The Sub-Inventories in Ant Amulet has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Ant Amulet has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Ant Amulet has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Ant Amulet has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Ant Amulet has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Ant Amulet has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Ant Amulet has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Ant Amulet has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Ant Amulet has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Ant Amulet has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Ant Amulet has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Ant Amulet has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Ant Amulet has/costs **7-Pronged Cog**.
+Fact: The Other in Ant Amulet has/costs **Marshmallow Bee**.
+Fact: The Currencies in Ant Amulet has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Ant Amulet has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Ant Amulet has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Ant Amulet has/costs **Parachute •  Glider**.
+Fact: The Bags in Ant Amulet has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Ant Amulet has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Ant Amulet has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Ant Amulet has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Ant Amulet has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Ant Amulet has/costs **King Beetle Amulet •  Moon Amulet •  **Ant Amulet** •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Ant Amulet has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Ant Amulet has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Ant Amulet has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Ant Amulet has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

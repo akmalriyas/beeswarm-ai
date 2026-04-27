@@ -1,0 +1,58 @@
+Context: Bee Swarm Simulator - Red Balloon
+
+Red Balloon
+Red Balloon
+_"Floats over the field for 3 minutes. Stores up to 5x your capacity and works best with Red flowers."_
+The Red Balloon is a consumable item that was added in the 2021-12-26 update. Once used, it creates a red balloon over the field the player is in. The balloon floats over the field, storing pollen collected underneath it. The pollen collected increases by 10%, with red pollen increasing by 20%. It holds up to 5x the player's capacity, and floats over the field for 3 minutes before floating to the hive balloon.
+Red balloons have a cap of 25 in the player's inventory, and 1 per player in the field.
+Ways to Obtain[]
+* As a exceptionally rare drop from a scorpion.
+* As a rare reward from the Sticker-Seeker Quest Machine.
+* Completing Dapper Bear's 6th quest gives 1 Red Balloon and other items.
+* A Red Balloon token can be found on top of the Hive Hub after completing the parkour.
+* Redeeming certain valid codes:
+* 15MMembers (gives 1 Red Balloon and other stuff).
+Outdated Ways[]
+* Purchasing the Balloon Bundle from Bee Bear's Catalog for 333 Snowflakes, granting 3 Red Balloons and other items.
+* By completing Onett's Beesmas 2022 quest, which rewards 5 Red Balloons.
+* By completing Bee Bear's Beesmas 2022 quests.
+* Giving a present to Gifted Riley Bee gives 1 Red Balloon and other items.
+* As a reward from completing certain quests from Bee Bear.
+* Buying the Balloon Bundle from Bee Bear's Catalog during Beesmas 2021, granting 3 Red Balloons and other items.
+* Buying the Buoyant Pack from the Robux shop gave 5 Red Balloons and other items.
+* As a rare drop from Party Mega Mechsquitoes and Party Cogturrets.
+* Opening certain Gift Boxes across the map:
+* Beige Gift Box gave 1 Red Balloon and other items.
+* Gilded Gift Box gave 1 Red Balloon and other items.
+* Redeeming certain expired codes:
+* 5MFavorites (gave 1 Red Balloon and the Honeyday Event Boost).
+* DarzethDoodads (gave 1 Red Balloon and other stuff).
+Fact: The Sub-Inventories in Red Balloon has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Red Balloon has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Red Balloon has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Red Balloon has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Red Balloon has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Red Balloon has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Red Balloon has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Red Balloon has/costs **Pink Balloon •  **Red Balloon** •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Red Balloon has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Red Balloon has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Red Balloon has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Red Balloon has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Red Balloon has/costs **7-Pronged Cog**.
+Fact: The Other in Red Balloon has/costs **Marshmallow Bee**.
+Fact: The Currencies in Red Balloon has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Red Balloon has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Red Balloon has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Red Balloon has/costs **Parachute •  Glider**.
+Fact: The Bags in Red Balloon has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Red Balloon has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Red Balloon has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Red Balloon has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Red Balloon has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Red Balloon has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Red Balloon has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Red Balloon has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Red Balloon has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Red Balloon has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

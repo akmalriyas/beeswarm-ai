@@ -1,0 +1,31 @@
+Context: Bee Swarm Simulator - Snowstorm
+
+Snowstorm
+An active Snow Storm.
+A Snow Storm is a server-wide event that can be summoned by using the Snow Machine or randomly in the game. It is similar to a Honeystorm, but spawns Snowflakes instead. A Snow Storm lasts for 20 seconds.
+When a player uses the Snow Machine to summon a Snow Storm, a server-wide announcement states:  ❄️ {Username} has activated the Snow Machine! ❄️
+Snowflakes will start to fall rapidly from the sky on every field. There is no audio at the beginning of a Snow Storm, unlike a Honeystorm or Mythic Meteor Shower.
+When a Snow Storm is randomly summoned, the message states:  ❄️ A Snow Storm has begun... ❄️
+Gallery[]
+The white fog of a Snow Storm.
+A naturally occurring Snow Storm.
+Activating a Snow Storm via Spirit Bear.
+Occasionally, Onett "Onett \(Developer\)") would spawn a Snow Storm, usually under an alias. This is similar to how he globally summons Mythic Meteor Showers, nighttime, special sprouts, and mobs.
+* Snowcub summoning a Snow Storm.
+* Texas Bear summoning a Snow Storm.
+* Festive Bee summoning a Snow Storm in an attempt to re-freeze the Bean Bug Brigade.
+* Gifted Gingerbread Bear summoning a Snow Storm during Beesmas 2020.
+* A Gifted Festive Nymph (Lvl 9) (Aspect of Snow Mutation) (Winter Cap Nymph-quip with 5 Caustic Waxes) (HP Saves) summoning a Snow Storm during Beesmas 2021.
+* Gloomy Cub's Cold Heart summoning a Snow Storm.
+* Gloomy Cub's Immobilizing Pessism summoning a Snow Storm.
+* The 1,000,000th Snowflake spent on the Catalog summoning a Snow Storm.
+* The realization that Beesmas is actually over summoning a Snow Storm.
+* Gifted Gatito Bee summoning a Snow Storm.
+* Festive Nymph summoning a Snow Storm.
+Trivia[]
+* Like Honeystorms and Mythic Meteor Showers, Snow Storms can light up the Werewolf's Cave enough to see the Cave Monsters and the Gold Egg at the end of the cave.
+* Unlike Honeystorms, Snow Storms don't spawn snowflake tokens in the Ant Field.
+* During Beesmas 2020, 2021, 2022, 2024, and 2025, giving Spirit Bear a Present would trigger a Snow Storm after her dialogue finishes and the ornament was given.
+* Finishing Spirit Bear’s Beesmas quest would also summon a Snow Storm.
+* The Snowflakes keep falling for a few seconds after a Snow Storm ends because it takes time for the Snowflakes to reach the ground.
+* If a Snow Storm is summoned during nighttime, the white fog will stay even after the Snow Storm has ended until nighttime ends.

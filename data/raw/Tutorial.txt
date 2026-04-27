@@ -1,0 +1,63 @@
+Context: Bee Swarm Simulator - Tutorial
+
+The Tutorial , also nicknamed Help gives information on the game and its aspects. For new players, it opens automatically once the game loads. Established players can turn off the tutorial by simply closing the window – the game will remember that setting next time it is started. The tutorial can be reopened by pressing the red circle with a question mark on it, located at the top right.
+Tutorial
+* Claiming Your Hive
+* Hatching Eggs
+Fact: * Hatching Eggs statistic: * Collecting Pollen.
+* Bee Sleep
+* Making Honey
+* Bugs and Monsters
+* Bee Types
+* Bee Abilities
+* Bears and Quests
+* Making Progress
+* That's it!
+* Oh, also...
+_Welcome to Bee Swarm Simulator! In this game, you collect pollen from flowers and make honey._
+_But you don't do it alone... You are the leader of your own personal swarm of bees!_
+_To hatch bees, walk up to an unclaimed honeycomb and press "Claim Hive"._
+_Open the Egg menu, then click and drag an egg onto one of the honeycomb cells._
+_Open the Egg menu, then click and drag an egg onto one of the honeycomb cells._
+_Once you have your bees, walk into a flower field. Click to use yourscooper to collect pollen._
+_Your bees will automatically collect pollen from flowers nearby._
+_After a while, your bees will get tired and return to your hive to sleep. After they wake up, they'll come find you._
+_As you collect pollen, the meter on your backpack will fill up._
+_When it's full, return to your hive and press "Make Honey". Your bees will begin making honey from the collected pollen._
+_When it's full, return to your hive and press "Make Honey". Your bees will begin making honey from the collected pollen._
+_Use honey to buy a fasterscooper, a bigger backpack, or more bee eggs!_
+_Use honey to buy a fasterscooper, a bigger backpack, or more bee eggs!_
+_Use honey to buy a fasterscooper, a bigger backpack, or more bee eggs!_
+_Be careful, Some flower fields have hostile bugs and monsters in them!_
+_If they kill you, you lose all the pollen in your backpack._
+_You can't attack monsters yourself, but your bees will defend you!_
+_Discover new types of bees by hatching eggs and transforming bees withRoyal Jelly._
+_There are many different types, all with different strengths and abilities!_
+_Some boost the pollen you receive from flowers of a certain color._
+_Some collect pollen from many flowers at once!_
+_Activate your bee's abilities by collecting the tokens they spawn._
+_Combo abilities to boost their power!_
+_To see a bee's stats and abilities, click on its face in the Bee menu._
+_To see a bee's stats and abilities, click on its face in the Bee menu._
+_There are bears around the map who have quests for you to do._
+_You can tell they have something for you when you see a "!" symbol in front of them._
+_To talk to a bear, walk onto the platform in front of them and press "Talk to Bear"._
+_Quests they give you will be listed in the Quest menu._
+_There, you can see which tasks you have to complete, and how much progress you've made._
+_Completing quests is a great way to earn honey, eggs, and more!_
+_As you hatch more eggs and discover more types of bees, you'll be able to do more things!_
+_Gates with numbers on them require you to hatch a certain number of eggs to pass._
+_Platforms with magnefying_[sic]_glass icons require you to discover a certain number of bee types to activate them._
+_You can see how many bees you have and which types you've discovered in the Bee menu._
+_Grow your hive to work your way to the very top of the mountain! Good luck!_
+* Page 37 (Removed)
+_You can enter Promo-Codes in the ⚙ System Menu! As an example, solve this riddle:_
+(Note: This tutorial page has been removed. It was added in as an addition to the Ready Player Two event.)
+* Page 38 (Removed)
+_> > ☺ These educational games make learning fun. Hop into them and it's begun!_
+(Note: This tutorial page has been removed. It was added in as an addition to the Ready Player Two event.)
+The Tutorial button.
+The Tutorial button but uncolored.
+Left Tutorial arrow.
+Right Tutorial arrow.
+* The riddle on the now removed 38th page of the Tutorial (>> ☺ These educational games make learning fun. Hop into them and it's begun!) is a hint toward the code "Jumpstart".

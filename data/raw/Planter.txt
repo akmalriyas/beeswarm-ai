@@ -1,0 +1,210 @@
+Context: Bee Swarm Simulator - Planter
+
+All of the planter models, one-time use at the top and permanent at the bottom.
+Planters are inventory items that can be deployed in fields. Only one of each type of planter can be planted at any time, and only one planter can be planted in each field at any time. A player can only have up to 3 planters active at any given point of time. Harvesting planters grants nectar, random loot depending on the planter and the field, and has a chance to summon a Puffshroom. Planters remain where they are placed until claimed by the player.
+Mechanics[]
+To use a planter, simply drag the planter in your inventory or use the planter on your hotbar while standing on an unused field. A deployed planter will naturally grow over time only when you are playing the game, unless you have an Offline Voucher, in which it will continue growing for up to 24 hours after you log out. Only 3 planters can be active at a time.
+The growth of the planter can be boosted by using glitter on the field it is deployed (25% faster until harvest), active clouds in the field (8% faster each active cloud, 20% maximum bonus growth, lasts until the clouds despawn), a field they can naturally grow by faster (ex. Red Clay Planter grows 25% faster in red fields), or by bees sipping on the planter by standing in the field the planter is deployed. When bees are sipping on the planter, they will convert pollen in the player’s bag, grant nectar, and give growth to the planter. The amount of growth added to the planter depends on the bee's energy and the amount of nectar depends on the bee's collection amount and the planter deployed.
+After reaching 95% growth, the planter will roll on whether it will "smoke" or not. If the planter smoked, the planter will spawn a puffshroom on harvest. The chance for the planter to smoke depends on the type of planter, with the ticket planter and sticker planter being guaranteed to smoke.
+Upon harvesting the planter, the planter will drop three things: nectar, pollen and items; the nectars are guaranteed to be granted upon harvest, items are only dropped at a certain percentage of growth, and pollen is based on planter growth. Additionally, excess pollen gained exceeding the player's capacity is instantly converted. The amount of nectar and items it drops depends on the current growth of the planter. If the planter is smoking while at full growth, it will release a puffshroom upon harvest with its level being affected by the type of planter used. The type of nectar dropped is affected by the field the planter is deployed on, and the items are affected by the type of planter and the field it is deployed on. Some planters grant more nectars than other ones.
+Planters have bonus drops. Either from the planter itself, when they are deployed in a particular field, or by chaining them by planting and fully growing them at particular fields (see chart below under "All Bonus Drops (from growing in a certain field)".
+When harvesting a planter on a field, the field will "degrade". When a field degrades, the natural growth of the planter slows down when it is planted there. The amount of degradation on the field depends on the current percentage of growth on the planter corresponding to the natural time of the planter's growth, and harvesting a planter also always degrade the field by 1 hour. Every field can be degraded by a maximum of 48 hours. The more degradation is put on the field, the longer they'll naturally grow and the longer they'll stay degraded. When a planter is in a degraded field, the color of the planter will be brown instead of green, getting darker the higher the degradation. It seems that after being placed for a while, the color will return to being green. However, the field will still stay degraded.
+Planters drop items and nectars upon harvesting, the quality and amount of items and nectars depend on the total growth. Chaining or having the planter deployed in certain fields will make them drop certain items. Some planters also exclusively drop certain items. As seen below:
+* Planters can sometimes drop tickets, the quantity of the tickets depend on the type of the Planter.
+* The Ticket Planter exclusively drops tickets as a bonus drop, ranging between 10 and 150.
+* The Candy Planter drops Gumdrops as a bonus drop.
+* Placing the Candy Planter in Blue Flower Field, Strawberry Field, or Pineapple Patch makes it drop more gumdrops.
+* Planters in Stump Field can drop Gumdrops.
+* The Planter Of Plenty drops Gumdrops as a bonus drop and has a rare chance to drop 100 gumdrops.
+* Planters in the 35 Bee Zone can drop Coconuts.
+* Planting the Blue Clay Planter in the Spider Field guarantees at least 10 Micro-Converters.
+* The Planter Of Plenty drops Micro-Converters as a bonus drop.
+* Fully growing the Red Clay Planter in the Clover Field, Spider Field and Cactus Field consecutively rewards 10 stingers (2 weeks cooldown).
+* Planters grown in the Cactus Field and Rose Field have a chance to drop stingers.
+* The Heat-Treated Planter drops 10 Stingers when fully grown in Cactus Field.
+* Planters in the Pine Tree Forest can drop whirligigs.
+* The Tacky Planter and Petal Planter drop Field Dice as bonus drop.
+* The Tacky Planter and Petal Planters drop Smooth Dice as bonus drop.
+* The Tacky Planter has a rare chance to drop Loaded Dice.
+* Planting the Tacky Planter in the Mountain Top Field makes it drop 1 or 2 Loaded Dice (1 month cooldown).
+* The Petal Planter has an approximately 20% chance to drop Loaded Dice.
+* Planting the Heat-Treated Planter in the Mushroom Field guarantees 1 Loaded Dice with a cooldown of around 22 hours.
+* Planting the Hydroponic Planter in the Blue Flower Field guarantees 1 Loaded Dice with a cooldown of around 22 hours.
+* The Candy Planter, Petal Planter, and The Planter Of Plenty drop Jelly Beans as bonus drop.
+* The Red Clay Planter has a rare chance to drop 10 Red Extracts.
+* Placing the Heat-Treated Planter in the Mushroom Field, the Strawberry Field, the Rose Field, or the Pepper Patch has a rare chance to drop 100 Red Extracts (unknown cooldown).
+* Placing the Heat-Treated Planter in the Mushroom Field, the Strawberry Field, the Rose Field, and the Pepper Patch consecutively guarantees a bonus of an additional 100 Red Extracts (1 month cooldown).
+* The Red Clay Planter and Heat-Treated Planter drop Red Extracts as a bonus drop.
+* Planting the Hydroponic Planter in the Blue Flower Field, the Bamboo Field, the Pine Tree Forest, and the Stump Field consecutively guarantees a bonus of an additional 100 Blue Extracts (1 month cooldown).
+* The Hydroponic Planter drops Blue Extracts as a bonus drop.
+* The Petal Planter drops 10 Glitter in Dandelion Field (Unknown cooldown).
+* The Petal Planter drops glitter as a bonus drop.
+* Planting the Candy Planter in the Stump Field 3 times in a row will guarantee 10 glue (1 week cooldown).
+* The Candy Planter has an uncommon chance to drop glue, and a very rare chance to drop 10 glue on its own.
+* Planters in Sunflower Field have a chance to drop Oil.
+* Paper Planters are guaranteed to drop 1 or 5 Oils in the Sunflower Field.
+* The Hydroponic Planter drops Oil as a bonus drop.
+* Planting the Hydroponic Planter 3 times in a row in the Sunflower Field guarantees 100 Oils. (unknown cooldown)
+* Planting the Heat-Treated Planter in the Pineapple Patch 3 times in a row guarantees an bonus 100 Enzymes (unknown cooldown).
+* Planting the Heat-Treated Planter in the Pepper Patch can rarely result in a bonus of 100 Enzymes.
+* Heat-Treated Planters exclusively drop enzymes as a bonus drop.
+* Placing a planter in Pineapple Patch gives the planter a rare chance to drop enzymes.
+* Planters in Coconut Field have a rare chance to drop Tropical Drinks.
+* Planting Red Clay Planters or Tacky Planter in a red field then a blue field or vice versa gives it a chance to drop a Purple Potion.
+* Plastic Planters has an uncommon chance to drop 1 Super Smoothie when harvested with 1 month cooldown.
+* Candy Planters has a rare chance to drop 1-3 Super Smoothies.
+* Planting Planters Of Plenty in the Bamboo Field makes it drop 10 Super Smoothies (1 month cooldown).
+* The Petal Planter has an approximately 2% chance to drop a Super Smoothie.
+* Planting the Petal Planter in any white field makes it drop 10 Star Jelly (unknown cooldown).
+* The Petal Planter drops Star Jelly as a bonus drop.
+* The Planter Of Plenty drops Star Jelly as a bonus drop.
+* Placing any planters in Sunflower Field makes it drop sunflower seeds.
+* The Tacky Planter exclusively drops sunflower seeds as a bonus drop.
+* Placing any planter in Red Fields makes them drop Strawberries.
+* The Heat-Treated Planter drops extra strawberries when planted in the Strawberry Field.
+* Placing any planter in Pineapple Patch makes them drop pineapples.
+* Placing any planter in Blue Fields makes them drop Blueberries.
+* Placing the Pesticide Planter in the Pepper Patch, Spider Field, or the Mountain Top Field has a chance of dropping 100 bitterberries.
+* Placing any planter in Pepper Patch or Spider Field makes them drop Bitterberries.
+* Fully harvesting Pesticide Planters in the Stump Field, the Mountain Top Field, and the Coconut Field (in that order) results in at least 25 Neonberries (1 week cooldown).
+* The Planter Of Plenty and the Pesticide Planter drops Neonberries as a bonus drop. The Planter Of Plenty has a rare chance of dropping 100 Neonberries.
+* Placing any planter in Pineapple Patch makes them drop Moon Charm, the amount of Moon Charms depends on the type of planter.
+* Red Clay Planters drops waxes as a bonus drop, including Soft Wax.
+* Planters Of Plenty drops waxes as a bonus drop, including Soft Wax.
+* Planting any planter in Mushroom Field gives them a chance to drop Soft Wax.
+* Red Clay Planters has an uncommon chance to drop Hard Wax.
+* Planters Of Plenty drops Hard Wax as a bonus drop.
+* Harvesting a fully grown Plastic Planter in the Coconut Field makes it drop 1 Swirled Wax (1 month cooldown).
+* Planting the Candy Planter in Cactus Field guarantees 1 Swirled Wax (36 day cooldown)
+* Planting the Red Clay Planter in Sunflower Field makes it drop 1 Swirled Wax (1 month cooldown).
+* Planting the Red Clay Planter in blue fields has a chance to drop a Swirled Wax.
+* Planting the Blue Clay Planter in Spider Field makes it drop 1 Swirled Wax (1 month cooldown).
+* Planting the Tacky Planter in the Pumpkin Patch makes it drop 1 Swirled Wax (1 month cooldown).
+* Planting the Pesticide Planter in the Strawberry Field guarantees 1 Swirled Wax (36 day cooldown).
+* Planting the Heat-Treated Planter in the Blue Flower Field guarantees 1 Swirled Wax if fully harvested (36 day cooldown).
+* Planting the Hydroponic Planters in the Mushroom Field guarantees 1 Swirled Wax if fully harvested (36 day cooldown).
+* Planting the Petal Planter in the Strawberry Field makes it drop 1 Swirled Wax (1 month cooldown).
+* The Planter Of Plenty has an uncommon chance to drop 5 Swirled Wax.
+* The Planter Of Plenty has an uncommon chance to drop 1 Swirled Wax.
+* Harvesting a fully grown Plastic Planter in the Rose Field makes it drop 1 Caustic Wax (1 month cooldown).
+* Planting the Candy Planter in Mountain Top Field guarantees 1 Caustic Wax (36 day cooldown).
+* Planting the Red Clay Planter in Clover Field makes it drop 1 Caustic Wax (1 month cooldown).
+* Planting the Blue Clay Planter in Clover Field makes it drop 1 Caustic Wax (1 month cooldown).
+* Planting the Tacky Planter in Bamboo Field makes it drop 1 Caustic Wax (1 month cooldown).
+* Planting the Pesticide Planter in the Strawberry Field or the Bamboo Field has higher chances of dropping a Caustic Wax.
+* Planting the Heat-Treated Planter in the Coconut Field guarantees 1 Caustic Wax if fully grown(36 day cooldown).
+* Planting the Hydroponic Planter in the Coconut Field guarantees 1 Caustic Wax if fully grown(36 day cooldown).
+* Planting thePetal Planter in the Dandelion Field makes it drop 1 Caustic Wax (1 month cooldown).
+* The Planter Of Plenty has a rare chance to drop 1 Caustic Wax.
+* Almost every planter has a chance to drop Turpentine.
+* The Planter Of Plenty has 10% chance.
+* The Petal Planter has an approximately >1% chance.
+* Sticker Planters always guarantee stickers.
+* Certain planters drops certain stickers exclusive to them.
+Planter Types[]
+There are currently 14 planters in-game, listed below:
+* One-time Use
+* Permanent
+One-time use planters are planters that can't be reused and requires the player to acquire more of them in order for them to be used again.
+*  Paper Planter
+*  Ticket Planter
+*  Festive Planter
+*  Sticker Planter
+Permanent planters are planters that can be indefinitely reused after acquiring them. Once you collected the planter, it goes back into the player's inventory.
+*  Plastic Planter
+*  Candy Planter
+*  Red Clay Planter
+*  Blue Clay Planter
+*  Tacky Planter
+*  Pesticide Planter
+*  Heat-Treated Planter
+*  Hydroponic Planter
+*  Petal Planter
+*  The Planter Of Plenty
+Nectar Types[]
+Fact: The Nectar Type in Planter has/costs Buffs, Fields, Planter Bonuses.
+Fact: The Comforting in Planter has/costs x1.2 - x2 Colorless Bee Convert Rate.
+Fact: Comforting statistic: x1.1 - x1.5 Blue Pollen.
+Fact: The x1.1 - x2 Convert Rate At Hive in Planter has/costs Dandelion Field.
+Bamboo Field
+Fact: The Pine Tree Forest in Planter has/costs x1.2 from Blue Clay Planter.
+x1.25 from Tacky Planter
+x1.4 from Hydroponic Planter
+x1.5 from Petal Planter
+Fact: The Motivating in Planter has/costs x1.1 - x1.5 Convert Rate.
+Fact: Motivating statistic: x1.1 - x1.5 Blue Pollen.
+Fact: The +1% - +5% Bee Ability Rate in Planter has/costs Mushroom Field.
+Spider Field
+Stump Field
+Fact: The Rose Field in Planter has/costs x1.2 from Candy Planter.
+x1.3 from Pesticide Planter
+x1.4 from Heat-Treated Planter
+Fact: The Satisfying in Planter has/costs x1.2 - x2 _Red_ Convert Rate.
+Fact: Satisfying statistic: x1.2 - x2 White Pollen.
+Fact: The x1.05 - x1.5 Honey at Hive in Planter has/costs Sunflower Field.
+Pineapple Patch
+Fact: The Pumpkin Patch in Planter has/costs x1.2 from Red Clay Planter.
+x1.25 from Tacky Planter
+x1.3 from Pesticide Planter
+x1.5 from Petal Planter
+Fact: The Refreshing in Planter has/costs x1.2 - x2 _Blue_ Convert Rate.
+Fact: Refreshing statistic: x1.1 - x1.5 Red Pollen.
+Fact: The +5% - +20% Unique Instant Conversion in Planter has/costs Blue Flower Field.
+Strawberry Field
+Fact: The Coconut Field in Planter has/costs x1.2 from Blue Clay Planter.
+x1.4 from Hydroponic Planter
+Fact: The Invigorating in Planter has/costs x1.1 - x1.5 Convert Rate.
+Fact: Invigorating statistic: x1.1 - x1.5 Red Pollen.
+Fact: The x1.02 - x1.10 Bee Attack in Planter has/costs Clover Field.
+Cactus Field
+Mountain Top Field
+Fact: The Pepper Patch in Planter has/costs x1.2 from Red Clay Planter.
+x1.4 from Heat-Treated Planter
+Fact: x1.4 from Heat-Treated Planter statistic: * In addition to these buffs, each nectar grants x1.01 - x1.05 Honey Per Pollen..
+Trivia[]
+* All planters (except the Heat-Treated Planter, Hydroponic Planter and Sticker Planter) were added in the 2021-12-26 update.
+* There are currently 10 reusable planters, thus adding 10 more inventory items that are reusable.
+* Onett hired Not_Nert for modelling all of the planter models.
+* Similarly to certain other items that can be placed down, any planters that have been placed down before the player has joined will not appear for that player.
+* Festive Planter is the only planter that can drop Gingerbread Bears and Festive Beans.
+* The pollen gained from planters counts toward quests that require pollen.
+* Sticker Planter is the newest planter, being added in the 2024-01-12 update.
+* Bees do not sip from planters during battle.
+* In spite of the game labelling many planters with "1/1" in the player's inventory, many of them listed above are reusable meaning the player can use them an infinite number of times after purchase.
+* The amount of time taken for a bee to sip nectar from a planter is twice the bee's gathering speed.
+Gallery[]
+A fully-grown planter.
+A glistering planter, which appears when a glitter has been used on the field.
+A planter "smoking" cloud of spores, indicating that a puffshroom will spawn upon harvesting the planter.
+Nectars granted after a bee sipped on the planter.
+A slower growing planter because of it being in a "degraded" field.
+The caption that appears when you try to harvest a planter in a Robo Bear Challenge Round.
+Fact: The Sub-Inventories in Planter has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Planter has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Planter has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Planter has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Planter has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Planter has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Planter has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Planter has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Planter has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Planter has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Planter has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Planter has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Planter has/costs **7-Pronged Cog**.
+Fact: The Other in Planter has/costs **Marshmallow Bee**.
+Fact: The Currencies in Planter has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Planter has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Planter has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Planter has/costs **Parachute •  Glider**.
+Fact: The Bags in Planter has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Planter has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Planter has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Planter has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Planter has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Planter has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Planter has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Planter has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Planter has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Planter has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

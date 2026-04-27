@@ -1,0 +1,94 @@
+Context: Bee Swarm Simulator - Diamond Mask
+
+Diamond Mask
+Diamond Mask
+Description
+"Proudly show your extreme wealth to the world. Shine so brightly that others will complain."
+Fact: Description requirement: 5,000,000,000 Honey, 250 Blue Extracts, 150 Oil, 100 Glitter, 5 Diamond Eggs, 1 Comforting Vial..
+Bonus Stats
+Fact: Bonus Stats statistic: x1.5 Blue Pollen.
+Fact: Bonus Stats statistic: +15% Instant Blue Conversion.
+Fact: Bonus Stats statistic: +25% Pollen.
+Fact: Bonus Stats statistic: x3 Capacity.
+Fact: Bonus Stats statistic: x1.5 Bubble Pollen.
+Fact: Bonus Stats statistic: +35% Defense.
+Fact: Bonus Stats statistic: +20% Bee Ability Rate.
+Fact: Bonus Stats statistic: +Passive: Bubble Bombs (Needs Bubble Mask).
+Fact: Bonus Stats statistic: +Passive: Diamond Drain.
+> "_Proudly show your extreme wealth to the world. Shine so brightly that others will complain._ "
+The Diamond Mask is a mask and the blue counterpart of the Demon Mask. It can be reached by finding the doorway near the end of the Cloud Obby, then completing an additional obstacle course made up of moon platforms. The player is able to skip the Cloud Obby by using a Parachute or Glider with enough height to steer themselves to the entrance to the Diamond Room. If the player owns the Diamond Mask, the moon platforms in the Diamond Room are permanently solid and are shaded a deep blue.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 5B Honey.
+Fact: Crafting Ingredients requirement: 250 Blue Extracts.
+Fact: Crafting Ingredients requirement: 150 Oils.
+Fact: Crafting Ingredients requirement: 100 Glitter.
+5 Diamond Eggs
+1 Comforting Vial
+Once the 30th blue ability token is collected, the Diamond Mask's passive ability activates with the following sound file:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Ddtune1.ogg>
+Fact: 1 Comforting Vial statistic: * x1.5 Blue Pollen.
+* +15% Instant Blue Conversion
+Fact: * +15% Instant Blue Conversion statistic: * +25% Pollen.
+Fact: * +15% Instant Blue Conversion statistic: * x3 Capacity.
+Fact: * +15% Instant Blue Conversion statistic: * x1.5 Bubble Pollen.
+* +35% Defense
+* +20% Bee Ability Rate
+* +Passive: Bubble Bombs (Requires Bubble Mask in order to use):
+* Every 25th Bomb Ability Token spawns 25 Bubbles that last for 8 seconds. if a player touches them, they pop, collecting 4R/6W/8B pollen, increased by 15% per Gifted blue Bee type, from 29 nearby Flowers and causes them to grow. (Cooldown: 2 minutes)
+* +Passive: Diamond Drain:
+Fact: * +20% Bee Ability Rate statistic: * Every 30th blue Ability Token converts 5 million Pollen plus a percentage of the Convert Amount of all of your bees combined, increased by 10% per blue bee and +50% per gifted blue bee type in your Hive. It also Pollinates 10 (+3 per blue bee) blue flowers within the field. (Cooldown: 45 seconds).
+Gallery[]
+The Diamond Drain icon.
+The Bubble Bombs icon.
+The Diamond Mask icon.
+An active Diamond Drain.
+A primed Diamond Drain.
+Diamond Mask in its shop.
+Diamond Mask’s old stats.
+Diamond Mask's stats before 2019-09-28.
+Diamond Mask's stats after the 2019-09-28 update.
+Diamond Mask's stats prior to the 2024-05-23 update.
+Diamond Mask's current stats.
+A player wearing the Diamond Mask.
+The blue moons that appear when the player gets the Diamond Mask (Players need to rejoin the game after buying the mask).
+Trivia[]
+* Prior to the 2019-09-28 Update, the player was unable to jump on the moon platforms during the day, similar to the moon platforms in the Bear Gate and behind Dapper Bear's Shop, even if they already own the Diamond Mask.
+* If the ingredients to craft this item were to be crafted, a total of 5,000,000,000 honey, 4,000 Royal Jellies, 12,500 Blueberries, 7,500 Sunflower Seeds, 100 Magic Beans, 2,500 Moon Charms, and 5 Diamond Eggs are needed, or 2000 tickets if one decides to purchase all the diamond eggs from the ticket tent.
+* This and the Honey Mask are the only items that require eggs to craft.
+* This mask and the Demon Mask are the only masks in the game that resemble Legendary bees.
+* The Diamond Mask is based on Diamond Bee and uses the same face decal as it.
+* When receiving the quest 'Breath of Blue', Spirit Bear says that Diamond Drain is activated on every 25th Blue Boost token collected, though it was later changed to every 30th blue ability token collected.
+* Spirit Bear also states that the amount of pollen converted by the ability decreases with each use, though this feature was eventually removed.
+* The Diamond Mask Shop, the Hub Field Shop, and the Demon Mask Shop are the only shops in the game that have a single item.
+* This, the Demon Mask, and the Gummy Mask are the only masks with decorative accessories (the Diamond Mask has a tiara).
+* Unlike the Demon Mask and Gummy Mask, the sound effect of its passive is not based on music in the game.
+* This mask, the Demon Mask, and the Mondo B.B.M. Mask are the only masks that require an obby to equip or reach the shop.
+Fact: The Sub-Inventories in Diamond Mask has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Diamond Mask has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Diamond Mask has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Diamond Mask has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Diamond Mask has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Diamond Mask has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Diamond Mask has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Diamond Mask has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Diamond Mask has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Diamond Mask has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Diamond Mask has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Diamond Mask has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Diamond Mask has/costs **7-Pronged Cog**.
+Fact: The Other in Diamond Mask has/costs **Marshmallow Bee**.
+Fact: The Currencies in Diamond Mask has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Diamond Mask has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Diamond Mask has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Diamond Mask has/costs **Parachute •  Glider**.
+Fact: The Bags in Diamond Mask has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Diamond Mask has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Diamond Mask has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  **Diamond Mask** •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Diamond Mask has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Diamond Mask has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Diamond Mask has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Diamond Mask has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Diamond Mask has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Diamond Mask has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Diamond Mask has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

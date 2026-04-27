@@ -1,0 +1,100 @@
+Context: Bee Swarm Simulator - Coconut
+
+Fact: Coconut statistic: _"Drops a huge Coconut into the field. Catch it to convert Pollen to Honey Tokens."_.
+A Coconut is an inventory item that was added in the 2019-09-28 update. It will spawn a large, green circle on the field you used it on. If caught, it will convert pollen into a ring of 10 honey tokens. It can also collect pollen for the player that summoned it, damage mobs, and can be used in certain crafting recipes.
+Fact: Coconut statistic: Pollen from coconuts can be increased with the Coconut Clogs, pollination, and the Coconut Field Market Boost (now impossible to obtain as the Boost Market has been removed)..
+A maximum of 500 coconuts can be held at a time, as the item’s highest capacity limit, excluding items that don’t have a capacity limit.
+There’s also an On/Off switch on the player’s hotbar (if the coconut Item is in the player’s hotbar). The coconut will be used automatically when this switch is turned on.
+The following audio plays when a coconut hits a field:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Cocothud.ogg>
+Ways to Obtain[]
+* Defeating the Coconut Crab grants coconuts (depending on the time taken to defeat it).
+* Growing sprouts in the Coconut Field.
+* Farming in the Coconut Field.
+* Harvesting Leaves here may also yield Coconuts.
+* There is a token worth 10 coconuts under the leaves of the palm tree closest to Spirit Bear.
+* Using the Coconut Dispenser grants 3 Coconuts (amount increases with each Coconut Badge tier obtained, up to 15 Coconuts).
+* Redeeming certain valid codes:
+Fact: Ways to Obtain[] requirement: * 1MLikes (Gives 1 **Coconut** \+ other items)..
+* Winning them from Mega Memory Match and Extreme Memory Match (available in increments of 3 and 5 Coconuts respectively).
+* As a rare gift from Cub Buddy in increments of 1.
+* As a drop from an Armored Aphid.
+* Harvesting planters in the Coconut Field, Pine Tree Forest or Pepper Patch.
+* As a drop from puffshrooms within the 35 bee zone.
+* Purchasing the Reindeer Bundle from Bee Bear's Catalog for 250 Gingerbread Bears grants 100 Coconuts and other items.
+* The Palm Tree sticker rewards 10 Coconuts when added to the Sticker Stack.
+Outdated Ways[]
+* Purchasing certain packs from the Robux Shop:
+* The Gooey Goodies Pack granted 100 Coconuts and other items.
+* The Stocking Stuffer Pack granted 25 Coconuts and other items.
+* Opening the Funky Present rewarded 20 Coconuts and other items.
+* Purchasing certain bundles from Bee Bear's Catalog.
+* The Percussive Bundle from Summer 2024 granted 25 Coconuts and other items.
+* The Tropical Bundle from Summer 2024 granted 250 Coconuts and other items.
+* The Island Bundle from Winter 2024 granted 250 Coconuts and other items.
+* Completing Panda Bear's Beesmas 2020 Quest rewarded 5 Coconuts and other items.
+* Redeeming certain expired codes:
+Fact: Outdated Ways[] requirement: * Mocito100T (Gave 10 **Coconuts** \+ other items)..
+Conversion[]
+Fact: Conversion[] statistic: When the coconut lands on a player, Pollen is converted in your Backpack and has a maximum amount of 100% of the player's total hive convert amount. For example, if a player has 500,000 total hive convert amount and a coconut lands on them, up to 500,000 pollen would be converted into honey tokens..
+The amount of honey received from the coconut is multiplied by Honey From Tokens.
+Crafting Uses[]
+Total required for all single-purchase items: 900 Coconuts
+Fact: The **Coconuts** in Coconut has/costs Other ingredients, Result.
+Fact: The 10 in Coconut has/costs 2 Enzymes.
+Fact: The 2 Oils in Coconut has/costs Tropical Drink.
+Fact: The 150 in Coconut has/costs 10B Honey.
+50 Tropical Drinks
+Fact: 50 Tropical Drinks requirement: 100 Glues.
+Fact: The 100 Oils in Coconut has/costs Coconut Clogs.
+Fact: The 250 in Coconut has/costs 25B Honey.
+150 Tropical Drinks
+Fact: 150 Tropical Drinks requirement: 150 Red Extracts.
+Fact: The 150 Blue Extracts in Coconut has/costs Coconut Canister.
+Fact: The 500 in Coconut has/costs 7.5T Honey.
+Fact: 500 requirement: 200 Purple Potions.
+1,500 Tropical Drinks
+Fact: 1,500 Tropical Drinks requirement: 200 Hard Waxes.
+Fact: 1,500 Tropical Drinks requirement: 3 Turpentines.
+Fact: The 3 Refreshing Vials in Coconut has/costs Coconut Belt.
+Gallery[]
+A summoned coconut.
+A green circle indicating a falling coconut.
+The ring of honey tokens when hit by a coconut.
+A Coconut token.
+Fact: Gallery[] requirement: 500/500 **Coconuts** in a player's inventory..
+Trivia[]
+* Before the 2021-12-26 update, the player could only hold a max of 150 Coconuts. It has been increased to 500 after said update.
+* Getting hit by a coconut originally converted 75% of the player's hive convert amount into honey.
+* This is the only inventory item that can directly damage mobs.
+* If you have no pollen in your bag, catching a coconut will still spawn honey tokens that give 1 Honey each, (before Honey From Tokens is applied). This happens because a honey token needs to give you at least 1 honey.
+* When used in the Hive Hub, a total of 1,500 Honey is given, meaning each honey token grants 150 honey.
+Fact: The Sub-Inventories in Coconut has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Coconut has/costs **Sprinkler Builder •  Gumdrops •  **Coconut** •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Coconut has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Coconut has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Coconut has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Coconut has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Coconut has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Coconut has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Coconut has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Coconut has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Coconut has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Coconut has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Coconut has/costs **7-Pronged Cog**.
+Fact: The Other in Coconut has/costs **Marshmallow Bee**.
+Fact: The Currencies in Coconut has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Coconut has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Coconut has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Coconut has/costs **Parachute •  Glider**.
+Fact: The Bags in Coconut has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Coconut has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Coconut has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Coconut has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Coconut has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Coconut has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Coconut has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Coconut has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Coconut has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Coconut has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

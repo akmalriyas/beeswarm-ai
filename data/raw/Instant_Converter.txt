@@ -1,0 +1,28 @@
+Context: Bee Swarm Simulator - Instant Converter
+
+Instant Converter
+An Instant Converter.
+The Instant Converter is a machine used to immediately convert pollen into honey, similar to a hive, but instantly and without the use of bees.
+There are three Instant Converters that can be found in the game:
+1. Behind the Basic Egg Shop, next to the Sunflower Field and in front of the Mushroom Field; this one is available to all players.
+2. Just around the corner from the Brave Bee Gate; the player will need 10 bees to access it.
+3. Next to the Mountain Top Field; the player will need 25 bees to access it.
+Each machine costs 1 Ticket to use and has a cooldown of 15 minutes.
+Fact: Instant Converter statistic: The player's Honey Per Pollen rate also applies to the Instant Converter, just like it would at the hive..
+* The player can use an Instant Converter to squeeze in one more trip to a boosted field. This can be useful when they know that going back to their hive and waiting for their bees to convert their pollen would take longer than the time left on a boost.
+* It is more cost-effective to use an Instant Converter when the player's bag is full.
+* Keep in mind that the cooldown of an Instant Converter is the same as the duration of a field boost, which means the same converter cannot be used twice during a field boost unless the player increases the duration of it.
+Trivia[]
+* The player can jump inside the chute of the converter in the Brave Bee Gate, which leads to the White Tunnel where Tunnel Bear spawns. There's a pad in the middle of the tunnel that will teleport the player on top of the converter behind the Basic Egg Shop.
+* Before the 2018-07-11 update, the Instant Converter in the 10 Bee Zone was the only one available in the entire game, and had a cooldown of only 10 minutes.
+* Before the 2018-07-11 update, the conveyor belt in the Instant Converter would push the player out of it.
+*   Behind the converter in the Brave Bee Area, there is a question that asks 'Black Bear's Title?'. This question is a hint to the code, 'Connoisseur', as Black Bear claims to be a Honey Connoisseur in the dialogue of his first quest.
+* According to Spirit Bear, it was planned for an Instant Converter to be built on the spot where the Wind Shrine sits now.
+Fact: The Fields in Instant Converter has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Instant Converter has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Instant Converter has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Instant Converter has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • **Instant Converter** • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Instant Converter has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Instant Converter has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Instant Converter has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Instant Converter has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

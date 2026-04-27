@@ -1,0 +1,45 @@
+Context: Bee Swarm Simulator - Ticket Tent
+
+Ticket Tent
+Ticket Tent
+Location
+Behind the Red Cannon
+_This page is for the shop that sells items for tickets. For the shop that sells tickets, see theTicket Shop page._
+The Ticket Tent is a shop located behind the Red Cannon and near the Hives. It sells six types of Event Bees, Silver Eggs, Gold Eggs, Diamond Eggs, Mythic Eggs, and Star Treats. They can only be purchased with Tickets, hence its name. There is also a Royal Jelly token on top of the Ticket Tent.
+Prices[]
+Fact: The Silver Egg in Ticket Tent has/costs 50, Usually hatches into a Rare Bee (64.9% chance). May be Epic (30%), Legendary (5%), or Mythic (0.1%)..
+Fact: The Gold Egg in Ticket Tent has/costs 100 (Originally 50), Usually hatches into an Epic Bee (79% chance). May be Legendary (20%) or Mythic (1%)..
+Fact: The Diamond Egg in Ticket Tent has/costs 400, Usually hatches into a Legendary Bee (95% chance). Has a 5% chance to be Mythic..
+Fact: The Mythic Egg in Ticket Tent has/costs 2500, Always hatches into a Mythic Bee!.
+Fact: The Puppy Bee Egg in Ticket Tent has/costs 500 (Originally 250), This bee loves to play! Throw it's _sic]_ tennis ball around to collect [pollen! Keep the ball going to win Treats!.
+Fact: The Photon Bee Egg in Ticket Tent has/costs 500, An entity made of pure light! Fires beams from the sky to collect massive amounts of pollen at once..
+Fact: The Tabby Bee Egg in Ticket Tent has/costs 500 (Originally 250), An affectionate bee who becomes a harder worker as it warms up to you..
+Fact: The Festive Bee Egg in Ticket Tent has/costs 500, A generous bee who hands out random gifts to every player on your server!.
+Fact: The Crimson Bee Egg in Ticket Tent has/costs 250, Defender of all things Red! Excels in hives with many Red Bees. Has enhanced abilities when working with Cobalt Bee..
+Fact: The Cobalt Bee Egg in Ticket Tent has/costs 250, Defender of all things Blue! Excels in hives with many Blue Bees. Has enhanced abilities when working with Crimson Bee..
+Fact: The Star Treat in Ticket Tent has/costs 1000, Turns a bee into a Gifted Bee! Gifted Bees have many perks, including increased stats and bonuses for your entire swarm..
+Fact: The Gummy Bee Egg in Ticket Tent has/costs 500, A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!.
+Fact: The Cub Buddy in Ticket Tent has/costs 2,000, A baby bear who follows you around, collecting Tokens and occasionally granting gifts!.
+Gallery[]
+A player standing out of bounds, next to the Ticket Tent.
+Trivia[]
+* The only bee in this shop that could be obtained without tickets (for a limited time) was Festive Bee.
+* This used to also apply to Gummy Bee, which is now permanently available for 2500 gumdrops.
+* The Royal Jelly token on top of the Ticket Tent was mentioned by Sun Bear in his dialogue.
+* Buying a star treat from here is one of the only ways to obtain star treats without Robux.
+* Before the 2019-04-05 update, if the player had the Goo Hotshot Badge, they could go up to the Gummy Bee on top of the tent and use gumdrops to enter Gummy Bear's Lair. However, this mechanic was moved to the Gummy Bee Egg Claim when it was added.
+* The wings on the gifted Photon Bee's model are not transparent, while the giant Festive Bee and Puppy Bees' wings are.
+* Additionally, the wings of the Festive Bee model aren't solid, while the wings of the Puppy Bee and Gifted Photon Bee models are.
+* The Photon Bee is also the only model that is in gifted form.
+* When the Ticket Tent was implemented, the most expensive item was the star treat, costing 1,000 tickets. However, after the Beesmas 2019 event ended, the most expensive item was the Cub Buddy, costing 2,000 tickets. After the 2024-05-23 update, Mythic Eggs now cost the most, at 2,500 tickets.
+* Like the Noob Shop or Pro Shop, Spotted chicks could spawn here during the Egg Hunt 2020 event.
+* Cub Buddies used to be sold in this shop, but after the 2024-05-23 update, this is no longer the case.
+* It is possible to see the back of the Ticket Tent by going out of bounds behind the Coconut Field.
+Fact: The Fields in Ticket Tent has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Ticket Tent has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • **Ticket Tent** • Robux Shop**.
+Fact: The Gates in Ticket Tent has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Ticket Tent has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Ticket Tent has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Ticket Tent has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Ticket Tent has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Ticket Tent has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

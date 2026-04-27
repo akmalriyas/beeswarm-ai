@@ -1,0 +1,70 @@
+Context: Bee Swarm Simulator - Bitterberries
+
+Bitterberries
+Bitterberry
+_"Increases bond with a bee by 100. Small chance to cause Mutations."_
+The text that appears in the chat when a bee gains a mutation, fed with bitterberry.
+A Bitterberry is a type of treat that, when fed to a bee, raises its bond by 100 and has a 1/1000 chance to make it mutated. The chance is boosted to 1/100 if the bee is radioactive. These are not the favorite treat of any bee.
+Ways to Obtain[]
+* Redeeming certain valid codes:
+* BeesBuzz123 (rewards 5 Bitterberries \+ other stuff).
+* 15MMembers (rewards 15 Bitterberries \+ other stuff).
+* As a stack reward for adding certain stickers to the Sticker Stack:
+* Squashed Head Bear Stickers rewards 25 Bitterberries.
+* Finding the 10 Bitterberries under the Beesmas Tree.
+Drops[]
+* Farming in the Mushroom Field, Spider Field, Pineapple Patch, Cactus Field, Rose Field, Mountain Top Field, and Pepper Patch.
+* Harvesting leaves in these fields may also yield bitterberries.
+* As a guaranteed drop from Commando Chick, Mondo Chick, and the Coconut Crab.
+* As a drop from ladybugs, spiders, scorpions, Rage Aphids, Tunnel Bear, and King Beetle.
+* As a gift from a cub buddy.
+* As a common drop from Mythic Meteors.
+* As a drop from a Debug Sprout.
+* As an uncommon drop from Puffshrooms.
+* As a drop from the Pesticide Planter and The Planter Of Plenty.
+* The Pesticide Planter has a chance of dropping a bonus 100 Bitterberries when harvested at full growth in the Spider Field, Mountain Top Field, or Pepper Patch.
+Quests[]
+* Black Bear rewards bitterberries on the following quest:
+* Sweet and Sour gives 25 bitterberries.
+* Weed Wacker 3 gives 25 bitterberries.
+* Brown Bear rewards bitterberies on the completion of these quests:
+* Brown Bear's 20th quest rewards 25 bitterberries.
+* Brown Bear's 40th quest rewards 50 bitterberries.
+* Brown Bear's 135th quest rewards 50 bitterberries.
+* Brown Bear's 180th quest rewards 50 bitterberries.
+* Brown Bear's 210th quest rewards 50 bitterberries.
+* Every 20th Brown Bear quest rewards a varying amount of bitterberries.
+Outdated Ways[]
+* Completing Bee Bear's "A Time for Sharing" and "Bee Cub Workshop 1" quests.
+* As a drop from Hostage Chick.
+* Redeeming certain expired codes:
+* 5mMembers gave 5 bitterberries + other stuff.
+* FourYearFiesta gave 4 bitterberries + other stuff.
+* 1MLikes (Gives 1 bitterberry + other stuff).
+* Cubly (rewards 10 bitterberries + other stuff).
+* Purchasing from Bee Bear's Catalog.
+* The Tempting Treat Pack rewards 100 bitterberries.
+* Digging into the Beesmas Feast.
+Crafting Uses[]
+Total required for all single-purchase items: 0 Bitterberries
+Fact: The **Bitterberries** in Bitterberries has/costs Other ingredients, Result.
+Fact: The 33 in Bitterberries has/costs 3 Soft Waxes.
+Fact: 33 requirement: 3 Enzymes.
+33 Royal Jellies
+Gallery[]
+A Bitterberry token from the Beesmas Feast.
+Fact: The Sub-Inventories in Bitterberries has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Bitterberries has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Bitterberries has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Bitterberries has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Bitterberries has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  **Bitterberry** •  Neonberry •  Moon Charm**.
+Fact: The Drives in Bitterberries has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Bitterberries has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Bitterberries has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Bitterberries has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Bitterberries has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Bitterberries has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Bitterberries has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Bitterberries has/costs **7-Pronged Cog**.
+Fact: The Other in Bitterberries has/costs **Marshmallow Bee**.
+Fact: The Currencies in Bitterberries has/costs **Brick •  Cog •  Ticket**.

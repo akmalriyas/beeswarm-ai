@@ -1,0 +1,106 @@
+Context: Bee Swarm Simulator - Windy Bee
+
+Windy Bee
+Windy Bee
+_"An ethereal bee as powerful and unpredictable as the weather."_
+Fact: The 20 in Windy Bee has/costs **Speed**.
+Fact: The 19.6 in Windy Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #f2ffff #f2ffff #f2ffff
+_This page is for the tamed version of Windy Bee. For the hostile version, seeWild Windy Bee._
+Windy Bee is a Colorless Event bee that hatches from a Windy Bee Egg, which can be obtained from donating Cloud Vials after having previously donated a Spirit Petal to the Wind Shrine.
+Like all other Event bees, this bee does not have a favorite Treat, and the only ways to make it gifted are by feeding it a Star Treat, Gingerbread Bears or Aged Gingerbread Bears.
+Windy Bee likes the Dandelion Field and the Coconut Field. It dislikes the Bamboo Field and the Strawberry Field.
+Fact: Skin #f2ffff #f2ffff #f2ffff statistic: * Collects 10 Pollen in 3 seconds..
+* Makes 180 Honey in 2 seconds.
+* +40% Movespeed, +50% Convert Speed, +25% Gather Speed, +100 Convert Amount, +3 Attack.
+* 🌟 Gifted Hive Bonus: +15% Instant White Conversion, x2 Boosts From Clouds.
+Abilities[]
+* [White Boost] Grants x1.2 pollen from White Flowers for 15s. Stacks up to 10 times.
+Fact: Abilities[] statistic: * **[Rain Cloud]** Summons a Cloud in a different field that lasts for 60s (+10s per level). Clouds make flowers grow and grant +25% Pollen and 10% Unique Instant Conversion to nearby players (50% Pollen and 20% Unique IC if the player has a gifted Windy Bee). If another player's Windy Bee spawns a cloud in the field the player is on, a message will appear announcing "🌧️ [Username]'s Windy Bee summoned a Cloud in this field. 🌧️".
+Fact: Abilities[] statistic: * **[Tornado]** Consumes your "Haste" stacks to summon a Tornado which damages enemies and collects Tokens and Pollen as it roams the field. Lifespan, speed, and damage are increased by the number of Haste stacks spent and bee level..
+Fact: Abilities[] statistic: Windy Bee has a base pollen collection of **10** in **3 seconds**. That's equivalent to 3.33333  per second. (**20** in **3 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Windy Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Windy Bee has/costs with Melody.
+Fact: The Single in Windy Bee has/costs 10, 20, 30.
+Fact: The Double in Windy Bee has/costs 20, 40, 60.
+Fact: The Triple in Windy Bee has/costs 30, 60, 90.
+Fact: The Large in Windy Bee has/costs 40, 80, 120.
+Fact: The Star in Windy Bee has/costs 50, 100, 150.
+Windy Bee can make 180 in 2 seconds! That's equivalent to 90 per second. (180 in 1 second with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Windy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Windy Bee has/costs 25%, 225.
+Fact: The 2 in Windy Bee has/costs 50%, 270.
+Fact: The 3 in Windy Bee has/costs 75%, 315.
+Fact: The 4 in Windy Bee has/costs 100%, 360.
+Fact: The 5 in Windy Bee has/costs 125%, 405.
+Fact: The 6 in Windy Bee has/costs 150%, 450.
+Fact: The 7 in Windy Bee has/costs 175%, 495.
+Fact: The 8 in Windy Bee has/costs 200%, 540.
+Fact: The _Science Enhancement_ in Windy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Windy Bee has/costs 225%, 585.
+Fact: The 10 in Windy Bee has/costs 250%, 630.
+Fact: The 11 in Windy Bee has/costs 275%, 675.
+Fact: The 12 in Windy Bee has/costs 300%, 720.
+Fact: The 13 in Windy Bee has/costs 325%, 765.
+Fact: The 14 in Windy Bee has/costs 350%, 810.
+Fact: The 15 in Windy Bee has/costs 375%, 855.
+Fact: The 16 in Windy Bee has/costs 400%, 900.
+Fact: The _Science Enhancement_ in Windy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Windy Bee has/costs 425%, 945.
+Fact: The 18 in Windy Bee has/costs 450%, 990.
+Fact: The 19 in Windy Bee has/costs 475%, 1035.
+Fact: The 20 in Windy Bee has/costs 500%, 1080.
+Fact: The 21 in Windy Bee has/costs 525%, 1125.
+Fact: The 22 in Windy Bee has/costs 550%, 1170.
+Fact: The 23 in Windy Bee has/costs 575%, 1215.
+Fact: The 24 in Windy Bee has/costs 600%, 1260.
+Fact: The _Science Enhancement_ in Windy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Windy Bee has/costs 625%, 1305.
+Fact: The 26 in Windy Bee has/costs 650%, 1350.
+Fact: The 27 in Windy Bee has/costs 675%, 1395.
+Fact: The 28 in Windy Bee has/costs 700%, 1440.
+Fact: The 29 in Windy Bee has/costs 725%, 1485.
+Fact: The 30 in Windy Bee has/costs 750%, 1530.
+Fact: The 31 in Windy Bee has/costs 775%, 1575.
+Gallery[]
+Windy Bee's face.
+A First Edition Windy Bee.
+A gifted Windy Bee hive slot.
+The now discontinued Windy Bee robux pack.
+Tornado token.
+A tornado spawned by a player.
+Rain Cloud token.
+Windy Bee on the game's icon along with Spirit Bear and Basic Bee.
+A player obtaining a Windy Bee Egg from the Wind Shrine
+A message from Windy Bee after collecting a Rain Cloud Token.
+Trivia[]
+* Windy Bee's tornado path doesn't actually travel across the field randomly. It instead loosely follows a grid. This is slightly more noticeable when more haste tokens are spent and the tornado is faster.
+* It was formerly available to purchase for 800 Robux until the deadline, October 27 of 2019.
+* This was the 3rd bee available to be bought for Robux; the second being Festive Bee and the first being Bear Bee.
+* There is a gate dedicated to it, known as the Windy Bee Gate or the 35 bee gate.
+* This, and Vicious Bee are the only bees to have a hostile variant.
+* This bee, Music Bee, Vector Bee, Tadpole Bee, Spicy Bee, Fuzzy Bee, Buoyant Bee, Festive Bee and Digital Bee are the only bees with three different ability tokens, the most of any bee.
+* This bee, Ninja Bee, Shy Bee, and Fuzzy Bee are the only bees that have only one skin color.
+* This bee is the only bee to have the same skin color when it turns gifted.
+* This bee and Puppy Bee are the only event bees that don't have an 'enhanced' ability when gifted.
+* This bee is the only bee to have 2 gifted bonuses, excluding other Event bees who enhance their ability.
+* Currently, this bee, Bear Bee, Gummy Bee, Digital Bee and Vicious Bee are the only event bees that can't be bought in the Ticket Tent.
+* This is the only Event Bee to dislike 2 fields.
+* This, along with Buoyant Bee, are the only bees to be able to produce a White Boost token. However Buoyant Bee only produces it through Surprise Parties.
+* The Tornado ability, frogs, Puppy Bee's Fetch ability, the Cub Buddy and Star Saw are the only entities that can pick up items outside of personal tokens for the player.
+* This bee and Festive Bee are the only non-gifted bees that have tinted wings.
+* This bee was hinted at during the Black Bear quest "Black Bear, Why?" when he says this: "Vicious Bee isn't the only bee that causes trouble! One time, I saw a strange bee destroy a whole field with powerful gusts of wind! I wonder if there are any other mysterious bees roaming free out there?"
+* At one point, a model of a Windy Bee could be found outside the map, alongside with a model of a Vicious Bee.
+* Supposedly, Windy Bee likes the Dandelion Field because dandelion seeds 'go wherever the wind takes them'.
+Fact: The Common & Rare in Windy Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Windy Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Windy Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Windy Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Windy Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  **Windy Bee****.

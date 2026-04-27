@@ -1,0 +1,786 @@
+Context: Bee Swarm Simulator - Elf Cap
+
+"A darling cap fitted with a bell to keep the laborer alert."
+Fact: Elf Cap statistic: +Convert Amount.
+Fact: Elf Cap statistic: +Convert Rate At Hive%.
+Fact: Elf Cap statistic: +Convert Rate At Hive%.
+Fact: Elf Cap statistic: +Honey At Hive%.
+An Elf Cap is a level 3 Beesmas Beequip. It has an equip limit of two. There is no color requirement.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades, Range.
+Fact: The Chance in Elf Cap has/costs Value, Weight, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Fact: The Bias scales linearly in Elf Cap has/costs **1**, A random value between **+2** -**+3**.
+Intervals of +1
+Fact: The Bias: {3, 1} in Elf Cap has/costs **20**, **+25 - +110**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Elf Cap has/costs **1**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Elf Cap has/costs **20**, **+10% - +60%**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Fact: The Bias scales linearly in Elf Cap has/costs An exact value between **0.1** -**0.2**.
+Fact: The Linear scaling by a factor of 1 in Elf Cap has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {4, 1} in Elf Cap has/costs **5**, **+1% - +13%**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Elf Cap has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Elf Cap has/costs **10**, **0% - +20%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +25
+Fact: The Average value: +31.2408 in Elf Cap has/costs **47.3934%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +2.1534 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Elf Cap has/costs **47.3934%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Elf Cap has/costs **4.7393%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **0.4739%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +25
+Fact: The Average value: +31.2408 in Elf Cap has/costs **47.3934%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +2.1534 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Elf Cap has/costs **47.3934%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Elf Cap has/costs **4.7393%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **0.4739%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +27.5
+Fact: The Average value: +32.5073 in Elf Cap has/costs **46.9704%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.037
+Fact: The Average value: +2.1609 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Elf Cap has/costs **46.9704%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.16% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Elf Cap has/costs **5.1667%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **0.8924%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +27.5
+Fact: The Average value: +32.5073 in Elf Cap has/costs **46.9704%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.037
+Fact: The Average value: +2.1609 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Elf Cap has/costs **46.9704%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.16% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Elf Cap has/costs **5.1667%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **0.8924%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +30
+Fact: The Average value: +33.7477 in Elf Cap has/costs **46.5549%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.0833
+Fact: The Average value: +2.1715 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Elf Cap has/costs **46.5549%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.12%
+Fact: The Average value: +1.18% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Elf Cap has/costs **5.5866%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **1.3035%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +30
+Fact: The Average value: +33.7477 in Elf Cap has/costs **46.5549%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.0833
+Fact: The Average value: +2.1715 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Elf Cap has/costs **46.5549%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.12%
+Fact: The Average value: +1.18% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Elf Cap has/costs **5.5866%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **1.3035%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +32.5
+Fact: The Average value: +35.0028 in Elf Cap has/costs **46.1467%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.1429
+Fact: The Average value: +2.1873 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Elf Cap has/costs **46.1467%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.21%
+Fact: The Average value: +1.21% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Elf Cap has/costs **5.9991%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.18% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **1.7074%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +32.5
+Fact: The Average value: +35.0028 in Elf Cap has/costs **46.1467%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.1429
+Fact: The Average value: +2.1873 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Elf Cap has/costs **46.1467%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.21%
+Fact: The Average value: +1.21% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Elf Cap has/costs **5.9991%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.18% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **1.7074%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +35
+Fact: The Average value: +36.2493 in Elf Cap has/costs **45.7457%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.2222
+Fact: The Average value: +2.214 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Elf Cap has/costs **45.7457%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Elf Cap has/costs **6.4044%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.19% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **2.1043%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +35
+Fact: The Average value: +36.2493 in Elf Cap has/costs **45.7457%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.2222
+Fact: The Average value: +2.214 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Elf Cap has/costs **45.7457%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Elf Cap has/costs **6.4044%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.19% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **2.1043%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +37.5
+Fact: The Average value: +37.5 in Elf Cap has/costs **45.3515%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.3333
+Fact: The Average value: +2.269 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Elf Cap has/costs **45.3515%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Elf Cap has/costs **6.8027%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **2.4943%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +37.5
+Fact: The Average value: +37.5 in Elf Cap has/costs **45.3515%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.3333
+Fact: The Average value: +2.269 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Elf Cap has/costs **45.3515%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Elf Cap has/costs **6.8027%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **2.4943%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +40
+Fact: The Average value: +38.7507 in Elf Cap has/costs **44.964%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.5
+Fact: The Average value: +2.5 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Elf Cap has/costs **44.964%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Elf Cap has/costs **7.1942%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.38%
+Fact: The Average value: +1.3% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **2.8777%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +40
+Fact: The Average value: +38.7507 in Elf Cap has/costs **44.964%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.5
+Fact: The Average value: +2.5 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Elf Cap has/costs **44.964%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Elf Cap has/costs **7.1942%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.38%
+Fact: The Average value: +1.3% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **2.8777%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +42.5
+Fact: The Average value: +39.9972 in Elf Cap has/costs **44.5831%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.7
+Fact: The Average value: +2.7506 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Elf Cap has/costs **44.5831%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Elf Cap has/costs **7.5791%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.58%
+Fact: The Average value: +1.66% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **3.2546%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +42.5
+Fact: The Average value: +39.9972 in Elf Cap has/costs **44.5831%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.7
+Fact: The Average value: +2.7506 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Elf Cap has/costs **44.5831%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Elf Cap has/costs **7.5791%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.58%
+Fact: The Average value: +1.66% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **3.2546%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +45
+Fact: The Average value: +41.2523 in Elf Cap has/costs **44.2087%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.8
+Fact: The Average value: +2.7942 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Elf Cap has/costs **44.2087%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Elf Cap has/costs **7.9576%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **3.6251%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +45
+Fact: The Average value: +41.2523 in Elf Cap has/costs **44.2087%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.8
+Fact: The Average value: +2.7942 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Elf Cap has/costs **44.2087%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Elf Cap has/costs **7.9576%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **3.6251%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +47.5
+Fact: The Average value: +42.4927 in Elf Cap has/costs **43.8404%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.9
+Fact: The Average value: +2.8244 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Elf Cap has/costs **43.8404%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Elf Cap has/costs **8.3297%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **3.9895%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +47.5
+Fact: The Average value: +42.4927 in Elf Cap has/costs **43.8404%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +2.9
+Fact: The Average value: +2.8244 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Elf Cap has/costs **43.8404%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Elf Cap has/costs **8.3297%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **3.9895%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Elf Cap has/costs **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +50
+Fact: The Average value: +43.7592 in Elf Cap has/costs **43.4783%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +2.8466 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Elf Cap has/costs **43.4783%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Elf Cap has/costs **8.6957%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **4.3478%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Elf Cap has/costs **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Elf Cap has/costs Base, Upgrades.
+Fact: The Chance in Elf Cap has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Elf Cap has/costs **100%**, A random value between **+25** -**+50**.
+Intervals of +1
+Biased to values near +50
+Fact: The Average value: +43.7592 in Elf Cap has/costs **43.4783%**, A random value between **+2** -**+3**.
+Intervals of +1
+Biased to values near +3
+Fact: The Average value: +2.8466 in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Elf Cap has/costs **43.4783%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Elf Cap has/costs **20**.
+Fact: The +Convert Rate At Hive% in Elf Cap has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Elf Cap has/costs **8.6957%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Elf Cap has/costs **5**.
+Fact: The +Honey At Hive% in Elf Cap has/costs \-, \-, **4.3478%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Elf Cap has/costs **10**.
+Probabilities[]
+The tables below give the probability of a stat of Elf Cap falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount
+* +Convert Rate At Hive%
+Fact: The Potential in Elf Cap has/costs Stat ranges, Average.
+Fact: The +25-+29 in Elf Cap has/costs +30-+34, +35-+39, +40-+44, +45-+49, +50.
+Fact: The **0 ★** in Elf Cap has/costs 48.866%, 25.902%, 14.826%, 7.786%, 2.6%, 0.02%, +31.241.
+Fact: The **0.5 ★** in Elf Cap has/costs 37.363%, 33.33%, 17.48%, 8.887%, 2.917%, 0.022%, +32.507.
+Fact: The **1 ★** in Elf Cap has/costs 13.395%, 51.455%, 21.439%, 10.363%, 3.323%, 0.025%, +33.748.
+Fact: The **1.5 ★** in Elf Cap has/costs 7.0045%, 48.348%, 28.304%, 12.454%, 3.861%, 0.029%, +35.0028.
+Fact: The **2 ★** in Elf Cap has/costs 4.848%, 27.161%, 47.663%, 15.685%, 4.609%, 0.034%, +36.249.
+Fact: The **2.5 ★** in Elf Cap has/costs 3.719%, 17.156%, 51.786%, 21.574%, 5.725%, 0.041%, +37.5.
+Fact: The **3 ★** in Elf Cap has/costs 3.02%, 12.908%, 35.27%, 41.176%, 7.576%, 0.051%, +38.751.
+Fact: The **3.5 ★** in Elf Cap has/costs 2.543%, 10.409%, 23.885%, 51.737%, 11.358%, 0.068%, +39.997.
+Fact: The **4 ★** in Elf Cap has/costs 2.197%, 8.74%, 18.661%, 41.024%, 29.274%, 0.104%, +41.252.
+Fact: The **4.5 ★** in Elf Cap has/costs 1.934%, 7.541%, 15.435%, 28.912%, 45.964%, 0.215%, +42.493.
+Fact: The **5 ★** in Elf Cap has/costs 1.727%, 6.635%, 13.203%, 23.124%, 45.487%, 9.824%, +43.759.
+Fact: The Potential in Elf Cap has/costs Stat ranges, Average.
+Fact: The +10%-+11% in Elf Cap has/costs +12%-+13%, +14%-+15%, +16%-+17%, +18%-+19%, +20%.
+Fact: The **0 ★** in Elf Cap has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.5%.
+Fact: The **0.5 ★** in Elf Cap has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +13%.
+Fact: The **1 ★** in Elf Cap has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.5%.
+Fact: The **1.5 ★** in Elf Cap has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +14%.
+Fact: The **2 ★** in Elf Cap has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.5%.
+Fact: The **2.5 ★** in Elf Cap has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15%.
+Fact: The **3 ★** in Elf Cap has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.5%.
+Fact: The **3.5 ★** in Elf Cap has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16%.
+Fact: The **4 ★** in Elf Cap has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.5%.
+Fact: The **4.5 ★** in Elf Cap has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17%.
+Fact: The **5 ★** in Elf Cap has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.5%.
+* +Convert Rate At Hive%
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Elf Cap has/costs Stat ranges, Average.
+Fact: The +1%-+1.5% in Elf Cap has/costs +1.5%-+2%, +2%-+2.5%, +2.5%-+3%.
+Fact: The **0 ★** in Elf Cap has/costs 59.657%, 25%, 11.919%, 3.424%, +1.5%.
+Fact: The **0.5 ★** in Elf Cap has/costs 51.876%, 30.561%, 13.715%, 3.848%, +1.6%.
+Fact: The **1 ★** in Elf Cap has/costs 38.863%, 40.562%, 16.183%, 4.392%, +1.7%.
+Fact: The **1.5 ★** in Elf Cap has/costs 16.041%, 59.014%, 19.827%, 5.118%, +1.8%.
+Fact: The **2 ★** in Elf Cap has/costs 10.288%, 57.63%, 25.947%, 6.135%, +1.9%.
+Fact: The **2.5 ★** in Elf Cap has/costs 7.671%, 42.329%, 42.329%, 7.671%, +2%.
+Fact: The **3 ★** in Elf Cap has/costs 6.135%, 25.947%, 57.63%, 10.288%, +2.1%.
+Fact: The **3.5 ★** in Elf Cap has/costs 5.118%, 19.827%, 59.014%, 16.041%, +2.2%.
+Fact: The **4 ★** in Elf Cap has/costs 4.392%, 16.183%, 40.562%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Elf Cap has/costs 3.848%, 13.715%, 30.561%, 51.876%, +2.4%.
+Fact: The **5 ★** in Elf Cap has/costs 3.424%, 11.919%, 25%, 59.657%, +2.5%.
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount
+* +Convert Rate At Hive%
+Fact: The Potential in Elf Cap has/costs Stat ranges, Average.
+Fact: The +2 in Elf Cap has/costs +3.
+Fact: The **0 ★** in Elf Cap has/costs 84.657%, 15.343%, +2.153.
+Fact: The **0.5 ★** in Elf Cap has/costs 83.906%, 16.094%, +2.161.
+Fact: The **1 ★** in Elf Cap has/costs 82.852%, 17.148%, +2.171.
+Fact: The **1.5 ★** in Elf Cap has/costs 81.267%, 18.733%, +2.187.
+Fact: The **2 ★** in Elf Cap has/costs 78.601%, 21.399%, +2.214.
+Fact: The **2.5 ★** in Elf Cap has/costs 73.105%, 26.895%, +2.269.
+Fact: The **3 ★** in Elf Cap has/costs 50%, 50%, +2.5.
+Fact: The **3.5 ★** in Elf Cap has/costs 24.945%, 75.055%, +2.751.
+Fact: The **4 ★** in Elf Cap has/costs 20.575%, 79.425%, +2.794.
+Fact: The **4.5 ★** in Elf Cap has/costs 17.563%, 82.437%, +2.824.
+Fact: The **5 ★** in Elf Cap has/costs 15.343%, 84.657%, +2.847.
+Fact: The Potential in Elf Cap has/costs Stat ranges, Average.
+Fact: The +1% in Elf Cap has/costs +2%.
+Fact: The **0 ★** in Elf Cap has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Elf Cap has/costs 83.501%, 16.499%, +1.2%.
+Fact: The **1 ★** in Elf Cap has/costs 81.774%, 18.226%, +1.2%.
+Fact: The **1.5 ★** in Elf Cap has/costs 78.903%, 21.097%, +1.2%.
+Fact: The **2 ★** in Elf Cap has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **2.5 ★** in Elf Cap has/costs 50%, 50%, +1.5%.
+Fact: The **3 ★** in Elf Cap has/costs 32.082%, 67.918%, +1.7%.
+Fact: The **3.5 ★** in Elf Cap has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Elf Cap has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Elf Cap has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Elf Cap has/costs 15.343%, 84.657%, +1.8%.
+* +Convert Rate At Hive%
+Fact: * +Convert Rate At Hive% requirement: * +Honey At Hive%.
+Fact: The Potential in Elf Cap has/costs Stat ranges, Average.
+Fact: The +1% in Elf Cap has/costs +2%.
+Fact: The **0 ★** in Elf Cap has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Elf Cap has/costs 84.101%, 15.899%, +1.2%.
+Fact: The **1 ★** in Elf Cap has/costs 83.344%, 16.656%, +1.2%.
+Fact: The **1.5 ★** in Elf Cap has/costs 82.253%, 17.747%, +1.2%.
+Fact: The **2 ★** in Elf Cap has/costs 80.543%, 19.457%, +1.2%.
+Fact: The **2.5 ★** in Elf Cap has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Elf Cap has/costs 70.118%, 29.882%, +1.3%.
+Fact: The **3.5 ★** in Elf Cap has/costs 33.784%, 66.216%, +1.7%.
+Fact: The **4 ★** in Elf Cap has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Elf Cap has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Elf Cap has/costs 15.343%, 84.657%, +1.8%.
+Fact: The Potential in Elf Cap has/costs Stat ranges, Average.
+Fact: The +1% in Elf Cap has/costs +2%.
+Fact: The **0 ★** in Elf Cap has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Elf Cap has/costs 83.906%, 16.094%, +1.2%.
+Fact: The **1 ★** in Elf Cap has/costs 82.852%, 17.148%, +1.2%.
+Fact: The **1.5 ★** in Elf Cap has/costs 81.267%, 18.733%, +1.2%.
+Fact: The **2 ★** in Elf Cap has/costs 78.601%, 21.399%, +1.2%.
+Fact: The **2.5 ★** in Elf Cap has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **3 ★** in Elf Cap has/costs 50%, 50%, +1.5%.
+Fact: The **3.5 ★** in Elf Cap has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Elf Cap has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Elf Cap has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Elf Cap has/costs 15.343%, 84.657%, +1.8%.
+Ways to Obtain[]
+* From the Ruby Gift Box.
+* As a drop from a ladybug.
+* As a drop from the Stockings.
+Outdated Ways[]
+* As a reward from completing Bee Bear's second quest during Beesmas 2020.
+Gallery[]
+An Elf Cap equipped to a Tabby Bee.
+Three Elf Caps in the Beequip Inbox.
+Fact: The Sub-Inventories in Elf Cap has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Elf Cap has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Elf Cap has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Elf Cap has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Elf Cap has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Elf Cap has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Elf Cap has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Elf Cap has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Elf Cap has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Elf Cap has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Elf Cap has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Elf Cap has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Elf Cap has/costs **7-Pronged Cog**.
+Fact: The Other in Elf Cap has/costs **Marshmallow Bee**.
+Fact: The Currencies in Elf Cap has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Elf Cap has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Elf Cap has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Elf Cap has/costs **Parachute •  Glider**.
+Fact: The Bags in Elf Cap has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Elf Cap has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Elf Cap has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Elf Cap has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Elf Cap has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Elf Cap has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Elf Cap has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Elf Cap has/costs ****Elf Cap** •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Elf Cap has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Elf Cap has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

@@ -1,0 +1,120 @@
+Context: Bee Swarm Simulator - Baby Bee
+
+Baby Bee
+_"This little bee isn't very good at bee tasks yet, but it's guaranteed to bring you joy (and luck)."_
+Fact: The 15 in Baby Bee has/costs **Speed**.
+Fact: The 10.5 in Baby Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #f1f1f1 #88dce8 #1b2a35
+Baby Bee is a Colorless Legendary bee.
+Baby Bee’s favorite treat is Strawberries.
+Baby Bee likes the Dandelion Field, Sunflower Field, Mushroom Field, and the Blue Flower Field. It dislikes the Rose Field, Cactus Field, Pine Tree Forest, Spider Field, Pepper Patch and the Stump Field.
+Fact: Skin #f1f1f1 #88dce8 #1b2a35 statistic: * Collects 10 Pollen in 5 seconds..
+* Makes 80 Honey in 5 seconds.
+* -25% Movespeed, Energy, gather speed and convert speed. Can't attack.
+* 🌟 Gifted Hive Bonus: +25% Loot Luck.
+Abilities[]
+Fact: Abilities[] statistic: * **[Baby Love]** Grants x2 Pollen and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies..
+Fact: Abilities[] statistic: Baby Bee has a base pollen collection of **10** in **5 seconds**. That's equivalent to 2  per second. (**20** in **5 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Baby Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The Base Value in Baby Bee has/costs Blue Flower, without Melody, with Melody.
+Fact: The Single in Baby Bee has/costs 10, 15, 20, 30.
+Fact: The Double in Baby Bee has/costs 20, 30, 40, 60.
+Fact: The Triple in Baby Bee has/costs 30, 45, 60, 90.
+Fact: The Large in Baby Bee has/costs 40, 60, 80, 120.
+Fact: The Star in Baby Bee has/costs 50, 75, 100, 150.
+Fact: Star statistic: Pollen Collection with Boost Tokens.
+Fact: The Boost Tokens ( or ) in Baby Bee has/costs Percentage Bonus, Collected Pollen.
+Fact: The 1 in Baby Bee has/costs 15%, 11.5.
+Fact: The 2 in Baby Bee has/costs 30%, 13.
+Fact: The 3 in Baby Bee has/costs 45%, 14.5.
+Fact: The 4 in Baby Bee has/costs 60%, 16.
+Fact: The 5 in Baby Bee has/costs 75%, 17.5.
+Fact: The 6 in Baby Bee has/costs 90%, 19.
+Fact: The 7 in Baby Bee has/costs 105%, 20.5.
+Fact: The 8 in Baby Bee has/costs 120%, 22.
+Fact: The 9 in Baby Bee has/costs 135%, 23.5.
+Fact: The 10 in Baby Bee has/costs 150%, 25.
+Baby Bee can make 80 in 5 seconds! That's equivalent to 16 per second. (80 in 2.5 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Baby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Baby Bee has/costs 25%, 100.
+Fact: The 2 in Baby Bee has/costs 50%, 120.
+Fact: The 3 in Baby Bee has/costs 75%, 140.
+Fact: The 4 in Baby Bee has/costs 100%, 160.
+Fact: The 5 in Baby Bee has/costs 125%, 180.
+Fact: The 6 in Baby Bee has/costs 150%, 200.
+Fact: The 7 in Baby Bee has/costs 175%, 220.
+Fact: The 8 in Baby Bee has/costs 200%, 240.
+Fact: The _Science Enhancement_ in Baby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Baby Bee has/costs 225%, 260.
+Fact: The 10 in Baby Bee has/costs 250%, 280.
+Fact: The 11 in Baby Bee has/costs 275%, 300.
+Fact: The 12 in Baby Bee has/costs 300%, 320.
+Fact: The 13 in Baby Bee has/costs 325%, 340.
+Fact: The 14 in Baby Bee has/costs 350%, 360.
+Fact: The 15 in Baby Bee has/costs 375%, 380.
+Fact: The 16 in Baby Bee has/costs 400%, 400.
+Fact: The _Science Enhancement_ in Baby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Baby Bee has/costs 425%, 420.
+Fact: The 18 in Baby Bee has/costs 450%, 440.
+Fact: The 19 in Baby Bee has/costs 475%, 460.
+Fact: The 20 in Baby Bee has/costs 500%, 480.
+Fact: The 21 in Baby Bee has/costs 525%, 500.
+Fact: The 22 in Baby Bee has/costs 550%, 520.
+Fact: The 23 in Baby Bee has/costs 575%, 540.
+Fact: The 24 in Baby Bee has/costs 600%, 560.
+Fact: The _Science Enhancement_ in Baby Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Baby Bee has/costs 625%, 580.
+Fact: The 26 in Baby Bee has/costs 650%, 600.
+Fact: The 27 in Baby Bee has/costs 675%, 620.
+Fact: The 28 in Baby Bee has/costs 700%, 640.
+Fact: The 29 in Baby Bee has/costs 725%, 660.
+Fact: The 30 in Baby Bee has/costs 750%, 680.
+Fact: The 31 in Baby Bee has/costs 775%, 700.
+Egg and Jelly Probability
+Fact: The Basic Egg in Baby Bee has/costs 0.5%, 0.0625%.
+Fact: The Silver Egg in Baby Bee has/costs 5%, 0.625%.
+Fact: The Gold Egg in Baby Bee has/costs 20%, 2.5%.
+Fact: The Diamond Egg in Baby Bee has/costs 95%, 11.875%.
+Fact: The Mythic Egg in Baby Bee has/costs 0%, 0%.
+Fact: The Royal Jelly in Baby Bee has/costs 3%, 0.375%.
+Gallery[]
+Baby Bee's old hive slot design.
+A Gifted Baby Bee hive slot.
+Baby Bee's face.
+Baby Bee's icon.
+Baby Bee Eggs in a player's inventory.
+Baby Love Token.
+A Baby Bee summoned by Onett's Lid Art.
+A close-up of Baby Bee from Onett’s Lid Art.
+Trivia[]
+* Baby Bee has the second-lowest base energy (lowest being Tadpole Bee), second-lowest base Convert Rate (lowest being Fuzzy Bee), and the lowest base gather amount in the game. Baby Bee also has the second-slowest base gather speed, 1 second faster than Tadpole Bee and Fuzzy Bee.
+* Baby Bee and Tadpole Bee tie for the smallest bees in the game. They are also the only two bee types to have a different size compared to other bees.
+* Baby Bee is the only bee that has 0 base attack. Because of that, it cannot attack any mobs, even if it has an attack mutation.
+* Baby Bee used to be able to attack and could do damage if the player had any damage boosts. After the 2018-11-25 Update, this is no longer the case.
+* According to Black Bear, the reason why they don't attack is because "They're too dumb to notice" the mobs.
+* Even though it says, "0 attack", attack added to baby bee still counts towards total attack, which can buff Star Saw.
+* Baby Bee, Bumble Bee, Demon Bee, and Exhausted Bee are tied as the slowest bees in the game.
+* Baby Bee has the most field preferences in the game. It also dislikes the most fields.
+* Baby Bee prefers the lower-tier fields (Dandelion, Blue Flower, Sunflower, etc.) and dislikes the higher-tier fields (Rose, Cactus, Pine Tree Forest, etc.).
+* Baby Bee is the only bee that isn't red to like the Mushroom Field.
+* Baby Bee and Stubborn Bee are the only Colorless bees that like strawberries.
+* Baby Bee and Rage Bee are the only bees with three unique colors on their skins. Baby Bee is also the only gifted bee with three unique colors on its skin.
+* There is a small chance that a Baby Bee egg will drop from Tunnel Bear.
+* Before 2018-11-25 update, the Gifted Hive Bonus of Baby Bee was +5% Loot Luck, which was then changed to +10% in said update. This was then changed to +20% Loot Luck in the 2019-04-05 Update and once again to +25% Loot Luck in the Beesmas 2019 update.
+* Onett paid $2 for the laughing baby sound that Baby Love uses. It can be bought Here.
+* This is one of the only 4 bees that has a specific egg obtainable from mob drops, with the others being a Rascal Bee egg from ladybugs, a Bumble Bee egg from rhino beetles, or a Honey Bee egg from cave monsters.
+* Baby Bee, Basic Bee, and Bumble Bee are the only bees shown on Onett's Lid Art.
+* When gifted and in the Dandelion Field, Sunflower Field, Mushroom Field, or Blue Flower Field it has a very rare chance to find a Pale Heart Sticker.
+* Baby Bee's in-game stat menu does not actually display that its convert speed and gather speed is decreased by 25%.
+Fact: The Common & Rare in Baby Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Baby Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Baby Bee has/costs ****Baby Bee** •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Baby Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Baby Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

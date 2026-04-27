@@ -1,0 +1,384 @@
+Context: Bee Swarm Simulator - Snowglobe
+
+Snowglobe
+"Keep a little ball of winter wonder with you all year long."
+Fact: Snowglobe statistic: +Bomb Pollen%.
+Fact: Snowglobe statistic: +Ability Rate%.
+Fact: Snowglobe statistic: +Ability: Snowglobe Shake.
+Fact: Snowglobe statistic: +Bomb Pollen%.
+A Snowglobe is a level 7 Beesmas Beequip. It has an equip limit of two. There is no color requirement. It can only be equipped to Basic, Bumble, Cool, Bucko, Frosty, or Windy bees.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades, Range.
+Fact: The Chance in Snowglobe has/costs Value, Weight, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Fact: The Bias scales linearly in Snowglobe has/costs **1**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Snowglobe has/costs **20**, **+30% - +90%**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Snowglobe has/costs **+1%**, **1**, **0% - +1%**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Snowglobe has/costs **+1%**, **5**, **0% - +5%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +30%
+Fact: The Average value: +35% in Snowglobe has/costs **98.0392%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **0.9804%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **0.9804%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +30%
+Fact: The Average value: +35% in Snowglobe has/costs **98.0392%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **0.9804%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **0.9804%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +32%
+Fact: The Average value: +36% in Snowglobe has/costs **96.3391%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.18% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **1.8304%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **1.8304%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +32%
+Fact: The Average value: +36% in Snowglobe has/costs **96.3391%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.18% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **1.8304%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **1.8304%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +34%
+Fact: The Average value: +37% in Snowglobe has/costs **94.697%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.21% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **2.6515%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **2.6515%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +34%
+Fact: The Average value: +37% in Snowglobe has/costs **94.697%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.2%
+Fact: The Average value: +1.21% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **2.6515%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **2.6515%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +36%
+Fact: The Average value: +38% in Snowglobe has/costs **93.1099%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.3%
+Fact: The Average value: +1.25% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **3.4451%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **3.4451%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +36%
+Fact: The Average value: +38% in Snowglobe has/costs **93.1099%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.3%
+Fact: The Average value: +1.25% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **3.4451%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **3.4451%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +38%
+Fact: The Average value: +39% in Snowglobe has/costs **91.5751%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.32% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **4.2125%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **4.2125%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +38%
+Fact: The Average value: +39% in Snowglobe has/costs **91.5751%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.32% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **4.2125%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **4.2125%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +40%
+Fact: The Average value: +40% in Snowglobe has/costs **90.0901%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **4.955%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **4.955%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +40%
+Fact: The Average value: +40% in Snowglobe has/costs **90.0901%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **4.955%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **4.955%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +42%
+Fact: The Average value: +41% in Snowglobe has/costs **88.6525%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **5.6738%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **5.6738%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +42%
+Fact: The Average value: +41% in Snowglobe has/costs **88.6525%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **5.6738%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **5.6738%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +44%
+Fact: The Average value: +42% in Snowglobe has/costs **87.26%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **6.37%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **6.37%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +44%
+Fact: The Average value: +42% in Snowglobe has/costs **87.26%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **6.37%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **6.37%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +46%
+Fact: The Average value: +43% in Snowglobe has/costs **85.9107%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **7.0447%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **7.0447%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +46%
+Fact: The Average value: +43% in Snowglobe has/costs **85.9107%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **7.0447%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **7.0447%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +48%
+Fact: The Average value: +44% in Snowglobe has/costs **84.6024%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **7.6988%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **7.6988%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +48%
+Fact: The Average value: +44% in Snowglobe has/costs **84.6024%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **7.6988%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **7.6988%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +50%
+Fact: The Average value: +45% in Snowglobe has/costs **83.3333%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **8.3333%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **8.3333%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Snowglobe has/costs Base, Upgrades.
+Fact: The Chance in Snowglobe has/costs Value, Chance, Value, Limit.
+Fact: The +Bomb Pollen% in Snowglobe has/costs **100%**, A random value between **+30%** -**+50%**.
+Biased to values near +50%
+Fact: The Average value: +45% in Snowglobe has/costs **83.3333%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Snowglobe has/costs **20**.
+Fact: The +Ability Rate% in Snowglobe has/costs \-, \-, **8.3333%**, **+1%**, **1**.
+Fact: The +Ability: Snowglobe Shake in Snowglobe has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bomb Pollen% in Snowglobe has/costs \-, \-, **8.3333%**, **+1%**, **5**.
+Probabilities[]
+The tables below give the probability of a stat of Snowglobe falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+Fact: * Bee Stats statistic: * +Bomb Pollen%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Snowglobe has/costs Stat ranges, Average.
+Fact: The +30%-+35% in Snowglobe has/costs +35%-+40%, +40%-+45%, +45%-+50%.
+Fact: The **0 ★** in Snowglobe has/costs 59.657%, 25%, 11.919%, 3.424%, +35%.
+Fact: The **0.5 ★** in Snowglobe has/costs 51.876%, 30.561%, 13.715%, 3.848%, +36%.
+Fact: The **1 ★** in Snowglobe has/costs 38.863%, 40.562%, 16.183%, 4.392%, +37%.
+Fact: The **1.5 ★** in Snowglobe has/costs 16.041%, 59.014%, 19.827%, 5.118%, +38%.
+Fact: The **2 ★** in Snowglobe has/costs 10.288%, 57.63%, 25.947%, 6.135%, +39%.
+Fact: The **2.5 ★** in Snowglobe has/costs 7.671%, 42.329%, 42.329%, 7.671%, +40%.
+Fact: The **3 ★** in Snowglobe has/costs 6.135%, 25.947%, 57.63%, 10.288%, +41%.
+Fact: The **3.5 ★** in Snowglobe has/costs 5.118%, 19.827%, 59.014%, 16.041%, +42%.
+Fact: The **4 ★** in Snowglobe has/costs 4.392%, 16.183%, 40.562%, 38.863%, +43%.
+Fact: The **4.5 ★** in Snowglobe has/costs 3.848%, 13.715%, 30.561%, 51.876%, +44%.
+Fact: The **5 ★** in Snowglobe has/costs 3.424%, 11.919%, 25%, 59.657%, +45%.
+* Bee Stats
+Fact: * Bee Stats statistic: * +Bomb Pollen%.
+Fact: The Potential in Snowglobe has/costs Stat ranges, Average.
+Fact: The +1% in Snowglobe has/costs +2%.
+Fact: The **0 ★** in Snowglobe has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Snowglobe has/costs 82.437%, 17.563%, +1.2%.
+Fact: The **1 ★** in Snowglobe has/costs 79.425%, 20.575%, +1.2%.
+Fact: The **1.5 ★** in Snowglobe has/costs 75.055%, 24.945%, +1.2%.
+Fact: The **2 ★** in Snowglobe has/costs 67.918%, 32.082%, +1.3%.
+Fact: The **2.5 ★** in Snowglobe has/costs 50%, 50%, +1.5%.
+Fact: The **3 ★** in Snowglobe has/costs 32.082%, 67.918%, +1.7%.
+Fact: The **3.5 ★** in Snowglobe has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Snowglobe has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Snowglobe has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Snowglobe has/costs 15.343%, 84.657%, +1.8%.
+Ways to Obtain[]
+* As a drop from Mondo Chick (rare).
+* By purchasing the Super Snowman Bundle from Bee Bear's Catalog.
+Outdated Ways[]
+* Purchasing the Beequip bundle in Bee Bear's Catalog gives 1 Snowglobe for the cost of 75 snowflakes and 15 gingerbread bears \+ other items.
+* Dropped upon defeating a level 10 Snowbear.
+* Purchasing the Snowglobe bundle for 2000 snowflakes in Beesmas 2020.
+* Buying the Snowey Starter Pack for 400 Robux gave 1 Snowglobe and other items.
+* By opening the Lapis Gift Box.
+* As a reward for completing Gifted Bucko Bee's Beesmas 2024 Quest.
+* As a drop from the Glass Gift Box.
+Gallery[]
+A Snowglobe equipped to a Cool Bee.
+Two Snowglobes in the Beequip Case.
+Trivia[]
+* This is the one of three Beequips to give a unique ability.
+* The other two are Reindeer Antlers and Festive Wreath.
+* The Snowglobe's unique ability is also the only way to get the Cool Breeze buff outside of Beesmas.
+Fact: The Sub-Inventories in Snowglobe has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Snowglobe has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Snowglobe has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Snowglobe has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Snowglobe has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Snowglobe has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Snowglobe has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Snowglobe has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Snowglobe has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Snowglobe has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Snowglobe has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Snowglobe has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Snowglobe has/costs **7-Pronged Cog**.
+Fact: The Other in Snowglobe has/costs **Marshmallow Bee**.
+Fact: The Currencies in Snowglobe has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Snowglobe has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Snowglobe has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Snowglobe has/costs **Parachute •  Glider**.
+Fact: The Bags in Snowglobe has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Snowglobe has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Snowglobe has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Snowglobe has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Snowglobe has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Snowglobe has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Snowglobe has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Snowglobe has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  **Snowglobe** •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Snowglobe has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Snowglobe has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

@@ -1,0 +1,850 @@
+Context: Bee Swarm Simulator - Toy Drum
+
+"A small percussion instrument that keeps you in step."
+Fact: Toy Drum statistic: +Gather Amount.
+Fact: Toy Drum statistic: +Bee Attack%.
+Fact: Toy Drum statistic: +Critical Chance%.
+Fact: Toy Drum statistic: +Ability: Haste.
+Fact: Toy Drum statistic: +Bee Ability Pollen%.
+A Toy Drum is a level 7 Beesmas Beequip. It has an equip limit of two. It has no color requirement. It can only be equipped to Brave, Demo, Bucko, or Riley bees.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades, Range.
+Fact: The Chance in Toy Drum has/costs Value, Weight, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Fact: The Bias scales linearly in Toy Drum has/costs **1**, A random value between **+1** -**+2**.
+Intervals of +1
+Fact: The Bias: {4, 1} in Toy Drum has/costs **20**, **+10 - +60**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Toy Drum has/costs An exact value between **0.5** -**0.75**.
+Fact: The Linear scaling by a factor of 1 in Toy Drum has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {4, 1} in Toy Drum has/costs **10**, **+1% - +25%**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Toy Drum has/costs \-, \-, \-, **-20% - -10%**.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Fact: The Bias scales linearly in Toy Drum has/costs **+1%**.
+Fact: The Bias scales linearly in Toy Drum has/costs \-, \-, \-, **0% - +1%**.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Toy Drum has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {4, 1} in Toy Drum has/costs **5**, **0% - +10%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Toy Drum has/costs **66.2252%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.96% in Toy Drum has/costs **33.1126%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -20%
+Fact: The Average value: -17.52% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 5%
+Fact: The Average value: 26.25% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **0.6623%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Toy Drum has/costs **66.2252%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.96% in Toy Drum has/costs **33.1126%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -20%
+Fact: The Average value: -17.52% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 5%
+Fact: The Average value: 26.25% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **0.6623%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Toy Drum has/costs **64.7668%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0278
+Fact: The Average value: +1.159 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +2.19% in Toy Drum has/costs **34.0026%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -19%
+Fact: The Average value: -17.01% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 13.5%
+Fact: The Average value: 30.5% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **1.2306%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Toy Drum has/costs **64.7668%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0278
+Fact: The Average value: +1.159 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +2.19% in Toy Drum has/costs **34.0026%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -19%
+Fact: The Average value: -17.01% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 13.5%
+Fact: The Average value: 30.5% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **1.2306%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Toy Drum has/costs **63.3714%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0625
+Fact: The Average value: +1.1666 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +2.42% in Toy Drum has/costs **34.8542%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -18%
+Fact: The Average value: -16.51% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 22%
+Fact: The Average value: 34.75% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **1.7744%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Toy Drum has/costs **63.3714%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0625
+Fact: The Average value: +1.1666 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +2.42% in Toy Drum has/costs **34.8542%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -18%
+Fact: The Average value: -16.51% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 22%
+Fact: The Average value: 34.75% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **1.7744%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.17% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Toy Drum has/costs **62.0347%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1071
+Fact: The Average value: +1.1775 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.56% in Toy Drum has/costs **35.67%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.18% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -17%
+Fact: The Average value: -16% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 30.5%
+Fact: The Average value: 39% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **2.2953%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.18% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Toy Drum has/costs **62.0347%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1071
+Fact: The Average value: +1.1775 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.56% in Toy Drum has/costs **35.67%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.18% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -17%
+Fact: The Average value: -16% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 30.5%
+Fact: The Average value: 39% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **2.2953%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.18% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Toy Drum has/costs **60.7533%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1667
+Fact: The Average value: +1.1946 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.84% in Toy Drum has/costs **36.452%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.19% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -16%
+Fact: The Average value: -15.5% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 39%
+Fact: The Average value: 43.25% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **2.7947%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.19% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Toy Drum has/costs **60.7533%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1667
+Fact: The Average value: +1.1946 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.84% in Toy Drum has/costs **36.452%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.19% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -16%
+Fact: The Average value: -15.5% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 39%
+Fact: The Average value: 43.25% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **2.7947%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.19% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Toy Drum has/costs **59.5238%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.25
+Fact: The Average value: +1.2253 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Toy Drum has/costs **37.2024%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -15%
+Fact: The Average value: -15% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 47.5%
+Fact: The Average value: 47.5% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **3.2738%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Toy Drum has/costs **59.5238%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.25
+Fact: The Average value: +1.2253 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Toy Drum has/costs **37.2024%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -15%
+Fact: The Average value: -15% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 47.5%
+Fact: The Average value: 47.5% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **3.2738%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Toy Drum has/costs **58.3431%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.375
+Fact: The Average value: +1.2988 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.16% in Toy Drum has/costs **37.923%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.38%
+Fact: The Average value: +1.3% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -14%
+Fact: The Average value: -14.5% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 56%
+Fact: The Average value: 51.75% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **3.734%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.38%
+Fact: The Average value: +1.3% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Toy Drum has/costs **58.3431%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.375
+Fact: The Average value: +1.2988 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.16% in Toy Drum has/costs **37.923%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.38%
+Fact: The Average value: +1.3% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -14%
+Fact: The Average value: -14.5% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 56%
+Fact: The Average value: 51.75% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **3.734%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.38%
+Fact: The Average value: +1.3% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Toy Drum has/costs **57.2082%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.5833
+Fact: The Average value: +1.6622 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.44% in Toy Drum has/costs **38.6156%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.58%
+Fact: The Average value: +1.66% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -13%
+Fact: The Average value: -14% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 64.5%
+Fact: The Average value: 56% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **4.1762%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.58%
+Fact: The Average value: +1.66% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Toy Drum has/costs **57.2082%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.5833
+Fact: The Average value: +1.6622 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.44% in Toy Drum has/costs **38.6156%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.58%
+Fact: The Average value: +1.66% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -13%
+Fact: The Average value: -14% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 64.5%
+Fact: The Average value: 56% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **4.1762%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.58%
+Fact: The Average value: +1.66% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Toy Drum has/costs **56.1167%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8
+Fact: The Average value: +1.7942 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +3.58% in Toy Drum has/costs **39.2817%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -12%
+Fact: The Average value: -13.49% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 73%
+Fact: The Average value: 60.25% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **4.6016%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Toy Drum has/costs **56.1167%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8
+Fact: The Average value: +1.7942 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +3.58% in Toy Drum has/costs **39.2817%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -12%
+Fact: The Average value: -13.49% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 73%
+Fact: The Average value: 60.25% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **4.6016%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Toy Drum has/costs **55.0661%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.9
+Fact: The Average value: +1.8244 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +3.81% in Toy Drum has/costs **39.9229%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -11%
+Fact: The Average value: -12.99% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 81.5%
+Fact: The Average value: 64.5% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **5.011%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Toy Drum has/costs **55.0661%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.9
+Fact: The Average value: +1.8244 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +3.81% in Toy Drum has/costs **39.9229%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -11%
+Fact: The Average value: -12.99% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 81.5%
+Fact: The Average value: 64.5% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **5.011%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Toy Drum has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Toy Drum has/costs **54.0541%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.04% in Toy Drum has/costs **40.5405%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -10%
+Fact: The Average value: -12.48% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 90%
+Fact: The Average value: 68.75% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **5.4054%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Toy Drum has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Toy Drum has/costs Base, Upgrades.
+Fact: The Chance in Toy Drum has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Toy Drum has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Toy Drum has/costs **54.0541%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Toy Drum has/costs **20**.
+Fact: The +Bee Attack% in Toy Drum has/costs **100%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.04% in Toy Drum has/costs **40.5405%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Toy Drum has/costs **10**.
+Fact: The -Energy% in Toy Drum has/costs **100%**, A random value between **-20%** -**-10%**.
+Intervals of +1%
+Biased to values near -10%
+Fact: The Average value: -12.48% in Toy Drum has/costs \-, \-, \-.
+Fact: The +Critical Chance% in Toy Drum has/costs A random value between **5%** -**90%**.
+Biased to values near 90%
+Fact: The Average value: 68.75% in Toy Drum has/costs **+1%**, \-, \-, \-.
+Fact: The +Ability: Haste in Toy Drum has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Bee Ability Pollen% in Toy Drum has/costs \-, \-, **5.4054%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Toy Drum has/costs **5**.
+Probabilities[]
+The tables below give the probability of a stat of Toy Drum falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* +Gather Amount
+* +Bee Attack%
+Fact: The Potential in Toy Drum has/costs Stat ranges, Average.
+Fact: The +10-+11 in Toy Drum has/costs +12-+13, +14-+15, +16-+17, +18-+19, +20.
+Fact: The **0 ★** in Toy Drum has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.481.
+Fact: The **0.5 ★** in Toy Drum has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +12.991.
+Fact: The **1 ★** in Toy Drum has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.494.
+Fact: The **1.5 ★** in Toy Drum has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +13.996.
+Fact: The **2 ★** in Toy Drum has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.498.
+Fact: The **2.5 ★** in Toy Drum has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15.
+Fact: The **3 ★** in Toy Drum has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.502.
+Fact: The **3.5 ★** in Toy Drum has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16.0035.
+Fact: The **4 ★** in Toy Drum has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.506.
+Fact: The **4.5 ★** in Toy Drum has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17.009.
+Fact: The **5 ★** in Toy Drum has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.519.
+Fact: The Potential in Toy Drum has/costs Stat ranges, Average.
+Fact: The +1% in Toy Drum has/costs +2%, +3%, +4%, +5%.
+Fact: The **0 ★** in Toy Drum has/costs 38.493%, 35.788%, 17.594%, 7.309%, 0.816%, +2%.
+Fact: The **0.5 ★** in Toy Drum has/costs 21.459%, 48.646%, 20.693%, 8.291%, 0.911%, +2.2%.
+Fact: The **1 ★** in Toy Drum has/costs 5.144%, 58.953%, 25.285%, 9.586%, 1.032%, +2.4%.
+Fact: The **1.5 ★** in Toy Drum has/costs 3.068%, 51.184%, 33.184%, 11.375%, 1.189%, +2.6%.
+Fact: The **2 ★** in Toy Drum has/costs 2.196%, 28.373%, 54.00013%, 14.028%, 1.403%, +2.8%.
+Fact: The **2.5 ★** in Toy Drum has/costs 1.712%, 18.459%, 59.657%, 18.459%, 1.712%, +3%.
+Fact: The **3 ★** in Toy Drum has/costs 1.403%, 14.028%, 54.00013%, 28.373%, 2.196%, +3.2%.
+Fact: The **3.5 ★** in Toy Drum has/costs 1.189%, 11.375%, 33.184%, 51.184%, 3.068%, +3.4%.
+Fact: The **4 ★** in Toy Drum has/costs 1.032%, 9.586%, 25.285%, 58.953%, 5.144%, +3.6%.
+Fact: The **4.5 ★** in Toy Drum has/costs 0.911%, 8.291%, 20.693%, 48.646%, 21.459%, +3.8%.
+Fact: The **5 ★** in Toy Drum has/costs 0.816%, 7.309%, 17.594%, 35.788%, 38.493%, +4%.
+Fact: The Potential in Toy Drum has/costs Stat ranges, Average.
+Fact: The -20%--19% in Toy Drum has/costs -18%--17%, -16%--15%, -14%--13%, -12%--11%, -10%.
+Fact: The **0 ★** in Toy Drum has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, -17.5%.
+Fact: The **0.5 ★** in Toy Drum has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, -17%.
+Fact: The **1 ★** in Toy Drum has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, -16.5%.
+Fact: The **1.5 ★** in Toy Drum has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, -16%.
+Fact: The **2 ★** in Toy Drum has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, -15.5%.
+Fact: The **2.5 ★** in Toy Drum has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, -15%.
+Fact: The **3 ★** in Toy Drum has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, -14.5%.
+Fact: The **3.5 ★** in Toy Drum has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, -14%.
+Fact: The **4 ★** in Toy Drum has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, -13.5%.
+Fact: The **4.5 ★** in Toy Drum has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, -13%.
+Fact: The **5 ★** in Toy Drum has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, -12.5%.
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+* +Bee Attack%
+Fact: The Potential in Toy Drum has/costs Stat ranges, Average.
+Fact: The +1 in Toy Drum has/costs +2.
+Fact: The **0 ★** in Toy Drum has/costs 84.657%, 15.343%, +1.153.
+Fact: The **0.5 ★** in Toy Drum has/costs 84.101%, 15.899%, +1.159.
+Fact: The **1 ★** in Toy Drum has/costs 83.344%, 16.656%, +1.167.
+Fact: The **1.5 ★** in Toy Drum has/costs 82.253%, 17.747%, +1.177.
+Fact: The **2 ★** in Toy Drum has/costs 80.543%, 19.457%, +1.195.
+Fact: The **2.5 ★** in Toy Drum has/costs 77.465%, 22.535%, +1.225.
+Fact: The **3 ★** in Toy Drum has/costs 70.118%, 29.882%, +1.299.
+Fact: The **3.5 ★** in Toy Drum has/costs 33.784%, 66.216%, +1.662.
+Fact: The **4 ★** in Toy Drum has/costs 20.575%, 79.425%, +1.794.
+Fact: The **4.5 ★** in Toy Drum has/costs 17.563%, 82.437%, +1.824.
+Fact: The **5 ★** in Toy Drum has/costs 15.343%, 84.657%, +1.847.
+Fact: The Potential in Toy Drum has/costs Stat ranges, Average.
+Fact: The +1% in Toy Drum has/costs +2%.
+Fact: The **0 ★** in Toy Drum has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Toy Drum has/costs 84.101%, 15.899%, +1.2%.
+Fact: The **1 ★** in Toy Drum has/costs 83.344%, 16.656%, +1.2%.
+Fact: The **1.5 ★** in Toy Drum has/costs 82.253%, 17.747%, +1.2%.
+Fact: The **2 ★** in Toy Drum has/costs 80.543%, 19.457%, +1.2%.
+Fact: The **2.5 ★** in Toy Drum has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Toy Drum has/costs 70.118%, 29.882%, +1.3%.
+Fact: The **3.5 ★** in Toy Drum has/costs 33.784%, 66.216%, +1.7%.
+Fact: The **4 ★** in Toy Drum has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Toy Drum has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Toy Drum has/costs 15.343%, 84.657%, +1.8%.
+Fact: **5 ★** statistic: * +Bee Ability Pollen%.
+Fact: The Potential in Toy Drum has/costs Stat ranges, Average.
+Fact: The +1% in Toy Drum has/costs +2%.
+Fact: The **0 ★** in Toy Drum has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Toy Drum has/costs 84.101%, 15.899%, +1.2%.
+Fact: The **1 ★** in Toy Drum has/costs 83.344%, 16.656%, +1.2%.
+Fact: The **1.5 ★** in Toy Drum has/costs 82.253%, 17.747%, +1.2%.
+Fact: The **2 ★** in Toy Drum has/costs 80.543%, 19.457%, +1.2%.
+Fact: The **2.5 ★** in Toy Drum has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Toy Drum has/costs 70.118%, 29.882%, +1.3%.
+Fact: The **3.5 ★** in Toy Drum has/costs 33.784%, 66.216%, +1.7%.
+Fact: The **4 ★** in Toy Drum has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Toy Drum has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Toy Drum has/costs 15.343%, 84.657%, +1.8%.
+Ways to Obtain[]
+* As a possible drop from the Stockings.
+* As a item from the Merry Mythic Mondo-Haul in the Robux Shop.
+Outdated Ways[]
+*As a reward from the Tan Gift Box.
+* As a item from the Merry Mythic Pack in the Robux Shop.
+* Purchasing the Beequip pack in Bee Bear's Catalog gave 1 Toy Drum + Other items.
+* Completing Gummy Bear's Beesmas quest gave 1 Toy Drum + Other items.
+* As a reward from the Obnoxious Gift Box.
+* Purchasing the Percusive Bundle from Bee Bear's Catalog gave 1 Toy Drum + Other items.
+* Purchasing the Musical Mega-Bundle from Bee Bear's Catalog.
+* As a possible drop from the Aureolin Gift Box "Gift Boxes").
+Gallery[]
+A Toy Drum equipped to a Riley Bee.
+A Toy Drum in the Beequip Case.
+Trivia[]
+* This is one of three instrumental Beequips.
+* The other two are Toy Horn and Kazoo.
+* This is one of eight beequips to give a negative stat.
+* The other seven are the Kazoo, Whistle, Beesmas Top, Toy Horn, Demon Talisman, Pink Eraser and Lump Of Coal.
+Fact: The Sub-Inventories in Toy Drum has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Toy Drum has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Toy Drum has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Toy Drum has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Toy Drum has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Toy Drum has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Toy Drum has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Toy Drum has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Toy Drum has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Toy Drum has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Toy Drum has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Toy Drum has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Toy Drum has/costs **7-Pronged Cog**.
+Fact: The Other in Toy Drum has/costs **Marshmallow Bee**.
+Fact: The Currencies in Toy Drum has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Toy Drum has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Toy Drum has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Toy Drum has/costs **Parachute •  Glider**.
+Fact: The Bags in Toy Drum has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Toy Drum has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Toy Drum has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Toy Drum has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Toy Drum has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Toy Drum has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Toy Drum has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Toy Drum has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  **Toy Drum** •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Toy Drum has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Toy Drum has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

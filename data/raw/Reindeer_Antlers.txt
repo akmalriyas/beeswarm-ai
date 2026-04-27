@@ -1,0 +1,736 @@
+Context: Bee Swarm Simulator - Reindeer Antlers
+
+Reindeer Antlers
+Reindeer Antlers
+"These magic antlers and glowing-red nose help Puppy Bee guide you through darkness!"
+Fact: Reindeer Antlers statistic: +Convert Amount%.
+Fact: Reindeer Antlers statistic: +Ability Pollen%.
+Fact: Reindeer Antlers statistic: +Ability: Focus.
+Fact: Reindeer Antlers statistic: +Ability: Reindeer Fetch.
+Fact: Reindeer Antlers statistic: +Ability: Baby Love.
+Fact: Reindeer Antlers statistic: +Capacity%.
+Fact: Reindeer Antlers statistic: +Bond From Treats%.
+The Reindeer Antlers is a level 8 Beesmas Beequip. It has an equip limit of one. There is no color requirement. It can only be equipped to Puppy Bee.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades, Range.
+Fact: The Chance in Reindeer Antlers has/costs Value, Weight, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Reindeer Antlers has/costs **1**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Reindeer Antlers has/costs **20**, **+10% - +95%**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Reindeer Antlers has/costs **1**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Reindeer Antlers has/costs **20**, **+10% - +95%**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, An exact value between **0.00016666666666667** -**0.0005**.
+Fact: The Linear scaling by a factor of 1 in Reindeer Antlers has/costs **-**, **1**, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, An exact value between **0.05** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Reindeer Antlers has/costs A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Reindeer Antlers has/costs **10**, **0% - +20%**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, An exact value between **0.0001** -**0.0005**.
+Fact: The Linear scaling by a factor of 1 in Reindeer Antlers has/costs **+1%**, **3**, **0% - +3%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Reindeer Antlers has/costs **48.7781%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.44% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Reindeer Antlers has/costs **48.7781%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.44% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **2.4389%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0049%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Reindeer Antlers has/costs **48.7741%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.44% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Reindeer Antlers has/costs **48.7741%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.44% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0081%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **2.4387%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0049%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Reindeer Antlers has/costs **48.6585%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.11%
+Fact: The Average value: +2.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Reindeer Antlers has/costs **48.6585%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.11%
+Fact: The Average value: +2.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **2.6762%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.16% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0068%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Reindeer Antlers has/costs **48.6538%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.11%
+Fact: The Average value: +2.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Reindeer Antlers has/costs **48.6538%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.11%
+Fact: The Average value: +2.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0097%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **2.676%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.16% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0068%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Reindeer Antlers has/costs **48.5394%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.25%
+Fact: The Average value: +2.55% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Reindeer Antlers has/costs **48.5394%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.25%
+Fact: The Average value: +2.55% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **2.9124%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.12%
+Fact: The Average value: +1.18% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0087%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Reindeer Antlers has/costs **48.534%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.25%
+Fact: The Average value: +2.55% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Reindeer Antlers has/costs **48.534%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.25%
+Fact: The Average value: +2.55% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0113%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **2.912%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.12%
+Fact: The Average value: +1.18% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0087%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Reindeer Antlers has/costs **48.421%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.43%
+Fact: The Average value: +2.68% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Reindeer Antlers has/costs **48.421%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.43%
+Fact: The Average value: +2.68% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.1474%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.21%
+Fact: The Average value: +1.21% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0107%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Reindeer Antlers has/costs **48.4147%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.43%
+Fact: The Average value: +2.68% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Reindeer Antlers has/costs **48.4147%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.43%
+Fact: The Average value: +2.68% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0129%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.147%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.21%
+Fact: The Average value: +1.21% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0107%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Reindeer Antlers has/costs **48.3031%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.67%
+Fact: The Average value: +2.92% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Reindeer Antlers has/costs **48.3031%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.67%
+Fact: The Average value: +2.92% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.3812%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0126%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Reindeer Antlers has/costs **48.2961%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.67%
+Fact: The Average value: +2.92% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Reindeer Antlers has/costs **48.2961%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +2.67%
+Fact: The Average value: +2.92% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0145%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.3807%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0126%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Reindeer Antlers has/costs **48.1858%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Reindeer Antlers has/costs **48.1858%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.6139%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0145%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Reindeer Antlers has/costs **48.1781%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Reindeer Antlers has/costs **48.1781%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0161%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.6134%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0145%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Reindeer Antlers has/costs **48.0691%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.04% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Reindeer Antlers has/costs **48.0691%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.04% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.8455%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0163%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Reindeer Antlers has/costs **48.0606%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.04% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Reindeer Antlers has/costs **48.0606%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.04% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0176%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **3.8448%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0163%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Reindeer Antlers has/costs **47.9529%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.11% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Reindeer Antlers has/costs **47.9529%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.11% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.076%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0182%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Reindeer Antlers has/costs **47.9437%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.11% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Reindeer Antlers has/costs **47.9437%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.11% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0192%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.0752%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0182%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Reindeer Antlers has/costs **47.8373%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.34% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Reindeer Antlers has/costs **47.8373%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.34% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.3054%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0201%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Reindeer Antlers has/costs **47.8274%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.34% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Reindeer Antlers has/costs **47.8274%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.34% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0207%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.3045%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0201%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Reindeer Antlers has/costs **47.7222%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Reindeer Antlers has/costs **47.7222%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.5336%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.022%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Reindeer Antlers has/costs **47.7116%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Reindeer Antlers has/costs **47.7116%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.48% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0223%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.5326%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0219%**, **+1%**, **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Reindeer Antlers has/costs **47.6077%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +3.56% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Reindeer Antlers has/costs **47.6077%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +3.56% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.7608%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0238%**, **+1%**, **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Reindeer Antlers has/costs Base, Upgrades.
+Fact: The Chance in Reindeer Antlers has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Reindeer Antlers has/costs **47.5964%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +3.56% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability Pollen% in Reindeer Antlers has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Reindeer Antlers has/costs **47.5964%**, A random value between **+2%** -**+4%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +3.56% in Reindeer Antlers has/costs **20**.
+Fact: The +Ability: Focus in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: The +Ability: Reindeer Fetch in Reindeer Antlers has/costs **100%**, **-**, \-, \-, \-.
+Fact: +Ability: Reindeer Fetch statistic: +Ability: Baby Love.
+Fact: The Caustic Points Only in Reindeer Antlers has/costs \-, \-, **0.0238%**, **-**, **1**.
+Fact: The +Capacity% in Reindeer Antlers has/costs \-, \-, **4.7596%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Reindeer Antlers has/costs **10**.
+Fact: The +Bond From Treats% in Reindeer Antlers has/costs \-, \-, **0.0238%**, **+1%**, **3**.
+Probabilities[]
+The tables below give the probability of a stat of Reindeer Antlers falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* +Convert Amount%
+Fact: * +Convert Amount% statistic: * +Ability Pollen%.
+Fact: The Potential in Reindeer Antlers has/costs Stat ranges, Average.
+Fact: The +10% in Reindeer Antlers has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0 ★** in Reindeer Antlers has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +11.2%.
+Fact: The **0.5 ★** in Reindeer Antlers has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +11.5%.
+Fact: The **1 ★** in Reindeer Antlers has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +11.7%.
+Fact: The **1.5 ★** in Reindeer Antlers has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +12%.
+Fact: The **2 ★** in Reindeer Antlers has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +12.2%.
+Fact: The **2.5 ★** in Reindeer Antlers has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +12.5%.
+Fact: The **3 ★** in Reindeer Antlers has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +12.8%.
+Fact: The **3.5 ★** in Reindeer Antlers has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +13%.
+Fact: The **4 ★** in Reindeer Antlers has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +13.3%.
+Fact: The **4.5 ★** in Reindeer Antlers has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +13.5%.
+Fact: The **5 ★** in Reindeer Antlers has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +13.8%.
+Fact: The Potential in Reindeer Antlers has/costs Stat ranges, Average.
+Fact: The +10% in Reindeer Antlers has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0 ★** in Reindeer Antlers has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +11.2%.
+Fact: The **0.5 ★** in Reindeer Antlers has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +11.5%.
+Fact: The **1 ★** in Reindeer Antlers has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +11.7%.
+Fact: The **1.5 ★** in Reindeer Antlers has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +12%.
+Fact: The **2 ★** in Reindeer Antlers has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +12.2%.
+Fact: The **2.5 ★** in Reindeer Antlers has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +12.5%.
+Fact: The **3 ★** in Reindeer Antlers has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +12.8%.
+Fact: The **3.5 ★** in Reindeer Antlers has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +13%.
+Fact: The **4 ★** in Reindeer Antlers has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +13.3%.
+Fact: The **4.5 ★** in Reindeer Antlers has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +13.5%.
+Fact: The **5 ★** in Reindeer Antlers has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +13.8%.
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount%
+Fact: * +Convert Amount% statistic: * +Ability Pollen%.
+Fact: The Potential in Reindeer Antlers has/costs Stat ranges, Average.
+Fact: The +2% in Reindeer Antlers has/costs +3%, +4%.
+Fact: The **0 ★** in Reindeer Antlers has/costs 59.657%, 36.919%, 3.424%, +2.4%.
+Fact: The **0.5 ★** in Reindeer Antlers has/costs 55.731%, 40.622%, 3.647%, +2.5%.
+Fact: The **1 ★** in Reindeer Antlers has/costs 49.324%, 46.706%, 3.97%, +2.5%.
+Fact: The **1.5 ★** in Reindeer Antlers has/costs 36.039%, 59.478%, 4.483%, +2.7%.
+Fact: The **2 ★** in Reindeer Antlers has/costs 13.448%, 81.136%, 5.417%, +2.9%.
+Fact: The **2.5 ★** in Reindeer Antlers has/costs 7.671%, 84.657%, 7.671%, +3%.
+Fact: The **3 ★** in Reindeer Antlers has/costs 6.135%, 83.577%, 10.288%, +3%.
+Fact: The **3.5 ★** in Reindeer Antlers has/costs 5.118%, 78.841%, 16.041%, +3.1%.
+Fact: The **4 ★** in Reindeer Antlers has/costs 4.392%, 56.745%, 38.863%, +3.3%.
+Fact: The **4.5 ★** in Reindeer Antlers has/costs 3.848%, 44.276%, 51.876%, +3.5%.
+Fact: The **5 ★** in Reindeer Antlers has/costs 3.424%, 36.919%, 59.657%, +3.6%.
+Fact: The Potential in Reindeer Antlers has/costs Stat ranges, Average.
+Fact: The +2% in Reindeer Antlers has/costs +3%, +4%.
+Fact: The **0 ★** in Reindeer Antlers has/costs 59.657%, 36.919%, 3.424%, +2.4%.
+Fact: The **0.5 ★** in Reindeer Antlers has/costs 55.731%, 40.622%, 3.647%, +2.5%.
+Fact: The **1 ★** in Reindeer Antlers has/costs 49.324%, 46.706%, 3.97%, +2.5%.
+Fact: The **1.5 ★** in Reindeer Antlers has/costs 36.039%, 59.478%, 4.483%, +2.7%.
+Fact: The **2 ★** in Reindeer Antlers has/costs 13.448%, 81.136%, 5.417%, +2.9%.
+Fact: The **2.5 ★** in Reindeer Antlers has/costs 7.671%, 84.657%, 7.671%, +3%.
+Fact: The **3 ★** in Reindeer Antlers has/costs 6.135%, 83.577%, 10.288%, +3%.
+Fact: The **3.5 ★** in Reindeer Antlers has/costs 5.118%, 78.841%, 16.041%, +3.1%.
+Fact: The **4 ★** in Reindeer Antlers has/costs 4.392%, 56.745%, 38.863%, +3.3%.
+Fact: The **4.5 ★** in Reindeer Antlers has/costs 3.848%, 44.276%, 51.876%, +3.5%.
+Fact: The **5 ★** in Reindeer Antlers has/costs 3.424%, 36.919%, 59.657%, +3.6%.
+Fact: **5 ★** statistic: * +Capacity%.
+Fact: The Potential in Reindeer Antlers has/costs Stat ranges, Average.
+Fact: The +1% in Reindeer Antlers has/costs +2%.
+Fact: The **0 ★** in Reindeer Antlers has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Reindeer Antlers has/costs 83.501%, 16.499%, +1.2%.
+Fact: The **1 ★** in Reindeer Antlers has/costs 81.774%, 18.226%, +1.2%.
+Fact: The **1.5 ★** in Reindeer Antlers has/costs 78.903%, 21.097%, +1.2%.
+Fact: The **2 ★** in Reindeer Antlers has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **2.5 ★** in Reindeer Antlers has/costs 50%, 50%, +1.5%.
+Fact: The **3 ★** in Reindeer Antlers has/costs 32.082%, 67.918%, +1.7%.
+Fact: The **3.5 ★** in Reindeer Antlers has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Reindeer Antlers has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Reindeer Antlers has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Reindeer Antlers has/costs 15.343%, 84.657%, +1.8%.
+Ways to Obtain[]
+* Purchasing the Reindeer Bundle from Bee Bear's Catalog for 250 Gingerbread Bears gives 1 Reindeer Antlers and other items.
+Outdated Ways[]
+* Buying the Reindeer Puppy Pack in the Robux Shop for 800 Robux during Beesmas 2021.
+* Buying it from Bee Bear's Catalog for 7,500 Snowflakes and 150 Gingerbread Bears during Beesmas 2022.
+* Buying it from Bee Bear's Catalog for 150 Gingerbread Bears during Beesmas 2024 (Summer).
+* Purchasing the Reindeer Games Pack from Bee Bear's Catalog for 200 Gingerbread Bears and 2,000 Snowflakes gave 1 Reindeer Antlers and other items.
+Gallery[]
+Puppy Bee with the Reindeer Antlers equipped.
+The Reindeer Fetch ball.
+A Mutated First Edition Gifted Puppy Bee wearing the Reindeer Antlers.
+Reindeer Guidance buff.
+Reindeer Antlers in a player's Beequip Storage.
+Puppy Bee wearing the Reindeer Antlers in the Beesmas 2020 thumbnail of the game.
+Trivia[]
+* The Reindeer Antlers and the Festive Wreath share many similarities:
+* The two are the only Beequips to have models visible on the bee that they are equipped to.
+* Before the 2024-01-12 update's removal of permanent Beequips, the two were the only permanent Beequips in the game.
+* This is the first permanent Beequip added to the game, followed by the Festive Wreath.
+* These were the only Beequips to have a set potential, with this Beequip always having max potential and the Festive Wreath always having a potential of 3 stars (6 points).
+* They were the only Beequips that cannot be discarded.
+* Caustic Waxes were unable to be used on these two Beequips. However, this is no longer the case.
+* A model of a Puppy Bee with Reindeer Antlers can be found outside the map, next to a model of a Festive Bee with the Festive Wreath.
+* This Beequip is likely a reference to Dr. Seuss’ children's book “How the Grinch Stole Christmas”, where the Grinch dresses his dog as a reindeer.
+* This is the one of three Beequips to give a unique ability.
+* The other two are the Snowglobe and Festive Wreath.
+Fact: The Sub-Inventories in Reindeer Antlers has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Reindeer Antlers has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Reindeer Antlers has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Reindeer Antlers has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Reindeer Antlers has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Reindeer Antlers has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Reindeer Antlers has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Reindeer Antlers has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Reindeer Antlers has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Reindeer Antlers has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Reindeer Antlers has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Reindeer Antlers has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Reindeer Antlers has/costs **7-Pronged Cog**.
+Fact: The Other in Reindeer Antlers has/costs **Marshmallow Bee**.
+Fact: The Currencies in Reindeer Antlers has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Reindeer Antlers has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Reindeer Antlers has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Reindeer Antlers has/costs **Parachute •  Glider**.
+Fact: The Bags in Reindeer Antlers has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Reindeer Antlers has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Reindeer Antlers has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Reindeer Antlers has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Reindeer Antlers has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Reindeer Antlers has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Reindeer Antlers has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Reindeer Antlers has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  **Reindeer Antlers** •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Reindeer Antlers has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Reindeer Antlers has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

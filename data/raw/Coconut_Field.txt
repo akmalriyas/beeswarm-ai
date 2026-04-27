@@ -1,0 +1,62 @@
+Context: Bee Swarm Simulator - Coconut Field
+
+Coconut Field
+Coconut Field
+FIELD COLOR
+BEE PREREQUISITES
+NECTAR TYPE
+Refreshing Nectar
+FIELD DIMENSIONS
+30 × 21 flowers
+FLOWER COUNT
+BEE PREFERENCES
+The Coconut Field is a field added in the September 28, 2019 update, located past the Windy Bee Gate and next to Spirit Bear. It is home to and protected by the Coconut Crab.
+The field can spawn honey, treats, coconuts, tropical drinks, ticket and magic bean tokens when collecting pollen.
+Bees that like the Coconut Field are Vector Bee, Buoyant Bee, Digital Bee, and Windy Bee. There are no bees that dislike the Coconut Field.
+This field grants Refreshing Nectar when a planter is planted here.
+A level 1-20 Wild Windy Bee has a chance to spawn in this field.
+This is a 30x21 field, containing 630 flowers. The flowers are white, red, and blue, and the only natural size is triple.
+Fact: The Flowers in Coconut Field has/costs White, Red, Blue, Total.
+Fact: The Single in Coconut Field has/costs 0, 0%, 0, 0%, 0, 0%, **0**, **0%**.
+Fact: The Double in Coconut Field has/costs 0, 0%, 0, 0%, 0, 0%, **0**, **0%**.
+Fact: The Triple in Coconut Field has/costs 552, 87.63%, 52, 8.25%, 26, 4.12%, **630**, **100%**.
+Fact: The Total in Coconut Field has/costs **552**, **87.63%**, **52**, **8.25%**, **26**, **4.12%**, **630**, **100%**.
+_Note:_ flower counts within the table may vary due to rounding. Additionally, in game, all flowers are randomly generated and may not precisely align with the percentages.
+Obtaining Boosts[]
+* Using glitter will add 100% Coconut Field pollen onto the current boost for 15 minutes if it isn't already maxed out.
+Fact: Obtaining Boosts[] requirement: * Using field dice, smooth dice, or loaded dice may add +100% - 300% Coconut Field pollen for 15 minutes based on the type used if it isn't already maxed out..
+The Coconut Field boost icon.
+Fact: Obtaining Boosts[] requirement: * Coconut Field Winds can be obtained through the Wind Shrine or codes. They have a base of +20% Instant Coconut Field Conversion and give +5% Instant Coconut Field Conversion and +10% Coconut Field pollen for each stack. Coconut Field Winds can stack up to a total of 15 times..
+* Using the Coconut Dispenser will always give Coconut Field Boost x1 (if the player has Coconut Badge cadet or higher), along with coconuts depending on the player's badge.
+* Equipping the Coconut Clogs grants x1.15 Coconut Field pollen.
+* Equipping the Coconut Belt grants x1.1 Coconut Field pollen.
+The methods below are no longer possible.[]
+Fact: Obtaining Boosts[] requirement: * Giving Gummy Bear a present gave Coconut Field Boost x3 + other stuff..
+* Redeeming certain expired codes:
+Fact: Obtaining Boosts[] requirement: * Gumaden10T (Gave Coconut Field Boost x1 and Coconut Field Winds x3 + other stuff).
+Fact: Obtaining Boosts[] requirement: * DarzethDoodads (Coconut Field Code Buff + other stuff)..
+Fact: Obtaining Boosts[] requirement: * FrozenBugReboot (Coconut Field Code Buff and Coconut Field Boost x4 + other stuff.
+Fact: Obtaining Boosts[] statistic: * Purchasing a Coconut Field Market Boost from the Boost Market will give x1.5 Coconut Field Capacity, x1.25 Coconut Field Pollen, x2.5 Pollen from Coconuts, and x1.1 White Pollen..
+Fact: Obtaining Boosts[] requirement: * Mocito100T (Gives Coconut Field Boost x2 and Coconut Field Capacity x2 + other stuff)..
+Gallery[]
+Coconut Field's associated field stamp.
+Trivia[]
+* This is the only field where sprouts and leaves can yield coconuts and tropical drinks.
+* It is also the only field to have a regular boss defending it.
+* This is one of four fields to solely have contain triple flowers without pollination, the others being the Mountain Top Field, Stump Field, and the Pepper Patch.
+* Furthermore, this field is the only triple-flower field dominated by white flowers.
+* Under the coconut tree opposite of the cave and closest to Spirit Bear, there is a coconut token that can be collected to give 10 coconuts.
+* This and the Pepper Patch are the only fields where sprouts cannot naturally appear or be planted with the Special Sprout Summoner.
+* Like the Pepper Badge, the Coconut Badge requires more pollen collected than the other field badges. For example, the cadet badge for the Coconut Field requires 50,000,000 (50 million) pollen, compared to the normal requirement of 250,000 (250 thousand) pollen.
+* It is possible to gather pollen from this field without 35 bees from the ledge facing the Ticket Tent.
+* Players can also collect from the field by going outside the map and finding the back of the Ticket Tent. Jumping on the Ticket Tent with enough jump height will reach the field, allowing bees to farm.
+Fact: Trivia[] requirement: * The Coconut Dispenser used to boost this field differently based on the player's Coconut Badge, with the Junior badge giving no boost, Cadet giving a +100% pollen boost, Hotshot giving a +200% pollen boost, and anything Ace and above giving a +300% pollen boost. After the Beesmas 2019 update, the Coconut Dispenser will always provide a +100% pollen boost, regardless of the player's Coconut Badge..
+* This field, the Ant Field and the Hub Field are the only fields without any bees to dislike them.
+Fact: The Fields in Coconut Field has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • **Coconut Field** • Pepper Patch**.
+Fact: The Shops in Coconut Field has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Coconut Field has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Coconut Field has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Coconut Field has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Coconut Field has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Coconut Field has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Coconut Field has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

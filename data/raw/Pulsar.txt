@@ -1,0 +1,55 @@
+Context: Bee Swarm Simulator - Pulsar
+
+Fact: The **Price** in Pulsar has/costs 125,000 Honey.
+Fact: The **Shop** in Pulsar has/costs Pro Shop.
+Fact: **Shop** statistic: Pollen Collection.
+Fact: The **Range** in Pulsar has/costs 29 Flowers.
+Fact: The **Collecting Pattern** in Pulsar has/costs Surround.
+Fact: The **Collecting Time** in Pulsar has/costs 1.
+Fact: The **Base Collection** in Pulsar has/costs 2.
+Fact: The Flowers in Pulsar has/costs Single, Double, Triple, Large, Star.
+Fact: The White in Pulsar has/costs 2, 4, 6, 8, 10.
+Fact: The Red in Pulsar has/costs 2, 4, 6, 8, 10.
+Fact: The Blue in Pulsar has/costs 2, 4, 6, 8, 10.
+_Special Multiplier(s): None_
+The Pulsar is a tool that can be purchased in the Pro Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 125,000 Honey.
+It collects 2 pollen from 29 surrounding patches in 1 second, which comes out to a base pollen collection rate of 58 pollen per second.
+It has what looks to be a black orb with green smoke emitting from it and is surrounded by three black rings. Two of these rings have a small black orb connected to them, with one above and one to the right of the middle orb.
+Gallery[]
+The Pulsar's associated sticker.
+Trivia[]
+* The Pulsar has a similar collection range as the Honey Dipper and the Porcelain Dipper, only both of them have a slightly bigger collection range, and the Porcelain Dipper summons a large pillar of light every 10th swing that collects pollen.
+* The Pulsar, Gummyballer, and Sticker-Seeker are tied for the slowest tool in the game (in terms of how long the cooldown of each collection lasts).
+* The Pulsar may possibly be the upgraded version of the Vacuum.
+* This is because pulsars are a type of neutron star (which have high gravity and suck stuff in, similar to a vacuum's function).
+Fact: The Sub-Inventories in Pulsar has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Pulsar has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Pulsar has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Pulsar has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Pulsar has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Pulsar has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Pulsar has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Pulsar has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Pulsar has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Pulsar has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Pulsar has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Pulsar has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Pulsar has/costs **7-Pronged Cog**.
+Fact: The Other in Pulsar has/costs **Marshmallow Bee**.
+Fact: The Currencies in Pulsar has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Pulsar has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  **Pulsar** •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Pulsar has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Pulsar has/costs **Parachute •  Glider**.
+Fact: The Bags in Pulsar has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Pulsar has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Pulsar has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Pulsar has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Pulsar has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Pulsar has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Pulsar has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Pulsar has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Pulsar has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Pulsar has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

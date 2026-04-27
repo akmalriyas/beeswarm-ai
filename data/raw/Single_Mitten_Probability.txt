@@ -1,0 +1,109 @@
+Context: Bee Swarm Simulator - Single Mitten Probability
+
+Single Mitten/Probability
+The tables below give the probability of a stat of Single Mitten falling within a more precise range, and being upgraded within a more precise range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+Due to the size of the tables affecting readability, it has been moved to a separate subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+Fact: * +Gather Amount statistic: * +Bomb Pollen%.
+Fact: The Potential in Single Mitten Probability has/costs Stat ranges, Average.
+Fact: The +5 in Single Mitten Probability has/costs +6, +7, +8, +9, +10.
+Fact: The **0 ★** in Single Mitten Probability has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.217.
+Fact: The **0.5 ★** in Single Mitten Probability has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.537.
+Fact: The **1 ★** in Single Mitten Probability has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.739.
+Fact: The **1.5 ★** in Single Mitten Probability has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7.014.
+Fact: The **2 ★** in Single Mitten Probability has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.247.
+Fact: The **2.5 ★** in Single Mitten Probability has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5.
+Fact: The **3 ★** in Single Mitten Probability has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.753.
+Fact: The **3.5 ★** in Single Mitten Probability has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +7.986.
+Fact: The **4 ★** in Single Mitten Probability has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.261.
+Fact: The **4.5 ★** in Single Mitten Probability has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.463.
+Fact: The **5 ★** in Single Mitten Probability has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.783.
+Fact: The Potential in Single Mitten Probability has/costs Stat ranges, Average.
+Fact: The +10% in Single Mitten Probability has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0 ★** in Single Mitten Probability has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +11.2%.
+Fact: The **0.5 ★** in Single Mitten Probability has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +11.5%.
+Fact: The **1 ★** in Single Mitten Probability has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +11.7%.
+Fact: The **1.5 ★** in Single Mitten Probability has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +12%.
+Fact: The **2 ★** in Single Mitten Probability has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +12.2%.
+Fact: The **2.5 ★** in Single Mitten Probability has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +12.5%.
+Fact: The **3 ★** in Single Mitten Probability has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +12.8%.
+Fact: The **3.5 ★** in Single Mitten Probability has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +13%.
+Fact: The **4 ★** in Single Mitten Probability has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +13.3%.
+Fact: The **4.5 ★** in Single Mitten Probability has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +13.5%.
+Fact: The **5 ★** in Single Mitten Probability has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +13.8%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: The Potential in Single Mitten Probability has/costs Stat ranges, Average.
+Fact: The +7,500 in Single Mitten Probability has/costs +8,000, +8,500, +9,000, +9,500, +10,000.
+Fact: The **0 ★** in Single Mitten Probability has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +8,108.74.
+Fact: The **0.5 ★** in Single Mitten Probability has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +8,268.653.
+Fact: The **1 ★** in Single Mitten Probability has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +8,369.324.
+Fact: The **1.5 ★** in Single Mitten Probability has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +8,507.102.
+Fact: The **2 ★** in Single Mitten Probability has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +8,623.327.
+Fact: The **2.5 ★** in Single Mitten Probability has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +8,750.
+Fact: The **3 ★** in Single Mitten Probability has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +8,876.673.
+Fact: The **3.5 ★** in Single Mitten Probability has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8,992.898.
+Fact: The **4 ★** in Single Mitten Probability has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +9,130.676.
+Fact: The **4.5 ★** in Single Mitten Probability has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +9,231.347.
+Fact: The **5 ★** in Single Mitten Probability has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +9,391.26.
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+Fact: * +Gather Amount statistic: * +Bomb Pollen%.
+Fact: The Potential in Single Mitten Probability has/costs Stat ranges, Average.
+Fact: The +1 in Single Mitten Probability has/costs +2.
+Fact: The **0 ★** in Single Mitten Probability has/costs 84.657%, 15.343%, +1.153.
+Fact: The **0.5 ★** in Single Mitten Probability has/costs 84.215%, 15.785%, +1.158.
+Fact: The **1 ★** in Single Mitten Probability has/costs 83.625%, 16.375%, +1.164.
+Fact: The **1.5 ★** in Single Mitten Probability has/costs 82.794%, 17.206%, +1.172.
+Fact: The **2 ★** in Single Mitten Probability has/costs 81.541%, 18.459%, +1.185.
+Fact: The **2.5 ★** in Single Mitten Probability has/costs 79.425%, 20.575%, +1.206.
+Fact: The **3 ★** in Single Mitten Probability has/costs 75.055%, 24.945%, +1.249.
+Fact: The **3.5 ★** in Single Mitten Probability has/costs 59.242%, 40.758%, +1.408.
+Fact: The **4 ★** in Single Mitten Probability has/costs 20.575%, 79.425%, +1.794.
+Fact: The **4.5 ★** in Single Mitten Probability has/costs 17.563%, 82.437%, +1.824.
+Fact: The **5 ★** in Single Mitten Probability has/costs 15.343%, 84.657%, +1.847.
+Fact: The Potential in Single Mitten Probability has/costs Stat ranges, Average.
+Fact: The +1% in Single Mitten Probability has/costs +2%, +3%.
+Fact: The **0 ★** in Single Mitten Probability has/costs 59.657%, 36.919%, 3.424%, +1.4%.
+Fact: The **0.5 ★** in Single Mitten Probability has/costs 58.185%, 38.305%, 3.51%, +1.5%.
+Fact: The **1 ★** in Single Mitten Probability has/costs 56.163%, 40.214%, 3.623%, +1.5%.
+Fact: The **1.5 ★** in Single Mitten Probability has/costs 53.2%, 43.019%, 3.781%, +1.5%.
+Fact: The **2 ★** in Single Mitten Probability has/costs 48.396%, 47.591%, 4.013%, +1.6%.
+Fact: The **2.5 ★** in Single Mitten Probability has/costs 38.863%, 56.745%, 4.392%, +1.7%.
+Fact: The **3 ★** in Single Mitten Probability has/costs 16.041%, 78.841%, 5.118%, +1.9%.
+Fact: The **3.5 ★** in Single Mitten Probability has/costs 8.376%, 84.545%, 7.079%, +2%.
+Fact: The **4 ★** in Single Mitten Probability has/costs 4.392%, 56.745%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Single Mitten Probability has/costs 3.848%, 44.276%, 51.876%, +2.5%.
+Fact: The **5 ★** in Single Mitten Probability has/costs 3.424%, 36.919%, 59.657%, +2.6%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: **5 ★** statistic: * +Red Pollen%.
+Fact: The Potential in Single Mitten Probability has/costs Stat ranges, Average.
+Fact: The +100 in Single Mitten Probability has/costs +150, +200, +250, +300, +350, +400, +450, +500.
+Fact: The **0 ★** in Single Mitten Probability has/costs 23.579%, 26.558%, 17.461%, 12.319%, 8.697%, 5.896%, 3.611%, 1.68%, 0.2%, +198.862.
+Fact: The **0.5 ★** in Single Mitten Probability has/costs 15.5%, 31.18%, 19.045%, 13.16%, 9.193%, 6.191%, 3.773%, 1.75%, 0.207%, +206.511.
+Fact: The **1 ★** in Single Mitten Probability has/costs 3.362%, 38.042%, 21.616%, 14.411%, 9.903%, 6.604%, 3.999%, 1.846%, 0.218%, +217.898.
+Fact: The **1.5 ★** in Single Mitten Probability has/costs 1.627%, 30.315%, 26.789%, 16.483%, 11.0078%, 7.227%, 4.333%, 1.986%, 0.234%, +227.636.
+Fact: The **2 ★** in Single Mitten Probability has/costs 0.975%, 11.329%, 38.387%, 20.711%, 12.977%, 8.276%, 4.876%, 2.209%, 0.258%, +245.157.
+Fact: The **2.5 ★** in Single Mitten Probability has/costs 0.626%, 6.068%, 18.78%, 37.613%, 17.635%, 10.43%, 5.922%, 2.623%, 0.303%, +267.737.
+Fact: The **3 ★** in Single Mitten Probability has/costs 0.408%, 3.654%, 8.797%, 17.894%, 38.493%, 17.894%, 8.797%, 3.654%, 0.408%, +300.
+Fact: The **3.5 ★** in Single Mitten Probability has/costs 0.288%, 2.484%, 5.563%, 9.669%, 15.869%, 29.846%, 28.566%, 7.014%, 0.702%, +340.715.
+Fact: The **4 ★** in Single Mitten Probability has/costs 0.251%, 2.142%, 4.711%, 7.952%, 12.352%, 19.274%, 38.034%, 14.186%, 1.098%, +358.746.
+Fact: The **4.5 ★** in Single Mitten Probability has/costs 0.222%, 1.883%, 4.087%, 6.767%, 10.188%, 14.93%, 22.779%, 36.572%, 2.572%, +379.507.
+Fact: The **5 ★** in Single Mitten Probability has/costs 0.2%, 1.68%, 3.611%, 5.896%, 8.697%, 12.319%, 17.461%, 26.558%, 23.579%, +401.138.
+Fact: The Potential in Single Mitten Probability has/costs Stat ranges, Average.
+Fact: The +1% in Single Mitten Probability has/costs +2%, +3%.
+Fact: The **0 ★** in Single Mitten Probability has/costs 59.657%, 36.919%, 3.424%, +1.4%.
+Fact: The **0.5 ★** in Single Mitten Probability has/costs 57.134%, 39.297%, 3.569%, +1.5%.
+Fact: The **1 ★** in Single Mitten Probability has/costs 53.412%, 42.818%, 3.77%, +1.5%.
+Fact: The **1.5 ★** in Single Mitten Probability has/costs 47.28%, 48.657%, 4.063%, +1.6%.
+Fact: The **2 ★** in Single Mitten Probability has/costs 34.256%, 61.209%, 4.535%, +1.7%.
+Fact: The **2.5 ★** in Single Mitten Probability has/costs 13.448%, 81.136%, 5.417%, +1.9%.
+Fact: The **3 ★** in Single Mitten Probability has/costs 7.671%, 84.657%, 7.671%, +2%.
+Fact: The **3.5 ★** in Single Mitten Probability has/costs 5.118%, 78.841%, 16.041%, +2.1%.
+Fact: The **4 ★** in Single Mitten Probability has/costs 4.392%, 56.745%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Single Mitten Probability has/costs 3.848%, 44.276%, 51.876%, +2.5%.
+Fact: The **5 ★** in Single Mitten Probability has/costs 3.424%, 36.919%, 59.657%, +2.6%.

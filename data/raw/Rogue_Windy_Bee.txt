@@ -1,0 +1,200 @@
+Context: Bee Swarm Simulator - Rogue Windy Bee
+
+Rogue Windy Bee
+Wild Windy Bee
+Location
+All Fields except the Stump Field, Ant Field. and the Hive Hub.
+Fact: The Health in Rogue Windy Bee has/costs Damage.
+Fact: The 500 base; Increases by level in Rogue Windy Bee has/costs 40 (contact)Minimum 1/0.5s; Increases on every defeat and the proximity between the player and the tornado..
+Battle Points
+_This page is for the Wild version of Windy Bee. For the tamed version, seeWindy Bee._
+The Wild Windy Bee is a Mini-Boss that spawns in the Dandelion Field, Pineapple Patch, Pumpkin Patch, Mountain Top Field, and Coconut Field.
+During the Beesmas event, Wild Windy Bee could also spawn in the Clover Field, Spider Field, Bamboo Field and Pepper Patch in addition to the fields that it normally appears in.
+A Wild Windy Bee may spawn naturally every two in-game Day/Night Cycles or from an offering to the Wind Shrine. If the first line of dialogue from offering to the Wind Shrine is “A sudden breeze sweeps the {item} into the sky" a Wild Windy Bee will spawn in a random field. If the player does not touch the cloud Wild Windy Bee is in for 3 minutes, it will de-spawn.
+It can also be spawned by receiving Spirit Bear's "Tickle The Wind" 20] [Quest that summons 3 Wild Windy Bees at Mountain Top Field, by completing Spirit Bear's "Space Oblivion" [24] quest that summons a single Wild Windy Bee, And by receiving Spirit Bear's "Spring Out Of The Mountain" [30] Quest that summons a single Wild Windy Bee.
+When a Wild Windy Bee spawns, the player needs to find a floating Cloud over a field with Windy Bee inside. It will be camouflaged inside the cloud and have a distinct white trail. Touching the cloud in time will initiate the fight. The starting level of Wild Windy Bee upon discovery is random but can only go up to level 6 (unless spawned by Onett "Onett \(Developer\)")).
+When Windy Bee starts its attack, all players on the server receive the message: "☁️ (Player Username) found Windy Bee in the {field} Field! ☁️". When the Windy Bee's HP reaches 0, the bee will drop rewards and immediately move to a random field, excluding the Hub Field, Ant Field, and Stump Field. It leaves successively better rewards behind each time it's forced to move. When it leaves the map after its 5-minute timer elapses, the server states:
+☁️ Windy Bee is fleeing... ☁️
+If the chimes on the Wind Shrine moves continuously from left to right, it indicates that Wild Windy Bee is on the map, either camouflaged in a cloud or fighting in the open.
+You can see its level on its wings, much like the bees in your hive.
+Attack Pattern and Rewarding[]
+Fact: Attack Pattern and Rewarding[] statistic: Wild Windy Bee uses 2 different attacks. Its first attack is summoning 3 tornadoes that wipes Pollen off the field and deals damage every 0.5 seconds. The damage dealt depends on the proximity between the tornado and the player, plus the number of times Wild Windy Bee is defeated. The duration and speed of the tornadoes also depend on the number of times Wild Windy Bee is defeated. This attack can damage other mobs. The damage will vary from 1-20. This attack will happen first, then cycled after 3 Wind blows..
+Wild Windy Bee's second attack is forming a gust of wind that blows players away with great force in a rectangular area. It will deal no damage, but the player(s) will be flung away if caught in the rectangular area, unable to deal damage for some time. A red attack indicator is shown for about one second to show where Wild Windy Bee is about to attack. The direction of attack depends on Wild Windy Bee's current position and the position of a randomly targeted player on the field. The size of the attack is based on how far the edge of the field is from where Wild Windy Bee is looking. If Wild Windy Bee cannot detect any players on the field, it will attack in a random direction. This attack is cycled in after Wild Windy Bee finishes the tornado attack.
+Upon defeat, Wild Windy Bee leaves behind a cloud in the middle of the field that regrows flowers and gives +25% pollen for 10 seconds (+50% pollen if you have a Gifted Windy bee) for 10 seconds if you stand under the cloud(s) and gets refreshed while under the clouds. Its also grants +10% Unique Instant Conversion. A ring of tokens then appears underneath Windy Bee like Stick Bug, and each player gets their own loot ring proportional to the amount of damage dealt. Afterward, Windy Bee flies off to a different field. Wild Windy Bee will continue doing this for 5 minutes before fleeing.
+Every time Wild Windy Bee is defeated, it levels up with more health, similar to Stick Bug. It also has a higher chance of dropping Cloud Vials and rarer items.
+Health per Level[]
+The formula to tell how much health Wild Windy Bee has per level is:
+( l e v e l 2 ∗ 250 ) + 250
+_Note: This table only goes up to level 25. If you want to go beyond that, use the formula shown above. However, do not add more to this._
+Fact: The Level in Rogue Windy Bee has/costs Health.
+Fact: The 1 in Rogue Windy Bee has/costs 500.
+Fact: The 2 in Rogue Windy Bee has/costs 1,250.
+Fact: The 3 in Rogue Windy Bee has/costs 2,500.
+Fact: The 4 in Rogue Windy Bee has/costs 4,250.
+Fact: The 5 in Rogue Windy Bee has/costs 6,500.
+Fact: The 6 in Rogue Windy Bee has/costs 9,250.
+Fact: The 7 in Rogue Windy Bee has/costs 12,500.
+Fact: The 8 in Rogue Windy Bee has/costs 16,250.
+Fact: The 9 in Rogue Windy Bee has/costs 20,500.
+Fact: The 10 in Rogue Windy Bee has/costs 25,250.
+Fact: The 11 in Rogue Windy Bee has/costs 30,500.
+Fact: The 12 in Rogue Windy Bee has/costs 36,250.
+Fact: The 13 in Rogue Windy Bee has/costs 42,500.
+Fact: The 14 in Rogue Windy Bee has/costs 49,250.
+Fact: The 15 in Rogue Windy Bee has/costs 56,500.
+Fact: The 16 in Rogue Windy Bee has/costs 64,250.
+Fact: The 17 in Rogue Windy Bee has/costs 72,500.
+Fact: The 18 in Rogue Windy Bee has/costs 81,250.
+Fact: The 19 in Rogue Windy Bee has/costs 90,500.
+Fact: The 20 in Rogue Windy Bee has/costs 100,250.
+Fact: The 21 in Rogue Windy Bee has/costs 115,500.
+Fact: The 22 in Rogue Windy Bee has/costs 129,250.
+Fact: The 23 in Rogue Windy Bee has/costs 140,500.
+Fact: The 24 in Rogue Windy Bee has/costs 152,250.
+Fact: The 25 in Rogue Windy Bee has/costs 164,500.
+After the Wild Windy Bee's health is depleted, it will drop loot and then move to another field. The field the bee moves on next depends on the current field it is standing by. These are all the possible outcomes.
+Fact: The Current Field in Rogue Windy Bee has/costs Possible Fields to go.
+Fact: The Sunflower Field in Rogue Windy Bee has/costs Mushroom Field.
+Dandelion Field
+Coconut Field
+Fact: The Dandelion Field in Rogue Windy Bee has/costs Clover Field.
+Sunflower Field
+Blue Flower Field
+Mushroom Field
+Fact: The Mushroom Field in Rogue Windy Bee has/costs Sunflower Field.
+Strawberry Field
+Coconut Field
+Spider Field
+Dandelion Field
+Fact: The Blue Flower Field in Rogue Windy Bee has/costs Bamboo Field.
+Spider Field
+Coconut Field
+Clover Field
+Fact: The Clover Field in Rogue Windy Bee has/costs Dandelion Field.
+Mushroom Field
+Blue Flower Field
+Bamboo Field
+Fact: The Spider Field in Rogue Windy Bee has/costs Dandelion Field.
+Strawberry Field
+Bamboo Field
+Coconut Field
+Fact: The Strawberry Field in Rogue Windy Bee has/costs Sunflower Field.
+Spider Field
+Cactus Field
+Coconut Field
+Fact: The Bamboo Field in Rogue Windy Bee has/costs Spider Field.
+Pineapple Patch
+Blue Flower Field
+Clover Field
+Fact: The Pineapple Patch in Rogue Windy Bee has/costs Mountain Top Field.
+Clover Field
+Fact: The Cactus Field in Rogue Windy Bee has/costs Pumpkin Patch.
+Pine Tree Forest
+Mountain Top Field
+Coconut Field
+Fact: The Pumpkin Patch in Rogue Windy Bee has/costs Cactus Field.
+Pine Tree Forest
+Mountain Top Field
+Fact: The Pine Tree Forest in Rogue Windy Bee has/costs Cactus Field.
+Pumpkin Patch
+Mountain Top Field
+Fact: The Rose Field in Rogue Windy Bee has/costs Sunflower Field.
+Dandelion Field
+Strawberry Field
+Coconut Field
+Fact: The Mountain Top Field in Rogue Windy Bee has/costs Pineapple Patch.
+Coconut Field
+Pepper Patch
+Clover Field
+Fact: The Coconut Field in Rogue Windy Bee has/costs Dandelion Field.
+Sunflower Field
+Clover Field
+Pepper Patch
+Fact: The Pepper Patch in Rogue Windy Bee has/costs Sunflower Field.
+Coconut Field
+Dandelion Field
+Every time Wild Windy Bee is defeated, the following rewards may be dropped. Defeating Wild Windy Bee too many times in a day will greatly weaken drops. The value and amount of drops depends on how much damage the player deals to it (For example, If a Wild Windy Bee has 1000 health, two players are fighting it and one deals 200 damage and the other 800, the second player would get better rewards).
+Cloud Vials
+Royal Jellies
+Sunflower Seeds (Limited per day)
+Tickets (Up to 20 per day)
+Snowflakes (Limited per day; During Beesmas Only)
+Field Dice (Common)
+Oil (Common)
+Magic Bean (Common)
+Glitter (Uncommon)
+Star Jelly (Uncommon)
+Tropical Drink (Very Rare; higher chance in Coconut Field)
+Night Bell (Extremely Rare)
+Simple Cloud Sticker (Uncommon)
+Blowing Leaf Sticker (Rare)
+Grey Raining Cloud Sticker (Very Rare)
+Tornado Sticker (Extremely Rare)
+Stretched Head Bear Sticker (Extremely Rare)
+x2 Bee Gather Voucher (Nearly Impossible)
+* When summoning one, 5 - 10 Field Dice/3-5 Oils/5-10 Glue is the best way if the player wants a cheap but reliable way.
+* Other options include: 1 Star Jelly, 3-5 Glitters.
+* Before summoning one, the player should make sure to defeat any tough mobs and bosses beforehand that would make fighting the windy bee much harder, particularly the Coconut Crab and Mondo Chick.
+* Nectars such as Invigorating Nectar grants x1.01 - x1.10 Bee attack and Motivating for 1% - 5% Bee Ability Rate.
+* Equip accessories that improve bee attack, such as the Fire Mask, Demon Mask, Coconut Clogs or Gummy Boots.
+* You can use Stingers for an extra 1.5x bee attack, though if you don’t have a Vicious Bee it is not recommended.
+Fact: Tornado Sticker (Extremely Rare) requirement: * Use Oils and/or Tropical Drinks for 1.2x player and Bee Movespeed and +5% Critical Chance..
+* Use Super Smoothies for both improved Movespeed, Bee Movespeed, Critical Chance and Super-Crit Chance. Though it's not recommended due to its expensive crafting recipe and its rarity.
+* Try and build up a Focus stack before starting the battle as critical chance improves the chances of a critical hit, increasing attack damage.
+* Try and build up a precision stack before starting the battle as precision grants Super-Crit chance that are 33% stronger than a critical hit and also reduces the cooldown for your Precise Bees to attack again by 75%.
+* You can also collect Melody to gain 100% critical power for 30 seconds.
+* The player can use the sound effects created by the windy bee to tell what attack it is going to execute next.
+* It will also start using a wind gust attack after summoning three tornadoes.
+* During the wind gust attack, the player should go into an open space to avoid the attack easily.
+* If possible, stand on decorations and ramps around the field to gain some height. This makes the Windy Bee think there is no one in the field and it won't target the player.
+* Going out of the field but near the Wild Windy Bee prevents its tornadoes from causing damage to the player although its wind gust attack still works.
+* Since the tokens from Wild Windy Bee have a relatively long lifespan, the player should follow the Windy Bee to its next field first, and then collect the rewards using a Token Link or get hit by a bullet or hitting all targets from Precise Bee's target practice.
+* Use the Transportation Devices to get to certain fields quicker.
+Gallery[]
+A cloud with Wild Windy Bee inside in the Coconut Field.
+A tornado summoned by Wild Windy Bee in the Clover Field.
+The Wind Gust attack.
+The message when someone finds a Wild Windy Bee.
+The message when Wild Windy Bee leaves after its timer ends.
+A Wild Windy Bee with Stick Bug.
+Multiple Wild Windy Bees on the Mountain Top Field spawned by Spirit Bear.
+A Wild Windy Bee in a cloud growing a moon sprout.
+A Wild Windy Bee with a Rogue Vicious Bee.
+The circle of loot Wild Windy Bee drops when defeated.
+Onett summoning Wild Windy Bees at the end of Beesmas.
+A Wild Windy Bee with Mondo Chick and a Gifted Vicious Bee.
+Wild Windy Bee (Destroyer of Worlds).
+Wild Windy Bee (Destroyer of Worlds) spawn message.
+The Windy Gang Clean-up Crew during Beesmas 2022.
+Trivia[]
+* The player can tell if a Wild Windy Bee is in a field when the wind chimes of the Wind Shrine are continuously moving (and if there wasn't a recent donation).
+* If the timer ends before it generates reward tokens, it will leave without making any rewards. However, if it has already started producing them, it will finish spawning them as Windy Bee flees.
+* Like Mythic Meteor Showers and Puffshrooms, the quality of its rewards are affected by the law of diminishing marginal utility. The more times the player receives loot from Wild Windy Bees in one day, the worse the rewards gradually get.
+* Windy Bee and Vicious Bee are the only bosses/mobs that are bees, Vicious Bee’s counterpart being Rogue Vicious Bee.
+* Unlike Rogue Vicious Bee, the Wild Windy Bee does not have a gifted variant.
+* Similar to Rogue Vicious Bee's Impale attack, the tornado can deal damage to other mobs.
+* Onett "Onett \(Developer\)") would sometimes spawn Wild Windy Bee in fields, including fields where it wouldn't naturally appear, usually to help grow sprouts that he also spawns.
+* If Onett spawns them in the Stump Field, the Windy Bees freeze in the air upon defeat until the timer is up, as they are not programmed to fly to any other field from Stump Field.
+* At the end of Beesmas 2020, Onett spawned a couple of Wild Windy Bees called "The Windy Gang".
+* The Windy Gang made a return in Beesmas 2021, spawning a Festive Sprout and appearing in the Mountain Top Field.
+* On 2025-06-06, he summoned six level one Wild Windy Bees in Sunflower Field.
+* Black Bear mentioned this bee in one of his dialogues before it was added to the game, where he said "A powerful bee destroyed fields with gusts of wind."
+* This is the only mob/enemy that can knock players back.
+* This is the fifth mob to have non-fixed levels, the first four being Ants, Stick Bug, Stick Nymphs and Festive Nymphs. and the sixth being Snow Bear.
+* It is possible to damage a Wild Windy Bee while it is summoning rewards, by using flames.
+* This, along with the Commando Chick and Snowbear are the only Mini-bosses that drop loot in a circle.
+* This, King beetle and Commando Chick are the only mobs that drop loot only in the center of the location they are in, even when they are not close to the center.
+* When Wild Windy Bee flees, it will face all players in the server before flying off.
+* If the player collides with Wild Windy Bee's body by jumping into it, they will take some damage, as Wild Windy Bee has contact damage.
+* Windy Bee will not leave a cloud behind if the field has reached its cloud limit.
+Fact: The Normal in Rogue Windy Bee has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Rogue Windy Bee has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Rogue Windy Bee has/costs **Rogue Vicious Bee • **Wild Windy Bee** • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Rogue Windy Bee has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Rogue Windy Bee has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Rogue Windy Bee has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Rogue Windy Bee has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Rogue Windy Bee has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Rogue Windy Bee has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Rogue Windy Bee has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Rogue Windy Bee has/costs **Chick • Hostage Chick • Spotted Chick**.

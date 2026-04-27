@@ -1,0 +1,136 @@
+Context: Bee Swarm Simulator - Lei Probability
+
+Lei/Probability
+The tables below give the probability of a stat of Lei falling within a more precise range, and being upgraded within a more precise range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+Due to the size of the tables affecting readability, it has been moved to a separate subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+* +Gather Amount%
+* +Gather Pollination Chance%
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +10 in Lei Probability has/costs +11, +12, +13, +14, +15, +16, +17, +18, +19, +20.
+Fact: The **0 ★** in Lei Probability has/costs 19.979%, 23.478%, 16.201%, 12.086%, 9.189%, 6.948%, 5.12%, 3.575%, 2.238%, 1.059%, 0.127%, +12.481.
+Fact: The **0.5 ★** in Lei Probability has/costs 1.534%, 27.918%, 22.425%, 15.147%, 11.033%, 8.135%, 5.895%, 4.066%, 2.522%, 1.184%, 0.142%, +12.991.
+Fact: The **1 ★** in Lei Probability has/costs 0.685%, 7.384%, 30.794%, 21.247%, 13.969%, 9.855%, 6.958%, 4.717%, 2.888%, 1.344%, 0.16%, +13.494.
+Fact: The **1.5 ★** in Lei Probability has/costs 0.442%, 4.161%, 11.438%, 32.154%, 19.911%, 12.634%, 8.52%, 5.622%, 3.381%, 1.553%, 0.183%, +13.996.
+Fact: The **2 ★** in Lei Probability has/costs 0.326%, 2.924%, 7.038%, 14.315%, 32.822%, 18.37%, 11.092%, 6.978%, 4.081%, 1.84%, 0.214%, +14.498.
+Fact: The **2.5 ★** in Lei Probability has/costs 0.259%, 2.258%, 5.155%, 9.269%, 16.547%, 33.026%, 16.547%, 9.269%, 5.155%, 2.258%, 0.259%, +15.
+Fact: The **3 ★** in Lei Probability has/costs 0.214%, 1.84%, 4.081%, 6.978%, 11.092%, 18.37%, 32.822%, 14.315%, 7.038%, 2.924%, 0.326%, +15.502.
+Fact: The **3.5 ★** in Lei Probability has/costs 0.183%, 1.553%, 3.381%, 5.622%, 8.52%, 12.634%, 19.911%, 32.154%, 11.438%, 4.161%, 0.442%, +16.0035.
+Fact: The **4 ★** in Lei Probability has/costs 0.16%, 1.344%, 2.888%, 4.717%, 6.958%, 9.855%, 13.969%, 21.247%, 30.794%, 7.384%, 0.685%, +16.506.
+Fact: The **4.5 ★** in Lei Probability has/costs 0.142%, 1.184%, 2.522%, 4.066%, 5.895%, 8.135%, 11.033%, 15.147%, 22.425%, 27.918%, 1.534%, +17.009.
+Fact: The **5 ★** in Lei Probability has/costs 0.127%, 1.059%, 2.238%, 3.575%, 5.12%, 6.948%, 9.189%, 12.086%, 16.201%, 23.478%, 19.979%, +17.519.
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +10% in Lei Probability has/costs +11%, +12%, +13%, +14%, +15%, +16%, +17%, +18%, +19%, +20%.
+Fact: The **0 ★** in Lei Probability has/costs 19.979%, 23.478%, 16.201%, 12.086%, 9.189%, 6.948%, 5.12%, 3.575%, 2.238%, 1.059%, 0.127%, +12.5%.
+Fact: The **0.5 ★** in Lei Probability has/costs 1.534%, 27.918%, 22.425%, 15.147%, 11.033%, 8.135%, 5.895%, 4.066%, 2.522%, 1.184%, 0.142%, +13%.
+Fact: The **1 ★** in Lei Probability has/costs 0.685%, 7.384%, 30.794%, 21.247%, 13.969%, 9.855%, 6.958%, 4.717%, 2.888%, 1.344%, 0.16%, +13.5%.
+Fact: The **1.5 ★** in Lei Probability has/costs 0.442%, 4.161%, 11.438%, 32.154%, 19.911%, 12.634%, 8.52%, 5.622%, 3.381%, 1.553%, 0.183%, +14%.
+Fact: The **2 ★** in Lei Probability has/costs 0.326%, 2.924%, 7.038%, 14.315%, 32.822%, 18.37%, 11.092%, 6.978%, 4.081%, 1.84%, 0.214%, +14.5%.
+Fact: The **2.5 ★** in Lei Probability has/costs 0.259%, 2.258%, 5.155%, 9.269%, 16.547%, 33.026%, 16.547%, 9.269%, 5.155%, 2.258%, 0.259%, +15%.
+Fact: The **3 ★** in Lei Probability has/costs 0.214%, 1.84%, 4.081%, 6.978%, 11.092%, 18.37%, 32.822%, 14.315%, 7.038%, 2.924%, 0.326%, +15.5%.
+Fact: The **3.5 ★** in Lei Probability has/costs 0.183%, 1.553%, 3.381%, 5.622%, 8.52%, 12.634%, 19.911%, 32.154%, 11.438%, 4.161%, 0.442%, +16%.
+Fact: The **4 ★** in Lei Probability has/costs 0.16%, 1.344%, 2.888%, 4.717%, 6.958%, 9.855%, 13.969%, 21.247%, 30.794%, 7.384%, 0.685%, +16.5%.
+Fact: The **4.5 ★** in Lei Probability has/costs 0.142%, 1.184%, 2.522%, 4.066%, 5.895%, 8.135%, 11.033%, 15.147%, 22.425%, 27.918%, 1.534%, +17%.
+Fact: The **5 ★** in Lei Probability has/costs 0.127%, 1.059%, 2.238%, 3.575%, 5.12%, 6.948%, 9.189%, 12.086%, 16.201%, 23.478%, 19.979%, +17.5%.
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +20% in Lei Probability has/costs +21%, +22%, +23%, +24%, +25%, +26%, +27%, +28%, +29%, +30%.
+Fact: The **0 ★** in Lei Probability has/costs 19.979%, 23.478%, 16.201%, 12.086%, 9.189%, 6.948%, 5.12%, 3.575%, 2.238%, 1.059%, 0.127%, +22.5%.
+Fact: The **0.5 ★** in Lei Probability has/costs 1.534%, 27.918%, 22.425%, 15.147%, 11.033%, 8.135%, 5.895%, 4.066%, 2.522%, 1.184%, 0.142%, +23%.
+Fact: The **1 ★** in Lei Probability has/costs 0.685%, 7.384%, 30.794%, 21.247%, 13.969%, 9.855%, 6.958%, 4.717%, 2.888%, 1.344%, 0.16%, +23.5%.
+Fact: The **1.5 ★** in Lei Probability has/costs 0.442%, 4.161%, 11.438%, 32.154%, 19.911%, 12.634%, 8.52%, 5.622%, 3.381%, 1.553%, 0.183%, +24%.
+Fact: The **2 ★** in Lei Probability has/costs 0.326%, 2.924%, 7.038%, 14.315%, 32.822%, 18.37%, 11.092%, 6.978%, 4.081%, 1.84%, 0.214%, +24.5%.
+Fact: The **2.5 ★** in Lei Probability has/costs 0.259%, 2.258%, 5.155%, 9.269%, 16.547%, 33.026%, 16.547%, 9.269%, 5.155%, 2.258%, 0.259%, +25%.
+Fact: The **3 ★** in Lei Probability has/costs 0.214%, 1.84%, 4.081%, 6.978%, 11.092%, 18.37%, 32.822%, 14.315%, 7.038%, 2.924%, 0.326%, +25.5%.
+Fact: The **3.5 ★** in Lei Probability has/costs 0.183%, 1.553%, 3.381%, 5.622%, 8.52%, 12.634%, 19.911%, 32.154%, 11.438%, 4.161%, 0.442%, +26%.
+Fact: The **4 ★** in Lei Probability has/costs 0.16%, 1.344%, 2.888%, 4.717%, 6.958%, 9.855%, 13.969%, 21.247%, 30.794%, 7.384%, 0.685%, +26.5%.
+Fact: The **4.5 ★** in Lei Probability has/costs 0.142%, 1.184%, 2.522%, 4.066%, 5.895%, 8.135%, 11.033%, 15.147%, 22.425%, 27.918%, 1.534%, +27%.
+Fact: The **5 ★** in Lei Probability has/costs 0.127%, 1.059%, 2.238%, 3.575%, 5.12%, 6.948%, 9.189%, 12.086%, 16.201%, 23.478%, 19.979%, +27.5%.
+Fact: **5 ★** statistic: * +Sunflower Field Pollen%.
+Fact: **5 ★** statistic: * +Blue Flower Field Pollen%.
+Fact: **5 ★** statistic: * +Rose Field Pollen%.
+Fact: **5 ★** requirement: * +Coconut Field Pollen%.
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +3% in Lei Probability has/costs +4%, +5%.
+Fact: The **0 ★** in Lei Probability has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei Probability has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei Probability has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei Probability has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei Probability has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei Probability has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei Probability has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei Probability has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei Probability has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei Probability has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei Probability has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +3% in Lei Probability has/costs +4%, +5%.
+Fact: The **0 ★** in Lei Probability has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei Probability has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei Probability has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei Probability has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei Probability has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei Probability has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei Probability has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei Probability has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei Probability has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei Probability has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei Probability has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +3% in Lei Probability has/costs +4%, +5%.
+Fact: The **0 ★** in Lei Probability has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei Probability has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei Probability has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei Probability has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei Probability has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei Probability has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei Probability has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei Probability has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei Probability has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei Probability has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei Probability has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +3% in Lei Probability has/costs +4%, +5%.
+Fact: The **0 ★** in Lei Probability has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei Probability has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei Probability has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei Probability has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei Probability has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei Probability has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei Probability has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei Probability has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei Probability has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei Probability has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei Probability has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+* Bee Stats
+* +Gather Amount
+* +Gather Amount%
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +1 in Lei Probability has/costs +2.
+Fact: The **0 ★** in Lei Probability has/costs 84.657%, 15.343%, +1.153.
+Fact: The **0.5 ★** in Lei Probability has/costs 84.462%, 15.538%, +1.155.
+Fact: The **1 ★** in Lei Probability has/costs 83.843%, 16.157%, +1.162.
+Fact: The **1.5 ★** in Lei Probability has/costs 82.689%, 17.311%, +1.173.
+Fact: The **2 ★** in Lei Probability has/costs 80.752%, 19.248%, +1.192.
+Fact: The **2.5 ★** in Lei Probability has/costs 77.465%, 22.535%, +1.225.
+Fact: The **3 ★** in Lei Probability has/costs 71.278%, 28.722%, +1.287.
+Fact: The **3.5 ★** in Lei Probability has/costs 53.932%, 46.068%, +1.461.
+Fact: The **4 ★** in Lei Probability has/costs 28.722%, 71.278%, +1.713.
+Fact: The **4.5 ★** in Lei Probability has/costs 20.226%, 79.774%, +1.798.
+Fact: The **5 ★** in Lei Probability has/costs 15.343%, 84.657%, +1.847.
+Fact: The Potential in Lei Probability has/costs Stat ranges, Average.
+Fact: The +1% in Lei Probability has/costs +2%.
+Fact: The **0 ★** in Lei Probability has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Lei Probability has/costs 84.02%, 15.98%, +1.2%.
+Fact: The **1 ★** in Lei Probability has/costs 82.703%, 17.297%, +1.2%.
+Fact: The **1.5 ★** in Lei Probability has/costs 80.617%, 19.383%, +1.2%.
+Fact: The **2 ★** in Lei Probability has/costs 77.336%, 22.664%, +1.2%.
+Fact: The **2.5 ★** in Lei Probability has/costs 71.745%, 28.255%, +1.3%.
+Fact: The **3 ★** in Lei Probability has/costs 59.588%, 40.412%, +1.4%.
+Fact: The **3.5 ★** in Lei Probability has/costs 33.533%, 66.467%, +1.7%.
+Fact: The **4 ★** in Lei Probability has/costs 24.137%, 75.863%, +1.8%.
+Fact: The **4.5 ★** in Lei Probability has/costs 18.831%, 81.169%, +1.8%.
+Fact: The **5 ★** in Lei Probability has/costs 15.343%, 84.657%, +1.8%.

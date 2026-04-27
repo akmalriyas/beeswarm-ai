@@ -1,0 +1,48 @@
+Context: Bee Swarm Simulator - Star Treat
+
+Star Treat
+_"Turns a bee into a Gifted bee!"_
+The text that appears in the chat when a bee turns gifted via a treat.
+A Star Treat is a special type of treat that, when fed to a bee, raises its bond by 1,000 and transforms the bee into its gifted form. It is the only treat in the game which is guaranteed to turn a bee gifted. It is also one of the only ways to get gifted Event bees, including Gingerbread Bears and Aged Gingerbread Bears.
+Ways to Obtain[]
+* Buying it from Bee Bear's Catalog for 10,000 Snowflakes.
+* Buying it for 1,000 Tickets inside the Ticket Tent.
+* Playing Night Memory Match/Extreme Memory Match/Winter Memory Match (exceptionally rare).
+* Given by the Wind Shrine if you already have a Windy Bee after buying the Windy Bee Pack.
+Drops[]
+* An exceptionally rare drop from the Mondo Chick, Coconut Crab, and fireflies.
+* Capturing Commando Chick for the 100th time guarantees a star treat.
+* An exceptionally low chance of dropping from Mythic Meteors.
+* An extremely rare drop from Festive Planters.
+Quests[]
+* Completing all of Onett's quests, Mother Bear's quests, and Panda Bear's quests.
+* Completing 750 Brown Bear quests rewards a star treat. Every 500 quests after the 750th Brown Bear quest also rewards a star treat. Additionally, his 1000th quest grants the player 5 Star Treats.
+Outdated Ways[]
+* Buying the Gingerbread Cub Bundle in Bee Bear's Catalog (1 if the player didn't have a cub buddy, 2 if they already had one.)
+* An extremely low chance of getting it from Winter Memory Match.
+* Completing the 15th Bee Bear quest rewards a star treat if the player already owns a cub buddy.
+* An exceptionally rare drop from Festive Nymphs.
+* An extremely rare drop from the Stockings.
+* By opening certain Gift Boxes:
+* The Mondo Gift Box gave 1 star treat + other items during Beesmas 2020, 2021 and 2022.
+* Buying it from Bee Bear's Catalog for 10,000 Snowflakes.
+Trivia[]
+* This and the Atomic Treat give the most bond (1,000 bond) out of any treat, followed by a single Neonberry and Aged Gingerbread Bears (500 bond), then Gingerbread Bears and Moon Charms (250 bond).
+* The star treat, along with Aged Gingerbread Bears are the only treats that cannot be obtained from sprouts.
+* The star treat formerly gave 100 bond instead of 1,000.
+* Feeding a Star Treat to a gifted Bear Bee has a 1/3 chance to spawn a Bear Bee Offer sticker.
+Fact: The Sub-Inventories in Star Treat has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Star Treat has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Star Treat has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Star Treat has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Star Treat has/costs **Treat •  **Star Treat** •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Star Treat has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Star Treat has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Star Treat has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Star Treat has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Star Treat has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Star Treat has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Star Treat has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Star Treat has/costs **7-Pronged Cog**.
+Fact: The Other in Star Treat has/costs **Marshmallow Bee**.
+Fact: The Currencies in Star Treat has/costs **Brick •  Cog •  Ticket**.

@@ -1,0 +1,2767 @@
+Context: Bee Swarm Simulator - Quests
+
+The icon for the Quest Menu.
+Quests are a major mechanic in Bee Swarm Simulator. It allows the player to do tasks in order to receive various rewards that allow them to progress further into the game. Quests are not necessary for progression, but are highly recommended. There are a few exceptions, such as Science Bear's Translator "Science Bear") questline, and Spirit Bear's questline, which are required to complete to progress.
+Quests can be obtained and turned in through conversing with various quest givers. As of now, 8 active quest bears, 3 quest bees, Onett, and 1 machine can give out quests. Traveling bears and other various creatures also give quests but were only available for a limited time in the game.
+Quests have many different types of requirements, such as collecting various amounts of pollen from fields, ability tokens, goo, treat tokens, defeating mobs, crafting items, obtaining badges, finding Stickers, and discovering bee types.
+Fact: The **Information** in Quests has/costs **Audio**.
+Fact: The The following audio plays when the player has received a quest in Quests has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Queststart.ogg>.
+Fact: The The following audio plays when the player has completed and handed in a quest in Quests has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Questend.ogg>.
+Fact: The The following audio plays when the player has just completed a quest or when the player joins a game with a completed quest not handed in in Quests has/costs <https://bee-swarm-simulator.fandom.com/wiki/File:Ring.ogg>.
+Quest Bears[]
+Quest Bears are quest givers that have an appearance of a bear. They are the most common variant of quest givers.
+* Black Bear
+* Mother Bear
+* Brown Bear
+* Panda Bear
+* Science Bear
+* Polar Bear
+* Spirit Bear
+* Dapper Bear
+Black Bear is likely the first quest-giver the player will encounter when they start the game. His quests completely consist of collecting pollen. He is located to the right of the hives and in front of the Red Cannon.
+Quests to Silver Egg (6)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 100 Pollen from the Sunflower Field..
+Fact: Quest Name statistic: * Collect 250 Pollen from the Dandelion Field..
+Fact: Quest Name statistic: * Collect 500 Pollen..
+Fact: Quest Name statistic: * Collect 600 Red Pollen..
+Fact: Quest Name statistic: * Collect 1000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 1,000 Pollen from the Mushroom Field.
+Fact: Quest Name statistic: * Collect 1,000 Pollen from the Blue Flower Field.
+Fact: Quest Name statistic: * Collect 1,000 Pollen from the Clover Field..
+Quests to Gold Egg (9)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 4,000 Pollen from the Bamboo Field..
+Fact: Quest Name statistic: * Collect 5,000 Red Pollen..
+Fact: Quest Name statistic: * Collect 6,000 Pollen from the Spider Field..
+Fact: Quest Name statistic: * Collect 3,000 Pollen from the Dandelion Field..
+Fact: Quest Name statistic: * Collect 3,000 Pollen from the Sunflower Field..
+Fact: Quest Name statistic: * Collect 3,000 Pollen from the Mushroom Field..
+Fact: Quest Name statistic: * Collect 3,000 Pollen from the Blue Flower Field..
+Fact: Quest Name statistic: * Collect 10,000 White Pollen..
+Fact: Quest Name statistic: * Collect 13,000 Pollen from Pineapple Patch..
+Fact: Quest Name statistic: * Collect 16,000 Pollen..
+Fact: Quest Name statistic: * Collect 10,000 Pollen from the Strawberry Field..
+Fact: Quest Name statistic: * Collect 10,000 Pollen from the Bamboo Field..
+Fact: Quest Name statistic: * Collect 10,000 Pollen from the Clover Field..
+Fact: Quest Name statistic: * Collect 25,000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 25,000 Red Pollen..
+Quests to Diamond Egg (20)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 50,000 White Pollen..
+Fact: Quest Name statistic: * Collect 30,000 Pollen from the Strawberry Field..
+Fact: Quest Name statistic: * Collect 30,000 Pollen from the Sunflower Field..
+Fact: Quest Name statistic: * Collect 40,000 Pollen from the Dandelion Field..
+Fact: Quest Name statistic: * Collect 40,000 Pollen from the Bamboo Field..
+Fact: Quest Name statistic: * Collect 100,000 Pollen..
+Fact: Quest Name requirement: 1x Royal Jelly.
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Clover Field..
+Fact: Quest Name statistic: * Collect 150,000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 80,000 Red Pollen..
+Fact: Quest Name statistic: * Collect 80,000 Pollen from the Pineapple Patch..
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Blue Flower Field..
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Mushroom Field..
+Fact: Quest Name requirement: 1x Royal Jelly.
+Fact: Quest Name statistic: * Collect 250,000 Pollen from the Spider Field..
+Fact: Quest Name statistic: * Collect 300,000 Red Pollen..
+Fact: Quest Name statistic: * Collect 8 Pollen from the Cactus Field..
+Fact: Quest Name statistic: * Collect 315,000 Pollen from the Pumpkin Patch..
+Fact: Quest Name statistic: * Collect 375,000 Pollen..
+Fact: Quest Name requirement: 1x Royal Jelly.
+Fact: Quest Name statistic: * Collect 180,000 Pollen from the Pine Tree Forest..
+Fact: Quest Name statistic: * Collect 180,000 Pollen from the Cactus Field..
+Fact: Quest Name statistic: * Collect 200,000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 200,000 Pollen from the Pineapple Patch..
+Fact: Quest Name statistic: * Collect 450,000 Pollen from the Rose Field..
+Fact: Quest Name statistic: * Collect 300,000 White Pollen..
+Fact: Quest Name statistic: * Collect 200,000 Pollen from the Clover Field..
+Fact: Quest Name requirement: 1x Royal Jelly.
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Sunflower Field..
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Dandelion Field..
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Mushroom Field..
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Blue Flower Field..
+Fact: Quest Name requirement: 1x Royal Jelly.
+Fact: Quest Name statistic: * Collect 250,000 Pollen from the Strawberry Field..
+Fact: Quest Name statistic: * Collect 250,000 Pollen from the Spider Field..
+Fact: Quest Name statistic: * Collect 250,000 Pollen from the Bamboo Field..
+Fact: Quest Name requirement: 2x Royal Jelly.
+Fact: Quest Name statistic: * Collect 275,000 Pollen from the Rose Field..
+Fact: Quest Name statistic: * Collect 275,000 Pollen from the Pine Tree Forest..
+Fact: Quest Name statistic: * Collect 275,000 Pollen from the Pumpkin Patch..
+Fact: Quest Name statistic: * Collect 275,000 Pollen from the Cactus Field..
+Fact: Quest Name statistic: * Collect 275,000 Pollen from the Pineapple Field..
+Fact: Quest Name requirement: 3x Royal Jelly.
+Fact: Quest Name statistic: * Collect 500,000 White Pollen..
+Fact: Quest Name statistic: * Collect 500,000 Red Pollen..
+Fact: Quest Name statistic: * Collect 500,000 Blue Pollen..
+1x Diamond Egg
+Quests to Star Jelly (20)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 500,000 Pollen from the Clover Field..
+Fact: Quest Name statistic: * Collect 750,000 Pollen from the Mountain Top Field..
+1x Field Dice
+Fact: 1x Field Dice requirement: 650,000 Honey.
+Fact: 1x Field Dice requirement: 1x Royal Jelly.
+Fact: 1x Field Dice statistic: * Collect 1,400,000 Blue Pollen..
+Fact: 1x Field Dice statistic: * Collect 800,000 Pollen from the Bamboo Field..
+Fact: 1x Field Dice statistic: * Collect 500,000 Pollen from the Blue Flower Field..
+Fact: 1x Field Dice statistic: * Collect 50,000 Blue Pollen from the Pineapple Patch..
+Fact: 1x Field Dice requirement: 30x Blueberry.
+Fact: 1x Field Dice requirement: 700,000 Honey.
+Fact: 1x Field Dice requirement: 1x Royal Jelly.
+Fact: 1x Field Dice statistic: * Collect 1,600,000 Red Pollen..
+Fact: 1x Field Dice statistic: * Collect 900,000 Pollen from the Rose Field..
+Fact: 1x Field Dice statistic: * Collect 700,000 Pollen from the Strawberry Field..
+Fact: 1x Field Dice statistic: * Collect 400,000 Red Pollen from the Cactus Field..
+Fact: 1x Field Dice requirement: 30x Strawberry.
+Fact: 1x Field Dice requirement: 750,000 Honey.
+Fact: 1x Field Dice requirement: 1x Royal Jelly.
+Fact: 1x Field Dice statistic: * Collect 1,500,000 White Pollen..
+Fact: 1x Field Dice statistic: * Collect 700,000 Pollen from the Pineapple Patch..
+Fact: 1x Field Dice statistic: * Collect 400,000 Pollen from the Spider Field..
+Fact: 1x Field Dice statistic: * Collect 300,000 Pollen from the Dandelion Field..
+Fact: 1x Field Dice requirement: 30x Pineapple.
+Fact: 1x Field Dice requirement: 800,000 Honey.
+Fact: 1x Field Dice requirement: 1x Royal Jelly.
+Fact: 1x Field Dice statistic: * Collect 1,000,000 Pollen from the Stump Field..
+Fact: 1x Field Dice requirement: 30x Gumdrops.
+Fact: 1x Field Dice requirement: 825,000 Honey.
+Fact: 1x Field Dice requirement: 1x Royal Jelly.
+Fact: 1x Field Dice statistic: * Collect 1,500,000 Red Pollen..
+Fact: 1x Field Dice statistic: * Collect 1,500,000 Blue Pollen..
+Fact: 1x Field Dice statistic: * Collect 1,000,000 Pollen from the Pine Tree Forest..
+Fact: 1x Field Dice statistic: * Collect 600,000 Pollen from the Mushroom Field..
+3x Field Dice
+Fact: 3x Field Dice requirement: 850,000 Honey.
+Fact: 3x Field Dice requirement: 1x Royal Jelly.
+Fact: 3x Field Dice statistic: * Collect 2,000,000 Pollen from the Pumpkin Patch..
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 875,000 Honey.
+Fact: 1x Magic Bean requirement: 1x Royal Jelly.
+Fact: 1x Magic Bean statistic: * Collect 500,000 Pollen from the Sunflower Field.
+Fact: 1x Magic Bean statistic: * Collect 500,000 Pollen from the Clover Field..
+Fact: 1x Magic Bean statistic: * Collect 500,000 Pollen from the Bamboo Field..
+Fact: 1x Magic Bean statistic: * Collect 500,000 Pollen from the Pineapple Patch..
+Fact: 1x Magic Bean statistic: * Collect 500,000 Pollen from the Cactus Field..
+Fact: 1x Magic Bean statistic: * Collect 500,000 Pollen from the Rose Field..
+Fact: 1x Magic Bean statistic: * Collect 500,000 Pollen from the Mountain Top Field..
+3x Field Dice
+Fact: 3x Field Dice requirement: 1,000,000 Honey.
+Fact: 3x Field Dice requirement: 1x Royal Jelly.
+Fact: 3x Field Dice statistic: * Collect 6,000,000 Pollen..
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 1,150,000 Honey.
+Fact: 5x Micro-Converter requirement: 1x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 3,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 3,000,000 Pollen from the Clover Field..
+Fact: 5x Micro-Converter requirement: 1,250,000 Honey.
+Fact: 5x Micro-Converter requirement: 5x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 6,000,000 Pollen from the Strawberry Field..
+Fact: 5x Micro-Converter requirement: 60x Strawberry.
+Fact: 5x Micro-Converter requirement: 1,500,000 Honey.
+Fact: 5x Micro-Converter requirement: 1x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 6,000,000 Blue Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 3,000,000 Pollen from the Mountain Top Field..
+Fact: 5x Micro-Converter statistic: * Collect 1,000,000 Pollen from the Sunflower Field..
+Fact: 5x Micro-Converter requirement: 60x Sunflower Seed.
+Fact: 5x Micro-Converter requirement: 2,000,000 Honey.
+Fact: 5x Micro-Converter requirement: 1x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 4,750,000 Pollen from the Cactus Field..
+Fact: 5x Micro-Converter statistic: * Collect 1,500,000 Pollen from Dandelion Field..
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 2,200,000 Honey.
+Fact: 5x Micro-Converter requirement: 1x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 8,000,000 Pollen from the Pine Tree Forest..
+Fact: 5x Micro-Converter statistic: * Collect 5,000,000 Pollen from the Bamboo Field..
+Fact: 5x Micro-Converter requirement: 1x Blue Extract.
+Fact: 5x Micro-Converter requirement: 2,500,000 Honey.
+Fact: 5x Micro-Converter requirement: 1x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 10,000,000 Red Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 4,000,000 Pollen from the Clover Field..
+Fact: 5x Micro-Converter statistic: * Collect 1,500,000 Pollen from the Stump Field..
+Fact: 5x Micro-Converter requirement: 1x Red Extract.
+Fact: 5x Micro-Converter requirement: 2,800,000 Honey.
+Fact: 5x Micro-Converter requirement: 2x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 15,000,000 Pollen from the Mountain Top Field..
+5x Field Dice
+Fact: 5x Field Dice requirement: 3,000,000 Honey.
+Fact: 5x Field Dice requirement: 2x Royal Jelly.
+Fact: 5x Field Dice statistic: * Collect 6,000,000 Pollen from the Blue Flower Field..
+Fact: 5x Field Dice statistic: * Collect 6,000,000 Pollen from the Mushroom Field..
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 3,500,000 Honey.
+Fact: 5x Micro-Converter requirement: 2x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 10,000,000 Pollen from the Pumpkin Patch..
+Fact: 5x Micro-Converter statistic: * Collect 12,500,000 Pollen from the Rose Field..
+Fact: 5x Micro-Converter requirement: 1x Glitter.
+Fact: 5x Micro-Converter requirement: 4,000,000 Honey.
+Fact: 5x Micro-Converter requirement: 2x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 15,000,000 Red Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 15,000,000 Blue Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 10,000,000 Pollen from the Cactus Field..
+Fact: 5x Micro-Converter statistic: * Collect 6,000,000 Pollen from the Spider Field..
+Fact: 5x Micro-Converter statistic: * Collect 4,000,000 Pollen from the Clover Field..
+Fact: 5x Micro-Converter requirement: 15x Stinger.
+Fact: 5x Micro-Converter requirement: 4,500,000 Honey.
+Fact: 5x Micro-Converter requirement: 2x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 20,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 15,000,000 Pollen from the Mountain Top Field..
+Fact: 5x Micro-Converter statistic: * Collect 8,000,000 Pollen from the Pine Tree Forest..
+Fact: 5x Micro-Converter statistic: * Collect 8,000,000 Pollen from the Rose Field..
+Fact: 5x Micro-Converter statistic: * Collect 3,000,000 Pollen from the Stump Field..
+Fact: 5x Micro-Converter statistic: * Collect 3,000,000 Pollen from the Pineapple Patch..
+Fact: 5x Micro-Converter statistic: * Collect 3,000,000 Pollen from the Sunflower Field..
+1,000x Treat
+Fact: 1,000x Treat requirement: 1x Star Jelly.
+Fact: 1,000x Treat requirement: 5,000,000 Honey.
+Quests to Mythic Egg (20)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 30,000,000 Pollen from the Bamboo Field.
+2,000x Treat
+3x Field Dice
+Fact: 3x Field Dice requirement: 1x Blue Extract.
+Fact: 3x Field Dice requirement: 10,000,000 Honey.
+Fact: 3x Field Dice requirement: 3x Royal Jelly.
+Fact: 3x Field Dice statistic: * Collect 30,000,000 Red Pollen.
+Fact: 3x Field Dice statistic: * Collect 20,000,000 Pollen from the Mountain Top Field.
+Fact: 3x Field Dice statistic: * Collect 10,000,000 Pollen from the Dandelion Field.
+2,500x Treat
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 25x Sunflower Seed.
+Fact: 1x Magic Bean requirement: 1x Red Extract.
+Fact: 1x Magic Bean requirement: 12,500,000 Honey.
+Fact: 1x Magic Bean requirement: 4x Royal Jelly.
+Fact: 1x Magic Bean statistic: * Collect 50,000,000 Pollen.
+Fact: 1x Magic Bean statistic: * Collect 2,500,000 Pollen from the Ant Field.
+2,500x Treat
+3x Jelly Beans
+3x Ant Pass
+Fact: 3x Ant Pass requirement: 15,000,000 Honey.
+Fact: 3x Ant Pass requirement: 5x Royal Jelly.
+Fact: 3x Ant Pass statistic: * Collect 15,000,000 Pollen from the Pine Tree Forest.
+Fact: 3x Ant Pass statistic: * Collect 15,000,000 Pollen from the Cactus Field.
+Fact: 3x Ant Pass statistic: * Collect 15,000,000 Pollen from the Pumpkin Patch.
+Fact: 3x Ant Pass statistic: * Collect 15,000,000 Pollen from the Rose Field.
+3,000x Treat
+3x Micro-Converter
+Fact: 3x Micro-Converter requirement: 1x Enzymes.
+Fact: 3x Micro-Converter requirement: 20,000,000 Honey.
+Fact: 3x Micro-Converter requirement: 6x Royal Jelly.
+Fact: 3x Micro-Converter statistic: * Collect 80,000,000 Blue Pollen.
+* Collect 10,000,000 pollen from the Stump Field
+* Collect 10,000,000 pollen from the Blue Flower Field
+3,500x Treat
+Fact: 3,500x Treat requirement: 75x Blueberry.
+1x Box-O-Frogs
+Fact: 1x Box-O-Frogs requirement: 1x Star Jelly.
+Fact: 1x Box-O-Frogs requirement: 25,000,000 Honey.
+* Collect 60,000,000 pollen from the Pineapple Patch
+* Collect 30,000,000 pollen from the Mushroom Field
+4,000x Treat
+Fact: 4,000x Treat requirement: 25x Gumdrops.
+25x Bitterberry
+Fact: 25x Bitterberry requirement: 30,000,000 Honey.
+Fact: 25x Bitterberry requirement: 8x Royal Jelly.
+Fact: 25x Bitterberry statistic: * Collect 120,000,000 Red Pollen.
+* Collect 40,000,000 pollen from the Clover Field
+4,500x Treat
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 25x Moon Charm.
+Fact: 1x Magic Bean requirement: 75x Strawberry.
+Fact: 1x Magic Bean requirement: 40,000,000 Honey.
+Fact: 1x Magic Bean requirement: 9x Royal Jelly.
+* Collect 12,000,000 pollen from the Strawberry Field
+* Collect 12,000,000 pollen from the Spider Field
+* Collect 12,000,000 pollen from the Bamboo Field
+* Collect 12,000,000 pollen from the Clover Field
+* Collect 12,000,000 pollen from the Blue Flower Field
+* Collect 12,000,000 pollen from the Mushroom Field
+* Collect 12,000,000 pollen from the Dandelion Field
+* Collect 12,000,000 pollen from the Sunflower Field
+4,500x Treat
+5x Field Dice
+Fact: 5x Field Dice requirement: 75x Pineapple.
+3x Jelly Beans
+Fact: 3x Jelly Beans requirement: 50,000,000 Honey.
+Fact: 3x Jelly Beans requirement: 10x Royal Jelly.
+Fact: 3x Jelly Beans statistic: * Collect 150,000,000 White Pollen.
+Fact: 3x Jelly Beans statistic: * Collect 50,000,000 Pollen from the Rose Field.
+Fact: 3x Jelly Beans statistic: * Collect 50,000,000 Pollen from the Cactus Field.
+6,000x Treat
+Fact: 6,000x Treat requirement: 5x Stinger.
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 10 Coconut.
+Fact: 1x Magic Bean requirement: 60,000,000 Honey.
+Fact: 1x Magic Bean requirement: 10 Royal Jelly.
+Fact: 1x Magic Bean statistic: * Collect 250,000,000 Pollen.
+7,500x Treat
+Fact: 7,500x Treat requirement: 75x Sunflower Seed.
+Fact: 7,500x Treat requirement: 75x Pineapple.
+Fact: 7,500x Treat requirement: 1x Star Jelly.
+Fact: 7,500x Treat requirement: 75,000,000 Honey.
+Fact: 7,500x Treat statistic: * Collect 120,000,000 Pollen from the Pepper Patch.
+* Collect 50,000,000 from the Spider Field
+* Collect 20,000,000 from the Dandelion Field
+8,000 Treat
+1x Magic Bean
+5 Micro-Converter
+Fact: 5 Micro-Converter requirement: 1x Red Extract.
+Fact: 5 Micro-Converter requirement: 80,000,000 Honey.
+Fact: 5 Micro-Converter requirement: 10x Royal Jelly.
+Fact: 5 Micro-Converter statistic: * Collect 200,000,000 Red Pollen.
+Fact: 5 Micro-Converter statistic: * Collect 200,000,000 Blue Pollen.
+Fact: 5 Micro-Converter statistic: * Collect 200,000,000 Pollen from the Mountain Top Field.
+9,000x Treat
+1x Magic Bean
+3x Jelly Beans
+Fact: 3x Jelly Beans requirement: 1x Purple Potion.
+Fact: 3x Jelly Beans requirement: 90,000,000 Honey.
+Fact: 3x Jelly Beans requirement: 10x Royal Jelly.
+Fact: 3x Jelly Beans statistic: * Collect 350,000,000 Blue Pollen.
+Fact: 3x Jelly Beans statistic: * Collect 50,000,000 Pollen from the Blue Flower Field.
+Fact: 3x Jelly Beans statistic: * Collect 10,000,000 Pollen from the Ant Field.
+10,000x Treat
+5x Jelly Beans
+Fact: 5x Jelly Beans requirement: 25x Blueberry.
+Fact: 5x Jelly Beans requirement: 1x Blue Extract.
+Fact: 5x Jelly Beans requirement: 100,000,000 Honey.
+Fact: 5x Jelly Beans requirement: 10x Royal Jelly.
+Fact: 5x Jelly Beans statistic: * Collect 100,000,000 Pollen from the Pepper Patch.
+Fact: 5x Jelly Beans statistic: * Collect 100,000,000 Pollen from the Pineapple Patch.
+Fact: 5x Jelly Beans statistic: * Collect 100,000,000 Pollen from the Strawberry Field.
+Fact: 5x Jelly Beans statistic: * Collect 100,000,000 Pollen from the Pine Tree Forest.
+10,000x Treats
+1x Magic Bean
+5x Field Dice
+Fact: 5x Field Dice requirement: 75x Pineapple.
+Fact: 5x Field Dice requirement: 125,000,000 Honey.
+Fact: 5x Field Dice requirement: 10x Royal Jelly.
+Fact: 5x Field Dice statistic: * Collect 500,000,000 Pollen.
+Fact: 5x Field Dice statistic: * Collect 300,000,000 Pollen from the Stump Field.
+10,000x Treat
+Fact: 10,000x Treat requirement: 50x Gumdrops.
+10x Jelly Beans
+1x Gifted Silver Egg
+Fact: 1x Gifted Silver Egg requirement: 150,000,000 Honey.
+Fact: 1x Gifted Silver Egg statistic: * Collect 400,000,000 Pollen from the Pepper Patch.
+Fact: 1x Gifted Silver Egg statistic: * Collect 200,000,000 Pollen from the Bamboo Field.
+Fact: 1x Gifted Silver Egg statistic: * Collect 100,000,000 Pollen from the Clover Field.
+11,000x Treat
+3x Magic Bean
+Fact: 3x Magic Bean requirement: 25x Gumdrops.
+25x Bitterberry
+Fact: 25x Bitterberry requirement: 175,000,000 Honey.
+Fact: 25x Bitterberry requirement: 20x Royal Jelly.
+Fact: 25x Bitterberry statistic: * Collect 600,000,000 White Pollen.
+Fact: 25x Bitterberry statistic: * Collect 60,000,000 Pollen from the Spider Field.
+Fact: 25x Bitterberry statistic: * Collect 40,000,000 Pollen from the Dandelion Field.
+Fact: 25x Bitterberry statistic: * Collect 10,000,000 White Pollen from Cactus Field.
+12,500x Treat
+Fact: 12,500x Treat requirement: 1x Glue.
+Fact: 12,500x Treat requirement: 1x Glitter.
+Fact: 12,500x Treat requirement: 200,000,000 Honey.
+Fact: 12,500x Treat requirement: 25x Royal Jelly.
+Fact: 12,500x Treat statistic: * Collect 700,000,000 Red Pollen.
+Fact: 12,500x Treat statistic: * Collect 150,000,000 Red Pollen from the Strawberry Field.
+Fact: 12,500x Treat statistic: * Collect 50,000,000 Red Pollen from the Pumpkin Patch.
+Fact: 12,500x Treat statistic: * Collect 25,000,000 Red Pollen from the Coconut Field.
+15,000x Treat
+3x Jelly Beans
+Fact: 3x Jelly Beans requirement: 50x Moon Charms.
+75x Strawberries
+Fact: 75x Strawberries requirement: 250,000,000 Honey.
+Fact: 75x Strawberries requirement: 50x Royal Jelly.
+Fact: 75x Strawberries statistic: * Collect 600,000,000 Pollen from the Coconut Field.
+Fact: 75x Strawberries statistic: * Collect 600,000,000 Pollen from the Stump Field.
+Fact: 75x Strawberries statistic: * Collect 25,000,000 Pollen from the Ant Field.
+20,000x Treat
+3x Box-O-Frogs
+3x Magic Beans
+3x Tropical Drinks
+Fact: 3x Tropical Drinks requirement: 300,000,000 Honey.
+Fact: 3x Tropical Drinks requirement: 50x Royal Jelly.
+Fact: 3x Tropical Drinks statistic: * Collect 1,000,000,000 Red Pollen.
+Fact: 3x Tropical Drinks statistic: * Collect 1,000,000,000 Blue Pollen.
+* Collect 50,000,000 from the Sunflower Field
+* Collect 50,000,000 from the Dandelion Field
+* Collect 50,000,000 from the Mushroom Field
+* Collect 50,000,000 from the Blue Flower Field
+* Collect 50,000,000 from the Clover Field
+* Collect 50,000,000 from the Strawberry Field
+* Collect 50,000,000 from the Spider Field
+* Collect 50,000,000 from the Bamboo Field
+* Collect 50,000,000 from the Pineapple Patch
+* Collect 50,000,000 from the Stump Field
+* Collect 50,000,000 from the Cactus Field
+* Collect 50,000,000 from the Pumpkin Patch
+* Collect 50,000,000 from the Pine Tree Forest
+* Collect 50,000,000 from the Rose Field
+* Collect 50,000,000 from the Mountain Top Field
+* Collect 50,000,000 from the Pepper Patch
+* Collect 50,000,000 from the Coconut Field
+50,000x Treat
+1x Mythic Egg
+Fact: 1x Mythic Egg requirement: 500,000,000 Honey.
+Repeatable Quests (New)[]
+After completing his Mythic Egg questline, Black Bear will randomly assign quests that can be completed indefinitely, similar to Polar Bear and Brown Bear. The rewards below are guaranteed, but sometimes, Black Bear may give additional rewards. The player can only get 1 quest per hour.
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 250,000,000 White Pollen..
+Fact: Quest Name requirement: 1x Ticket.
+Fact: Quest Name requirement: 10x Sunflower Seed.
+Fact: Quest Name statistic: * Collect 250,000,000 Red Pollen..
+Fact: Quest Name requirement: 1x Ticket.
+Fact: Quest Name requirement: 10x Strawberry.
+Fact: Quest Name statistic: * Collect 250,000,000 Blue Pollen..
+Fact: Quest Name requirement: 1x Ticket.
+10x Blueberries
+Fact: 10x Blueberries statistic: * Collect 75,000,000 Red Pollen.
+Fact: 10x Blueberries statistic: * Collect 75,000,000 Blue Pollen.
+20x Strawberries
+20x Blueberries
+Fact: 20x Blueberries statistic: * Collect 500,000,000 Pollen.
+Fact: 20x Blueberries requirement: 1x Ticket.
+Fact: 20x Blueberries requirement: 50x Royal Jelly.
+Fact: 20x Blueberries statistic: * Collect 150,000,000 Red Pollen..
+Fact: 20x Blueberries statistic: * Collect 150,000,000 Blue Pollen..
+Fact: 20x Blueberries statistic: * Collect 150,000,000 White Pollen..
+Fact: 20x Blueberries requirement: 2x Ticket.
+Fact: 20x Blueberries requirement: 25x Royal Jelly.
+Fact: 20x Blueberries requirement: 25x Pineapples.
+Fact: 20x Blueberries statistic: * Collect 150,000,000 Blue Pollen..
+Fact: 20x Blueberries statistic: * Collect 75,000,000 Pollen from the Bamboo Field..
+Fact: 20x Blueberries requirement: 10x Royal Jelly.
+1,000x Treats
+15x Blueberries
+Fact: 15x Blueberries statistic: * Collect 150,000,000 White Pollen..
+Fact: 15x Blueberries statistic: * Collect 75,000,000 Pollen from the Pumpkin Patch..
+Fact: 15x Blueberries requirement: 10x Gumdrops.
+Fact: 15x Blueberries requirement: 10x Royal Jelly.
+1,000 Treats
+Fact: 1,000 Treats requirement: 10x Royal Jelly.
+1,000x Treats
+Fact: 1,000x Treats requirement: 15x Pineapples.
+Fact: 1,000x Treats statistic: * Collect 150,000,000 Red Pollen..
+Fact: 1,000x Treats statistic: * Collect 75,000,000 Pollen from the Strawberry Field..
+Fact: 1,000x Treats requirement: 10x Royal Jelly.
+1,000x Treats
+15x Strawberries
+Fact: 15x Strawberries statistic: * Collect 50,000,000 Pollen from the Spider Field..
+Fact: 15x Strawberries statistic: * Collect 50,000,000 Pollen from the Strawberry Field..
+Fact: 15x Strawberries statistic: * Collect 50,000,000 Pollen from the Bamboo Field..
+Fact: 15x Strawberries requirement: 1x Ticket.
+Fact: 15x Strawberries requirement: 25x Royal Jelly.
+2,500x Treat
+Fact: 2,500x Treat statistic: * Collect 200,000,000 Pollen from the Blue Flower Field..
+Fact: 2,500x Treat requirement: 2x Ticket.
+15x Blueberries
+2,500x Treat
+Fact: 2,500x Treat statistic: * Collect 200,000,000 Pollen from the Dandelion Field.
+Fact: 2,500x Treat requirement: 2x Ticket.
+2,500x Treat
+Fact: 2,500x Treat requirement: 10x Moon Charms.
+Fact: 2,500x Treat statistic: * Collect 200,000,000 Pollen from the Sunflower Field..
+Fact: 2,500x Treat requirement: 2x Ticket.
+2,500x Treat
+Fact: 2,500x Treat requirement: 15x Sunflower Seed.
+Fact: 2,500x Treat statistic: * Collect 200,000,000 Pollen from the Mushroom Field..
+Fact: 2,500x Treat requirement: 2x Ticket.
+2,500x Treat
+15x Strawberries
+Fact: 15x Strawberries statistic: * Collect 100,000,000 Pollen from the Sunflower Field.
+Fact: 15x Strawberries statistic: * Collect 100,000,000 Pollen from the Mushroom Field.
+Fact: 15x Strawberries statistic: * Collect 100,000,000 Pollen from the Dandelion Field.
+Fact: 15x Strawberries statistic: * Collect 100,000,000 Pollen from the Blue Flower Field.
+Fact: 15x Strawberries requirement: 3x Tickets.
+Fact: 15x Strawberries requirement: 25x Royal Jelly.
+2,500x Treats
+Fact: 2,500x Treats statistic: * Collect 150,000,000 Pollen from the Mountain Top Field..
+Fact: 2,500x Treats statistic: * Collect 150,000,000 Pollen from the Pepper Patch..
+Fact: 2,500x Treats statistic: * Collect 150,000,000 Pollen from the Coconut Field..
+Fact: 2,500x Treats requirement: 25x Royal Jelly.
+2,500x Treats
+Fact: 2,500x Treats requirement: x1 Glitter.
+Fact: 2,500x Treats requirement: x1 Neonberry.
+Fact: 2,500x Treats statistic: * Collect 400,000,000 Pollen from the Pepper Patch.
+Fact: 2,500x Treats requirement: 25x Royal Jelly.
+2,500x Treats
+10x Bitterberries
+Repeatable Quests (Old)[]
+After completing his 20 star jelly quests, Black Bear would randomly assign quests that can be completed indefinitely, similar to Polar Bear and Brown Bear. The rewards below are guaranteed, but Black Bear may also give other rewards. The player can only get 1 quest per hour.
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 1,000,000 White Pollen..
+Fact: Quest Name requirement: 5x Sunflower Seed.
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 1,000,000 Red Pollen..
+Fact: Quest Name requirement: 5x Strawberry.
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 1,000,000 Blue Pollen..
+Fact: Quest Name requirement: 5x Blueberry.
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 750,000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 750,000 Red Pollen..
+Fact: Quest Name requirement: 15x Strawberry.
+Fact: Quest Name requirement: 15x Blueberry.
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 2,000,000 Pollen..
+Fact: Quest Name requirement: 1x Royal Jelly.
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 1,500,000 Red Pollen..
+Fact: Quest Name statistic: * Collect 1,500,000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 1,500,000 White Pollen..
+Fact: Quest Name requirement: 3x Royal Jelly.
+Fact: Quest Name requirement: 10x Pineapple.
+Fact: Quest Name requirement: 1,500,000 Honey.
+Fact: Quest Name statistic: * Collect 750,000 Pollen from the Bamboo Field..
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 750,000 Pollen from the Pumpkin Patch..
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 750,000 Pollen from the Pineapple Patch..
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 750,000 Pollen from the Strawberry Field..
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name statistic: * Collect 500,000 Pollen from the Spider Field.
+Fact: Quest Name statistic: * Collect 500,000 Pollen from the Strawberry Field.
+Fact: Quest Name statistic: * Collect 500,000 Pollen from the Bamboo Field.
+Fact: Quest Name requirement: 1,000,000 Honey.
+Fact: Quest Name statistic: * Collect 2,000,000 Pollen from the Blue Flower Field..
+Fact: Quest Name requirement: 1,000,000 Honey.
+Fact: Quest Name statistic: * Collect 2,000,000 Pollen from the Dandelion Field..
+Fact: Quest Name requirement: 1,000,000 Honey.
+Fact: Quest Name statistic: * Collect 2,000,000 Pollen from the Sunflower Field..
+Fact: Quest Name requirement: 1,000,000 Honey.
+Fact: Quest Name statistic: * Collect 2,000,000 Pollen from the Mushroom Field..
+Fact: Quest Name requirement: 1,000,000 Honey.
+Fact: Quest Name statistic: * Collect 1,000,000 Pollen from the Dandelion Field..
+Fact: Quest Name statistic: * Collect 1,000,000 Pollen from the Sunflower Field..
+Fact: Quest Name statistic: * Collect 1,000,000 Pollen from the Mushroom Field..
+Fact: Quest Name statistic: * Collect 1,000,000 Pollen from the Blue Flower Field..
+Fact: Quest Name requirement: 3x Royal Jelly.
+Fact: Quest Name requirement: 2,000,000 Honey.
+Mother Bear is the second quest-giver available in the game. Her quests consist of raising bees to levels and feeding treats to bees. She is located to the right of the Treat Shop.
+Quests (14)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Raise a Bee to Level 2.
+* Feed 1 Treat to your Bees.
+Fact: Quest Name requirement: 250 Honey.
+Fact: Quest Name requirement: 1x Ticket.
+* Raise a Bee to Level 3.
+* Raise 2 Bees to Level 2.
+* Feed 5 Treats to your Bees.
+Fact: Quest Name requirement: 1x Ticket.
+* Raise 3 Bees to Level 3.
+* Feed 10 Treats to your Bees.
+* Feed 1 Sunflower Seed to your Bees.
+Fact: Quest Name requirement: 2x Ticket.
+* Raise 3 Bees to Level 4.
+* Feed 15 Treats to your Bees.
+* Use 1 Royal Jelly.
+Fact: Quest Name requirement: 5,000 Honey.
+Fact: Quest Name requirement: 2x Ticket.
+* Raise a Bee to Level 5.
+* Raise 5 Bees to Level 4.
+* Feed 20 Treats to your Bees.
+* Feed 5 Strawberries to your Bees.
+Fact: Quest Name requirement: 3x Ticket.
+* Raise 3 Bees to Level 5.
+* Feed 30 Treats to your Bees.
+* Feed 10 Blueberries to your Bees.
+Fact: Quest Name requirement: 3x Ticket.
+* Raise a Bee to Level 6.
+* Raise 5 Bees to Level 5.
+* Feed 50 Treats to your Bees.
+* Use 3 Royal Jellies.
+Fact: Quest Name requirement: 4x Ticket.
+* Raise 6 Bees to Level 6.
+* Feed 100 Treats to your Bees.
+* Feed 25 Sunflower Seeds to your Bees.
+Fact: Quest Name requirement: 4x Ticket.
+Fact: Quest Name requirement: 1x Royal Jelly.
+* Raise a Bee to Level 7.
+* Raise 8 Bees to Level 6.
+* Raise 12 Bees to Level 5.
+* Feed 250 Treats to your Bees.
+* Feed 25 Pineapples to your Bees.
+Fact: Quest Name requirement: 5x Ticket.
+Fact: Quest Name requirement: 1x Royal Jelly.
+* Raise 7 Bees to Level 7.
+* Feed 500 Treats to your Bees.
+* Feed 25 Blueberries to your Bees.
+* Feed 25 Strawberries to your Bees.
+Fact: Quest Name requirement: 500,000 Honey.
+Fact: Quest Name requirement: 6x Ticket.
+Fact: Quest Name requirement: 1x Royal Jelly.
+* Raise 3 Bees to Level 8.
+* Raise 9 Bees to Level 7.
+* Raise 15 Bees to Level 6.
+* Feed 1,000 Treats to your Bees.
+* Feed 30 Sunflower Seeds to your Bees.
+* Feed 30 Pineapples to your Bees.
+* Feed 30 Strawberries to your Bees.
+* Feed 30 Blueberries to your Bees.
+Fact: Quest Name requirement: 7x Ticket.
+Fact: Quest Name requirement: 2x Royal Jelly.
+* Raise 8 Bees to Level 8
+* Feed 2,500 Treats to your Bees
+* Feed 100 Sunflower Seeds to your Bees
+* Use 8 Royal Jellies
+Fact: * Use 8 Royal Jellies requirement: 8x Ticket.
+Fact: * Use 8 Royal Jellies requirement: 3x Royal Jelly.
+* Raise 3 Bees to Level 9
+* Feed 5,000 Treats to your Bees
+* Feed 200 Strawberries to your Bees
+1,000x Treat
+Fact: 1,000x Treat requirement: 9x Ticket.
+Fact: 1,000x Treat requirement: 4x Royal Jelly.
+* Raise a Bee to Level 10.
+* Raise 5 Bees to Level 9.
+* Raise 15 Bees to Level 8.
+* Feed 10,000 Treats to your Bees.
+* Feed 250 Sunflower Seeds to your Bees.
+* Feed 250 Pineapples to your Bees.
+* Feed 250 Strawberries to your Bees.
+* Feed 250 Blueberries to your Bees.
+Fact: 1,000x Treat requirement: 10,000,000 Honey.
+2,500x Treat
+Fact: 2,500x Treat requirement: 10x Ticket.
+Fact: 2,500x Treat requirement: 5x Royal Jelly.
+Quests[]
+Brown Bear is an infinite quest giver. His quests scale up in difficulty the more you complete, with the reward also getting bigger the more difficult it gets. Each quest always rewards a ticket, royal jelly, and increasing amounts of honey, depending on the current difficulty of the current quest. Certain thresholds may reward other items as well.
+Scaling (<1000 quests)[]
+Let x equal the minimum amount of pollen for the quest
+Let y equal the maximum amount of pollen for the quest
+Amount of pollen required for a quest =
+{ x + { { y − x } × { n u m b e r o f q u e s t s c o m p l e t e d 1000 } 4 } }  ~ \times ~ \\{{\frac{numberofquestscompleted}{1000}}\\}^4\\}\\}}
+Scaling (1000+ quests)[]
+Hard-coded rewards[]
+Fact: The Quest Number in Quests has/costs Rare Reward.
+Fact: The Every 3 in Quests has/costs 1 Jelly Bean.
+Fact: The 5 in Quests has/costs 3 Field Dice.
+Fact: The 10 in Quests has/costs 5 Micro-Converters.
+Fact: The 15 in Quests has/costs 5 Field Dice.
+Fact: The 20 in Quests has/costs 25 Bitterberries.
+Fact: The **25** in Quests has/costs **1 Silver Egg**.
+Fact: The 30 in Quests has/costs 5 Micro-Converters.
+Fact: The 35 in Quests has/costs 1 Oil.
+Fact: The 40 in Quests has/costs 50 Bitterberries.
+Fact: The 45 in Quests has/costs 1 Enzymes.
+Fact: The **50** in Quests has/costs **1 Gold Egg**.
+Fact: The 55 in Quests has/costs 1 Magic Bean.
+Fact: The 60 in Quests has/costs 50 Bitterberries.
+Fact: The 65 in Quests has/costs 5 Field Dice.
+Fact: The 70 in Quests has/costs 5 Micro-Converters.
+Fact: The **75** in Quests has/costs **1 Diamond Egg**.
+Fact: The 80 in Quests has/costs 10 Micro-Converters.
+Fact: The 85 in Quests has/costs 1 Tropical Drink.
+Fact: The 90 in Quests has/costs 1 Star Jelly.
+Fact: The 95 in Quests has/costs 100 Gumdrops.
+Fact: The **100** in Quests has/costs **1 Mythic Egg**.
+Fact: The 105 in Quests has/costs 1 Oil.
+Fact: The 111 in Quests has/costs 5 Box-O-Frogs.
+Fact: The 115 in Quests has/costs 1 Enzymes.
+Fact: The 120 in Quests has/costs 1 Magic Bean.
+Fact: The 125 in Quests has/costs 1 Atomic Treat.
+Fact: The 130 in Quests has/costs 1 Enzymes.
+Fact: The 135 in Quests has/costs 50 Bitterberries.
+Fact: The 140 in Quests has/costs 1 Glue.
+Fact: The 145 in Quests has/costs 5 Field Dice.
+Fact: The **150** in Quests has/costs **100 Tickets**.
+Fact: The 155 in Quests has/costs 5 Micro-Converters.
+Fact: The 160 in Quests has/costs 3 Oil.
+Fact: The 165 in Quests has/costs 1 Enzymes.
+Fact: The 170 in Quests has/costs 5 Micro-Converters.
+Fact: The 175 in Quests has/costs 100 Gumdrops.
+Fact: The 180 in Quests has/costs 50 Bitterberries.
+Fact: The 185 in Quests has/costs 1 Oil.
+Fact: The 190 in Quests has/costs 1 Magic Bean.
+Fact: The 195 in Quests has/costs 1 Star Jelly.
+Fact: The **200** in Quests has/costs **1 Mythic Egg**.
+Fact: The 205 in Quests has/costs 5 Field Dice.
+Fact: The 210 in Quests has/costs ???.
+Fact: The 215 in Quests has/costs 5 Micro-Converters.
+Fact: The 220 in Quests has/costs 1 Magic Bean.
+Fact: The 225 in Quests has/costs 1 Atomic Treat.
+Fact: The 230 in Quests has/costs 3 Enzymes.
+Fact: The 235 in Quests has/costs 1 Glue.
+Fact: The 240 in Quests has/costs 100 Gumdrops.
+Fact: The 245 in Quests has/costs 50 Bitterberries.
+Fact: The **250** in Quests has/costs **250 Tickets**.
+Fact: The 255 in Quests has/costs 3 Oil.
+Fact: The 260 in Quests has/costs 1 Enzyme.
+Fact: The 265 in Quests has/costs 5 Field Dice.
+Fact: The 270 in Quests has/costs 5 Micro-Converters.
+Fact: The **275** in Quests has/costs **1 Gifted Gold Egg**.
+Fact: The **300** in Quests has/costs **Brown Cub Buddy Skin**.
+Fact: The **750** in Quests has/costs **1 Star Treat**.
+Fact: The **Every 500 starting from 750** in Quests has/costs **1 Star Treat**.
+Panda Bear is the third quest-giver available in the game. His quests consist largely of defeating mobs and obtaining scores in the Ant Challenge. He is located behind the Bamboo Field and to the left of the  Global Top Battlers Leaderboard.
+Silver Egg Quests (8)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Defeat 1 Ladybug.
+* Defeat 2 Rhino Beetles.
+* Defeat 3 Rhino beetles.
+* Defeat 3 Ladybugs.
+* Defeat 1 Spider.
+Fact: Quest Name requirement: 1x Royal Jelly.
+* Defeat 15 Ladybugs.
+* Defeat 5 Spiders.
+* Defeat 20 Rhino Beetles.
+* Defeat 20 Rhino Beetles.
+* Defeat 20 Ladybugs.
+* Defeat 10 Spiders.
+1x Silver Egg
+Gold Egg Quests (4)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Defeat 1 Werewolf.
+Fact: Quest Name requirement: 1x Royal Jelly.
+* Defeat 15 Scorpions.
+Fact: Quest Name requirement: 1x Royal Jelly.
+* Defeat 20 Mantises.
+Fact: Quest Name requirement: 1x Royal Jelly.
+* Defeat 10 Rhino Beetles.
+* Defeat 10 Ladybugs.
+* Defeat 10 Scorpions.
+* Defeat 10 Mantises.
+* Defeat 10 Spiders.
+* Defeat 5 Werewolves.
+1x Gold Egg
+Star Treat Quests/Ant Quests (15)[]
+Fact: The Quest Name in Quests has/costs Requirements, Rewards.
+* Defeat 10 Ants.
+Fact: Quest Name requirement: 1x Ticket.
+1x Ant Pass
+* Defeat 15 Ants.
+* Defeat 10 Flying Ants.
+Fact: 1x Ant Pass requirement: 1x Ticket.
+1x Ant Pass
+* Defeat 15 Fire Ants.
+Fact: 1x Ant Pass requirement: 1x Royal Jelly.
+Fact: 1x Ant Pass requirement: 1x Ticket.
+1x Ant Pass
+* Defeat 25 Ants.
+* Defeat 15 Army Ants.
+Fact: 1x Ant Pass requirement: 1x Royal Jelly.
+Fact: 1x Ant Pass requirement: 1x Ticket.
+1x Ant Pass
+* Defeat 10 Giant Ants.
+* Get a Score of 50 in the Ant Challenge.
+Fact: 1x Ant Pass requirement: 1x Ticket.
+1x Ant Pass
+1x Diamond Egg
+* Defeat 50 Ants.
+* Defeat 15 Ladybugs.
+* Defeat 5 Spiders.
+* Defeat 1 Werewolf.
+Fact: 1x Diamond Egg requirement: 3x Royal Jelly.
+Fact: 1x Diamond Egg requirement: 6x Ticket.
+1x Ant Pass
+* Defeat 30 Flying Ants.
+* Defeat 15 Mantises.
+* Defeat 3 Werewolves.
+Fact: 1x Ant Pass requirement: 3x Royal Jelly.
+Fact: 1x Ant Pass requirement: 7x Ticket.
+1x Ant Pass
+* Defeat 50 Ants.
+* Defeat 20 Giant Ants.
+* Defeat 20 Scorpions.
+* Defeat 40 Rhino Beetles.
+Fact: 1x Ant Pass requirement: 3x Royal Jelly.
+Fact: 1x Ant Pass requirement: 8x Ticket.
+1x Ant Pass
+* Defeat 100 Ants.
+* Defeat 50 Army Ants.
+* Defeat 30 Ladybugs.
+* Defeat 20 Mantises.
+* Defeat 5 Werewolves.
+Fact: 1x Ant Pass requirement: 3x Royal Jelly.
+Fact: 1x Ant Pass requirement: 9x Ticket.
+1x Ant Pass
+* Defeat 100 Fire Ants.
+* Defeat 30 Giant Ants.
+* Defeat 1 King Beetle.
+* Get a Score of 75 in the Ant Challenge.
+Fact: 1x Ant Pass requirement: 3x Royal Jelly.
+Fact: 1x Ant Pass requirement: 10x Ticket.
+1x Ant Pass
+1x Star Egg
+* Defeat 250 Ants.
+* Defeat 10 Spiders.
+* Defeat 5 Werewolves.
+Fact: 1x Star Egg requirement: 5x Royal Jelly.
+Fact: 1x Star Egg requirement: 11x Ticket.
+1x Ant Pass
+* Defeat 250 Ants.
+* Defeat 150 Flying Ants.
+* Defeat 50 Scorpions.
+* Defeat 1 King Beetle.
+Fact: 1x Ant Pass requirement: 6x Royal Jelly.
+Fact: 1x Ant Pass requirement: 12x Ticket.
+1x Ant Pass
+* Defeat 500 Ants.
+* Defeat 150 Army Ants.
+* Defeat 75 Mantises.
+* Defeat 1 King Beetle.
+Fact: 1x Ant Pass requirement: 7x Royal Jelly.
+Fact: 1x Ant Pass requirement: 13x Ticket.
+1x Ant Pass
+* Defeat 500 Fire Ants.
+* Defeat 250 Flying Ants.
+* Defeat 250 Ladybugs.
+* Defeat 250 Rhino Beetles.
+* Defeat 1 King Beetle.
+Fact: 1x Ant Pass requirement: 8x Royal Jelly.
+Fact: 1x Ant Pass requirement: 14x Ticket.
+1x Ant Pass
+* Defeat 1,000 Ants.
+* Defeat 500 Army Ants.
+* Defeat 100 Giant Ants.
+* Defeat 3 King Beetles.
+* Defeat 1 Tunnel Bear.
+* Get a Score of 100 in the Ant Challenge.
+Fact: 1x Ant Pass requirement: 25x Ticket.
+1x Star Treat
+Science Bear is the fourth quest-giver in the game. His quests largely consist of pollen collection, defeating mobs, crafting materials, and collecting ability tokens. He is located behind the Yellow Cannon.
+Initial Quest List (16)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Discover 5 Bee Types.
+Fact: Quest Name statistic: * Collect 20,000 White Pollen..
+Fact: Quest Name statistic: * Collect 10,000 Pollen from the Strawberry Field..
+Fact: Quest Name statistic: * Collect 10,000 Pollen from the Bamboo Field.
+* Discover 6 Bee Types.
+Fact: Quest Name statistic: * Collect 30,000 Red Pollen..
+Fact: Quest Name statistic: * Collect 20,000 Pollen from the Clover Field.
+* Defeat 8 Ladybugs.
+* Defeat 8 Rhino Beetles.
+* Discover 7 Bee Types.
+Fact: Quest Name statistic: * Collect 35,000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 35,000 Pollen from the Pineapple Patch..
+* Defeat 9 Rhino Beetles.
+* Defeat 3 Mantises.
+* Discover 8 Bee Types.
+Fact: Quest Name statistic: * Collect 25,000 Pollen from the Dandelion Field..
+Fact: Quest Name statistic: * Collect 25,000 Pollen from the Sunflower Field..
+Fact: Quest Name statistic: * Collect 25,000 Pollen from the Blue Flower Field..
+* Defeat 2 Spiders.
+* Discover 9 Bee Types.
+Fact: Quest Name statistic: * Collect 75,000 Pollen from the Bamboo Field..
+Fact: Quest Name statistic: * Collect 35,000 Pollen from the Mushroom Field..
+* Defeat 2 Spiders.
+* Discover 10 Bee Types.
+Fact: Quest Name statistic: * Collect 60,000 Pollen from the Cactus Field..
+Fact: Quest Name statistic: * Collect 60,000 Pollen from the Rose Field..
+* Defeat 6 Rhino Beetles.
+* Defeat 4 Scorpions.
+* Discover 11 Bee Types.
+Fact: Quest Name statistic: * Collect 75,000 Pollen from the Pumpkin Patch..
+Fact: Quest Name statistic: * Collect 75,000 Pollen from the Pine Tree Forest..
+* Defeat 2 Mantises.
+* Defeat 1 Werewolf.
+* Discover 12 Bee Types.
+Fact: Quest Name statistic: * Collect 120,000 White Pollen..
+* Defeat 4 Spiders.
+* Discover 13 Bee Types.
+Fact: Quest Name statistic: * Collect 100,000 Pollen from the Rose Field..
+Fact: Quest Name statistic: * Collect 30,000 Pollen from the Dandelion Field..
+* Defeat 10 Ladybugs.
+* Defeat 1 Werewolf.
+* Discover 14 Bee Types.
+Fact: Quest Name statistic: * Collect 115,000 Pollen from the Pine Tree Forest..
+Fact: Quest Name statistic: * Collect 35,000 Pollen from the Blue Flower Field..
+* Defeat 12 Rhino Beetles.
+* Defeat 8 Mantises.
+* Discover 15 Bee Types.
+Fact: Quest Name statistic: * Collect 125,000 White Pollen..
+Fact: Quest Name statistic: * Collect 65,000 Pollen from the Strawberry Field..
+Fact: Quest Name statistic: * Collect 65,000 Pollen from the Cactus Field..
+* Defeat 3 Scorpions.
+* Defeat 3 Spiders.
+* Discover 16 Bee Types.
+Fact: Quest Name statistic: * Collect 240,000 Red Pollen..
+Fact: Quest Name statistic: * Collect 240,000 Blue Pollen..
+Fact: Quest Name statistic: * Collect 240,000 Pollen from the Clover Field..
+* Collect 100 Red Boost Tokens.
+* Collect 100 Blue Boost Tokens.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 1x Ticket.
+* Discover 17 Bee Types.
+Fact: 1x _Science Enhancement_ statistic: * Collect 240,000 Red Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 240,000 Blue Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 422,000 Pollen from the Pumpkin Patch..
+Fact: 1x _Science Enhancement_ statistic: * Collect 244,000 Pollen from the Spider Field..
+* Defeat 16 Rhino Beetles.
+* Defeat 8 Scorpions.
+* Defeat 2 Werewolves.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 2x Tickets.
+* Discover 18 Bee Types.
+Fact: 1x _Science Enhancement_ statistic: * Collect 870,000 Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 435,000 Pollen from the Pineapple Patch..
+* Defeat 13 Mantises.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 3x Tickets.
+* Discover 19 Bee Types.
+Fact: 1x _Science Enhancement_ statistic: * Collect 820,020 Blue Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 720,020 White Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 320,020 Pollen from the Sunflower Field..
+* Collect 100 Haste Tokens.
+* Collect 100 Focus Tokens.
+* Defeat 3 Spiders.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 4x Tickets.
+* Discover 20 Bee Types.
+Fact: 1x _Science Enhancement_ statistic: * Collect 1,818,181 Red Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 636,363 Pollen from the Strawberry Field..
+Fact: 1x _Science Enhancement_ statistic: * Collect 424,242 Pollen from the Mushroom Field..
+* Collect 313 Red Boost Tokens.
+* Defeat 16 Ladybugs.
+* Defeat 10 Scorpions.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 5x Tickets.
+Translator Quest List (15)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Discover 21 Bee Types.
+* Earn 1 Sunflower Badge.
+* Earn 2 Battle Badges.
+* Earn 2 Bamboo Badges.
+Fact: Quest Name statistic: * Collect 2,525,252 Pollen from the Bamboo Field..
+* Collect 524 Blue Boost Tokens.
+* Defeat 24 Rhino Beetles.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 6x Tickets.
+Fact: 1x _Science Enhancement_ requirement: 1x Enzymes.
+* Discover 22 Bee Types.
+* Collect 150 Sprout Tokens.
+* Collect 100 Strawberries Tokens.
+* Collect 100 Pineapples Tokens.
+Fact: 1x _Science Enhancement_ requirement: 870,588 Honey.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 7x Tickets.
+Fact: 1x _Science Enhancement_ requirement: 1x Oil.
+* Discover 23 Bee Types.
+* Earn 15 Badges.
+* Craft 10 Ingredients with the Blender.
+Fact: 1x _Science Enhancement_ statistic: * Collect 3,333,333 Pollen from the Pumpkin Patch..
+Fact: 1x _Science Enhancement_ statistic: * Collect 3,333,333 Pollen from the Cactus Field..
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 8x Tickets.
+Fact: 1x _Science Enhancement_ requirement: 1x Red Extract.
+Fact: 1x _Science Enhancement_ requirement: 1x Blue Extract.
+* Discover 24 Bee Types.
+* Use the Field Booster 1 Time.
+* Use the Red Field Booster 1 Time.
+* Use the Blue Field Booster 1 Time.
+* Craft 14 Ingredients with the Blender.
+Fact: 1x _Science Enhancement_ statistic: * Collect 4,444,444 White Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 4,444,444 Blue Pollen..
+Fact: 1x _Science Enhancement_ statistic: * Collect 4,444,444 Red Pollen..
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 9x Tickets.
+Fact: 1x _Science Enhancement_ requirement: 1x Glitter.
+* Discover 25 Bee Types.
+* Earn 10 Hotshot Badges
+* Collect 250 Token Link Tokens.
+Fact: * Earn 10 Hotshot Badges statistic: * Collect 5,000,000 Pollen from the Dandelion Field..
+* Craft 50 Ingredients with the Blender.
+* Defeat 50 Ants.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 10x Tickets.
+1x Translator
+* Discover 26 Bee Types.
+* Collect 77 Sparkles Tokens.
+Fact: 1x Translator statistic: * Collect 7,777,777 Pollen from the Clover Field..
+* Defeat 7 Vicious Bees.
+* Craft 7 Ingredients with the Blender.
+* Use 7 Royal Jellies.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 11x Tickets.
+Fact: 1x _Science Enhancement_ requirement: 13x Royal Jelly.
+* Discover 27 Bee Types.
+* Collect 270,000 Goo from White Flowers.
+* Collect 270,000 Goo from Red Flowers.
+* Collect 270,000 Goo from Blue Flowers.
+* Collect 270,000 Goo from the Sunflower Field.
+Fact: 1x _Science Enhancement_ statistic: * Collect 2,700,000 Pollen from the Sunflower Field..
+Fact: 1x _Science Enhancement_ statistic: * Collect 2,700,000 Pollen from the Blue Flower Field..
+* Craft 27 Ingredients with the Blender.
+* Defeat 27 Ladybugs.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 12x Ticket.
+Fact: 1x _Science Enhancement_ requirement: 5x Royal Jelly.
+Fact: 1x _Science Enhancement_ requirement: 1x Glue.
+* Discover 28 Bee Types.
+* Collect 282 Mark Tokens.
+Fact: 1x _Science Enhancement_ statistic: * Collect 28,282,828 Pollen from the Pine Tree Forest..
+Fact: 1x _Science Enhancement_ statistic: * Collect 2,828,282 Pollen from the Mushroom Field..
+* Defeat 28 Fire Ants.
+* Craft 28 Ingredients with the Blender.
+* Defeat 2 Werewolfs.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 13x Tickets.
+3000x Treat
+1x Magic Bean
+* Discover 29 Bee Types.
+* Collect 2,000 Red Ability Tokens.
+* Collect 2,000 Blue Ability Tokens.
+* Collect 200 Red Boost Tokens.
+* Collect 200 Blue Boost Tokens.
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Clover Field..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Spider Field..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Bamboo Field..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Strawberry Field..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Pineapple Patch..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Pumpkin Patch..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Cactus Field..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Rose Field..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Pine Tree Forest..
+Fact: 1x Magic Bean statistic: * Collect 2,000,000 Pollen from the Mountain Top Field..
+Fact: 1x Magic Bean statistic: * Collect 20,000,000 Red Pollen..
+Fact: 1x Magic Bean statistic: * Collect 20,000,000 Blue Pollen..
+* Craft 20 Ingredients with Blender.
+* Defeat 20 Rhino Beetles
+* Defeat 20 Ladybugs.
+1x _Science Enhancement_
+Fact: 1x _Science Enhancement_ requirement: 14x Tickets.
+Fact: 1x _Science Enhancement_ requirement: 1x Oil.
+Fact: 1x _Science Enhancement_ requirement: 1x Enzymes.
+Fact: 1x _Science Enhancement_ requirement: 1x Glitter.
+* Discover 30 Bee Types.
+* Obtain a Carpenter Bee.
+* Collect 200 Sunflower Seeds Tokens.
+* Collect 400 Pineapples Tokens.
+Fact: 1x _Science Enhancement_ statistic: * Collect 40,000,000 White Pollen..
+* Collect 800,000 Goo from the Strawberry Field.
+* Collect 800,000 Goo from the Bamboo Field.
+* Collect 800,000 Goo from the Pineapple Patch.
+* Collect 16,000 Ability Tokens.
+* Use 32 Royal Jellies.
+* Craft 64 Ingredients with the Blender.
+* Collect 1,280 Focus Tokens.
+Fact: 1x _Science Enhancement_ requirement: 15x Tickets.
+Fact: 1x _Science Enhancement_ requirement: 1x Star Jelly.
+1x Translator
+1x _Science Enhancement_
+* Discover 31 Bee Types.
+Fact: 1x _Science Enhancement_ statistic: * Collect 44,444,444 Pollen from the Cactus Field..
+Fact: 1x _Science Enhancement_ statistic: * Collect 44,444,444 Pollen from the Spider Field..
+Fact: 1x _Science Enhancement_ statistic: * Collect 444,444 Pollen from the Ant Field..
+* Feed 44 Moon Charms to your Bees.
+* Use 4 Stingers.
+* Use 1 Enzymes.
+* Use 1 Oil.
+* Collect 44 Inspire Tokens.
+* Defeat 44 Fire Ants.
+* Craft 44 Ingredients with the Blender.
+* Defeat 1 King Beetle.
+x1 Science Enhancement
+Fact: x1 Science Enhancement requirement: x16 Tickets.
+Fact: x1 Science Enhancement requirement: x3 Glitter.
+* Discover 32 Bee Types.
+Fact: x1 Science Enhancement statistic: * Collect 150,000,000 Pollen from the Mushroom Field..
+x1 Science Enhancement
+Fact: x1 Science Enhancement requirement: x17 Tickets.
+Fact: x1 Science Enhancement requirement: x3 Red Extract.
+* Discover 33 Bee Types.
+Fact: x1 Science Enhancement statistic: * Collect 330,000,000 White Pollen..
+* Collect 11,000,000 Goo.
+* Defeat 110 Army Ants.
+* Collect 5,500 Bomb Tokens.
+* Collect 3,300 Token Link Tokens.
+* Collect 880 Mark Tokens.
+* Collect 440 Tokens from Sparkles.
+* Use the Strawberry Dispenser 3 Times.
+* Use Blueberry Dispenser 3 Times.
+* Use Glue Dispenser 1 Time.
+* Craft 22 Ingredients with the blender.
+* Defeat 5 Vicious Bees.
+* Defeat 1 Tunnel Bear.
+x1 Science Enhancement
+Fact: x1 Science Enhancement requirement: x18 Tickets.
+Fact: x1 Science Enhancement requirement: x3 Enzymes.
+* Discover 34 Bee Types.
+* Collect 50,000,000 Goo from the Clover Field.
+* Collect 500 Sprout Tokens.
+* Collect 50 Tokens from Stick Bug Defense Totems.
+* Collect 500 Tokens from Stick Nymphs.
+* Collect 500 Tokens from Festive Gifts.
+x1 Science Enhancement
+Fact: x1 Science Enhancement requirement: x19 Tickets.
+x3 Magic bean
+* Discover 35 Bee Types.
+Fact: x3 Magic bean statistic: * Collect 268,435,456 Pollen from the Sunflower Field..
+Fact: x3 Magic bean statistic: * Collect 268,435,456 Pollen from the Pineapple Patch.
+Fact: x3 Magic bean statistic: * Collect 268,435,456 Pollen from the Pumpkin Patch..
+* Collect 4,096 Honey Tokens.
+* Collect 4,096 Boost Tokens.
+* Collect 4,096 Focus Tokens.
+* Collect 512 Melody Tokens.
+* Collect 512 Rage Tokens.
+* Feed 101 Moon Charms to your Bees.
+* Use 10 Glue.
+* Use 10 Blue Extracts.
+* Use 10 Red Extracts.
+* Craft 101 Ingredients with the blender.
+* Defeat 101 Rhino Beetles.
+* Defeat 10 Werewolfs.
+* Defeat 1 Tunnel Bear.
+x1 Science Enhancement
+Fact: x1 Science Enhancement requirement: x20 Tickets.
+x1 Translator
+x10000 Treats
+Fact: x10000 Treats requirement: x2 Star Jelly.
+Fact: x10000 Treats requirement: x4 Glitter.
+Fact: x10000 Treats requirement: x4 Enzymes.
+Fact: x10000 Treats requirement: x4 Glue.
+* Discover 35 Bee Types.
+Fact: x10000 Treats statistic: * Collect 1,010,101,010 Pollen from the Sunflower Field..
+Fact: x10000 Treats statistic: * Collect 1,010,101,010 Pollen from the Pineapple Patch.
+Fact: x10000 Treats statistic: * Collect 1,010,101,010 Pollen from the Pumpkin Patch..
+* Collect 10,101 Honey Tokens.
+* Collect 10,101 Boost Tokens.
+* Collect 10,101 Focus Tokens.
+* Collect 1,010 Melody Tokens.
+* Collect 1,010 Rage Tokens.
+* Feed 101 Moon Charms to your Bees.
+* Use 10 Glue.
+* Use 10 Blue Extracts.
+* Use 10 Red Extracts.
+* Craft 101 Ingredients with the blender.
+* Defeat 101 Rhino Beetles.
+* Defeat 10 Werewolfs.
+* Defeat 1 Tunnel Bear.
+x1 Science Enhancement
+Fact: x1 Science Enhancement requirement: x20 Tickets.
+x1 Translator
+x10000 Treats
+Fact: x10000 Treats requirement: x3 Star Jelly.
+Fact: x10000 Treats requirement: x5 Glitter.
+Fact: x10000 Treats requirement: x5 Enzymes.
+Fact: x10000 Treats requirement: x5 Glue.
+Polar Bear is the sixth quest-giver in the game. His quests consist of pollen collection and defeating mobs and are randomly assigned. He is located on the path to the Mountain Top Field.
+Potential Quests[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 90,000 Pollen from the Spider Field..
+Fact: Quest Name statistic: * Collect 65,000 Pollen from the Mushroom Field..
+* Defeat 2 Spiders.
+* Defeat 1 Werewolf.
+1x _Polar Power_
+Fact: 1x _Polar Power_ requirement: 1x Ticket.
+Fact: 1x _Polar Power_ statistic: * Collect 300,000 Pollen from the Rose Field..
+* Defeat 12 Scorpions.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 120,000 Pollen from the Strawberry Field..
+Fact: 1x _Polar Power_ statistic: * Collect 90,000 Pollen from the Bamboo Field..
+* Defeat 8 Scorpions.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 50,000 Pollen from the Sunflower Field..
+Fact: 1x _Polar Power_ statistic: * Collect 160,000 Pollen from the Pineapple Field..
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 150,000 Pollen from the Pumpkin Patch..
+Fact: 1x _Polar Power_ statistic: * Collect 60,000 Pollen from the Sunflower Field..
+* Defeat 8 Mantises.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 140,000 Pollen from the Pineapple Patch..
+Fact: 1x _Polar Power_ statistic: * Collect 40,000 Pollen from the Dandelion Field..
+* Defeat 8 Ladybugs.
+* Defeat 8 Rhino Beetles.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 120,000 Pollen from the Rose Field..
+Fact: 1x _Polar Power_ statistic: * Collect 120,000 Pollen from the Pine Tree Forest..
+* Defeat 6 Mantises.
+* Defeat 6 Ladybugs.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 50,000 Pollen from the Clover Field..
+Fact: 1x _Polar Power_ statistic: * Collect 120,000 Pollen from the Bamboo Field..
+* Defeat 2 Werewolfs.
+1x _Polar Power_
+Fact: 1x _Polar Power_ requirement: 1x Ticket.
+Fact: 1x _Polar Power_ statistic: * Collect 150,000 Pollen from the Strawberry Field..
+Fact: 1x _Polar Power_ statistic: * Collect 25,000 Pollen from the Blue Flower Field..
+* Defeat 16 Rhino Beetles.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 300,000 Pollen from the Pine Tree Forest..
+* Defeat 12 Mantises.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 160,000 Pollen from the Mushroom Field..
+* Defeat 3 Spiders.
+1x _Polar Power_
+Fact: 1x _Polar Power_ requirement: 1x Ticket.
+Fact: 1x _Polar Power_ statistic: * Collect 80,000 Pollen from the Cactus Field.
+Fact: 1x _Polar Power_ statistic: * Collect 60,000 Pollen from the Rose Field.
+Fact: 1x _Polar Power_ statistic: * Collect 40,000 Pollen from the Blue Flower Field.
+Fact: 1x _Polar Power_ statistic: * Collect 40,000 Pollen from the Clover Field.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 180,000 Pollen from the Sunflower Field..
+* Defeat 4 Mantises.
+* Defeat 4 Scorpions.
+* Defeat 1 Spider.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 110,000 Pollen from the Pineapple Patch..
+Fact: 1x _Polar Power_ statistic: * Collect 80,000 Pollen from the Spider Field..
+* Defeat 1 Werewolf.
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 85,000 Pollen from the Strawberry Field..
+Fact: 1x _Polar Power_ statistic: * Collect 85,000 Pollen from the Pumpkin Patch..
+1x _Polar Power_
+Fact: 1x _Polar Power_ statistic: * Collect 220,000 Pollen from the Blue Flower Field..
+* Defeat 30 Ladybugs.
+1x _Polar Power_
+Fact: 1x _Polar Power_ requirement: 1x Ticket.
+Fact: 1x _Polar Power_ statistic: * Collect 220,000 Pollen from the Cactus Field..
+Fact: 1x _Polar Power_ statistic: * Collect 160,000 Pollen from the Bamboo Field..
+Fact: 1x _Polar Power_ statistic: * Collect 80,000 Pollen from the Dandelion Field..
+* Defeat 2 Spiders.
+* Defeat 6 Scorpions.
+* Defeat 2 Werewolves.
+1x _Polar Power_
+Fact: 1x _Polar Power_ requirement: 2x Ticket.
+Fact: 1x _Polar Power_ statistic: * Collect 430,000 Pollen from the Cactus Field..
+1x _Polar Power_
+Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen collection, tokens from leaves collection, donating various items to the Wind Shrine, and goo collection. She is located to the right of the Coconut Field.
+Quest List[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+Fact: Quest Name statistic: * Collect 20,000,000 White Pollen..
+Fact: Quest Name statistic: * Collect 50,000,000 Pollen from the Mountain Top Field..
+Fact: Quest Name statistic: * Collect 10,000,000 Pollen from the Dandelion Field..
+* Collect 1,000,000 Goo from White Flowers.
+* Collect 300 Honey Tokens.
+* Collect 100 Sunflower Seeds Tokens.
+Fact: Quest Name requirement: 1x Glitter.
+1x Micro-Converter
+Fact: 1x Micro-Converter requirement: 10x Royal Jelly.
+Fact: 1x Micro-Converter statistic: * Collect 30,000,000 White Pollen..
+Fact: 1x Micro-Converter statistic: * Collect 30,000,000 Pollen from the Pumpkin Patch..
+Fact: 1x Micro-Converter statistic: * Collect 30,000,000 Pollen from the Clover Field..
+* Collect 2,000,000 Goo from Blue Flowers.
+* Collect 100 Blueberries Tokens.
+* Collect 25 Inspire Tokens.
+* Donate 1 Cloud Vial to the Wind Shrine.
+Fact: 1x Micro-Converter requirement: 5x Moon Charm.
+3x Field Dice
+Fact: 3x Field Dice requirement: 20x Royal Jelly.
+Fact: 3x Field Dice requirement: 1x Glitter.
+Fact: 3x Field Dice statistic: * Collect 40,000,000 White Pollen..
+Fact: 3x Field Dice statistic: * Collect 40,000,000 Pollen from the Pineapple Patch..
+Fact: 3x Field Dice statistic: * Collect 40,000,000 Pollen from the Rose field..
+* Collect 3,000,000 Goo from Red Flowers.
+* Collect 150 Strawberries Tokens.
+* Collect 50 Tokens from Leaves.
+* Donate 100 Sunflower Seeds to the Wind Shrine.
+Fact: 3x Field Dice requirement: 1x Glitter.
+Fact: 3x Field Dice requirement: 10x Moon Charm.
+3x Micro-Converter
+Fact: 3x Micro-Converter requirement: 30x Royal Jelly.
+Fact: 3x Micro-Converter statistic: * Collect 50,000,000 White Pollen..
+Fact: 3x Micro-Converter statistic: * Collect 50,000,000 Pollen from the Bamboo Field..
+Fact: 3x Micro-Converter statistic: * Collect 30,000,000 Pollen from the Spider Field..
+* Collect 6,000,000 Goo.
+* Collect 5 Gumdrops Tokens.
+* Collect 25 Tokens from Sparkles.
+* Donate 150 Blueberries to the Wind Shrine.
+Fact: 3x Micro-Converter requirement: 1x Glitter.
+Fact: 3x Micro-Converter requirement: 15x Moon Charm.
+5x Jelly Beans
+Fact: 5x Jelly Beans requirement: 40x Royal Jelly.
+* Earn 15 Ace Badges.
+Fact: 5x Jelly Beans statistic: * Collect 60,000,000 White Pollen..
+Fact: 5x Jelly Beans statistic: * Collect 80,000,000 Pollen from the Pepper Patch..
+Fact: 5x Jelly Beans statistic: * Collect 30,000,000 Pollen from the Sunflower Field..
+* Collect 4,000,000 Goo from White Flowers.
+* Collect 500 Honey Tokens.
+* Share 50 Jelly Bean Tokens.
+* Match 5 Pairs in Memory Match Games.
+Fact: 5x Jelly Beans requirement: 50,000,000 Honey.
+Fact: 5x Jelly Beans requirement: 1x Glitter.
+Fact: 5x Jelly Beans requirement: 1x Star Jelly.
+* Earn 1 Master Badge.
+Fact: 5x Jelly Beans statistic: * Collect 80,000,000 White Pollen..
+Fact: 5x Jelly Beans statistic: * Collect 100,000,000 Pollen from the Pine Tree Forest..
+Fact: 5x Jelly Beans statistic: * Collect 50,000,000 Pollen from the Mushroom Field..
+* Collect 10,000,000 Goo from Blue Flowers.
+* Use 1 Magic Beans.
+* Feed 250 Blueberries to your Bees.
+* Collect 25 Moon Charms Tokens.
+* Donate 250 Sunflower Seeds to the Wind Shrine.
+Fact: 5x Jelly Beans requirement: 20x Moon Charm.
+3x Field Dice
+Fact: 3x Field Dice requirement: 250x Pineapple.
+Fact: 3x Field Dice requirement: 80x Royal Jelly.
+Fact: 3x Field Dice requirement: 60,000,000 Honey.
+* Earn 2 Master Badges.
+Fact: 3x Field Dice statistic: * Collect 100,000,000 White Pollen..
+Fact: 3x Field Dice statistic: * Collect 120,000,000 Pollen from the Cactus Field..
+Fact: 3x Field Dice statistic: * Collect 80,000,000 Pollen from the Strawberry Field..
+* Collect 3,000,000 Goo from the Dandelion Field.
+* Collect 50 Inspire Tokens.
+* Collect 100 Tokens from Festive Gifts.
+* Collect 300 Treats Tokens.
+* Collect 10 Royal Jellies Tokens.
+* Donate 300 Pineapples to the Wind Shrine.
+Fact: 3x Field Dice requirement: 1x Glitter.
+Fact: 3x Field Dice requirement: 25x Moon Charm.
+Fact: 3x Field Dice requirement: 10x Stinger.
+1x Micro-Converter
+Fact: 1x Micro-Converter requirement: 70,000,000 Honey.
+Fact: 1x Micro-Converter requirement: 90x Royal Jelly.
+* Earn 4 Master Badges.
+Fact: 1x Micro-Converter statistic: * Collect 120,000,000 White Pollen..
+Fact: 1x Micro-Converter statistic: * Collect 100,000,000 Pollen from the Pumpkin Patch..
+Fact: 1x Micro-Converter statistic: * Collect 80,000,000 Pollen from the Blue Flower Field..
+* Collect 25,000,000 Goo.
+* Collect 200 Pineapples Tokens.
+* Collect 80 Tokens from Sparkles.
+* Donate 5 Oils to the Wind Shrine.
+* Match 10 Pairs in Memory Match Games.
+* Strawberry Badge - Master
+* Bamboo Badge - Master
+* Pumpkin Badge - Master
+Fact: * Pumpkin Badge - Master requirement: 80,000,000 Honey.
+Fact: * Pumpkin Badge - Master requirement: 1x Glitter.
+Fact: * Pumpkin Badge - Master requirement: 25x Moon Charm.
+10x Jelly Beans
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 1x Blueberry.
+Fact: 1x Magic Bean requirement: 100x Royal Jelly.
+* Earn 6 Master Badges.
+Fact: 1x Magic Bean statistic: * Collect 140,000,000 White Pollen..
+Fact: 1x Magic Bean statistic: * Collect 160,000,000 Pollen from the Rose Field..
+Fact: 1x Magic Bean statistic: * Collect 60,000,000 Pollen from the Pineapple Patch..
+Fact: 1x Magic Bean statistic: * Collect 20,000,000 Pollen from the Stump Field..
+* Collect 15,000,000 Goo from Red Flowers.
+* Use 10 Field Dice.
+* Feed 500 Treats to your Bees.
+* Complete 1 Polar Bear Quest.
+* Collect 200 Tokens from Sprouts.
+* Donate 3 Blue Extracts to the Wind Shrine.
+* Donate 3 Red Extracts to the Wind Shrine.
+Fact: 1x Magic Bean requirement: 1x Glitter.
+Fact: 1x Magic Bean requirement: x25 Moon Charms.
+Fact: 1x Magic Bean requirement: 100x Gumdrops.
+5x Micro-Converters
+120x Royal Jellies
+* Earn 10 Master Badges.
+Fact: 120x Royal Jellies statistic: * Collect 150,000,000 White Pollen..
+Fact: 120x Royal Jellies statistic: * Collect 150,000,000 Pollen from the Mountain Top Field..
+Fact: 120x Royal Jellies statistic: * Collect 50,000,000 Pollen from the Clover Field..
+Fact: 120x Royal Jellies statistic: * Collect 50,000,000 Pollen from the Sunflower Field..
+* Collect 20,000,000 Goo from White Flowers.
+* Collect 250 Tokens from Wild Windy Bee.
+* Share 100 Jelly Bean Tokens.
+* Donate 5 Red Extracts to the Wind Shrine.
+* Donate 5 Blue Extracts to the Wind Shrine.
+1x Spirit Petal
+* Earn 11 Master Badges.
+Fact: 1x Spirit Petal statistic: * Collect 180,000,000 White Pollen..
+Fact: 1x Spirit Petal statistic: * Collect 150,000,000 Pollen from the Bamboo Field..
+Fact: 1x Spirit Petal statistic: * Collect 90,000,000 Pollen from the Spider Field..
+* Collect 20,000,000 Goo from Blue Flowers.
+* Collect 1,000 Honey Tokens.
+* Collect 100 Tokens from Leaves.
+* Donate 500 Sunflower Seeds to the Wind Shrine.
+* Use the Wealth Clock 3 Times.
+* Match 10 Pairs in Memory Match Games.
+Play Memory Match (Upon receiving quest)
+* Strawberry Badge - Master
+* Bamboo Badge - Master
+* Pumpkin Badge - Master
+Fact: * Pumpkin Badge - Master requirement: 100,000,000 Honey.
+Fact: * Pumpkin Badge - Master requirement: 2x Glitter.
+Fact: * Pumpkin Badge - Master requirement: 30x Moon Charm.
+3x Magic Bean
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 120x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 200,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 160,000,000 Pollen from the Pumpkin Patch..
+Fact: 5x Micro-Converter statistic: * Collect 120,000,000 Pollen from the Mushroom Field..
+* Collect 15,000,000 Goo from the Mushroom Field.
+* Collect 100 Inspire Tokens.
+* Use 1 Magic Beans.
+* Collect 400 Tokens from Sprout.
+* Share 50 Jelly Bean Tokens.
+* Donate 10 Red Extracts to the Wind Shrine.
+Fact: 5x Micro-Converter requirement: 100,000,000 Honey.
+Fact: 5x Micro-Converter requirement: 2x Glitter.
+Fact: 5x Micro-Converter requirement: 30x Moon Charm.
+Fact: 5x Micro-Converter requirement: 250x Gumdrops.
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 500x Pineapple.
+Fact: 5x Micro-Converter requirement: 140x Royal Jelly.
+* Earn 13 Master Badges.
+Fact: 5x Micro-Converter statistic: * Collect 230,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 220,000,000 Pollen from the Pine Tree Forest..
+Fact: 5x Micro-Converter statistic: * Collect 200,000,000 Pollen from the Pineapple Patch..
+* Collect 40,000,000 Goo.
+* Collect 150 Tokens from Sparkles.
+* Use the Moon Amulet Generator 1 Time.
+* Use the Sprout Summoner 1 Time.
+* Use the Honeystorm 1 Time.
+* Donate 10 Blue Extracts to the Wind Shrine.
+Fact: 5x Micro-Converter requirement: 100,000,000 Honey.
+Fact: 5x Micro-Converter requirement: 2x Glitter.
+10x Jelly Beans
+5x Magic Bean
+1x Night Bell
+Fact: 1x Night Bell requirement: 300x Pineapple.
+Fact: 1x Night Bell requirement: 160x Royal Jelly.
+* Earn 14 Master Badges.
+Fact: 1x Night Bell statistic: * Collect 250,000,000 White Pollen..
+Fact: 1x Night Bell statistic: * Collect 260,000,000 Pollen from the Cactus Field..
+Fact: 1x Night Bell statistic: * Collect 180,000,000 Pollen from the Blue Flower Field..
+* Collect 25,000,000 Goo from Red Flowers.
+* Collect 400 Blueberries Tokens.
+* Use 3 Cloud Vials.
+* Donate 1 Gold Egg to the Wind Shrine.
+Fact: 1x Night Bell requirement: 2x Glitter.
+Fact: 1x Night Bell requirement: 50x Moon Charm.
+1x Cloud Vial
+Fact: 1x Cloud Vial requirement: 25x Coconut.
+Fact: 1x Cloud Vial requirement: 180x Royal Jelly.
+* Earn 15 Master Badges.
+Fact: 1x Cloud Vial statistic: * Collect 300,000,000 White Pollen..
+Fact: 1x Cloud Vial statistic: * Collect 150,000,000 Pollen from the Coconut Field..
+Fact: 1x Cloud Vial statistic: * Collect 150,000,000 Pollen from the Rose Field..
+Fact: 1x Cloud Vial statistic: * Collect 100,000,000 Pollen from the Dandelion Field..
+* Collect 15,000,000 Goo from the Dandelion Field.
+* Collect 500 Treats Tokens.
+* Collect 25 Royal Jellies Tokens.
+* Collect 250 Tokens from Leaves.
+* Share 150 Jelly Bean Tokens.
+Fact: 1x Cloud Vial requirement: 2x Glitter.
+Fact: 1x Cloud Vial requirement: 2x Star Jelly.
+5x Field Dice
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 10x Coconut.
+Fact: 5x Micro-Converter statistic: * Collect 350,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 300,000,000 Pollen from the Mountain Top Field..
+Fact: 5x Micro-Converter statistic: * Collect 150,000,000 Pollen from the Spider Field..
+* Collect 30,000,000 Goo from White Flowers.
+* Collect 150 Inspire Tokens.
+* Collect 1,500 Honey Tokens.
+* Donate 500 Blueberries to the Wind Shrine.
+* Donate 1 Oil to the Wind Shrine.
+Fact: 5x Micro-Converter requirement: 150,000,000 Honey.
+Fact: 5x Micro-Converter requirement: 2x Glitter.
+Fact: 5x Micro-Converter requirement: 50x Moon Charm.
+1x Cloud Vial
+10x Jelly Beans
+Fact: 10x Jelly Beans requirement: 100x Pineapple.
+Fact: 10x Jelly Beans requirement: 200x Royal Jelly.
+Fact: 10x Jelly Beans statistic: * Collect 400,000,000 White Pollen..
+Fact: 10x Jelly Beans statistic: * Collect 300,000,000 Pollen from the Pepper Patch..
+Fact: 10x Jelly Beans statistic: * Collect 250,000,000 Pollen from the Pumpkin Patch..
+* Collect 50,000,000 Goo from Red Flowers.
+* Use 5 Red Extracts.
+* Catch 20 Falling Coconuts.
+* Collect 300 Sunflower Seeds Tokens.
+* Collect 300 Pineapples Tokens.
+* Use the Wealth Clock 3 Times.
+* Match 10 Pairs in Memory Match Games.
+* Donate 5 Tropical Drinks to the Wind Shrine.
+* Strawberry Badge - Master
+* Bamboo Badge - Master
+* Pumpkin Badge - Master
+Fact: * Pumpkin Badge - Master requirement: 150,000,000 Honey.
+Fact: * Pumpkin Badge - Master requirement: 100x Moon Charm.
+5x Magic Bean
+5x Micro-Converter
+5x Field Dice
+Fact: 5x Field Dice requirement: 220x Royal Jelly.
+Fact: 5x Field Dice statistic: * Collect 450,000,000 White Pollen..
+Fact: 5x Field Dice statistic: * Collect 400.000.000 Pollen from the Pine Tree Forest..
+Fact: 5x Field Dice statistic: * Collect 300,000,000 Pollen from the Bamboo Field..
+* Collect 25,000,000 Goo from the Stump Field.
+* Use 5 Blue Extracts.
+* Use 10 Field Dice.
+* Collect 600 Tokens from Sprouts.
+* Donate 1 Basic Egg to the Wind Shrine.
+* Donate 5,000 Treats to the Wind Shrine.
+Fact: 5x Field Dice requirement: 150,000,000 Honey.
+Fact: 5x Field Dice requirement: 2x Glitter.
+10x Magic Bean
+Fact: 10x Magic Bean requirement: 100x Gumdrops.
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 240x Royal Jelly.
+Fact: 5x Micro-Converter statistic: * Collect 500,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 300,000,000 Pollen from the Mushroom Field..
+Fact: 5x Micro-Converter statistic: * Collect 250,000,000 Pollen from the Sunflower Field..
+* Collect 150,000,000 Goo.
+* Collect 50,000,000 Goo from White Flowers.
+* Collect 300 Sunflower Seeds Tokens.
+* Collect 30 Gumdrops Tokens.
+* Collect 200 Tokens from Sparkles.
+* Donate 3 Glues to the Wind Shrine.
+* Donate 300 Sunflower Seeds to the Wind Shrine.
+Fact: 5x Micro-Converter requirement: 2x Glitter.
+Fact: 5x Micro-Converter requirement: 50x Moon Charm.
+Fact: 5x Micro-Converter requirement: 250x Gumdrops.
+5x Jelly Beans
+Fact: 5x Jelly Beans requirement: 250x Royal Jelly.
+Fact: 5x Jelly Beans statistic: * Collect 500,000,000 White Pollen..
+Fact: 5x Jelly Beans statistic: * Collect 1,000,000,000 Pollen from the Mountain Top Field..
+Fact: 5x Jelly Beans statistic: * Collect 250,000,000 Pollen from the Coconut Field..
+Fact: 5x Jelly Beans statistic: * Collect 150,000,000 Pollen from the Dandelion Field..
+* Collect 100,000,000 Goo.
+* Collect 2,000 Honey Tokens.
+* Collect 500 Tokens from Wild Windy Bee.
+* Share 200 Jelly Bean Tokens.
+Fact: 5x Jelly Beans requirement: 300,000,000 Honey.
+1x Spirit Petal
+Fact: 1x Spirit Petal requirement: 3x Glitter.
+Fact: 1x Spirit Petal statistic: * Collect 700,000,000 White Pollen..
+Fact: 1x Spirit Petal statistic: * Collect 500,000,000 Pollen from the Pineapple Patch..
+Fact: 1x Spirit Petal statistic: * Collect 400,000,000 Pollen from the Clover Field..
+* Collect 60,000,000 Goo from Blue Flowers.
+* Collect 1 Oil Token.
+* Collect 800 Tokens from Sprouts.
+* Feed 250 Blueberries to your Bees.
+* Donate 1 Gold Egg to the Wind Shrine.
+* Donate 10 Oils to the Wind Shrine.
+* Match 15 Pairs in Memory Match Games.
+Fact: 1x Spirit Petal requirement: 3x Glitter.
+Fact: 1x Spirit Petal requirement: 1x Star Jelly.
+10x Jelly Beans
+5x Magic Bean
+Fact: 5x Magic Bean requirement: 5x Enzymes.
+Fact: 5x Magic Bean requirement: 250x Pineapple.
+Fact: 5x Magic Bean statistic: * Collect 1,000,000,000 White Pollen..
+Fact: 5x Magic Bean statistic: * Collect 800,000,000 Pollen from the Strawberry Field..
+Fact: 5x Magic Bean statistic: * Collect 700,000,000 Pollen from the Cactus Field..
+* Collect 100,000,000 Goo from Red Flowers.
+* Collect 1 Red Extract Token.
+* Collect 300 Tokens from Leaves.
+* Use 10 Field Dice.
+* Use the Moon Amulet Generator 1 Time.
+* Use the Wealth Clock 5 Times.
+* Donate 50 Royal Jellies to the Wind Shrine.
+* Donate 10 Red Extracts to the Wind Shrine.
+Fact: 5x Magic Bean requirement: 3x Glitter.
+Fact: 5x Magic Bean requirement: 1x Star Jelly.
+Fact: 5x Magic Bean requirement: 15x Stinger.
+5x Magic Bean
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 200x Moon Charm.
+Fact: 5x Micro-Converter statistic: * Collect 1,300,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 1,000,000,000 Pollen from the Rose Field..
+Fact: 5x Micro-Converter statistic: * Collect 700,000,000 Pollen from the Stump Field..
+* Collect 200,000,000 Goo from White Flowers.
+* Collect 50 Gumdrop Tokens.
+* Collect 1 Glue Token.
+* Use 3 Cloud Vials.
+* Donate 3 Cloud Vials to the Wind Shrine.
+* Donate 10 Glues to the Wind Shrine.
+Fact: 5x Micro-Converter requirement: 3x Glitter.
+Fact: 5x Micro-Converter requirement: 2x Star Jelly.
+10x Magic Bean
+10x Micro-Converter
+10x Cloud Vial
+Fact: 10x Cloud Vial requirement: 100x Moon Charm.
+Fact: 10x Cloud Vial statistic: * Collect 1,600,000,000 White Pollen..
+Fact: 10x Cloud Vial statistic: * Collect 800,000,000 Pollen from the Pumpkin Patch..
+Fact: 10x Cloud Vial statistic: * Collect 700,000,000 Pollen from the Blue Flower Field..
+* Collect 100,000,000 Goo from the Mountain Top Field.
+* Collect 1,000 Treats Tokens.
+* Collect 250 Tokens from Sparkles.
+* Collect 250 Inspire Tokens.
+* Donate 1,000 Sunflower Seeds to the Wind Shrine.
+* Donate 10 Red Extracts to the Wind Shrine.
+Fact: 10x Cloud Vial requirement: 3x Glitter.
+Fact: 10x Cloud Vial requirement: 1x Star Jelly.
+Fact: 10x Cloud Vial requirement: 250x Moon Charm.
+10x Jelly Beans
+5x Field Dice
+Summons Wild Windy Bee
+Fact: Summons Wild Windy Bee statistic: * Collect 2,000,000,000 White Pollen..
+Fact: Summons Wild Windy Bee statistic: * Collect 1,200,000,000 Pollen from the Clover Field..
+Fact: Summons Wild Windy Bee statistic: * Collect 1,000,000,000 Pollen from the Coconut Field..
+Fact: Summons Wild Windy Bee statistic: * Collect 500,000,000 Pollen from the Sunflower Field..
+* Collect 80,000,000 Goo from the Sunflower Field.
+* Catch 50 Falling Coconuts.
+* Feed 1,000 Sunflower Seeds to your Bees.
+* Collect 350 Tokens from Leaves.
+* Share 250 Jelly Bean Tokens.
+* Donate 1 Basic Egg to the Wind Shrine.
+Fact: Summons Wild Windy Bee requirement: 5x Glitter.
+Fact: Summons Wild Windy Bee requirement: 3x Star Jelly.
+5x Cloud Vial
+5x Field Dice
+5x Micro-Converter
+Fact: 5x Micro-Converter requirement: 100x Gumdrops.
+* Earn 1 Grandmaster Badge.
+Fact: 5x Micro-Converter statistic: * Collect 3,000,000,000 White Pollen..
+Fact: 5x Micro-Converter statistic: * Collect 2,000,000,000 Pollen from the Pine Tree Forest..
+Fact: 5x Micro-Converter statistic: * Collect 1,300,000,000 Pollen from the Cactus Field..
+Fact: 5x Micro-Converter statistic: * Collect 1,000,000,000 Pollen from the Spider Field..
+* Collect 300,000,000 Goo from Blue Flowers.
+* Collect 2,000 Tokens from Stick Nymphs.
+* Collect 3,000 Honey Tokens .
+* Feed 1,000 Pineapples to your Bees.
+* Donate 25 Oils to the Wind Shrine.
+* Match 25 Pairs in Memory Match Games.
+* Strawberry Badge - Master
+* Bamboo Badge - Master
+* Pumpkin Badge - Master
+Start Stick Bug Challenge (upon receiving quest)
+Fact: * Pumpkin Badge - Master requirement: 2,500,000,000 Honey.
+Fact: * Pumpkin Badge - Master requirement: 5x Glitter.
+Fact: * Pumpkin Badge - Master requirement: 3x Star Jelly.
+Fact: * Pumpkin Badge - Master requirement: 250x Gumdrops.
+10x Micro-Converter
+10x Jelly Beans
+Fact: 10x Jelly Beans requirement: 25x Enzymes.
+* Earn 2 Grandmaster Badges.
+Fact: 10x Jelly Beans statistic: * Collect 4,000,000,000 White Pollen..
+Fact: 10x Jelly Beans statistic: * Collect 2,400,000,000 Pollen from the Strawberry Field..
+Fact: 10x Jelly Beans statistic: * Collect 1,800,000,000 Pollen from the Pineapple Patch..
+Fact: 10x Jelly Beans statistic: * Collect 1,000,000,000 Pollen from the Stump Field..
+* Collect 400,000,000 Goo from Red Flowers.
+* Feed 1,000 Strawberries to your Bees.
+* Collect 5 Enzymes Tokens.
+* Collect 100 Gumdrops Tokens.
+* Collect 1,000 Tokens from Sprouts.
+* Use the Moon Amulet Generator 1 Time.
+* Use the Wealth Clock 5 Times.
+* Donate 25 Blue Extracts to the Wind Shrine.
+Fact: 10x Jelly Beans requirement: 5x Glitter.
+Fact: 10x Jelly Beans requirement: 4x Star Jelly.
+10x Magic Bean
+10x Field Dice
+10x Jelly Beans
+10x Micro-Converter
+5x Tropical Drink
+* Earn 3 Grandmaster Badges.
+Fact: 5x Tropical Drink statistic: * Collect 6,000,000,000 White Pollen..
+Fact: 5x Tropical Drink statistic: * Collect 3,000,000,000 Pollen from the Pumpkin Patch..
+Fact: 5x Tropical Drink statistic: * Collect 3.000.000.000 Pollen from the Mushroom Field.
+Fact: 5x Tropical Drink statistic: * Collect 2,000,000,000 Pollen from the Rose Field..
+* Collect 300,000,000 Goo from the Pumpkin Patch.
+* Feed 1,000 Sunflower Seeds to your Bees.
+* Collect 5 Oils Tokens.
+* Catch 100 Falling Coconuts.
+* Collect 500 Inspire Tokens.
+* Donate 1,500 Strawberries to the Wind Shrine.
+* Donate 1 Basic Egg to the Wind Shrine.
+* Donate 1 Silver Egg to the Wind Shrine.
+* Donate 1 Gold Egg to the Wind Shrine.
+Fact: 5x Tropical Drink requirement: 5x Glitter.
+Fact: 5x Tropical Drink requirement: 5x Star Jelly.
+Fact: 5x Tropical Drink requirement: 150x Moon Charms.
+15x Micro-Converter
+10x Jelly Beans
+* Earn 4 Grandmaster Badges.
+Fact: 10x Jelly Beans statistic: * Collect 8,000,000,000 White Pollen..
+Fact: 10x Jelly Beans statistic: * Collect 6,000,000,000 Pollen from the Pepper Patch..
+Fact: 10x Jelly Beans statistic: * Collect 5,000,000,000 Pollen from the Bamboo Field..
+Fact: 10x Jelly Beans statistic: * Collect 2,000,000,000 Pollen from the Blue Flower Field..
+* Collect 1,000,000,000 Goo.
+* Feed 1,000 Blueberries to your bees.
+* Use 20 Field Dice.
+* Collect 5 Red Extracts Tokens.
+* Collect 5 Blue Extracts Tokens.
+* Collect 500 Tokens from Leaves.
+* Donate 25 Glues to the Wind Shrine.
+* Donate 25 Tropical Drinks to the Wind Shrine.
+* Match 25 Pairs in Memory Match Games.
+Fact: 10x Jelly Beans requirement: 500x Pineapple (Upon receiving quest).
+Fact: 10x Jelly Beans requirement: 500x Sunflower Seed (Upon receiving quest).
+Fact: 10x Jelly Beans requirement: 500x Gumdrops (Upon receiving quest).
+Play Memory Match (Upon receiving quest)
+* Strawberry Badge - Master
+* Bamboo Badge - Master
+* Pumpkin Badge - Master
+Fact: * Pumpkin Badge - Master requirement: 7,000,000,000 honey.
+Fact: * Pumpkin Badge - Master requirement: 5x Glitter.
+Fact: * Pumpkin Badge - Master requirement: 5x Star Jelly.
+50x Magic Bean
+Fact: 50x Magic Bean requirement: 250x Moon Charm.
+Fact: 50x Magic Bean requirement: 250x Gumdrops.
+15x Micro-Converter
+10x Field Dice
+* Earn 4 Grandmaster Badges.
+Fact: 10x Field Dice statistic: * Collect 8,000,000,000 White Pollen..
+Fact: 10x Field Dice statistic: * Collect 5,000,000,000 Pollen from the Pepper Patch..
+Fact: 10x Field Dice statistic: * Collect 4,000,000,000 Pollen from the Bamboo Field..
+Fact: 10x Field Dice statistic: * Collect 2,000,000,000 Pollen from the Blue Flower Field..
+* Collect 1,000,000,000 Goo.
+* Feed 1,000 Blueberries to your bees.
+* Use 20 Field Dice.
+* Collect 5 Red Extracts Tokens.
+* Collect 5 Blue Extracts Tokens.
+* Collect 1,000 Tokens from Leaves.
+* Donate 25 Glues to the Wind Shrine.
+* Donate 25 Tropical Drinks to the Wind Shrine.
+* Match 25 Pairs in Memory Match Games.
+Fact: 10x Field Dice requirement: 500x Pineapple (Upon receiving quest).
+Fact: 10x Field Dice requirement: 500x Sunflower Seed (Upon receiving quest).
+Fact: 10x Field Dice requirement: 500x Gumdrops (Upon receiving quest).
+Play Memory Match (Upon receiving quest)
+* Strawberry Badge - Master
+* Bamboo Badge - Master
+* Pumpkin Badge - Master
+Fact: * Pumpkin Badge - Master requirement: 7,000,000,000 honey.
+Fact: * Pumpkin Badge - Master requirement: 5x Glitter.
+Fact: * Pumpkin Badge - Master requirement: 5x Star Jelly.
+50x Magic Bean
+Fact: 50x Magic Bean requirement: 250x Moon Charm.
+Fact: 50x Magic Bean requirement: 250x Gumdrops.
+15x Micro-Converter
+10x Field Dice
+* Earn 5 Grandmaster Badges.
+Fact: 10x Field Dice statistic: * Collect 10,000,000,000 White Pollen..
+Fact: 10x Field Dice statistic: * Collect 10,000,000,000 Pollen from the Mountain Top Field..
+Fact: 10x Field Dice statistic: * Collect 6,000,000,000 Pollen from the Coconut Field..
+Fact: 10x Field Dice statistic: * Collect 4,000,000,000 Pollen from the Stump Field..
+Fact: 10x Field Dice statistic: * Collect 3,000,000,000 Pollen from the Dandelion Field..
+* Collect 1,000,000,000 Goo from White Flowers.
+* Share 500 Jelly Bean Tokens.
+* Collect 100 Royal Jellies Tokens.
+* Collect 1000 Tokens from Wild Windy Bee.
+* Donate 50 Cloud Vials to the Wind Shrine.
+Fact: 10x Field Dice requirement: 5x Glitter.
+Fact: 10x Field Dice requirement: 5x Star Jelly.
+1 Spirit Petal
+Dapper Bear is the eighth quest-giver available in the game. His quests mainly focus on collecting nectar, collecting tokens from planters, and popping Puffshrooms.
+Fact: The Quest Name in Quests has/costs Requirements, Rewards.
+* Collect 1 Hour of Nectar.
+Fact: Quest Name statistic: * Collect 2,000,000 Pollen from the Pineapple Patch..
+* Collect 25 Tokens from Planters.
+Fact: Quest Name requirement: x1 Ticket Planter.
+Fact: Quest Name requirement: x10 Honeysuckles.
+x5 Whirligigs
+Fact: x5 Whirligigs requirement: x1 Royal Jelly.
+* Collect 2 Hours of Motivating Nectar.
+Fact: x5 Whirligigs statistic: * Collect 4,000,000 Pollen from the Spider Field..
+* Collect 25 Tokens from Planters in the Mushroom Field.
+* Collect 25 Tokens from Planters in the Spider Field.
+* Collect 10 Bitterberry Tokens.
+Fact: x5 Whirligigs requirement: 1x Beequip Case Slot (or x1 Ticket Planter if player already had atleast 6 slots).
+Fact: x5 Whirligigs requirement: x3 Soft Waxes.
+x5 Jelly Beans
+Fact: x5 Jelly Beans requirement: x1 Royal Jelly.
+* Collect 4 Hours of Invigorating Nectar.
+Fact: x5 Jelly Beans statistic: * Collect 8,000,000 Red Pollen..
+* Collect 10 Soft Waxes.
+* Pop 100 Bubbles.
+* Pop 25 Puffshrooms.
+Fact: x5 Jelly Beans requirement: x1 Ticket Planter.
+x100 Treats
+Fact: x100 Treats requirement: x10 Honeysuckles.
+x10 Neonberries
+x3 Field Dice
+* Collect 6 Hours of Satisfying Nectar.
+Fact: x3 Field Dice statistic: * Collect 13,000,000 Pollen from the Cactus Field..
+* Collect 25 Strawberries from Planters.
+* Use 5 Soft Waxes.
+* Use 1 Hard Wax.
+* Purchase 1 Beequip from Dapper Bear's Shop.
+* Equip 5 Beequips to Bees in your Hive.
+Fact: x3 Field Dice requirement: 1x Beequip Case Slot (or x1 Ticket Planter if player already had atleast 7 slots).
+Fact: x3 Field Dice requirement: x3 Hard Waxes.
+x10 Whirligigs
+x3 Micro-Converters
+x3 Royal Jellies
+* Collect 2 Hours of Comforting Nectar.
+* Collect 2 Hours of Satisfying Nectar.
+* Collect 2 Hours of Refreshing Nectar.
+* Collect 2 Hours of Invigorating Nectar.
+* Collect 2 Hours of Motivating Nectar.
+* Collect 10 Neonberries.
+* Give a Bee a Mutation 1 Time.
+* Pop 5 Rare Puffshrooms.
+* Pop 1 Level 8+ Puffshroom.
+Fact: x3 Royal Jellies requirement: x3 Ticket Planters.
+x1 Satisfying Vial
+Fact: x1 Satisfying Vial requirement: x25 Honeysuckles.
+x3 Smooth Dice
+x3 Pink Balloons
+Fact: x3 Pink Balloons requirement: x1 Swirled Wax.
+Fact: x3 Pink Balloons requirement: x1 Star Jelly.
+* Collect 10 Hours of Comforting Nectar.
+* Collect 10,000,000 Goo.
+* Collect 25 Gumdrops from Planters.
+* Collect 250 Gumdrops.
+* Use 10 Field Dice.
+* Use 1 Tropical Drink.
+* Complete 1,000 Honey Conversion Links.
+* Pop 30 Puffshrooms in the Clover Field.
+Fact: x3 Pink Balloons requirement: 1x Beequip Case Slot (or x1 Ticket Planter if player already had atleast 8 slots).
+x1 Comforting Vial
+x500 Treats
+x10 Neonberries
+x1 Red Balloon
+Fact: x1 Red Balloon requirement: x3 Hard Waxes.
+Fact: x1 Red Balloon requirement: x1 Purple Potion.
+* Collect 12 Hours of Refreshing Nectar.
+Fact: x1 Red Balloon statistic: * Collect 20,000,000 Pollen from the Strawberry Field..
+Fact: x1 Red Balloon statistic: * Collect 20,000,000 Pollen from the Bamboo Field..
+* Collect 100 Blueberries from Planters.
+* Collect 100 Strawberries from Planters.
+* Feed 500 Blueberries to your Bees.
+* Feed 500 Strawberries to your Bees.
+* Purchase 3 Beequips from Dapper Bear's Shop.
+* Pop 1 Rare Puffshroom from the Strawberry Field.
+* Pop 1 Rare Puffshroom from the Bamboo Field.
+* Collect 16 Hours of Motivating Nectar.
+Fact: x1 Red Balloon statistic: * Collect 70,000,000 Blue Pollen..
+* Collect 30 Tokens from Planters in the Stump Field.
+* Collect 30 Tokens from Planters in the Rose Field
+* Collect 5,000 Boost Tokens.
+* Collect 100 Inspire Tokens.
+* Use 25 Field Dice.
+* Collect 20 Neonberries.
+* Grant a Bee a Mutation 2 times.
+* Pop 500 Puffshrooms.
+* Pop 1 Level 9+ Puffshroom.
+* Collect 1 Day of Nectar
+Fact: * Collect 1 Day of Nectar statistic: * Collect 50,000,000 Pollen from the Pine Tree Forest.
+Fact: * Collect 1 Day of Nectar statistic: * Collect 50,000,000 Pollen from the Pumpkin Patch.
+* Collect 25 Soft Waxes
+* Collect 10 Whirligigs
+* Spawn 1,000 Flames
+* Use 5 Smooth Dice
+* Defeat 10 Vicious Bees
+* Pop 5 Rare Puffshrooms in the Cactus Field
+* Collect 8 Hours of Comforting Nectar
+* Collect 8 Hours of Satisfying Nectar
+* Collect 8 Hours of Refreshing Nectar
+* Collect 8 Hours of Invigorating Nectar
+* Collect 8 Hours of Motivating Nectar
+* Collect 3 Red Extracts from Planters
+* Collect 3 Blue Extracts from Planters
+* Collect 3 Oils from Planters
+* Collect 3 Enzymes from Planters
+* Use 10 Hard Waxes
+* Give a Bee a Mutation 3 times
+* Pop 1 Epic Puffshroom
+Sticker Seeker, Quest Bees & Onett[]
+Quest Bees are a variant of quest givers that are based of different types of bees. Onett is a quest giver who is a NPC version of the developer.
+* Sticker Seeker Quest Machine
+* Gifted Bucko Bee
+* Gifted Riley Bee
+* Honey Bee
+Obtaining and turning in quests from this quest giver require the player to have the Sticker-Seeker equipped.
+The only quest it can give is 🔎 Sticker-Seeker: Rank _X_ , where _X_ represents the quest's rank, or the player's rank plus 1.
+2 requirements will always show up in this quest:
+Requirements
+* Find a number of Seeker Stickers Hidden _[sic]_ in [any number of any bee zones, which can also include shops, or HQ's].
+* The amount of Seeker Stickers to find depends on the player's rank:
+* Rank 1-4: 2 Seeker Stickers
+* Rank 5-10: 3 Seeker Stickers
+* Rank 11-20: 4 Seeker Stickers
+* Rank 21-499: 5 Seeker Stickers
+* Rank 500 and onwards: 6 Seeker Stickers
+* They may be hidden in multiple zones, including:
+* The Starter Zone
+* 5 Bee Zone
+* 10 Bee Zone
+* 15 Bee Zone
+* 20 Bee Zone
+* 25 Bee Zone (On rank 11 and onwards)
+* 30 Bee Zone (On rank 40 and onwards)
+* 35 Bee Zone (On rank 80 and onwards)
+* Collect  P ( X )   pollen with the Sticker-Seeker.
+* P ( X )   is equal to  p ( X ) = 100000 + 99900000 ⋅ ( X − 1 499 ) 2.25 + 25000 ⋅ ( X − 1 ) + Δ ( X ) {499}}\right)^{2.25}+25000\cdot (X-1)+\Delta (X)} , floored to the nearest  S ( p ( X ) )  .
+* _X_ represents the quest's rank, or the player's rank plus 1.
+* Δ ( X )   is equal to:
+* _0_ if  500 < X
+* 1000000 ∗ ( X − 500 )   otherwise
+* S ( p ( X ) )   is equal to:
+* _50000_ if  p ( X ) ≥ 1 , 000 , 000
+* _25000_ if  500 , 000 ≤ p ( X ) < 1 , 000 , 000
+* _10000_ if  100 , 000 ≤ p ( X ) < 500 , 000
+* _5000_ if  25 , 000 ≤ p ( X ) < 100 , 000
+* _1000_ if  p ( X ) < 25 , 000
+On every 10th quest, there is also an extra requirement:
+Requirements
+* Add _X_ /2] Stickers to the [Sticker Stack.
+The remaining requirements are randomly picked from a pool.
+The number of extra requirements given starts at 1, increases to 2 at quest 100, and finally to 3 at quest 250.
+Below is a list of all possible requirements:
+Requirements
+_Note: For requirements with two given values, use the first value for any quest between 1 and 149, and the second value for any quest from 150 onwards._
+* Collect 6 or 20 Stickers (without Trading).
+* Collect 3 or 12 Rainbow Sticker Tokens.
+* Collect 1 or 5 Stickers spawned by your Tool while Gathering.
+* Collect 1 or 3 Stickers found by your Bees while Gathering.
+* Collect 1 or 3 Stickers from Planters.
+* Collect 1 or 3 Stickers from Sprouts.
+* Collect 1 or 2 Stickers from Puffshrooms.
+* Collect a Sticker from Fireflies.
+* Collect a Sticker from Leaves.
+* Collect a Sticker from the Public Sticker Board.
+* Collect a Sticker from Wild Windy Bee.
+* Discard 5 or 25 Stickers.
+* Donate 1 or 7 Stickers to the Public Sticker Board.
+* Find 7 or 8 Hidden Stickers on Surfaces around the Map.
+* Print 1 or 3 Stickers with the Sticker Printer.
+Gifted Bucko Bee is one of the three permanent quest bees. Its quests consist largely of pollen collection from blue fields, defeating blue themed mobs, and collecting/feeding blueberries. Like the other quest bees, it only gives repeatable quests that scale in difficulty. It is located in the Blue HQ.
+Potential Quests[]
+Fact: The Quest Name in Quests has/costs Requirements.
+* Collect 985 + 15 _X_] blue [ability tokens.
+* Collect 5,000,000 _X_] [pollen from the Bamboo Field.
+* Collect [395 + 5 _X_] Bomb Tokens.
+* Defeat 10 Rhino Beetles.
+* Defeat 20 Ants.
+* Defeat 10 Army Ants.
+* Collect [495 + 5 _X_] Blue Boost Tokens.
+* Use the Blue Field Booster 1 time.
+* Collect 250,000 _X_] [goo from the Blue Flower Field.
+* Collect [250,000 _X_] goo from the Bamboo Field.
+* Collect 250,000 _X_] goo from the [Pine Tree Forest.
+* Collect 1,000,000 _X_] blue pollen from the [Clover Field.
+* Collect 1,000,000 _X_] blue pollen from the [Cactus Field.
+* Collect 1,000,000 _X_] blue pollen from the [Pumpkin Patch.
+* Collect [3,000,000 _X_] from the Blue Flower Field.
+* Collect [2,500,000 _X_] goo from blue flowers.
+* Collect [245 + 5 _X_] blue ability tokens.
+* Collect [500,000 _X_] goo from the Bamboo Field.
+* Collect [3,000,000 _X_] pollen from the Pine Tree Forest.
+* Collect [1,000,000 _X_] pollen from the Blue Flower Field.
+Fact: Quest Name requirement: * Collect [25 + 5 _Y_] blueberry tokens..
+* Feed 25 blueberries to your bees.
+* Defeat [10 + 5 _Y_] Ants.
+* Defeat [5 + 5 _Y_] Army Ants.
+* Collect [7,500,000 _X_] pollen from the Pine Tree Forest.
+* Collect [10,000,000 _X_] blue pollen.
+* Collect [2,500,000 _X_] blue pollen.
+* Collect [495 + 5 _X_] blue ability tokens.
+Fact: Quest Name requirement: * Collect [25 + 10 _Y_] blueberry tokens..
+* Collect [1,250,000 _X_] pollen from the Blue Flower Field.
+* Defeat 10 Rhino Beetles.
+* Collect [2,500,000 _X_] blue pollen.
+* Collect [495 + 5 _X_] blue ability tokens.
+* Defeat 5 Mantises.
+* Collect [1,000,000 _X_] pollen from the Blue Flower Field.
+* Collect [1,000,000 _X_] pollen from the Bamboo Field.
+* Collect [1,000,000 _X_] pollen from the Pine Tree Forest.
+* Defeat 5 Rhino Beetles.
+* Defeat 3 Mantis.
+Gifted Riley Bee is one of the three permanent quest bees. Its quests consist largely of pollen collection from red fields, defeating red themed mobs, and collecting/feeding strawberries. Like the other quest bees, it only gives repeatable quests that scale in difficulty. It is located in the Red HQ.
+Potential Quests[]
+Fact: The Quest in Quests has/costs Requirements.
+* Collect 985 + 15 _X_] Red [Ability Tokens.
+* Collect [495 + 5 _X_] Red Boost Tokens.
+* Use the Red Field Booster 1 Time.
+* Collect 250,000 _X_] [Goo from the Mushroom Field.
+* Collect 250,000 _X_] Goo from the [Strawberry Field.
+* Collect 250,000 _X_] Goo from the [Rose Field.
+Fact: Quest statistic: * Collect 1,000,000 _X_] Red [Pollen from the Clover Field..
+Fact: Quest statistic: * Collect 1,000,000 _X_] Red Pollen from the [Cactus Field..
+Fact: Quest statistic: * Collect 1,000,000 _X_] Red Pollen from the [Pumpkin Patch..
+* Collect [2,500,000 _X_] Goo from Red Flowers.
+* Collect [245 + 5 _X_] Red Ability Tokens.
+* Collect [500,000 _X_] Goo from the Strawberry Field.
+Fact: Quest statistic: * Collect [3,000,000 _X_] Pollen from the Rose Field..
+* Collect [3,000,000 _X_] from the Mushroom Field.
+Fact: Quest statistic: * Collect [1,000,000 _X_] Pollen from the Mushroom Field..
+Fact: Quest requirement: * Collect [25 + 5 _Y_] Strawberry Tokens..
+* Feed 25 Strawberries to your Bees.
+* Defeat 5 + 10 _Y_] Fire [Ants.
+Fact: Quest statistic: * Collect [10,000,000 _X_] Red Pollen..
+* Collect [24 + _X_] Rage Tokens.
+* Defeat 10 Ladybugs.
+* Defeat [25 + 5 _Z_] Fire Ants.
+Fact: Quest statistic: * Collect [7,500,000 _X_] Pollen from the Rose Field..
+Fact: Quest statistic: * Collect [2,500,000 _X_] Red Pollen..
+* Collect [495 + 5 _X_] Red Ability Tokens.
+Fact: Quest requirement: * Collect [25 + 10 _Y_] Strawberry Tokens..
+Fact: Quest statistic: * Collect [1,250,000 _X_] Pollen from the Mushroom Field..
+* Defeat 10 Ladybugs.
+Fact: Quest statistic: * Collect [5,000,000 _X_] Pollen from the Strawberry Field..
+Fact: Quest statistic: * Collect [2,500,000 _X_] Red Pollen..
+* Collect [495 + 5 _X_] Red Ability Tokens.
+* Defeat 5 Scorpions.
+Fact: Quest statistic: * Collect [1,000,000 _X_] Pollen from the Mushroom Field..
+Fact: Quest statistic: * Collect [1,000,000 _X_] Pollen from the Strawberry Field..
+Fact: Quest statistic: * Collect [1,000,000 _X_] Pollen from the Rose Field..
+* Defeat 5 Ladybugs.
+* Defeat 3 Scorpions.
+Honey Bee "Honey Bee \(NPC\)") is one of the three permanent quest bees. It has repeatable quests which consist of collecting honey tokens, with the difficulty increasing by 500 tokens every quest. It is located on the rock near the Pine Tree Forest.
+Quest Formula[]
+Fact: The Quest Name in Quests has/costs Requirements, Rewards.
+Fact: The Honey Bee's Honey Hunt in Quests has/costs Collect 500 _n_ Honey Tokens [where _n_ is the quest number], ×2 Conversion rate for 30 minutes. Every 10th quest completed rewards a Star Jelly..
+Onett is one of the last quest givers and can be found past the Bear Gate. He hands out 5 quests to the player, which largely consist of collecting pollen in certain fields, collecting goo, collecting a variety of tokens, defeating mobs, and more.
+Star Treat Quests[]
+Fact: The Quest Name in Quests has/costs Requirements, Rewards.
+Fact: Quest Name statistic: * Collect 25,000,000 White Pollen..
+Fact: Quest Name statistic: * Collect 10,000,000 Pollen from the Pumpkin Patch..
+Fact: Quest Name statistic: * Collect 5,000,000 Pollen from the Pineapple Patch..
+Fact: Quest Name statistic: * Collect 2,500,000 Pollen from the Dandelion Field..
+* Collect 1,000,000 Goo from White Flowers.
+* Collect 2,500 Haste Tokens.
+* Collect 100 Honey Tokens.
+* Defeat 10 Giant Ants.
+* Defeat 5 Werewolves.
+Fact: Quest Name requirement: 25x Royal Jelly.
+1,000x Treat
+Fact: 1,000x Treat requirement: 10x Ticket.
+Fact: 1,000x Treat requirement: 25x Pineapple.
+Fact: 1,000x Treat statistic: * Collect 50,000,000 Red Pollen..
+Fact: 1,000x Treat statistic: * Collect 25,000,000 Pollen from the Rose Field..
+Fact: 1,000x Treat statistic: * Collect 12,500,000 Pollen from the Strawberry Field..
+Fact: 1,000x Treat statistic: * Collect 6,250,000 Pollen from the Mushroom Field..
+* Collect 5,000,000 Goo from Red Flowers.
+* Collect 5,000 Red Boost Tokens.
+* Collect 150 Strawberry Tokens.
+* Collect 500 Honey Tokens.
+* Defeat 100 Fire Ants.
+* Defeat 100 Ladybugs.
+* Use the Red Portal 10 Times.
+* Use the Red Field Booster 5 Times.
+Fact: 1,000x Treat requirement: 50x Royal Jelly.
+2,000x Treat
+Fact: 2,000x Treat requirement: 15x Ticket.
+Fact: 2,000x Treat statistic: * Collect 100,000,000 Blue Pollen..
+Fact: 2,000x Treat statistic: * Collect 50,000,000 Pollen from Pine Tree Forest..
+Fact: 2,000x Treat statistic: * Collect 25,000,000 Pollen from Bamboo Field..
+Fact: 2,000x Treat statistic: * Collect 12,500,000 Pollen from Blue Flower Field..
+* Collect 10,000,000 Goo from Blue Flowers.
+* Collect 7,500 Blue Boost Tokens.
+* Collect 250 Blueberry Tokens.
+* Collect 1,000 Honey Tokens.
+* Defeat 200 Flying Ants.
+* Defeat 200 Rhino Beetles.
+* Defeat 1 King Beetle.
+* Use the Blue Portal 20 Times.
+* Use the Blue Field Booster 10 Times.
+Fact: 2,000x Treat requirement: 75x Royal Jelly.
+5,000x Treat
+Fact: 5,000x Treat requirement: 20x Ticket.
+Fact: 5,000x Treat statistic: * Collect 250,000,000 White Pollen..
+* Collect 15,000,000 Goo from the Sunflower Field.
+* Collect 15,000,000 Goo from the Pineapple Patch.
+* Collect 15,000,000 Goo from the Pumpkin Patch.
+* Collect 5,000 Focus Tokens.
+* Collect 5,000 Token Links.
+* Collect 5,000 Honey Tokens.
+* Defeat 150 Army Ants.
+* Defeat 30 Mantises.
+* Defeat 30 Scorpions.
+* Defeat 3 King Beetles.
+* Defeat 1 Tunnel Bear.
+Fact: 5,000x Treat requirement: 100x Royal Jelly.
+7,000x Treat
+Fact: 7,000x Treat requirement: 25x Ticket.
+Fact: 7,000x Treat statistic: * Collect 1,000,000,000 White Pollen..
+Fact: 7,000x Treat statistic: * Collect 1,000,000,000 Red Pollen..
+Fact: 7,000x Treat statistic: * Collect 1,000,000,000 Blue Pollen..
+Fact: 7,000x Treat statistic: * Collect 100,000,000 Pollen from the Spider Field..
+* Collect 25,000,000 Goo from White Flowers.
+* Collect 25,000,000 Goo from the Cactus Field.
+* Collect 25,000,000 Goo from the Clover Field.
+* Collect 100,000 Ability Tokens.
+* Collect 10,000 Bomb Tokens.
+* Collect 1,000 Baby Love Tokens.
+* Collect 10,000 Honey Tokens.
+* Defeat 50 Spiders.
+* Defeat 50 Giant Ants.
+* Defeat 5 King Beetles.
+* Defeat 5 Tunnel Bears.
+10,000x Treat
+Fact: 10,000x Treat requirement: 50x Ticket.
+Temporary Quest Givers[]
+Temporary Quest Givers are quest givers that appear exclusively during an event. Once the event they are in is over, they disappear, along with incomplete quests they gave you.
+* Gummy Bear
+* Bubble Bee Man
+Sun Bear is one of the three traveling bears to appear in the game. He has appeared four times, with his first visit starting on April 27, 2018, to May 13, 2018, where he gave 12 quests and 2 belt bags. His second visit started on September 10, 2018, to October 8, 2018, where he gave 14 quests and 3 boots. His third visit was from September 28, 2019, to October 28, 2019. During that period, he handed out quests that were mainly themed around bean bugs with a final reward of 250 tickets. His fourth and last visit started on April 6, 2020, where he participated in the Egg Hunt 2020 event and required the player to help three bears with their Egg Hunt quests. Once finished, he would hand out a small variety of rewards and the Swarming Egg of the Hive.
+Egg Hunt 2020 Quest[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Help 3 Bears capture Chicks.
+Fact: Quest Name requirement: 1x Star Jelly.
+1x Marshmallow Bee
+1x Magic Bean
+3x Micro-Converters
+Belt Bag Quests (12)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Collect 10 Ability Tokens.
+* Defeat 2 Rhino Beetles.
+* Defeat 2 Ladybugs.
+* 1,500 Honey
+* 1x Ticket
+* Collect 25 Bomb Tokens.
+Fact: * 1x Ticket statistic: * Collect 5,000 Pollen from the Dandelion Field..
+* 5,500 Honey
+* Collect 50 Boost Tokens.
+* Defeat 8 Ladybugs.
+Fact: * 5,500 Honey statistic: * Collect 8,000 Red Pollen..
+Fact: * 5,500 Honey statistic: * Collect 8,000 Blue Pollen..
+* 13,500 Honey
+* Collect 75 Haste Tokens.
+* Defeat 12 Rhino Beetles.
+Fact: * 13,500 Honey statistic: * Collect 31,000 Pollen from the Clover Field..
+* 21,500 Honey
+* Collect 150 Bomb Tokens.
+* Collect 150 Boost Tokens.
+* Defeat 2 Spiders.
+* 30,500 Honey
+* Collect 1000 Ability Tokens.
+Fact: * 30,500 Honey statistic: * Collect 50,000 Pollen from the Pineapple Patch..
+* Defeat 4 Mantises.
+* Collect 100 Focus Tokens.
+Fact: * 30,500 Honey statistic: * Collect 100,000 Pollen from the Cactus Field..
+* Defeat 3 Spiders.
+* 75,000 Honey
+* Collect 150 Link Tokens.
+Fact: * 75,000 Honey statistic: * Collect 80,000 White Pollen..
+Fact: * 75,000 Honey statistic: * Collect 80,000 Pollen from the Bamboo Field..
+* 90,000 Honey
+* Collect 500 Boost Tokens.
+Fact: * 90,000 Honey statistic: * Collect 250,000 Pollen..
+* Defeat 6 Scorpions.
+* 200,000 Honey
+* 1x Ticket
+* Collect 1000 Bomb Tokens.
+* Defeat 3 Werewolfs.
+* 150,000 Honey
+* 2x Ticket
+* Collect 500 Haste Tokens.
+* Collect 1,000 Boost Tokens.
+Fact: * 2x Ticket statistic: * Collect 150,000 Pollen from the Pine Tree Forest..
+Fact: * 2x Ticket statistic: * Collect 125,000 Pollen from the Pumpkin Patch..
+Fact: * 2x Ticket statistic: * Collect 100,000 Pollen from the Pineapple Patch..
+* 200,000 Honey
+* 1x Royal Jelly
+* Collect 10,000 Ability Tokens.
+* Defeat 1 King Beetle.
+* Mondo Belt Bag
+Boot Quests (14)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Collect 15 Ability Tokens.
+* 3x Ticket
+* 2,000 Honey
+* Collect 20 Bomb Tokens.
+* Collect 20 Boost Tokens.
+Fact: * 2,000 Honey statistic: * Collect 5,000 Pollen..
+* 3x Ticket
+* 1x Royal Jelly
+* 6,000 Honey
+* Collect 100 Ability Tokens.
+* Collect 25 Honey Tokens.
+* Collect 5 Treats Tokens.
+* 3x Ticket
+* 1x Royal Jelly
+* 25x Treat
+* 10,000 Honey
+* Collect 25 Haste Tokens.
+* Collect 25 Focus Tokens.
+Fact: * 10,000 Honey statistic: * Collect 25,000 Blue Pollen..
+* 3x Ticket
+* 1x Royal Jelly
+* 20,000 Honey
+* Collect 250 Ability Tokens.
+* Collect 10 Strawberries Tokens.
+* Collect 10 Blueberries Tokens.
+* Collect 10 Treats Tokens.
+* Basic Boots
+* 3x Ticket
+* 50,000 Honey
+* Collect 100 Boost Tokens.
+* Collect 20 Sprout Tokens.
+* 3x Ticket
+* 60,000 Honey
+* Collect 100 Token Link Tokens.
+* Defeat 4 Spiders.
+Fact: * 60,000 Honey statistic: * Collect 100,000 Pollen from the Spider Field..
+* 3x Ticket
+* 1x Royal Jelly
+* 75,000 Honey
+* Collect 250 Bomb Tokens.
+* Collect 10 Moon Charm Tokens.
+* 3x Ticket
+* 25x Treat
+* 100,000 Honey
+* Collect 250 Honey Tokens.
+* Collect 500 Ability Tokens.
+* Defeat 8 Mantises.
+* 3x Ticket
+* 20x Sunflower Seed
+* 150,000 Honey
+* Collect 500 Focus Tokens.
+* Defeat 50 Ants.
+* Defeat 4 Werewolfs.
+* 3x Ticket
+* 250,000 Honey
+* Hiking Boots
+* Collect 50 Sunflower Seeds Tokens.
+* Collect 50 Blueberries Tokens.
+* Collect 50 Strawberries Tokens.
+* Collect 50 Pineapples Tokens.
+* Collect 150 Treats Tokens.
+* Collect 250 Haste Tokens.
+* Collect 100 Sprout Tokens.
+* 3x Ticket
+* 1x Royal Jelly
+* 500x Treat
+* 500,000 Honey
+* Collect 2,000 Boost Tokens.
+* Collect 2,000 Bomb Tokens.
+* Collect 1,000 Token Link Tokens.
+* Collect 1,000 Focus Tokens.
+* Collect 250 Honey Gift Tokens.
+* 3x Ticket
+* 2x Royal Jelly
+* 1,000,000 Honey
+* Defeat 10 Vicious Bees.
+* 3x Ticket
+* 3x Royal Jelly
+* 2,500,000 Honey
+* Collect 25,000 Ability Tokens.
+* Collect 25 Moon Charms Tokens.
+* Collect 100 Sprout Tokens.
+* Defeat 10 Giant Ants.
+* Defeat 10 Spiders.
+* Beekeeper's Boots
+* 3x Ticket
+* 5,000,000 Honey
+Bean Bugs Quests (10)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Collect 25 Ability Tokens
+* Collect 10 Tokens from Bean Bugs
+3x Jelly Beans
+* Collect 25 Tokens from Bean Bugs
+* Collect 50 Bomb Tokens
+* Collect 5 Blueberry Tokens
+Fact: * Collect 5 Blueberry Tokens requirement: 3x Tickets.
+1x Jelly Beans
+* Collect 50 Tokens from Bean Bugs
+* Collect 50 Boost Token
+* Collect 100 Honey Tokens
+Fact: * Collect 100 Honey Tokens requirement: 50,000 Honey.
+* Collect 100 Tokens from Bean Bugs
+* Collect 100 Haste Tokens
+Fact: * Collect 100 Haste Tokens statistic: * Collect 100,000 Pollen from the Clover Field.
+Fact: * Collect 100 Haste Tokens requirement: 75,000 Honey.
+3x Field Dice
+3x Jelly Beans
+* Collect 200 Tokens from Bean Bugs
+* Collect 200 Focus Tokens
+* Match 5 Pairs in Memory Match Games
+Fact: * Match 5 Pairs in Memory Match Games statistic: * Collect 250,000 Pollen from the Pineapple Patch.
+5x Micro-Converters
+3x Jelly Beans
+* Collect 250 Tokens from Bean Bugs
+* Collect 200 Mark Tokens
+* Collect 30 Tokens from Ladybugs
+Fact: * Collect 30 Tokens from Ladybugs statistic: * Collect 500,000 Red Pollen.
+1x Cloud Vial
+3x Field Dice
+Fact: 3x Field Dice requirement: 50x Gumdrops.
+Fact: 3x Field Dice requirement: 250,000 Honey.
+* Collect 300 Tokens from Bean Bugs
+* Collect 25 Tokens from Leaves
+Fact: * Collect 25 Tokens from Leaves statistic: * Collect 1,000,000 Pollen from the Cactus Field.
+5x Micro-Converters
+Fact: 5x Micro-Converters requirement: 1x Royal Jelly.
+Fact: 5x Micro-Converters requirement: 500,000 Honey.
+* Collect 400 Tokens from Bean Bugs
+* Collect 1000 Ability Tokens
+* Collect 250 Tokens from Sprouts
+3x Magic Bean
+Fact: 3x Magic Bean requirement: 100x Gumdrops.
+Fact: 3x Magic Bean requirement: 1,000,000 Honey.
+* Collect 500 Tokens from Bean Bugs
+* Collect 25 Tokens from Werewolves
+* Collect 50 Tokens from Spiders
+* Collect 100 Tokens from Mantises
+* Collect 100 Tokens from Scorpions
+10x Jelly Beans
+Fact: 10x Jelly Beans requirement: 1x Enzymes.
+5x Micro-Converters
+Fact: 5x Micro-Converters requirement: 2,500,000 Honey.
+* Collect 2000 Tokens from Bean Bugs
+Fact: * Collect 2000 Tokens from Bean Bugs requirement: 5,000,000 Honey.
+Bee Bear is one of the three traveling bears who appears every Beesmas. During his 2018 visit, which started from December 19, 2018, and ended on January 31, 2019, his quests focused on creating presents and, at the very end, a Festive Bee (or 500 tickets if the player has purchased the Festive Bee Pack). During his 2019 visit from December 22, 2019, to February 10, 2020, he gave a Cub Buddy after 10 quests and the Bee Cub skin after another 5 quests. During his 2020 visit from December 25, 2020 to March 1, 2021, He rewarded players with a Festive Bee (500 tickets if Festive Bee was already owned by the player) when his first 15 quests were completed, and rewarded a Festive Wreath beequip for the Festive Bee when all his quests were completed. During his 2021 visit on December 26, 2021, He rewarded players with a special type of his own (Festive Planters), and a Cub Buddy (Tickets if Cub Buddy was already owned by the player) when his first 15 quests were completed.
+For both of his visits, his quests generally have a huge variety of requirements, including collecting tokens, pollen, and goo, defeating mobs, completing quests from Polar Bear, and more.
+During his 2018 Beesmas visit, he stood by the Ant Gate, while in his 2019 Beesmas visit, he stood to the right of the All-Time Top Honeymakers and in front of the Dandelion Field.
+Festive Bee Quests (21)[]
+Fact: The Quest name in Quests has/costs Requirements, Rewards.
+Fact: Quest name statistic: * Collect 250 White Pollen.
+Fact: Quest name statistic: * Collect 250 Red Pollen.
+Fact: Quest name requirement: 500 Honey.
+Fact: Quest name statistic: * Collect 1,000 Pollen from the Clover Field..
+* Defeat 3 Rhino Beetles.
+Fact: Quest name requirement: 3x Blueberry.
+Fact: Quest name requirement: 1,000 Honey.
+Fact: Quest name statistic: * Collect 2,500 Blue Pollen..
+* Collect 25 Ability Tokens.
+* Defeat 1 Spider.
+* Believe in Bubble Bee Man.
+Fact: Quest name requirement: 1x Ticket.
+Fact: Quest name requirement: 3,000 Honey.
+Beesmas Beeliever Badge
+* Deliver 1 Present.
+Fact: Beesmas Beeliever Badge statistic: * Collect 10,000 White Pollen.
+Fact: Beesmas Beeliever Badge requirement: 5x Sunflower Seed.
+Fact: Beesmas Beeliever Badge requirement: 5,000 Honey.
+* Feed 10 Strawberries to your Bees.
+* Feed 10 Blueberries to your Bees.
+* Feed 10 Sunflower Seeds to your Bees.
+Fact: Beesmas Beeliever Badge requirement: 1x Royal Jelly.
+Fact: Beesmas Beeliever Badge requirement: 6,500 Honey.
+* Defeat 4 Ladybugs.
+* Defeat 3 Mantises.
+* Defeat 2 Spiders.
+Fact: Beesmas Beeliever Badge requirement: 10,000 Honey.
+* Deliver 2 Presents.
+Fact: Beesmas Beeliever Badge statistic: * Collect 25,000 Pollen from the Bamboo Field..
+Fact: Beesmas Beeliever Badge statistic: * Collect 10,000 Pollen from the Blue Flower Field..
+* Collect 5 Moon Charms Tokens.
+Fact: Beesmas Beeliever Badge requirement: 5x Moon Charm.
+Fact: Beesmas Beeliever Badge requirement: 15,000 Honey.
+Fact: Beesmas Beeliever Badge statistic: * Collect 55,000 Pollen from the Pineapple Patch..
+Fact: Beesmas Beeliever Badge statistic: * Collect 35,000 Pollen from the Strawberry Field..
+* Collect 15 Blueberries Tokens.
+Fact: Beesmas Beeliever Badge requirement: 5x Strawberry.
+Fact: Beesmas Beeliever Badge requirement: 5x Pineapple.
+Fact: Beesmas Beeliever Badge requirement: 5x Blueberry.
+Fact: Beesmas Beeliever Badge requirement: 25,000 Honey.
+Fact: Beesmas Beeliever Badge statistic: * Collect 100,000 Pollen from the Pine Tree Forest..
+* Defeat 2 Werewolves.
+Fact: Beesmas Beeliever Badge requirement: 1x Ticket.
+Fact: Beesmas Beeliever Badge requirement: 40,000 Honey.
+* Deliver 3 Presents.
+* Collect 500 Honey Tokens.
+Fact: Beesmas Beeliever Badge requirement: 60,000 Honey.
+Fact: Beesmas Beeliever Badge statistic: * Collect 80,000 Pollen from the Clover Field..
+Fact: Beesmas Beeliever Badge statistic: * Collect 120,000 Pollen from the Spider Field..
+Fact: Beesmas Beeliever Badge statistic: * Collect 250,000 Pollen from the Pumpkin Patch..
+* Defeat 5 Scorpions.
+Fact: Beesmas Beeliever Badge requirement: 50x Gumdrops.
+Fact: Beesmas Beeliever Badge requirement: 100,000 Honey.
+* Complete 5 Polar Bear Quests
+Fact: * Complete 5 Polar Bear Quests requirement: 1x Ticket.
+Fact: * Complete 5 Polar Bear Quests requirement: 150,000 Honey.
+* Deliver 4 Presents.
+Fact: * Complete 5 Polar Bear Quests statistic: * Collect 600,000 Red Pollen..
+Fact: * Complete 5 Polar Bear Quests statistic: * Collect 400,000 Pollen from the Clover Field..
+* Collect 100 Haste Tokens.
+* Collect 100 Boost Tokens.
+Fact: * Complete 5 Polar Bear Quests requirement: 1x Oil.
+Fact: * Complete 5 Polar Bear Quests requirement: 250,000 Honey.
+* Collect 100,000 Goo.
+* Collect 100 Sprout Tokens.
+* Defeat 100 Ants.
+* Defeat 10 Mantiss.
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 300,000 Honey.
+Fact: 1x Magic Bean statistic: * Collect 1,000,000 Pollen from the Dandelion Field..
+Fact: 1x Magic Bean statistic: * Collect 1,000,000 Pollen from the Cactus Field..
+* Collect 500 Bomb Tokens.
+* Feed 100 Strawberries to your Bees.
+* Feed 100 Blueberries to your Bees.
+* Feed 100 Pineapples to your Bees.
+* Defeat 5 Spiders.
+Fact: 1x Magic Bean requirement: 1x Ticket.
+Fact: 1x Magic Bean requirement: 600,000 honey.
+* Deliver 5 Presents
+Fact: * Deliver 5 Presents statistic: * Collect 4,000,000 Pollen from the Mountain Top Field..
+Fact: * Deliver 5 Presents statistic: * Collect 2,000,000 White Pollen..
+* Collect 100 Treats Tokens.
+* Defeat 3 Werewolfs.
+Fact: * Deliver 5 Presents requirement: 3x Royal Jelly.
+Fact: * Deliver 5 Presents requirement: 1,000,000 Honey.
+* Collect 1,000 Honey Tokens.
+* Collect 200 Sparkles Tokens.
+* Use 1 Glitter.
+Fact: * Deliver 5 Presents requirement: 1x Glitter.
+Fact: * Deliver 5 Presents requirement: 2,500,000 Honey.
+Fact: * Deliver 5 Presents statistic: * Collect 20,000,000 Blue Pollen..
+Fact: * Deliver 5 Presents statistic: * Collect 5,000,000 Pollen from the Blue Flower Field..
+* Collect 300 Mark Tokens.
+* Collect 300 Focus Tokens.
+* Craft 10 Ingredients with the Blender.
+Fact: * Deliver 5 Presents requirement: 1x Ticket.
+Fact: * Deliver 5 Presents requirement: 8,000,000 Honey.
+* Deliver 6 Presents.
+Fact: * Deliver 5 Presents statistic: * Collect 25,000,000 Pollen from the Rose Field..
+* Collect 2,500,000 Goo from the Pumpkin Patch.
+* Collect 250 Sunflower Seeds Tokens.
+* Defeat 25 Ladybugs.
+* Craft 25 Ingredients with the Blender
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 50x Gumdrops.
+Fact: 1x Magic Bean requirement: 10,000,000 Honey.
+Fact: 1x Magic Bean statistic: * Collect 40,000,000 White Pollen..
+Fact: 1x Magic Bean statistic: * Collect 20,000,000 Pollen from the Strawberry Field..
+* Feed 200 Pineapples to your Bees.
+* Feed 200 Blueberries to your Bees.
+* Complete 10 Polar Bear Quests.
+* Complete 3 Brown Bear Quests.
+1x Magic Bean
+Fact: 1x Magic Bean requirement: 25x Moon Charm.
+Fact: 1x Magic Bean requirement: 1x Red Extract.
+Fact: 1x Magic Bean requirement: 25,000,000 Honey.
+Fact: 1x Magic Bean statistic: * Collect 100,000,000 Pollen from the Mountain Top Field..
+Fact: 1x Magic Bean statistic: * Collect 50,000,000 Pollen from the Mushroom Field..
+* Collect 5,000,000 Goo from White Flowers.
+* Collect 500 Strawberries Tokens.
+* Collect 500 Sunflower Seeds Tokens.
+* Collect 500 Sparkles Tokens.
+* Defeat 10 Spiders.
+* Complete 20 Polar Bear Quests.
+* Craft 100 Ingredients with the Blender.
+Fact: 1x Magic Bean requirement: 50,000,000 Honey.
+Cub Buddy Quests (15)[]
+Fact: The Quest name in Quests has/costs Requirements, Rewards.
+Fact: Quest name statistic: * Collect 2,000 Red Pollen.
+* Put 1 Ornaments on the Beesmas Tree
+Fact: * Put 1 Ornaments on the Beesmas Tree requirement: 1x Ticket.
+Fact: * Put 1 Ornaments on the Beesmas Tree requirement: 1x Royal Jelly.
+1x Field Dice
+Fact: 1x Field Dice statistic: * Collect 10,000 White Pollen.
+* Defeat 4 Rhino Beetles
+* Defeat 2 Spiders
+Fact: * Defeat 2 Spiders requirement: 1x Ticket.
+Fact: * Defeat 2 Spiders requirement: 1x Royal Jelly.
+3x Jelly Beans
+Fact: 3x Jelly Beans statistic: * Collect 50,000 Blue Pollen.
+Fact: 3x Jelly Beans statistic: * Collect 20,00 Pollen from the Blue Flower Field.
+* Collect 25 Blueberry Tokens
+* Feed 25 Blueberries to your Bees
+* Put 3 Ornaments on the Beesmas Tree
+Fact: * Put 3 Ornaments on the Beesmas Tree requirement: 1x Ticket.
+Fact: * Put 3 Ornaments on the Beesmas Tree requirement: 1x Royal Jelly.
+Fact: * Put 3 Ornaments on the Beesmas Tree requirement: 1x Blue Extract.
+Fact: * Put 3 Ornaments on the Beesmas Tree statistic: * Collect 150,000 Pollen.
+* Collect 100 Haste Tokens
+* Collect 10 Tokens from Sprouts
+Fact: * Collect 10 Tokens from Sprouts requirement: 100,000 Honey.
+Fact: * Collect 10 Tokens from Sprouts requirement: 1x Ticket.
+Fact: * Collect 10 Tokens from Sprouts requirement: 1x Royal Jelly.
+Fact: * Collect 10 Tokens from Sprouts requirement: 1x Oil.
+Fact: * Collect 10 Tokens from Sprouts statistic: * Collect 300,000 Red Pollen.
+* Share 10 Jelly Bean Tokens
+* Defeat 2 Spiders
+* Feed 50 Sunflower Seeds to your Bees
+* Put 5 Ornaments on the Beesmas Tree
+Fact: * Put 5 Ornaments on the Beesmas Tree requirement: 250,000 Honey.
+Fact: * Put 5 Ornaments on the Beesmas Tree requirement: 1x Ticket.
+Fact: * Put 5 Ornaments on the Beesmas Tree requirement: 1x Royal Jelly.
+10x Bitterberry
+Fact: 10x Bitterberry statistic: * Collect 400,000 Pollen from the Clover Field.
+Fact: 10x Bitterberry statistic: * Collect 400,000 Pollen from the Pineapple Patch.
+* Defeat 1 Werewolf
+* Defeat 1 Windy Bee
+* Defeat 1 Vicious Bee
+* Collect 100 Tokens from Sprouts
+Fact: * Collect 100 Tokens from Sprouts requirement: 500,000 Honey.
+Fact: * Collect 100 Tokens from Sprouts requirement: 1x Ticket.
+Fact: * Collect 100 Tokens from Sprouts requirement: 2x Royal Jelly.
+5x Micro-Converter
+Fact: 5x Micro-Converter statistic: * Collect 1,000,000 White Pollen.
+* Collect 250 Bomb Tokens
+* Collect 1,000 Honey Tokens
+* Collect 25 Moon Charm Tokens
+* Use the Moon Amulet Generator 1 Time
+* Defeat 2 Werewolves
+* Put 6 Ornaments on the Beesmas Tree
+Fact: * Put 6 Ornaments on the Beesmas Tree requirement: 1x Ticket.
+Fact: * Put 6 Ornaments on the Beesmas Tree requirement: 2x Royal Jelly.
+Fact: * Put 6 Ornaments on the Beesmas Tree requirement: 3x Neonberry.
+Fact: * Put 6 Ornaments on the Beesmas Tree statistic: * Collect 1,000,000 Pollen from the Cactus Field.
+Fact: * Put 6 Ornaments on the Beesmas Tree statistic: * Collect 1,000,000 Pollen from the Rose Field.
+* Complete 5 Polar Bear Quests
+Fact: * Complete 5 Polar Bear Quests requirement: 1x Ticket.
+3x Royal Jellies
+Fact: 3x Royal Jellies requirement: 1x Glitter.
+5x Field Dice
+* Collect 10 Gumdrops Tokens
+* Defeat 3 Spiders
+* Craft 20 ingredients with the Blender
+* Collect 50,000 Goo from the Sunflower Field
+* Collect 50,000 Goo from the Dandelion Field
+* Collect 50,000 Goo from the Clover Field
+* Collect 50,000 Goo from the Mushroom Field
+* Collect 50,000 Goo from the Blue Flower Field
+* Collect 50,000 Goo from the Strawberry Field
+* Collect 50,000 Goo from the Spider Field
+* Collect 50,000 Goo from the Bamboo Field
+* Collect 50,000 Goo from the Pineapple Patch
+* Collect 50,000 Goo from the Pumpkin Patch
+* Collect 50,000 Goo from the Cactus Field
+* Collect 50,000 Goo from the Pine Tree Forest
+* Collect 50,000 Goo from the Rose Field
+Fact: * Craft 20 ingredients with the Blender requirement: 3,500,000 Honey.
+Fact: * Craft 20 ingredients with the Blender requirement: 1x Ticket.
+Fact: * Craft 20 ingredients with the Blender requirement: 3x Royal Jelly.
+Fact: * Craft 20 ingredients with the Blender requirement: 3x Glue.
+3x Jelly Beans
+Fact: 3x Jelly Beans requirement: 3x Neonberry.
+Fact: 3x Jelly Beans statistic: * Collect 5,000,000 Red Pollen.
+Fact: 3x Jelly Beans statistic: * Collect 5,000,000 White Pollen.
+* Collect 250 Tokens from Sprouts
+* Collect 50 Moon Charms Tokens
+* Collect 500 Boost Tokens
+* Collect 50 Tokens from Wild Windy Bee
+* Share 50 Jelly Bean Tokens
+* Feed 200 Sunflower Seeds to your Bees
+* Defeat 5 Werewolves
+* Put 7 Ornaments on the Beesmas Tree
+Fact: * Put 7 Ornaments on the Beesmas Tree requirement: 10,000,000 Honey.
+1x Atomic Treat
+3x Magic Bean
+3x Field Dice
+3x Micro-converter
+3x Jelly Beans
+Black Bear Cub OR 250 Tickets if you bought it from the pack.
+Second Questline
+Fact: Second Questline statistic: * Collect 10,000,000 Blue Pollen.
+Fact: Second Questline statistic: * Collect 5,000,000 Pollen from the Clover Field.
+Fact: Second Questline statistic: * Collect 5,000,000 Pollen from the Pumpkin Patch.
+* Collect 10 Royal Jellies Tokens
+* Feed 10 Bitterberries to your Bees
+* Defeat 8 Scorpions
+* Collect 100 Tokens from Cub Buddy
+Fact: * Collect 100 Tokens from Cub Buddy requirement: 5x Ticket.
+25x Bitterberry
+3x Magic Bean
+Fact: 3x Magic Bean statistic: * Collect 25,000,000 Red Pollen.
+Fact: 3x Magic Bean statistic: * Collect 10,000,000 Pollen from the Mountain Top Field.
+Fact: 3x Magic Bean statistic: * Collect 10,000,000 Pollen from the Pineapple Patch.
+* Collect 100 Treats Tokens
+* Feed 100 Pineapples to your Bees
+* Defeat 10 Rhino Beetles
+* Defeat 4 Vicious Bees
+* Craft 25 Ingredients with the Blender
+Fact: * Craft 25 Ingredients with the Blender requirement: 5x Ticket.
+Fact: * Craft 25 Ingredients with the Blender requirement: 1x Oil.
+1x Tropical Drink
+3x Micro-Converter
+5x Ant Pass
+Fact: 5x Ant Pass statistic: * Collect 50,000,000 White Pollen.
+Fact: 5x Ant Pass statistic: * Collect 25,000,000 Pollen from the Rose Field.
+* Defeat 3 Spiders
+* Defeat 3 Werewolves
+* Collect 50 Tokens from Bean Bugs
+* Collect 200 Tokens from Sparkles
+* Collect 200 Tokens from Cub Buddy
+* Put 8 Ornaments on the Beesmas Tree
+Fact: * Put 8 Ornaments on the Beesmas Tree requirement: 5x Ticket.
+Fact: * Put 8 Ornaments on the Beesmas Tree requirement: 1x Enzymes.
+Fact: * Put 8 Ornaments on the Beesmas Tree requirement: 1x Glitter.
+Fact: * Put 8 Ornaments on the Beesmas Tree requirement: 1x Neonberry.
+5x Jelly Bean
+Fact: 5x Jelly Bean statistic: * Collect 200,000,000 Pollen.
+* Collect 250 Strawberries Tokens
+* Collect 250 Blueberries Tokens
+* Collect 250 Sunflower Seeds Tokens
+* Feed 1 Neonberry to your Bees
+* Feed 1,000 Treats to your Bees
+* Feed 250 Strawberries to your Bees
+* Feed 250 Blueberries to your Bees
+* Feed 250 Sunflower Seeds to your Bees
+* Feed 5 Moon Charms to your Bees
+* Complete 10 Polar Bear Quests
+* Share 100 Jelly Bean Tokens
+* Craft 30 Ingredients with the Blender
+* Put 9 Ornaments on the Beesmas Tree
+Fact: * Put 9 Ornaments on the Beesmas Tree requirement: 5x Ticket.
+50x Bitterberry
+10x Field Dice
+10x Cloud Vial
+Fact: 10x Cloud Vial requirement: 5x Glitter.
+Fact: 10x Cloud Vial statistic: * Collect 150,000,000 Pollen from the Strawberry Field.
+Fact: 10x Cloud Vial statistic: * Collect 150,000,000 Pollen from the Bamboo Field.
+Fact: 10x Cloud Vial statistic: * Collect 150,000,000 Pollen from the Spider Field.
+Fact: 10x Cloud Vial statistic: * Collect 150,000,000 Pollen from the Pepper Patch.
+Fact: 10x Cloud Vial statistic: * Collect 150,000,000 Pollen from the Dandelion Field.
+* Collect 10,000,000 Goo from White Flowers
+* Collect 5,000 Honey Tokens
+* Collect 50 Tokens from Fireflies
+* Use the Moon Amulet Generator 3 times
+* Defeat 5 Spiders
+* Defeat 5 Vicious Bees
+* Craft 60 Ingredients from the Blender
+* Collect 200 Tokens from Festive Gifts
+* Collect 250 Tokens from the Cub Buddy
+* Put 10 Ornaments on the Beesmas Tree
+Fact: * Put 10 Ornaments on the Beesmas Tree requirement: 5x Tickets.
+1x Atomic Treat
+1x Night Bell
+Fact: 1x Night Bell requirement: 5x Glitters.
+5x Magic Beans
+Bee Bear Cub Buddy Skin
+Gummy Bear was a traveling bear who arrived on May 26, 2018 and now resides in the Gummy Bear Lair. His quests largely consisted of goo collection from various fields and at the very end, he gave the player a Gummy Bee Egg. He stood in the gap between the hives and the Noob Shop along with the Gummy Cannon.
+Gummy Invasion Quests (15)[]
+Fact: The Quest Name in Quests has/costs Requirements, Reward.
+* Collect 500 Goo.
+* 750 Honey
+* 1x Gumdrop
+* 1x Ticket
+* Collect 5 Honey Tokens.
+* Collect 2,000 Goo.
+* 3,000 Honey
+* 1x Gumdrop
+* 1x Ticket
+* Collect 3,500 Goo from the Clover Field.
+* 6,000 Honey
+* 1x Gumdrop
+* 1x Ticket
+* Collect 10 Honey Tokens.
+* Collect 2,000 Goo from White flowers.
+* Collect 2,000 Goo from Red flowers.
+* Collect 2,000 Goo from Blue flowers.
+* 16,000 Honey
+* 1x Gumdrop
+* 1x Ticket
+* Collect 20,000 Goo from the Spider Field.
+* Defeat 2 Spiders.
+* 26,000 Honey
+* 1x Royal Jelly
+* 1x Gumdrop
+* 1x Ticket
+* Collect 20 Honey Tokens.
+* Collect 30,000 Goo.
+* Collect 5,000 Goo from the Mushroom Field.
+* Collect 5,000 Goo from the Blue Flower Field.
+* Collect 5,000 Goo from the Strawberry Field.
+* Collect 5,000 Goo from the Bamboo Field.
+* 50,000 Honey
+* 1x Gumdrop
+* 2x Tickets
+* Collect 60,000 Goo.
+* 75,000 Honey
+* 1x Gumdrop
+* 2x Tickets
+* Collect 30 Honey Tokens.
+* Use the Slingshot 10 Times.
+* Collect 80,000 Goo from the Pineapple Patch.
+* 100,000 Honey
+* 1x Gumdrop
+* 2x Tickets
+* Collect 100,000 Goo.
+* Defeat 10 Ladybugs.
+* Defeat 10 Rhino Beetles.
+* Defeat 3 Spiders.
+* 130,000 Honey
+* 1x Gumdrop
+* 2x Tickets
+* Use the Slingshot 20 Times.
+* Collect 80,000 Goo from Red flowers.
+* Collect 80,000 Goo from Blue flowers.
+* Collect 80,000 Goo from the Clover Field.
+* 170,000 Honey
+* 2x Royal Jelly
+* 1x Gumdrop
+* 2x Tickets
+* Collect 40 Honey Tokens.
+* Use the Yellow Cannon 30 Times.
+* Collect 200,000 Goo from White flowers.
+* 250,000 Honey
+* 1x Gumdrop
+* 3x Tickets
+* Collect 200,000 Goo from Red flowers.
+* Collect 200,000 Goo from the Pumpkin Patch.
+* Collect 200,000 Goo from the Cactus Field.
+* 400,000 Honey
+* 1x Gumdrop
+* 4x Tickets
+* Collect 100 Honey Tokens.
+* Use the Blue Cannon 40 Times.
+* Collect 300,000 Goo from Blue flowers.
+* Collect 300,000 Goo from the Rose Field.
+* Collect 300,000 Goo from the Pine Tree Forest.
+* 650,000 Honey
+* 1x Gumdrop
+* 4x Tickets
+* Collect 500,000 Goo from White flowers.
+* Use the Blue Cannon 20 times.
+* Use the Yellow Cannon 20 Times.
+* Defeat 10 Mantises.
+* Defeat 10 Scorpions.
+* Defeat 3 Werewolves.
+* 880,000 Honey
+* 1x Gumdrop
+* 5x Tickets
+* Collect 250 Honey Tokens.
+* Collect 750,000 Goo.
+* Collect 75,000 Goo from the Sunflower Field.
+* Collect 75,000 Goo from the Dandelion Field.
+* Collect 75,000 Goo from the Spider Field.
+* Collect 75,000 Goo from the Pineapple Patch.
+* Collect 75,000 Goo from the Pumpkin Patch.
+* Use the Slingshot 30 Times.
+* Use the Yellow Cannon 30 Times.
+* Use the Blue Cannon 30 Times.
+* Gummy Bee Egg
+* 1,000,000 Honey
+2020 Beesmas Quest - Gummy Beacon[]
+Fact: The **Quest** in Quests has/costs Requirements, Reward.
+* Collect 75,000,000,000 Goo.
+* Collect 7,500,000,000 Goo from Red Flowers.
+* Collect 7,500,000,000 Goo from Blue Flowers.
+* Collect 7,500,000,000 Goo from the Clover Field.
+* Collect 7,500,000,000 Goo from the Coconut Field.
+* Use 750 Gumdrops.
+* Collect 75 Gumdrops Tokens.
+* Collect 750 Tokens from Gummy Bee.
+* Defeat 75 Ladybugs.
+* Defeat 75 Rhino Beetles.
+* Defeat 75 Ants.
+* Collect 75 Tokens from Sparkles.
+* Collect 75 Tokens from Mondo Chick.
+* Collect 75 Tokens from Coconut Crab.
+* Use the Red Cannon 7 times.
+* Use the Yellow Cannon 7 times.
+* Use the Blue Cannon 7 times.
+500x Snowflake
+5x Atomic Treat
+Fact: 5x Atomic Treat requirement: 50x Glue.
+Fact: 5x Atomic Treat requirement: 100x Ticket.
+Fact: 5x Atomic Treat requirement: 100x Neonberry.
+Access to the Gummy Beacon
+Bubble Bee Man is a quest giver currently in the game. Although he doesn't leave like other traveling quest givers, he has quests that are only available during Beesmas.
+Quest (Near Panda Bear)[]
+Fact: The Quest name in Quests has/costs Requirements, Rewards.
+* Deliver 5 Presents.
+* Defeat 1 Mantis.
+* Defeat 5Ladybugs.
+* Defeat 5 Rhino Beetles.
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Sunflower Field..
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Dandelion Field..
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Mushroom Field..
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Blue Flower Field..
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Clover Field..
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Strawberry Field..
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Spider Field..
+Fact: Quest name statistic: * Collect 25,000 Pollen from the Bamboo Field..
+* Bubble Bee Man Mask
+* 100x Treat
+* 100,000 Honey
+* Beesmas Overachiever Badge
+Quest (Inside 30 Bee Gate)[]
+Fact: The Quest name in Quests has/costs Requirements, Rewards.
+* Deliver 10 Presents.
+* Complete 5 Riley Bee Quests.
+* Complete 5 Bucko Bee Quests.
+* Collect 250 Tokens from Stick Bug.
+* Defeat 1 Stump Snail.
+* Mondo B.B.M. Mask
+* 1x Festive Bean
+* 122471x Treat
+* 21x Sunflower Seed
+* 39x Blueberry
+* 1x Ant Pass
+* 1x Enzymes
+* 1x Red Extract
+* 2x Royal Jelly
+* 41x Strawberry
+* 1x Blue Extract
+* 84x Pineapple
+* 13x Ticket
+* 800x Eviction
+* 1x Bumble Bee Jelly
+* 3x Bubble Bee Jelly
+* Beesmas Overachiever Badge (if not awarded yet)
+Ornament Quest[]
+Fact: The **Quest** in Quests has/costs **Requirements**, **Rewards**.
+* Pop 33,333 Bubbles
+Fact: * Pop 33,333 Bubbles statistic: * Collect 22,222,222,222 Pollen from the Stump Field.
+Fact: * Pop 33,333 Bubbles statistic: * Collect 11,111,111,111 Pollen from the Coconut Field.
+Fact: * Pop 33,333 Bubbles statistic: * Collect 11,111,111,111 Pollen from the Pepper Patch.
+* Collect 444,444,444 Goo from the Blue Flower Field
+Fact: * Pop 33,333 Bubbles statistic: * Collect 9,999,999 Blue Pollen from the Sunflower Field.
+* Defeat 5 King Beetles.
+* Defeat 4 Tunnel Bears.
+* Defeat 3 Coconut Crabs.
+* Defeat 2 Stump Snails.
+* 349 Honey
+* 1 Blueberry
+* 1 Bread Climp Ornament

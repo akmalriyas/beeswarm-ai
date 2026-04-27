@@ -1,0 +1,109 @@
+Context: Bee Swarm Simulator - Fuzzy Bee
+
+Fuzzy Bee
+Fuzzy Bee
+_"This unkempt ball of fluff is actually a bee. Its fur aids in the pollination of flowers."_
+Fact: The 50 in Fuzzy Bee has/costs **Speed**.
+Fact: The 11.9 in Fuzzy Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #ab8062 #ab8062 #ab8062
+Fuzzy Bee is a Colorless Mythic bee.
+Fuzzy Bee's favorite treat is Pineapples.
+Fuzzy Bee likes the Dandelion Field and Pine Tree Forest. It dislikes the Pepper Patch.
+Fact: Skin #ab8062 #ab8062 #ab8062 statistic: * Collects 100 Pollen in 6 seconds..
+* Makes 40 Honey in 6 seconds.
+* +150% Energy, -15% Movespeed, -50% gather and convert speed, -40 Convert Amount, +90 Gather Amount, +2 Attack.
+* 🌟Gifted Hive Bonus: x1.1 Bomb Power.
+Abilities[]
+* [Fuzz Bombs] Spawns 2 (+1 every 5 bee lvls) fuzz bombs that wander the Field for 8 seconds. Catching them collects pollen and Pollinates nearby Flowers. The amount of pollen collected scales with buzz bomb multipliers and bee Level.
+* [Buzz Bomb+] Collects 7 pollen from 29 surrounding flowers (+10% pollen per Level). This combined with other bombs will increase power.
+Fact: Abilities[] statistic: * **[🌟Gifted Ability: Pollen Haze]** Summons a yellow haze over the field for 30s that pollinates up to 30 random flowers every second and improves flower growth rate. Bomb Tokens within the haze are automatically collected and pollinate flowers. If there has been a Pollen Haze over the field within the last 3 minutes, this summons fuzz bombs instead..
+* [Passive: Fuzzy Coat] This bee may pollinate up to 5 nearby flowers (9 if gifted) every time it gathers. Pollinated flowers are temporarily upgraded to grant and store more pollen and grow faster. Lower tier flowers have a higher chance of being pollinated.
+Fact: Abilities[] statistic: Fuzzy Bee has a base pollen collection of **100** in **6 seconds**. That's equivalent to 16.66667  per second. (**200** in **6 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Fuzzy Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Fuzzy Bee has/costs with Melody.
+Fact: The Single in Fuzzy Bee has/costs 100, 200, 300.
+Fact: The Double in Fuzzy Bee has/costs 200, 400, 600.
+Fact: The Triple in Fuzzy Bee has/costs 300, 600, 900.
+Fact: The Large in Fuzzy Bee has/costs 400, 800, 1200.
+Fact: The Star in Fuzzy Bee has/costs 500, 1000, 1500.
+Fuzzy Bee can make 40 in 6 seconds! That's equivalent to 6.66667 per second. (40 in 3 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Fuzzy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Fuzzy Bee has/costs 25%, 50.
+Fact: The 2 in Fuzzy Bee has/costs 50%, 60.
+Fact: The 3 in Fuzzy Bee has/costs 75%, 70.
+Fact: The 4 in Fuzzy Bee has/costs 100%, 80.
+Fact: The 5 in Fuzzy Bee has/costs 125%, 90.
+Fact: The 6 in Fuzzy Bee has/costs 150%, 100.
+Fact: The 7 in Fuzzy Bee has/costs 175%, 110.
+Fact: The 8 in Fuzzy Bee has/costs 200%, 120.
+Fact: The _Science Enhancement_ in Fuzzy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Fuzzy Bee has/costs 225%, 130.
+Fact: The 10 in Fuzzy Bee has/costs 250%, 140.
+Fact: The 11 in Fuzzy Bee has/costs 275%, 150.
+Fact: The 12 in Fuzzy Bee has/costs 300%, 160.
+Fact: The 13 in Fuzzy Bee has/costs 325%, 170.
+Fact: The 14 in Fuzzy Bee has/costs 350%, 180.
+Fact: The 15 in Fuzzy Bee has/costs 375%, 190.
+Fact: The 16 in Fuzzy Bee has/costs 400%, 200.
+Fact: The _Science Enhancement_ in Fuzzy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Fuzzy Bee has/costs 425%, 210.
+Fact: The 18 in Fuzzy Bee has/costs 450%, 220.
+Fact: The 19 in Fuzzy Bee has/costs 475%, 230.
+Fact: The 20 in Fuzzy Bee has/costs 500%, 240.
+Fact: The 21 in Fuzzy Bee has/costs 525%, 250.
+Fact: The 22 in Fuzzy Bee has/costs 550%, 260.
+Fact: The 23 in Fuzzy Bee has/costs 575%, 270.
+Fact: The 24 in Fuzzy Bee has/costs 600%, 280.
+Fact: The _Science Enhancement_ in Fuzzy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Fuzzy Bee has/costs 625%, 290.
+Fact: The 26 in Fuzzy Bee has/costs 650%, 300.
+Fact: The 27 in Fuzzy Bee has/costs 675%, 310.
+Fact: The 28 in Fuzzy Bee has/costs 700%, 320.
+Fact: The 29 in Fuzzy Bee has/costs 725%, 330.
+Fact: The 30 in Fuzzy Bee has/costs 750%, 340.
+Fact: The 31 in Fuzzy Bee has/costs 775%, 350.
+Egg and Jelly Probability
+Fact: The Basic Egg in Fuzzy Bee has/costs 0%, 0%.
+Fact: The Silver Egg in Fuzzy Bee has/costs 0.1%, 0.01667%.
+Fact: The Gold Egg in Fuzzy Bee has/costs 1%, 0.16667%.
+Fact: The Diamond Egg in Fuzzy Bee has/costs 5%, 0.83333%.
+Fact: The Mythic Egg in Fuzzy Bee has/costs 100%, 16.66667%.
+Fact: The Royal Jelly in Fuzzy Bee has/costs 0.004%, 0.00067%.
+Gallery[]
+Fuzzy Bee's face.
+Fuzzy Bee in the Fuzzy Pack.
+A Gifted Fuzzy Bee hive slot.
+Fuzzy Bee's Fuzz Bombs.
+Fact: Gallery[] statistic: The Pollen Haze aura..
+A Fuzzy Bee Hive Slot.
+Fuzz Bombs ability token.
+Fact: Gallery[] statistic: Pollen Haze ability token..
+A Fuzzy Bee without fur.
+A Gifted Fuzzy Bee without fur.
+Trivia[]
+* This bee, Buoyant Bee, and Precise Bee are the first Mythic bees to be added since the release of the original Mythic bees.
+* It's also the only Mythic bee to be introduced on its own.
+* Additionally, Fuzzy Bee is the only Mythic bee to be added outside of Beesmas.
+* This bee is currently the only bee that can pollinate flowers without the help of a Beequip.
+* This bee may like the Dandelion Field because dandelions in real life are also soft and fuzzy.
+* This bee, Shy Bee, Ninja Bee, and Windy Bee are the only bees with one skin color.
+* This bee, Spicy Bee, Tadpole Bee, Buoyant Bee and Digital Bee all have four different abilities, the most for any bee in the game.
+* The Fuzzy Bee Egg was the fifth specific bee egg that could have been bought for Robux, after Bear Bee, Festive Bee, Windy Bee, and Puppy Bee and before Precise Bee and Buoyant Bee.
+* Fuzzy Bee was the first non-Event bee that could have been purchased with Robux.
+* Fuzz bombs can be popped by using petal Shurikens from the Petal Wand and Petal Storm, Windy Bee's tornado, and Puppy Bee's fetch ball.
+* Any player can pop fuzz bombs, even if they were summoned by another player's Fuzzy Bee.
+* Fuzzy Bee is the only hive bee that was introduced in 2020 (not counting Digital Bee, as it wasn't usable until 2022).
+* Fuzzy Bee's Fuzz Bombs can pop bubbles when the fuzz bombs touch them.
+* There was a visual glitch that causes Fuzzy Bee to not have it's fur on it despite the fact it has it when you obtain it through Eggs or Royal Jelly (You will only see Fuzzy Bee's Body and face)
+Fact: The Common & Rare in Fuzzy Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Fuzzy Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Fuzzy Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Fuzzy Bee has/costs **Buoyant Bee •  **Fuzzy Bee** •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Fuzzy Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

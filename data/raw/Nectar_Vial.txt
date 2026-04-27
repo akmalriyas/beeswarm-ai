@@ -1,0 +1,148 @@
+Context: Bee Swarm Simulator - Nectar Vial
+
+Nectar Vial
+Nectar Vials inside a player's inventory.
+Nectar Vials are a type of inventory item that can be used to increase a player's current Nectar by 4 hours when used. Using any Nectar Vial grants 4 hours of their respective nectar type. You can hold a maximum of 10 Nectar Vials of each type at a time. However, this limit can be bypassed by obtaining them through quests or Robux Packs.
+Ways to Obtain[]
+* Using the Nectar Condenser to convert 12 hours of nectar into a Nectar Vial which stores 4 hours of nectar.
+* As a reward for adding certain stickers to the Sticker Stack.
+* Adding the Satisfying, Refreshing, Motivating, Invigorating, and Comforting Nectar Icon rewards the player with their respective nectar vial.
+* Adding the Offline Voucher rewards 1 Nectar Shower Vial.
+* Defeating a Level 10 Snowbear drops 1 Invigorating Vial.
+* Buying the Feelin' Festive Pack for 800 Robux grants 5 Nectar Shower Vials and other items.
+* From purchasing certain bundles from Bee Bear's Catalog.
+* Purchasing the Frozen Forest Pack for 1,200 Snowflakes and 40 Gingerbread Bears grants 1 Comforting Vial and other items.
+* Purchasing the Season's Sharing Bundle for 600 Snowflakes and 60 Gingerbread Bears grants 1 Nectar Shower Vial and other items.
+* From giving Presents to certain NPCs.
+* Giving Gifted Bucko Bee a Present rewards 1 Comforting Vial and other items.
+* Giving Gifted Riley Bee a Present rewards 1 Invigorating Vial and other items.
+* From opening certain gift boxes.
+* Opening the Ruby Gift Box rewards 1 Invigorating Vial and other items.
+* Opening the Restful Gift Box rewards 1 Nectar Shower Vial and other items.
+* As a reward from certain quests.
+* Completing several Dapper Bear quests reward the player with at least one of every nectar vial.
+* Satisfying Vials:
+* Means of Mutation (5) rewards 1 Satisfying Vial and other items.
+* The Trick To Tickets (11) rewards 1 Satisfying Vial and other items.
+* More Than Myth (15) rewards 1 Satisfying Vial and other items.
+* Comforting Vials:
+* Creative Comforts (6) rewards 1 Comforting Vial and other items.
+* The Long Haul (10) rewards 1 Comforting Vial and other items.
+* Ongoing Maintenance (13) rewards 1 Comforting Vial and other items.
+* Barter For The Blue Drive rewards 1 Comforting Vial and other items.
+* Refreshing Vials:
+* Keeping It Chromatic (7) rewards 1 Refreshing Vial and other items.
+* Solitarily Steadfast (14) rewards 1 Refreshing Vial and other items.
+* Dapper Bear's Samovar rewards 1 Refreshing Vial and other items.
+* Motivating Vials:
+* Wandering Ambition (8) rewards 1 Motivating Vial and other items.
+* Invigorating Vials:
+* Unintended Intimidation (9) rewards 1 Invigorating Vial and other items.
+* Invigorating View (12) rewards 1 Invigorating Vial and other items.
+* Nectar Shower Vials:
+* Sticker Style (16) rewards 1 Nectar Shower Vial and other items.
+Outdated Ways[]
+* As a reward from certain quests:
+* Completing Onett's Beesmas 2022 quest rewarded 1 Refreshing Vial and other items.
+* Completing Gifted Riley Bee's Beesmas 2022 quest rewarded 1 Invigorating Vial and other items.
+* Completing Dapper Bear's Beesmas 2022 quest rewarded 1 Motivating Vial and other items.
+* Completing Stick Bug's Beesmas 2022 quest rewarded 2 Invigorating Vials and other items.
+* Completing Gifted Bucko Bee's Beesmas 2022 quest rewarded 1 Comforting Vial and other items.
+* Completing Polar Bear's Beesmas 2022 quest rewarded 1 Satisfying Vial and other items.
+* Completing Bubble Bee Man's Beesmas 2022 quest rewarded 8 Comforting Vials and other items.
+* Completing Bee Bear's Peppermint Preparation (2/5) rewarded 1 Comforting Vial,1 Motivating Vial, and other items.
+* Completing Bee Bear's Peppermint Preparation (5/5) rewarded 5 Satisfying Vials and other items.
+* Completing Bee Bear's Cheering Up Gloomy Cub (4/5): Material Things? rewarded 3 Nectar Shower Vials and other items.
+* Completing Bubble Bee Man’s Beesmas Winter 2024 Quest rewarded 7 Nectar Shower Vials and other items.
+* From giving Presents to certain NPCs.
+* Giving Dapper Bear a Present during Summer 2024 and Winter 2024 rewarded a random nectar vial and other items.
+* Giving Gifted Bucko Bee a Present during Beesmas 2022 rewarded 1 Comforting Vial and other items.
+* Giving Gifted Riley Bee a Present during Beesmas 2022 rewarded 1 Invigorating Vial and other items.
+* Defeating a Level 10 Snowbear during Beesmas 2022, Summer 2024, or Winter 2024 dropped 1 Invigorating Vial.
+* Defeating a Level 24 Snowbear during Beesmas 2022, Summer 2024, or Winter 2024 dropped 1 Invigorating Vial.
+* From opening certain gift boxes.
+* Opening the Silky Gift Box "Gift Boxes/2024 \(Winter\)") rewarded 1 Satisfying Vial and other items.
+* Opening the Cherry Gift Box rewarded 1 Invigorating Vial and other items.
+* Opening the Gooey Gift Box rewarded 1 Satisfying Vial and other items.
+* Opening the Obnoxious Gift Box rewarded 1 Invigorating Vial and other items.
+* Opening the Tropical Gift Box rewarded 1 Refreshing Vial and other items.
+* Opening the Soothing Gift Box rewarded 2 Comforting Vials and other items.
+* Opening the Mythic Gift Box rewarded 2 Motivating Vials and other items.
+* From purchasing certain bundles from Bee Bear's Catalog.
+* Purchasing the Hefty Honeyday Bundle granted 5 of each Nectar Vial and other items.
+* Purchasing the Tropical Bundle granted 1 Refreshing Vial and other items.
+* Purchasing the Violet Bundle granted 1 Motivating Vial and other items.
+* Purchasing the Angelic Bundle granted 1 Satisfying Vial and other items.
+* Purchasing the Charming Bundle granted 1 Invigorating Vial and other items.
+* Purchasing the Refreshing Bundle granted 1 Refreshing Vial and other items.
+* From purchasing certain packs from the Robux Shop.
+* Purchasing the Nighttime Nectar Pack for 400 Robux gave 1 of each Nectar Vial and other items.
+* Buying the Royal Winter Wonder Haul pack for 4,500 Robux granted 10 Nectar Shower Vials and other items.
+Variants[]
+There is a total of six variants of Nectar Vials. Five of which; immediately grant 4 hours of a type of Nectar buff to the player. The other grants 4 hours of every Nectar buff to all players in the server. The type of Nectar that the player is granted depends on the type of Nectar Vial that they choose to use, with the exception of the Nectar Shower Vial.
+Comforting Vial[]
+_Main article:Comforting Vial_
+Comforting Vials instantly give the player 4 hours of the Comforting Nectar buff.
+Invigorating Vial[]
+_Main article:Invigorating Vial_
+Invigorating Vials instantly give the player 4 hours of the Invigorating Nectar buff.
+Motivating Vial[]
+_Main article:Motivating Vial_
+Motivating Vials instantly give the player 4 hours of the Motivating Nectar buff.
+Refreshing Vial[]
+_Main article:Refreshing Vial_
+Refreshing Vials instantly give the player 4 hours of the Refreshing Nectar buff.
+Satisfying Vial[]
+_Main article:Satisfying Vial_
+Satisfying Vials instantly give the player 4 hours of the Satisfying Nectar buff.
+Nectar Shower Vial[]
+_Main article:Nectar Shower Vial_
+Nectar Shower Vials instantly give all players in the server 4 hours of each Nectar buff.
+Gallery[]
+Each type of Nectar Vial (excluding Nectar Shower Vials) along with other stuff in the Nighttime Nectar Pack.
+Nectar Shower Vials along with other items in the Royal Winter Wonder Haul Pack.
+2 Motivating Vial tokens from the Mythic Gift Box from Beesmas 2022.
+A Satisfying Vial token from the Gooey Gift Box from Beesmas 2022.
+An Invigorating Vial token from the Obnoxious Gift Box from Beesmas 2022.
+A Refreshing Vial token from the Tropical Gift Box from Beesmas 2022.
+Trivia[]
+* While most of the Nectar Vials have a letter on them which represents the first letter of their name (C for Comforting, I for Invigorating, M for Motivating, S for Satisfying), the Refreshing Vial doesn't have an R on it to represent the first letter of its name. The Nectar Shower Vial has no icon at all, as it just seems to be a mix of all the previous Nectars.
+* There is only a limited amount of Nectar Vials that can be obtained by the player without the use of the Nectar Condenser.
+* For Comforting Vials, the total amount that can be obtained is 26.
+* For Invigorating Vials, the total amount that can be obtained is 22.
+* For Motivating Vials, the total amount that can be obtained is 13.
+* For Refreshing Vials, the total amount that can be obtained is 14.
+* For Satisfying Vials, the total amount that can be obtained is 19.
+* For Nectar Shower Vials, the total amount that can be obtained is 34.
+* The Nectar Shower Vial is the only vial that is not obtainable from the Nectar Condenser.
+* Using Nectar Vials does count toward collecting nectar in quests.
+* However, they do not contribute to the Top Nectar Collector Leaderboards.
+Fact: The Sub-Inventories in Nectar Vial has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Nectar Vial has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Nectar Vial has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Nectar Vial has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Nectar Vial has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Nectar Vial has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Nectar Vial has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Nectar Vial has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Nectar Vial has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Nectar Vial has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Nectar Vial has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Nectar Vial has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Nectar Vial has/costs **7-Pronged Cog**.
+Fact: The Other in Nectar Vial has/costs **Marshmallow Bee**.
+Fact: The Currencies in Nectar Vial has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Nectar Vial has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Nectar Vial has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Nectar Vial has/costs **Parachute •  Glider**.
+Fact: The Bags in Nectar Vial has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Nectar Vial has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Nectar Vial has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Nectar Vial has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Nectar Vial has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Nectar Vial has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Nectar Vial has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Nectar Vial has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Nectar Vial has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Nectar Vial has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

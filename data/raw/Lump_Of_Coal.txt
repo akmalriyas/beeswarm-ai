@@ -1,0 +1,1051 @@
+Context: Bee Swarm Simulator - Lump Of Coal
+
+Lump Of Coal
+Lump Of Coal
+"Naughty bees are forced to carry this burdensome load."
+-Movespeed%
+Fact: -Movespeed% statistic: +Bomb Pollen%.
+Fact: -Movespeed% statistic: +Pollen%.
+Fact: -Movespeed% statistic: +White Pollen%.
+Fact: -Movespeed% statistic: +Red Pollen%.
+Fact: -Movespeed% statistic: +Blue Pollen%.
+Fact: -Movespeed% statistic: +Bomb Pollen%.
+Fact: -Movespeed% statistic: +Buzz Bomb Pollen%.
+Fact: -Movespeed% statistic: +Red Bomb Pollen%.
+Fact: -Movespeed% statistic: +Blue Bomb Pollen%.
+A Lump Of Coal is a level 13 Beesmas Beequip. It has an equip limit of three. There is no color requirement.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades, Range.
+Fact: The Chance in Lump Of Coal has/costs Value, Weight, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Lump Of Coal has/costs \-, \-, \-, **-80% - -70%**.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs \-, \-, \-, **-50% - -40%**.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **1**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Lump Of Coal has/costs **20**, **0% - +40%**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs \-, \-, \-, **0% - +1%**.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs \-, \-, \-, **0% - +2%**.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs \-, \-, \-, **0% - +2%**.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs \-, \-, \-, **0% - +2%**.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs An exact value between **0.05** -**0.2**.
+Fact: The Linear scaling by a factor of 1 in Lump Of Coal has/costs **+1%**, **10**, **+1% - +13%**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs An exact value between **0.05** -**0.2**.
+Fact: The Linear scaling by a factor of 1 in Lump Of Coal has/costs **+1%**, **10**, **0% - +13%**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs An exact value between **0.05** -**0.2**.
+Fact: The Linear scaling by a factor of 1 in Lump Of Coal has/costs **+1%**, **10**, **0% - +13%**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Fact: The Bias scales linearly in Lump Of Coal has/costs An exact value between **0.05** -**0.2**.
+Fact: The Linear scaling by a factor of 1 in Lump Of Coal has/costs **+1%**, **10**, **0% - +13%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -80%
+Fact: The Average value: -77.52% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -50%
+Fact: The Average value: -47.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **83.3333%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -80%
+Fact: The Average value: -77.52% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -50%
+Fact: The Average value: -47.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **83.3333%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1%
+Fact: The Average value: +1.25% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **4.1667%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -79%
+Fact: The Average value: -77.01% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -49%
+Fact: The Average value: -47% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **79.3651%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.16% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -79%
+Fact: The Average value: -77.01% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -49%
+Fact: The Average value: -47% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **79.3651%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.06%
+Fact: The Average value: +1.16% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.1%
+Fact: The Average value: +1.3% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs **5.1587%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -78%
+Fact: The Average value: -76.51% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -48%
+Fact: The Average value: -46.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **75.7576%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.12%
+Fact: The Average value: +1.18% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -78%
+Fact: The Average value: -76.51% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -48%
+Fact: The Average value: -46.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **75.7576%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.12%
+Fact: The Average value: +1.18% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.2%
+Fact: The Average value: +1.35% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs **6.0606%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -77%
+Fact: The Average value: -76% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -47%
+Fact: The Average value: -46% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **72.4638%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.21%
+Fact: The Average value: +1.21% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -77%
+Fact: The Average value: -76% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -47%
+Fact: The Average value: -46% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **72.4638%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.21%
+Fact: The Average value: +1.21% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.3%
+Fact: The Average value: +1.4% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.8% in Lump Of Coal has/costs **6.8841%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -76%
+Fact: The Average value: -75.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -46%
+Fact: The Average value: -45.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **69.4444%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -76%
+Fact: The Average value: -75.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -46%
+Fact: The Average value: -45.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **69.4444%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.4%
+Fact: The Average value: +1.45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.9% in Lump Of Coal has/costs **7.6389%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -75%
+Fact: The Average value: -75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -45%
+Fact: The Average value: -45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **66.6667%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -75%
+Fact: The Average value: -75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -45%
+Fact: The Average value: -45% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **66.6667%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2%
+Fact: The Average value: +2% in Lump Of Coal has/costs **8.3333%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -74%
+Fact: The Average value: -74.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -44%
+Fact: The Average value: -44.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **64.1026%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -74%
+Fact: The Average value: -74.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -44%
+Fact: The Average value: -44.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **64.1026%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.68% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.6%
+Fact: The Average value: +1.55% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.2%
+Fact: The Average value: +2.1% in Lump Of Coal has/costs **8.9744%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -73%
+Fact: The Average value: -74% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -43%
+Fact: The Average value: -44% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **61.7284%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -73%
+Fact: The Average value: -74% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -43%
+Fact: The Average value: -44% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **61.7284%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.7%
+Fact: The Average value: +1.6% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.4%
+Fact: The Average value: +2.2% in Lump Of Coal has/costs **9.5679%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -72%
+Fact: The Average value: -73.49% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -42%
+Fact: The Average value: -43.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **59.5238%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -72%
+Fact: The Average value: -73.49% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -42%
+Fact: The Average value: -43.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **59.5238%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.8%
+Fact: The Average value: +1.65% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.6%
+Fact: The Average value: +2.3% in Lump Of Coal has/costs **10.119%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -71%
+Fact: The Average value: -72.99% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -41%
+Fact: The Average value: -43% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **57.4713%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -71%
+Fact: The Average value: -72.99% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -41%
+Fact: The Average value: -43% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **57.4713%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +1.9%
+Fact: The Average value: +1.7% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +2.8%
+Fact: The Average value: +2.4% in Lump Of Coal has/costs **10.6322%**, **+1%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -70%
+Fact: The Average value: -72.48% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -40%
+Fact: The Average value: -42.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **55.5556%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lump Of Coal has/costs Base, Upgrades.
+Fact: The Chance in Lump Of Coal has/costs Value, Chance, Value, Limit.
+Fact: The -Energy% in Lump Of Coal has/costs **100%**, A random value between **-80%** -**-70%**.
+Intervals of +1%
+Biased to values near -70%
+Fact: The Average value: -72.48% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The -Movespeed% in Lump Of Coal has/costs **100%**, A random value between **-50%** -**-40%**.
+Biased to values near -40%
+Fact: The Average value: -42.5% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs \-, \-, **55.5556%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Lump Of Coal has/costs **20**.
+Fact: The +Pollen% in Lump Of Coal has/costs **5%**, **+1%**, \-, \-, \-.
+Fact: The +White Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Red Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Blue Pollen% in Lump Of Coal has/costs **10%**, A random value between **+1%** -**+2%**.
+Biased to values near +2%
+Fact: The Average value: +1.75% in Lump Of Coal has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Lump Of Coal has/costs **100%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+Fact: The +Buzz Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+Fact: The +Red Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+Fact: The +Blue Bomb Pollen% in Lump Of Coal has/costs **15%**, A random value between **+1%** -**+3%**.
+Biased to values near +3%
+Fact: The Average value: +2.5% in Lump Of Coal has/costs **11.1111%**, **+1%**, **10**.
+Probabilities[]
+The tables below give the probability of a stat of Lump Of Coal falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* -Movespeed%
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The -80%--79% in Lump Of Coal has/costs -78%--77%, -76%--75%, -74%--73%, -72%--71%, -70%.
+Fact: The **0 ★** in Lump Of Coal has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, -77.5%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, -77%.
+Fact: The **1 ★** in Lump Of Coal has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, -76.5%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, -76%.
+Fact: The **2 ★** in Lump Of Coal has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, -75.5%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, -75%.
+Fact: The **3 ★** in Lump Of Coal has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, -74.5%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, -74%.
+Fact: The **4 ★** in Lump Of Coal has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, -73.5%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, -73%.
+Fact: The **5 ★** in Lump Of Coal has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, -72.5%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The -50%--47.5% in Lump Of Coal has/costs -47.5%--45%, -45%--42.5%, -42.5%--40%.
+Fact: The **0 ★** in Lump Of Coal has/costs 59.657%, 25%, 11.919%, 3.424%, -47.5%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 51.876%, 30.561%, 13.715%, 3.848%, -47%.
+Fact: The **1 ★** in Lump Of Coal has/costs 38.863%, 40.562%, 16.183%, 4.392%, -46.5%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 16.041%, 59.014%, 19.827%, 5.118%, -46%.
+Fact: The **2 ★** in Lump Of Coal has/costs 10.288%, 57.63%, 25.947%, 6.135%, -45.5%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 7.671%, 42.329%, 42.329%, 7.671%, -45%.
+Fact: The **3 ★** in Lump Of Coal has/costs 6.135%, 25.947%, 57.63%, 10.288%, -44.5%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 5.118%, 19.827%, 59.014%, 16.041%, -44%.
+Fact: The **4 ★** in Lump Of Coal has/costs 4.392%, 16.183%, 40.562%, 38.863%, -43.5%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 3.848%, 13.715%, 30.561%, 51.876%, -43%.
+Fact: The **5 ★** in Lump Of Coal has/costs 3.424%, 11.919%, 25%, 59.657%, -42.5%.
+Fact: **5 ★** statistic: * +White Pollen%.
+Fact: **5 ★** statistic: * +Red Pollen%.
+Fact: **5 ★** statistic: * +Blue Pollen%.
+Fact: **5 ★** statistic: * +Bomb Pollen%.
+Fact: **5 ★** statistic: * +Buzz Bomb Pollen%.
+Fact: **5 ★** statistic: * +Red Bomb Pollen%.
+Fact: **5 ★** statistic: * +Blue Bomb Pollen%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1%-+1.2% in Lump Of Coal has/costs +1.2%-+1.4%, +1.4%-+1.6%, +1.6%-+1.8%, +1.8%-+2%.
+Fact: The **0 ★** in Lump Of Coal has/costs 52.189%, 24.463%, 13.998%, 7.202%, 2.149%, +1.2%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 41.972%, 30.986%, 16.431%, 8.203%, 2.408%, +1.3%.
+Fact: The **1 ★** in Lump Of Coal has/costs 20%, 47.726%, 20%, 9.535%, 2.739%, +1.3%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 9.014%, 50.445%, 25.96%, 11.405%, 3.176%, +1.4%.
+Fact: The **2 ★** in Lump Of Coal has/costs 6.137%, 33.863%, 41.972%, 14.246%, 3.781%, +1.4%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 4.675%, 19.23%, 52.189%, 19.23%, 4.675%, +1.5%.
+Fact: The **3 ★** in Lump Of Coal has/costs 3.781%, 14.246%, 41.972%, 33.863%, 6.137%, +1.6%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 3.176%, 11.405%, 25.96%, 50.445%, 9.014%, +1.6%.
+Fact: The **4 ★** in Lump Of Coal has/costs 2.739%, 9.535%, 20%, 47.726%, 20%, +1.7%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 2.408%, 8.203%, 16.431%, 30.986%, 41.972%, +1.7%.
+Fact: The **5 ★** in Lump Of Coal has/costs 2.149%, 7.202%, 13.998%, 24.463%, 52.189%, +1.8%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1%-+1.2% in Lump Of Coal has/costs +1.2%-+1.4%, +1.4%-+1.6%, +1.6%-+1.8%, +1.8%-+2%.
+Fact: The **0 ★** in Lump Of Coal has/costs 52.189%, 24.463%, 13.998%, 7.202%, 2.149%, +1.2%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 41.972%, 30.986%, 16.431%, 8.203%, 2.408%, +1.3%.
+Fact: The **1 ★** in Lump Of Coal has/costs 20%, 47.726%, 20%, 9.535%, 2.739%, +1.3%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 9.014%, 50.445%, 25.96%, 11.405%, 3.176%, +1.4%.
+Fact: The **2 ★** in Lump Of Coal has/costs 6.137%, 33.863%, 41.972%, 14.246%, 3.781%, +1.4%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 4.675%, 19.23%, 52.189%, 19.23%, 4.675%, +1.5%.
+Fact: The **3 ★** in Lump Of Coal has/costs 3.781%, 14.246%, 41.972%, 33.863%, 6.137%, +1.6%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 3.176%, 11.405%, 25.96%, 50.445%, 9.014%, +1.6%.
+Fact: The **4 ★** in Lump Of Coal has/costs 2.739%, 9.535%, 20%, 47.726%, 20%, +1.7%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 2.408%, 8.203%, 16.431%, 30.986%, 41.972%, +1.7%.
+Fact: The **5 ★** in Lump Of Coal has/costs 2.149%, 7.202%, 13.998%, 24.463%, 52.189%, +1.8%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1%-+1.2% in Lump Of Coal has/costs +1.2%-+1.4%, +1.4%-+1.6%, +1.6%-+1.8%, +1.8%-+2%.
+Fact: The **0 ★** in Lump Of Coal has/costs 52.189%, 24.463%, 13.998%, 7.202%, 2.149%, +1.2%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 41.972%, 30.986%, 16.431%, 8.203%, 2.408%, +1.3%.
+Fact: The **1 ★** in Lump Of Coal has/costs 20%, 47.726%, 20%, 9.535%, 2.739%, +1.3%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 9.014%, 50.445%, 25.96%, 11.405%, 3.176%, +1.4%.
+Fact: The **2 ★** in Lump Of Coal has/costs 6.137%, 33.863%, 41.972%, 14.246%, 3.781%, +1.4%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 4.675%, 19.23%, 52.189%, 19.23%, 4.675%, +1.5%.
+Fact: The **3 ★** in Lump Of Coal has/costs 3.781%, 14.246%, 41.972%, 33.863%, 6.137%, +1.6%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 3.176%, 11.405%, 25.96%, 50.445%, 9.014%, +1.6%.
+Fact: The **4 ★** in Lump Of Coal has/costs 2.739%, 9.535%, 20%, 47.726%, 20%, +1.7%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 2.408%, 8.203%, 16.431%, 30.986%, 41.972%, +1.7%.
+Fact: The **5 ★** in Lump Of Coal has/costs 2.149%, 7.202%, 13.998%, 24.463%, 52.189%, +1.8%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1%-+1.5% in Lump Of Coal has/costs +1.5%-+2%, +2%-+2.5%, +2.5%-+3%.
+Fact: The **0 ★** in Lump Of Coal has/costs 59.657%, 25%, 11.919%, 3.424%, +1.5%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 51.876%, 30.561%, 13.715%, 3.848%, +1.6%.
+Fact: The **1 ★** in Lump Of Coal has/costs 38.863%, 40.562%, 16.183%, 4.392%, +1.7%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 16.041%, 59.014%, 19.827%, 5.118%, +1.8%.
+Fact: The **2 ★** in Lump Of Coal has/costs 10.288%, 57.63%, 25.947%, 6.135%, +1.9%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 7.671%, 42.329%, 42.329%, 7.671%, +2%.
+Fact: The **3 ★** in Lump Of Coal has/costs 6.135%, 25.947%, 57.63%, 10.288%, +2.1%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 5.118%, 19.827%, 59.014%, 16.041%, +2.2%.
+Fact: The **4 ★** in Lump Of Coal has/costs 4.392%, 16.183%, 40.562%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 3.848%, 13.715%, 30.561%, 51.876%, +2.4%.
+Fact: The **5 ★** in Lump Of Coal has/costs 3.424%, 11.919%, 25%, 59.657%, +2.5%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1%-+1.5% in Lump Of Coal has/costs +1.5%-+2%, +2%-+2.5%, +2.5%-+3%.
+Fact: The **0 ★** in Lump Of Coal has/costs 59.657%, 25%, 11.919%, 3.424%, +1.5%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 51.876%, 30.561%, 13.715%, 3.848%, +1.6%.
+Fact: The **1 ★** in Lump Of Coal has/costs 38.863%, 40.562%, 16.183%, 4.392%, +1.7%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 16.041%, 59.014%, 19.827%, 5.118%, +1.8%.
+Fact: The **2 ★** in Lump Of Coal has/costs 10.288%, 57.63%, 25.947%, 6.135%, +1.9%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 7.671%, 42.329%, 42.329%, 7.671%, +2%.
+Fact: The **3 ★** in Lump Of Coal has/costs 6.135%, 25.947%, 57.63%, 10.288%, +2.1%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 5.118%, 19.827%, 59.014%, 16.041%, +2.2%.
+Fact: The **4 ★** in Lump Of Coal has/costs 4.392%, 16.183%, 40.562%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 3.848%, 13.715%, 30.561%, 51.876%, +2.4%.
+Fact: The **5 ★** in Lump Of Coal has/costs 3.424%, 11.919%, 25%, 59.657%, +2.5%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1%-+1.5% in Lump Of Coal has/costs +1.5%-+2%, +2%-+2.5%, +2.5%-+3%.
+Fact: The **0 ★** in Lump Of Coal has/costs 59.657%, 25%, 11.919%, 3.424%, +1.5%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 51.876%, 30.561%, 13.715%, 3.848%, +1.6%.
+Fact: The **1 ★** in Lump Of Coal has/costs 38.863%, 40.562%, 16.183%, 4.392%, +1.7%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 16.041%, 59.014%, 19.827%, 5.118%, +1.8%.
+Fact: The **2 ★** in Lump Of Coal has/costs 10.288%, 57.63%, 25.947%, 6.135%, +1.9%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 7.671%, 42.329%, 42.329%, 7.671%, +2%.
+Fact: The **3 ★** in Lump Of Coal has/costs 6.135%, 25.947%, 57.63%, 10.288%, +2.1%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 5.118%, 19.827%, 59.014%, 16.041%, +2.2%.
+Fact: The **4 ★** in Lump Of Coal has/costs 4.392%, 16.183%, 40.562%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 3.848%, 13.715%, 30.561%, 51.876%, +2.4%.
+Fact: The **5 ★** in Lump Of Coal has/costs 3.424%, 11.919%, 25%, 59.657%, +2.5%.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1%-+1.5% in Lump Of Coal has/costs +1.5%-+2%, +2%-+2.5%, +2.5%-+3%.
+Fact: The **0 ★** in Lump Of Coal has/costs 59.657%, 25%, 11.919%, 3.424%, +1.5%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 51.876%, 30.561%, 13.715%, 3.848%, +1.6%.
+Fact: The **1 ★** in Lump Of Coal has/costs 38.863%, 40.562%, 16.183%, 4.392%, +1.7%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 16.041%, 59.014%, 19.827%, 5.118%, +1.8%.
+Fact: The **2 ★** in Lump Of Coal has/costs 10.288%, 57.63%, 25.947%, 6.135%, +1.9%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 7.671%, 42.329%, 42.329%, 7.671%, +2%.
+Fact: The **3 ★** in Lump Of Coal has/costs 6.135%, 25.947%, 57.63%, 10.288%, +2.1%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 5.118%, 19.827%, 59.014%, 16.041%, +2.2%.
+Fact: The **4 ★** in Lump Of Coal has/costs 4.392%, 16.183%, 40.562%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 3.848%, 13.715%, 30.561%, 51.876%, +2.4%.
+Fact: The **5 ★** in Lump Of Coal has/costs 3.424%, 11.919%, 25%, 59.657%, +2.5%.
+* Bee Stats
+Fact: * Bee Stats statistic: * +Bomb Pollen%.
+Fact: The Potential in Lump Of Coal has/costs Stat ranges, Average.
+Fact: The +1% in Lump Of Coal has/costs +2%.
+Fact: The **0 ★** in Lump Of Coal has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Lump Of Coal has/costs 83.501%, 16.499%, +1.2%.
+Fact: The **1 ★** in Lump Of Coal has/costs 81.774%, 18.226%, +1.2%.
+Fact: The **1.5 ★** in Lump Of Coal has/costs 78.903%, 21.097%, +1.2%.
+Fact: The **2 ★** in Lump Of Coal has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **2.5 ★** in Lump Of Coal has/costs 50%, 50%, +1.5%.
+Fact: The **3 ★** in Lump Of Coal has/costs 32.082%, 67.918%, +1.7%.
+Fact: The **3.5 ★** in Lump Of Coal has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Lump Of Coal has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Lump Of Coal has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Lump Of Coal has/costs 15.343%, 84.657%, +1.8%.
+Way(s) to Obtain[]
+* By dying from the 2020, 2021, 2022, both 2024 and 2025's Naughty List's falling coal.
+Outdated Ways[]
+* There are currently no outdated ways.
+Gallery[]
+A Lump Of Coal equipped to a Bumble Bee.
+A Lump Of Coal in the Beequip Case.
+Trivia[]
+* This is one of eight beequips to give a negative stat.
+* The other seven are Kazoo, Whistle, Beesmas Top, Toy Horn, Demon Talisman, Pink Eraser and Toy Drum.
+* This is the only beequip to give two negative stats.
+* The Lump Of Coal, tied with the Charm Bracelet, has the most possible hive bonuses out of any Beequip, at eight.
+Fact: The Sub-Inventories in Lump Of Coal has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Lump Of Coal has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Lump Of Coal has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Lump Of Coal has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Lump Of Coal has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Lump Of Coal has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Lump Of Coal has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Lump Of Coal has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Lump Of Coal has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Lump Of Coal has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Lump Of Coal has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Lump Of Coal has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Lump Of Coal has/costs **7-Pronged Cog**.
+Fact: The Other in Lump Of Coal has/costs **Marshmallow Bee**.
+Fact: The Currencies in Lump Of Coal has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Lump Of Coal has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Lump Of Coal has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Lump Of Coal has/costs **Parachute •  Glider**.
+Fact: The Bags in Lump Of Coal has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Lump Of Coal has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Lump Of Coal has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Lump Of Coal has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Lump Of Coal has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Lump Of Coal has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Lump Of Coal has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Lump Of Coal has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  **Lump Of Coal** •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Lump Of Coal has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Lump Of Coal has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

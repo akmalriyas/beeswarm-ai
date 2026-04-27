@@ -1,0 +1,120 @@
+Context: Bee Swarm Simulator - Puppy Bee
+
+Puppy Bee
+Puppy Bee
+_"A playful bee who only cares about two things, its tennis ball and you!"_
+Fact: The 40 in Puppy Bee has/costs **Speed**.
+Fact: The 16.1 in Puppy Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #ffe089 #453529 #ffe089
+Puppy Bee is a Colorless Event bee. It hatches out of a Puppy Bee Egg, which is available in the Ticket Tent for 500 Tickets.
+Like all other Event bees, this bee does not have a favorite treat, and the only way to make it gifted is by feeding it a Star Treat, Gingerbread Bears or Aged Gingerbread Bears.
+Puppy Bee likes the Clover Field and the Pumpkin Patch. It dislikes the Rose Field.
+Fact: Skin #ffe089 #453529 #ffe089 statistic: * Collects 25 Pollen in 4 seconds..
+* Makes 280 Honey in 4 seconds.
+* +100% Energy, +15% Movespeed, +15 Gather Amount, +200 Convert Amount, +1 Attack.
+* 🌟 Gifted Hive Bonus: +20% Bond from Treats.
+Abilities[]
+* [Fetch] Creates a ball that collects tokens and increases pollen by 100% (+15% per Level) as you and Puppy Bee kick it to each other. Collection increases per kick. Combo hits to win Treats.
+* [Puppy Love] Increases your bond with up to 10 nearby bees by 60 (+20 per lvl). Grants +10% Bee Movespeed and +50% Bee Gather Amount for 10 seconds (+1s per lvl).
+Fact: Abilities[] statistic: Puppy Bee has a base pollen collection of **25** in **4 seconds**. That's equivalent to 6.25  per second. (**50** in **4 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Puppy Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Puppy Bee has/costs with Melody.
+Fact: The Single in Puppy Bee has/costs 25, 50, 75.
+Fact: The Double in Puppy Bee has/costs 50, 100, 150.
+Fact: The Triple in Puppy Bee has/costs 75, 150, 225.
+Fact: The Large in Puppy Bee has/costs 100, 200, 300.
+Fact: The Star in Puppy Bee has/costs 125, 250, 375.
+Puppy Bee can make 280 in 4 seconds! That's equivalent to 70 per second. (280 in 2 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Puppy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Puppy Bee has/costs 25%, 350.
+Fact: The 2 in Puppy Bee has/costs 50%, 420.
+Fact: The 3 in Puppy Bee has/costs 75%, 490.
+Fact: The 4 in Puppy Bee has/costs 100%, 560.
+Fact: The 5 in Puppy Bee has/costs 125%, 630.
+Fact: The 6 in Puppy Bee has/costs 150%, 700.
+Fact: The 7 in Puppy Bee has/costs 175%, 770.
+Fact: The 8 in Puppy Bee has/costs 200%, 840.
+Fact: The _Science Enhancement_ in Puppy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Puppy Bee has/costs 225%, 910.
+Fact: The 10 in Puppy Bee has/costs 250%, 980.
+Fact: The 11 in Puppy Bee has/costs 275%, 1050.
+Fact: The 12 in Puppy Bee has/costs 300%, 1120.
+Fact: The 13 in Puppy Bee has/costs 325%, 1190.
+Fact: The 14 in Puppy Bee has/costs 350%, 1260.
+Fact: The 15 in Puppy Bee has/costs 375%, 1330.
+Fact: The 16 in Puppy Bee has/costs 400%, 1400.
+Fact: The _Science Enhancement_ in Puppy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Puppy Bee has/costs 425%, 1470.
+Fact: The 18 in Puppy Bee has/costs 450%, 1540.
+Fact: The 19 in Puppy Bee has/costs 475%, 1610.
+Fact: The 20 in Puppy Bee has/costs 500%, 1680.
+Fact: The 21 in Puppy Bee has/costs 525%, 1750.
+Fact: The 22 in Puppy Bee has/costs 550%, 1820.
+Fact: The 23 in Puppy Bee has/costs 575%, 1890.
+Fact: The 24 in Puppy Bee has/costs 600%, 1960.
+Fact: The _Science Enhancement_ in Puppy Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Puppy Bee has/costs 625%, 2030.
+Fact: The 26 in Puppy Bee has/costs 650%, 2100.
+Fact: The 27 in Puppy Bee has/costs 675%, 2170.
+Fact: The 28 in Puppy Bee has/costs 700%, 2240.
+Fact: The 29 in Puppy Bee has/costs 725%, 2310.
+Fact: The 30 in Puppy Bee has/costs 750%, 2380.
+Fact: The 31 in Puppy Bee has/costs 775%, 2450.
+Gallery[]
+Puppy Bee's face.
+Puppy Bee's original face.
+Puppy Bee on sale for 50% off.
+An in-game announcement about the sale ending.
+An in-game announcement when Puppy Bee's sale was about to end.
+A Gifted Puppy Bee hive slot.
+A First Edition Puppy Bee.
+Puppy Bee model on the top of the Ticket Tent.
+Puppy Bee in the game's thumbnail during Beesmas 2020.
+Puppy Bee staring in the "Reindeer Puppy Pack".
+Puppy Bee wearing the Reindeer Antlers.
+A Gifted mutated First Edition Puppy Bee wearing the Reindeer Antlers.
+Puppy bee summoning a Gummy Sprout.
+Puppy Love token.
+Fetch token.
+The heart that ascends after collecting a Puppy Love token.
+The Fetch Ball.
+The Fetch Ball when Puppy Bee is wearing the Reindeer Antlers.
+Puppy Bee Promotion for Reindeer Antlers.
+Trivia[]
+* When Puppy Bee came out on the 2018-09-10 Update, it was on sale in the Ticket Tent for 250 tickets until September 22, 2018.
+* It takes 3 hits of the ball by the owner and 3 hits by the Puppy Bee (3 volleys) to drop a treat token. The more times the ball is hit in a row, the more treats are earned from the treat token (Doubled every time a combo is done, starting at 1, capping at 256).
+* Once the treat token reaches the capped amount of treats, the ball will permanently stay light green and will not be able to produce any more treat tokens.
+* It takes a total of 54 hits to reach the max amount of treats, and 60 to get 10x Reindeer Guidance.
+* When a treat token of this kind is collected, even if more than 1 treat is earned from the treat token, it will always count as 1 treat token collected in quests.
+* Puppy Bee was the first bee to be able to create treat tokens, the second being Festive Bee with its festive gift ability.
+* Puppy Bee was likely made to be Tabby Bee's canine counterpart.
+* Sometimes, the ball spawned by the fetch token can get stuck, allowing the player and Puppy Bee to easily pass it back and forth.
+* Puppy Bee was the first bee that has a 3D model on its face (its tongue).
+* Puppy Bee, Bear Bee, and Tabby Bee are currently the only bees that were sold at a discount for a limited amount of time.
+* This bee, Bear Bee, Gummy Bee, Tabby Bee, Festive Bee, Digital Bee, and Windy Bee are the only Event bees that can be a First Edition Bee.
+* First Edition Puppy Bee could have been obtained by buying it before September 22, 2018.
+* Treat tokens produced by Puppy Bee's fetch can be collected with a Token Link, similar to Honey Gifts.
+* Puppy Bee is the third bee to produce a token that has its face on it, the second being Tabby Bee, and the first being Rage Bee.
+* This is the only bee that is able to raise the bond of other bees, through its puppy love token.
+* This bee, Vicious Bee, Crimson Bee, Cobalt Bee, and Windy Bee are the only Event bees that don't have an 'enhanced' ability if gifted.
+* The puppy love token glows when collected.
+* Puppy Bee's wings clip through its ears.
+* Bee Bear's Puppy Bee is male.
+* This and Festive Bee are the only bees that can produce gingerbread bears.
+* This bee, Festive Bee, and Demon Bee are the only bees that have an exclusive beequip for themselves.
+* During the Beesmas 2020 Event, players could purchase a special bundle for 800 Robux in the Robux Shop that would grant them a Puppy Bee Egg, the special Reindeer Antlers Beequip specifically made for the Puppy Bee, and 50 Gingerbread Bears as a bonus.
+* If the player already had a Puppy Bee when they bought the bundle, they would get 500 tickets instead.
+* This makes Puppy Bee the only bee available to purchase in the Robux Shop twice.
+* This bee, along with Tadpole Bee, Tabby Bee, Lion Bee, and Bear Bee are the only bees based on real animals.
+Fact: The Common & Rare in Puppy Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Puppy Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Puppy Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Puppy Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Puppy Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  **Puppy Bee** •  Tabby Bee •  Vicious Bee •  Windy Bee**.

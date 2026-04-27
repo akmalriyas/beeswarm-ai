@@ -1,0 +1,181 @@
+Context: Bee Swarm Simulator - Mobs
+
+There are 34 different kinds of enemies/creatures/monsters (colloquially called “mobs ”) in Bee Swarm Simulator.
+The most abundant mob in terms of spawn points is the rhino beetle, as there are five spawn points for them in the game, with Ladybugs being the second, with four spawn points. The mob with the longest spawn time is the Stump Snail, respawning in 96 hours.
+The 8 entities that can attack other mobs are bees, flames, frogs, Rogue Vicious Bee, Wild Windy Bee, abilities, passives, coconuts, and the coal summoned from the Naughty List during Beesmas. One method for defeating mobs that reliably works for any mob that defends a field (everything other than the King Beetle, Tunnel Bear, cave monsters, Stick Bug, Rogue Vicious Bee, Wild Windy Bee, and the Commando Chick), with the exception of the Coconut Crab and Mondo Chick, is to jump continuously. It is one of the glitches where when jumping, mobs will freeze and not attack which leads to the player’s bees thinking the mob isn't a threat and not attack it. Players would have to make sure their bees "know" to attack a mob before starting to jump - if the mob has not started attacking them - by waiting for their bees to begin attacking the mob before jumping.
+Before the 2019-02-01 update, rewards from defeating any mob were sent to the player's inventory right after the mob was defeated. After the update, the mobs were altered to drop a ring of tokens around it instead (battle points do not spawn as tokens). Other players cannot collect tokens dropped by the mob if the mob was not spawned by them. The tokens can be collected by a token link, unless the rewards are from public mobs, meaning other players can collect the drops regardless of whether they attacked it or not.
+Mobs have levels that are shown next to their name. If a player’s bees are at a lower level than the mob they are attacking, they have a higher chance of missing their attacks depending on how far the level of the bee is from the level of the mob being attacked. This means that the lower the level of the bee, the more likely a mob that has a higher level than the bee attacking will deflect or dodge the bee's attacks.
+Some mobs are considered passive. This means that they will not attack the player, nor the player will attack them. These include bean bugs, frogs, fireflies, with the exception of Chicks, Spotted Chicks, and Hostage Chicks.
+While some mobs are considered bosses, others do not qualify for this designation. These mobs are called mini bosses, distinct from regular mobs but not qualifying as a boss. Wild Windy Bee, Rogue Vicious Bee, Snowbear, Commando Chick, and Stump Snail are all in this category.
+Daylight Saving Time will affect the respawn time of the Stump Snail, King Beetle, and Tunnel Bear.
+Loot Luck has the ability to directly affect the quantity and quality of the rewards that mobs drop upon defeat but will not affect honey dropped by mobs (that is instead affected by Honey from Tokens.)
+When the Mondo Chick and Commando Chick use their egg block ability, it will block almost all bees' attacks, even if the bee is the same level or a higher level than it.
+Stump Snail has the highest health out of all mobs and does not intentionally attack the player. Instead, it moves in a circle around the edge of the Stump Field. However, it will deal damage if the player stands in the front of the snail or in its head. Standing inside the shell will not deal any damage to the player.
+From 2022-07-20 to 2022-07-29, there was a Roblox bug that caused mobs to not function properly.
+Regular Mobs[]
+Regular mobs stay in certain fields and will attack the player if they enter that field. Once defeated, they will respawn after a period of time.
+Monster Respawn Time can lower the time it takes for these mobs to respawn. For example, the Stump Snail normally takes 96 hours or 4 days to respawn, however, if the player owns a Gifted Vicious Bee, then that time is reduced by 15% to 81 hours and 36 minutes or 3.4 days.
+Fact: The List of Mobs  Mob in Mobs has/costs Level Range, Fields Defending, Respawn Time.
+Fact: The Ladybug in Mobs has/costs 1-3, Mushroom Field.
+Clover Field
+Fact: The Strawberry Field in Mobs has/costs 5 minutes.
+Fact: The Rhino Beetle in Mobs has/costs 1-3, 5, Blue Flower Field.
+Clover Field
+Bamboo Field
+Fact: The Pineapple Patch in Mobs has/costs 5 minutes.
+Fact: The Spider in Mobs has/costs 4, Spider Field, 30 minutes.
+Fact: The Mantis in Mobs has/costs 4-6, Pineapple Patch.
+Fact: The Pine Tree Forest in Mobs has/costs 20 minutes.
+Fact: The Scorpion in Mobs has/costs 5-6, Rose Field, 20 minutes.
+Fact: The Werewolf in Mobs has/costs 7, Cactus Field.
+Pumpkin Patch
+Fact: The Pine Tree Forest in Mobs has/costs 1 hour.
+Rhino Beetle
+Mini-Bosses[]
+Mini-bosses don't necessarily fit the qualities of a regular boss, but exhibit a special quality that doesn't fit field mob requirements either.
+Fact: The List of Mini-Bosses  Mob in Mobs has/costs Level Range, Location, Main Feature(s), Respawn Time.
+Fact: The Stump Snail in Mobs has/costs 6, Stump Field, Enormous health (30,000,000).
+Fact: The Doesn't damage the player unless the player goes to Stump Snail's head. HP saves. in Mobs has/costs 4 days.
+Fact: The Rogue Vicious Bee in Mobs has/costs 1-12, Clover Field.
+Spider Field
+Cactus Field
+Mountain Top Field
+Fact: The Pepper Patch in Mobs has/costs Two different spike attacks. (Targeted, Random.).
+Fact: The Has a stronger gifted version. in Mobs has/costs Every 10–30 minutes..
+Has a higher chance of spawning during Night.
+Guaranteed to be spawned if a Night Bell is used.
+Fact: The Wild Windy Bee in Mobs has/costs 1-20+, All fields except:.
+Stump Field (although Onett can summon one here)
+Fact: The Ant Field in Mobs has/costs Two wind attacks. (Tornado, Wind Gust.), Can spawn naturally every two in-game Day/Night Cycles or from an offering to the Wind Shrine..
+Fact: The Commando Chick in Mobs has/costs 3-25+, Commando Chick's Hideout, One hybrid move (Egg Block/Grenade Attack.).
+Throws grenades in the beginning of the battle
+Level and health scales.
+Fact: The HP saves. in Mobs has/costs 30 minutes.
+Fact: The Snowbear in Mobs has/costs 1-25+, Spider Field, Level and health scales.
+1 minute to defeat [no saved HP.]
+Fact: The Limited-time. in Mobs has/costs Spawns when summoned. Has a one hour and thirty minute cooldown..
+Stump Snail
+Wild Windy Bee
+Rogue Vicious Bee
+Commando Chick
+Bosses[]
+Bosses exhibit special properties, or otherwise drop unique rewards that makes them different from field mobs.
+Fact: The List of Bosses  Mob in Mobs has/costs Level Range, Location, Main Feature(s), Respawn Time.
+Fact: The King Beetle in Mobs has/costs 7, King Beetle's Lair, Large health. (2,500.), 1 day.
+Fact: The Tunnel Bear in Mobs has/costs 9, White Tunnel, Large health. (10,000.).
+Fact: The One-shot kill. in Mobs has/costs 2 days.
+Fact: The Mondo Chick in Mobs has/costs 8, Mountain Top Field, One defensive move. (Egg Block.).
+Huge health. (300,000.)
+Fact: The Loses health over time. (333 per second.) in Mobs has/costs Every hour.
+Fact: The Coconut Crab in Mobs has/costs 12, Coconut Field, One projectile attack. (Coconut Attack.).
+One physical attack. (Claw Attack.)
+Fact: The Huge health. (250,000.) and defense in Mobs has/costs 1 day and 12 hours.
+Fact: The Stick Bug in Mobs has/costs 1-25+, Sunflower Field.
+Clover Field
+Strawberry Field
+Bamboo Field
+Pineapple Patch
+Cactus Field
+Pumpkin Patch
+Fact: The Mountain Top Field in Mobs has/costs Two physical attacks. (Flailing Sticks, Splinter Trap.).
+Two summoning attacks. (Stick Nymphs, Spinners.)
+Two defensive moves. (Flower Hiding, Defense Totem Building.)
+Fact: The Level and health scales. in Mobs has/costs Spawns when Stick Bug Challenge is started.
+King Beetle
+Coconut Crab
+Tunnel Bear
+Mondo Chick
+Miscellaneous Mobs[]
+Mobs that doesn't fit in any of the above categories are placed here instead.
+Fact: The List of Miscellaneous Mobs  Mob in Mobs has/costs Location, Level Range, Passive, Main Feature(s).
+Fact: The Aphids in Mobs has/costs All fields except Ant Field and Stump Field, 1-20, No, Rage Aphid: Massive damage.
+Armored Aphid: Greater defense
+Diamond Aphid: Greater health
+Fact: The Army Ant in Mobs has/costs In the Ant Field while an Ant Challenge is active., 1-16, No, Higher defense and targets the player..
+Fact: The Bean Bug in Mobs has/costs Randomly appears in all fields except Ant Field, N/A, Yes, Summons Jelly Bean tokens.
+Fact: The Cave Monster in Mobs has/costs Werewolf's Cave, 11, No, 400 HP.
+One-shot kill
+Fact: The Cogmower in Mobs has/costs Any field except the Ant Field while the Robo Bear Challenge is active., 6-22, Yes, Passively roams around the field destroying flower patches it passes by although it deals 50 Damage (Increases with level) to the player upon contact with one..
+Takes half as much damage from Critical Hits.
+Fact: The Cogturret in Mobs has/costs Any field except the Ant Field while the Robo Bear Challenge is active., 11-22, No, Shoots a giant cog that destroys flowers and deals 25 damage to the player upon hit. It also deals damage to the player upon contact..
+After shooting a cog, it sinks into the ground, rendering it invulnerable as it cannot be targeted or damaged.
+Fact: The Festive Nymph in Mobs has/costs Sunflower Field.
+Clover Field
+Strawberry Field
+Bamboo Field
+Pineapple Patch
+Cactus Field
+Pumpkin Patch
+Fact: The Mountain Top Field in Mobs has/costs 1-25+, No, A special variant of the Stick Nymph summoned by Stick Bug.
+Festive Nymphs are only available after finishing Stick Bug's Beesmas Quests.
+The player who started the challenge must complete Stick Bug's quest first.
+Other players could attack and collect rewards from Festive Nymphs.
+Loses health over time.
+Fact: The Fire Ant in Mobs has/costs In the Ant Field while an Ant Challenge is active., 1-16, No, Doesn't target the player..
+Leaves a fire trail in its path which lingers for some time.
+Fact: The Firefly in Mobs has/costs Strawberry Field.
+Spider Field
+Bamboo Field
+Pineapple Patch
+Cactus Field
+Fact: The Rose Field in Mobs has/costs N/A, Yes, Nighttime only..
+Individually creates sparkles on landed flowers.
+Groups create various tokens.
+In groups of eight.
+Fact: The Flying Ant in Mobs has/costs In the Ant Field during an while an Ant Challenge is active., 1-16, No, Moves fast..
+Larger attack range.
+Targets the player.
+Fact: The Frog in Mobs has/costs All fields..
+Can be spawned outside fields.
+Fact: The Spawned by Tadpole Bee or by using a Box-O-Frogs. in Mobs has/costs N/A, Yes, Creates bubbles..
+Can collect tokens.
+Can attack hostile mobs.
+Has a stronger gifted version.
+Fact: The Giant Ant in Mobs has/costs In the Ant Field while an Ant Challenge is active., 1-16, No, Large health and damage..
+Targets the player.
+Fact: The Golden Cogmower in Mobs has/costs Clover Field, Pineapple Patch, Pumpkin Patch or Mountain Top Field while the Robo Bear Challenge is active. (Has a chance to spawn on Rounds, once on 3, 4, 6; another on 12, 13, 14, 16; and lastly one on 21, 22, 23 or 24), 6-22, Yes, Is a rare mob that appears in the Robo Bear Challenge..
+Spawns only 3 times during a Robo Bear Challenge.
+It is the only mob in the Robo Bear Challenge that can drop loot.
+It passively roams around the field destroying flower patches it passes by.
+It functions similarly to a normal Cogmower.
+Takes half as much damage from Critical Hits.
+Fact: The Mechsquito in Mobs has/costs Anywhere (including outside of fields) while the Robo Bear Challenge is active., 1-24, No, Shoots a barrage of small projectiles at the player that gives Mechsquito Toxin debuff when hit..
+Deals damage upon contact.
+Fact: The Mega Mechsquito in Mobs has/costs Any field (including outside of fields) while the Robo Bear Challenge is active., 13-23, No, Shoots a barrage of 6 projectiles at the player that gives Mechsquito Toxin debuff when hit..
+Deals damage upon contact.
+Has a long cooldown between shots.
+Fact: The Puffshroom in Mobs has/costs All fields except the Ant Field., 1-30, Yes, Summoned by Planters or naturally at quarter past and to, come in different rarities..
+Require collecting pollen to defeat.
+Rewards and pollen scale up by level and rarity.
+Fact: The Party Cogmower in Mobs has/costs All fields except for Coconut Field and Ant Field. Summoned through initiating a Robo Party by a player or Onett "Onett \(Developer\)")., 1-28, Yes, Passively roams around the field destroying flower patches it passes by..
+Fact: The Party Cogturret in Mobs has/costs All fields except for Coconut Field and Ant Field. Summoned through initiating a Robo Party by a player or Onett "Onett \(Developer\)") (Exclusive in Rank 5+)., 5-27, No, Shoots a giant cog that destroys flowers and deals damage to the player upon hit. It also deals damage to the player upon contact..
+After shooting a cog, it sinks into the ground, rendering it invulnerable as it cannot be targeted or damaged.
+Fact: The Party Mechsquito in Mobs has/costs All fields except for Coconut Field and Ant Field. Summoned through initiating a Robo Party by a player or Onett "Onett \(Developer\)")., 1-28, No, Shoots a barrage of small projectiles at the player that gives Mechsquito Toxin debuff when hit..
+Deals damage upon contact.
+Fact: The Party Mega Mechsquito in Mobs has/costs All fields except for Coconut Field and Ant Field. Summoned through initiating a Robo Party by a player or Onett "Onett \(Developer\)") (Exclusive in Rank 15+)., 11-27, No, Shoots a barrage a barrge of 6 projectiles at the player that gives Mechsquito Toxin debuff when hit. Deals damage upon contact..
+Has a long cooldown between shots.
+Fact: The Regular Ant in Mobs has/costs In the Ant Field while an Ant Challenge is active., 1-16, No, Doesn't target the player..
+Fact: The Stick Nymph in Mobs has/costs Sunflower Field.
+Clover Field
+Strawberry Field
+Bamboo Field
+Pineapple Patch
+Cactus Field
+Pumpkin Patch
+Fact: The Mountain Top Field in Mobs has/costs 1-25+, No, Only summoned by Stick Bug..
+Health scales as Stick Bug levels up.
+Loses health over time.
+Fact: The Zombie in Mobs has/costs Retro Swarm Challenge, 1-25+, No, Temporal Enemy.
+Fact: The Slime in Mobs has/costs Retro Swarm Challenge, 1-25+, No, Temporal Enemy.
+Diamond Aphid
+Armored Aphid
+Cave Monster
+Stick Nymph
+Festive Nymph
+Mega Mechsquito
+Golden Cogmower
+Party Mechsquito
+Party Cogmower
+Party Cogturret
+Party Mega Mechsquito
+Brick Bloom

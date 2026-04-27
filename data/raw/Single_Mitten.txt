@@ -1,0 +1,859 @@
+Context: Bee Swarm Simulator - Single Mitten
+
+Single Mitten
+Single Mitten
+"This winter-themed mitten is missing its partner."
+Fact: Single Mitten statistic: +Gather Amount.
+Fact: Single Mitten statistic: +Bomb Pollen%.
+Fact: Single Mitten statistic: +Gather Amount.
+Fact: Single Mitten statistic: +Bomb Pollen%.
+Fact: Single Mitten statistic: +Capacity.
+Fact: Single Mitten statistic: +Red Pollen%.
+A Single Mitten is a level 6 Beesmas Beequip. It has an equip limit of three. There is no color requirement. It can only be equipped to rare, epic, or legendary bees.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades, Range.
+Fact: The Chance in Single Mitten has/costs Value, Weight, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Fact: The Bias scales linearly in Single Mitten has/costs \-, \-, \-, **+5 - +10**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Single Mitten has/costs \-, \-, \-, **+10% - +15%**.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **1**, A random value between **+1** -**+2**.
+Intervals of +1
+Fact: The Bias: {5, 1} in Single Mitten has/costs **20**, **0 - +40**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **1**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Fact: The Bias: {5, 1} in Single Mitten has/costs **20**, **0% - +60%**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Fact: The Bias scales linearly in Single Mitten has/costs An exact value between **0.25** -**1**.
+Fact: The Linear scaling by a factor of 1 in Single Mitten has/costs A random value between **+100** -**+500**.
+Intervals of +50
+Fact: The Bias: {3, 1} in Single Mitten has/costs **10**, **+7,500 - +15,000**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Single Mitten has/costs A random value between **+1%** -**+3%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Single Mitten has/costs **3**, **0% - +9%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +5
+Fact: The Average value: +6.2175 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **44.2478%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **44.2478%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +7,500
+Fact: The Average value: +8,108.7396 in Single Mitten has/costs **11.0619%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +100
+Fact: The Average value: +198.8615 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **0.4425%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +5
+Fact: The Average value: +6.2175 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +11.22% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **44.2478%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **44.2478%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +7,500
+Fact: The Average value: +8,108.7396 in Single Mitten has/costs **11.0619%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +100
+Fact: The Average value: +198.8615 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **0.4425%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +5.5
+Fact: The Average value: +6.5373 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **42.6621%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0222
+Fact: The Average value: +1.1578 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **42.6621%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.45% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +7,750
+Fact: The Average value: +8,268.6535 in Single Mitten has/costs **13.8652%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +114.8148
+Fact: The Average value: +206.5114 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **0.8106%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.07%
+Fact: The Average value: +1.46% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +5.5
+Fact: The Average value: +6.5373 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +10.5%
+Fact: The Average value: +11.54% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **42.6621%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0222
+Fact: The Average value: +1.1578 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **42.6621%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.45% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +7,750
+Fact: The Average value: +8,268.6535 in Single Mitten has/costs **13.8652%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +114.8148
+Fact: The Average value: +206.5114 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **0.8106%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.07%
+Fact: The Average value: +1.46% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +6.7386 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **41.1862%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.05
+Fact: The Average value: +1.1638 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **41.1862%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.47% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,000
+Fact: The Average value: +8,369.324 in Single Mitten has/costs **16.4745%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +133.3333
+Fact: The Average value: +217.8979 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **1.1532%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.5% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +6
+Fact: The Average value: +6.7386 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +11.74% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **41.1862%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.05
+Fact: The Average value: +1.1638 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **41.1862%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.1%
+Fact: The Average value: +1.47% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,000
+Fact: The Average value: +8,369.324 in Single Mitten has/costs **16.4745%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +133.3333
+Fact: The Average value: +217.8979 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **1.1532%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.5% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +6.5
+Fact: The Average value: +7.0142 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **39.8089%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0857
+Fact: The Average value: +1.1721 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **39.8089%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.51% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,250
+Fact: The Average value: +8,507.1019 in Single Mitten has/costs **18.9092%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +157.1429
+Fact: The Average value: +227.6359 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **1.4729%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.29%
+Fact: The Average value: +1.57% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +6.5
+Fact: The Average value: +7.0142 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +11.5%
+Fact: The Average value: +12.01% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **39.8089%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0857
+Fact: The Average value: +1.1721 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **39.8089%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.17%
+Fact: The Average value: +1.51% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,250
+Fact: The Average value: +8,507.1019 in Single Mitten has/costs **18.9092%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +157.1429
+Fact: The Average value: +227.6359 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **1.4729%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.29%
+Fact: The Average value: +1.57% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +7
+Fact: The Average value: +7.2467 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **38.5208%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1333
+Fact: The Average value: +1.1846 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **38.5208%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.27%
+Fact: The Average value: +1.56% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,500
+Fact: The Average value: +8,623.3266 in Single Mitten has/costs **21.1864%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +188.8889
+Fact: The Average value: +245.1574 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **1.772%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.44%
+Fact: The Average value: +1.7% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +7
+Fact: The Average value: +7.2467 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +12.25% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **38.5208%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1333
+Fact: The Average value: +1.1846 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **38.5208%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.27%
+Fact: The Average value: +1.56% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,500
+Fact: The Average value: +8,623.3266 in Single Mitten has/costs **21.1864%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +188.8889
+Fact: The Average value: +245.1574 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **1.772%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.44%
+Fact: The Average value: +1.7% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +7.5
+Fact: The Average value: +7.5 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **37.3134%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.2
+Fact: The Average value: +1.2058 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **37.3134%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.66% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,750
+Fact: The Average value: +8,750 in Single Mitten has/costs **23.3209%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +233.3333
+Fact: The Average value: +267.7372 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.0522%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.67%
+Fact: The Average value: +1.92% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +7.5
+Fact: The Average value: +7.5 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +12.5%
+Fact: The Average value: +12.5% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **37.3134%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.2
+Fact: The Average value: +1.2058 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **37.3134%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +1.66% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +8,750
+Fact: The Average value: +8,750 in Single Mitten has/costs **23.3209%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +233.3333
+Fact: The Average value: +267.7372 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.0522%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.67%
+Fact: The Average value: +1.92% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +8
+Fact: The Average value: +7.7533 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **36.1795%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.3
+Fact: The Average value: +1.2494 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **36.1795%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.89% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,000
+Fact: The Average value: +8,876.6734 in Single Mitten has/costs **25.3256%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +300
+Fact: The Average value: +300 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.3155%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +8
+Fact: The Average value: +7.7533 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +12.75% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **36.1795%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.3
+Fact: The Average value: +1.2494 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **36.1795%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.6%
+Fact: The Average value: +1.89% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,000
+Fact: The Average value: +8,876.6734 in Single Mitten has/costs **25.3256%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +300
+Fact: The Average value: +300 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.3155%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +8.5
+Fact: The Average value: +7.9858 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **35.1124%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.4667
+Fact: The Average value: +1.4076 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **35.1124%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.93%
+Fact: The Average value: +1.99% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,250
+Fact: The Average value: +8,992.8981 in Single Mitten has/costs **27.2121%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +380
+Fact: The Average value: +340.7148 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.5632%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.4%
+Fact: The Average value: +2.11% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +8.5
+Fact: The Average value: +7.9858 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +13.5%
+Fact: The Average value: +12.99% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **35.1124%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.4667
+Fact: The Average value: +1.4076 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **35.1124%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.93%
+Fact: The Average value: +1.99% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,250
+Fact: The Average value: +8,992.8981 in Single Mitten has/costs **27.2121%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +380
+Fact: The Average value: +340.7148 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.5632%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.4%
+Fact: The Average value: +2.11% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +9
+Fact: The Average value: +8.2614 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **34.1064%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8
+Fact: The Average value: +1.7942 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **34.1064%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,500
+Fact: The Average value: +9,130.676 in Single Mitten has/costs **28.9905%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +420
+Fact: The Average value: +358.7464 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.7967%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +9
+Fact: The Average value: +8.2614 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +13.26% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **34.1064%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8
+Fact: The Average value: +1.7942 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **34.1064%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,500
+Fact: The Average value: +9,130.676 in Single Mitten has/costs **28.9905%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +420
+Fact: The Average value: +358.7464 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **2.7967%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +9.5
+Fact: The Average value: +8.4627 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **33.1565%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.9
+Fact: The Average value: +1.8244 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **33.1565%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,750
+Fact: The Average value: +9,231.3465 in Single Mitten has/costs **30.6698%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +460
+Fact: The Average value: +379.507 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **3.0172%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +9.5
+Fact: The Average value: +8.4627 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +14.5%
+Fact: The Average value: +13.46% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **33.1565%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.9
+Fact: The Average value: +1.8244 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **33.1565%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +9,750
+Fact: The Average value: +9,231.3465 in Single Mitten has/costs **30.6698%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +460
+Fact: The Average value: +379.507 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **3.0172%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Single Mitten has/costs **3**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +8.7825 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **32.2581%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **32.2581%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +10,000
+Fact: The Average value: +9,391.2604 in Single Mitten has/costs **32.2581%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +500
+Fact: The Average value: +401.1385 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **3.2258%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Single Mitten has/costs **3**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Single Mitten has/costs Base, Upgrades.
+Fact: The Chance in Single Mitten has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Single Mitten has/costs **100%**, A random value between **+5** -**+10**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +8.7825 in Single Mitten has/costs \-, \-, \-.
+Fact: The +Bomb Pollen% in Single Mitten has/costs **100%**, A random value between **+10%** -**+15%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +13.78% in Single Mitten has/costs \-, \-, \-.
+Fact: The +Gather Amount in Single Mitten has/costs \-, \-, **32.2581%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Single Mitten has/costs **20**.
+Fact: The +Bomb Pollen% in Single Mitten has/costs \-, \-, **32.2581%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Single Mitten has/costs **20**.
+Fact: The +Capacity in Single Mitten has/costs **100%**, A random value between **+7,500** -**+10,000**.
+Intervals of +500
+Biased to values near +10,000
+Fact: The Average value: +9,391.2604 in Single Mitten has/costs **32.2581%**, A random value between **+100** -**+500**.
+Intervals of +50
+Biased to values near +500
+Fact: The Average value: +401.1385 in Single Mitten has/costs **10**.
+Fact: The +Red Pollen% in Single Mitten has/costs \-, \-, **3.2258%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Single Mitten has/costs **3**.
+Probabilities[]
+The tables below give the probability of a stat of Single Mitten falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+Fact: * +Gather Amount statistic: * +Bomb Pollen%.
+Fact: The Potential in Single Mitten has/costs Stat ranges, Average.
+Fact: The +5 in Single Mitten has/costs +6, +7, +8, +9, +10.
+Fact: The **0 ★** in Single Mitten has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.217.
+Fact: The **0.5 ★** in Single Mitten has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.537.
+Fact: The **1 ★** in Single Mitten has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.739.
+Fact: The **1.5 ★** in Single Mitten has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7.014.
+Fact: The **2 ★** in Single Mitten has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.247.
+Fact: The **2.5 ★** in Single Mitten has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5.
+Fact: The **3 ★** in Single Mitten has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.753.
+Fact: The **3.5 ★** in Single Mitten has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +7.986.
+Fact: The **4 ★** in Single Mitten has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.261.
+Fact: The **4.5 ★** in Single Mitten has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.463.
+Fact: The **5 ★** in Single Mitten has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.783.
+Fact: The Potential in Single Mitten has/costs Stat ranges, Average.
+Fact: The +10% in Single Mitten has/costs +11%, +12%, +13%, +14%, +15%.
+Fact: The **0 ★** in Single Mitten has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +11.2%.
+Fact: The **0.5 ★** in Single Mitten has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +11.5%.
+Fact: The **1 ★** in Single Mitten has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +11.7%.
+Fact: The **1.5 ★** in Single Mitten has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +12%.
+Fact: The **2 ★** in Single Mitten has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +12.2%.
+Fact: The **2.5 ★** in Single Mitten has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +12.5%.
+Fact: The **3 ★** in Single Mitten has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +12.8%.
+Fact: The **3.5 ★** in Single Mitten has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +13%.
+Fact: The **4 ★** in Single Mitten has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +13.3%.
+Fact: The **4.5 ★** in Single Mitten has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +13.5%.
+Fact: The **5 ★** in Single Mitten has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +13.8%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: The Potential in Single Mitten has/costs Stat ranges, Average.
+Fact: The +7,500 in Single Mitten has/costs +8,000, +8,500, +9,000, +9,500, +10,000.
+Fact: The **0 ★** in Single Mitten has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +8,108.74.
+Fact: The **0.5 ★** in Single Mitten has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +8,268.653.
+Fact: The **1 ★** in Single Mitten has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +8,369.324.
+Fact: The **1.5 ★** in Single Mitten has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +8,507.102.
+Fact: The **2 ★** in Single Mitten has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +8,623.327.
+Fact: The **2.5 ★** in Single Mitten has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +8,750.
+Fact: The **3 ★** in Single Mitten has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +8,876.673.
+Fact: The **3.5 ★** in Single Mitten has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8,992.898.
+Fact: The **4 ★** in Single Mitten has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +9,130.676.
+Fact: The **4.5 ★** in Single Mitten has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +9,231.347.
+Fact: The **5 ★** in Single Mitten has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +9,391.26.
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+Fact: * +Gather Amount statistic: * +Bomb Pollen%.
+Fact: The Potential in Single Mitten has/costs Stat ranges, Average.
+Fact: The +1 in Single Mitten has/costs +2.
+Fact: The **0 ★** in Single Mitten has/costs 84.657%, 15.343%, +1.153.
+Fact: The **0.5 ★** in Single Mitten has/costs 84.215%, 15.785%, +1.158.
+Fact: The **1 ★** in Single Mitten has/costs 83.625%, 16.375%, +1.164.
+Fact: The **1.5 ★** in Single Mitten has/costs 82.794%, 17.206%, +1.172.
+Fact: The **2 ★** in Single Mitten has/costs 81.541%, 18.459%, +1.185.
+Fact: The **2.5 ★** in Single Mitten has/costs 79.425%, 20.575%, +1.206.
+Fact: The **3 ★** in Single Mitten has/costs 75.055%, 24.945%, +1.249.
+Fact: The **3.5 ★** in Single Mitten has/costs 59.242%, 40.758%, +1.408.
+Fact: The **4 ★** in Single Mitten has/costs 20.575%, 79.425%, +1.794.
+Fact: The **4.5 ★** in Single Mitten has/costs 17.563%, 82.437%, +1.824.
+Fact: The **5 ★** in Single Mitten has/costs 15.343%, 84.657%, +1.847.
+Fact: The Potential in Single Mitten has/costs Stat ranges, Average.
+Fact: The +1% in Single Mitten has/costs +2%, +3%.
+Fact: The **0 ★** in Single Mitten has/costs 59.657%, 36.919%, 3.424%, +1.4%.
+Fact: The **0.5 ★** in Single Mitten has/costs 58.185%, 38.305%, 3.51%, +1.5%.
+Fact: The **1 ★** in Single Mitten has/costs 56.163%, 40.214%, 3.623%, +1.5%.
+Fact: The **1.5 ★** in Single Mitten has/costs 53.2%, 43.019%, 3.781%, +1.5%.
+Fact: The **2 ★** in Single Mitten has/costs 48.396%, 47.591%, 4.013%, +1.6%.
+Fact: The **2.5 ★** in Single Mitten has/costs 38.863%, 56.745%, 4.392%, +1.7%.
+Fact: The **3 ★** in Single Mitten has/costs 16.041%, 78.841%, 5.118%, +1.9%.
+Fact: The **3.5 ★** in Single Mitten has/costs 8.376%, 84.545%, 7.079%, +2%.
+Fact: The **4 ★** in Single Mitten has/costs 4.392%, 56.745%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Single Mitten has/costs 3.848%, 44.276%, 51.876%, +2.5%.
+Fact: The **5 ★** in Single Mitten has/costs 3.424%, 36.919%, 59.657%, +2.6%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: **5 ★** statistic: * +Red Pollen%.
+Fact: The Potential in Single Mitten has/costs Stat ranges, Average.
+Fact: The +100-+150 in Single Mitten has/costs +200-+250, +300-+350, +400-+450, +500.
+Fact: The **0 ★** in Single Mitten has/costs 50.137%, 29.78%, 14.593%, 5.29%, 0.2%, +198.862.
+Fact: The **0.5 ★** in Single Mitten has/costs 46.68%, 32.206%, 15.383%, 5.523%, 0.207%, +206.511.
+Fact: The **1 ★** in Single Mitten has/costs 41.404%, 36.027%, 16.507%, 5.845%, 0.218%, +217.898.
+Fact: The **1.5 ★** in Single Mitten has/costs 31.942%, 43.272%, 18.235%, 6.318%, 0.234%, +227.636.
+Fact: The **2 ★** in Single Mitten has/costs 12.305%, 59.098%, 21.254%, 7.086%, 0.258%, +245.157.
+Fact: The **2.5 ★** in Single Mitten has/costs 6.694%, 56.392%, 28.065%, 8.546%, 0.303%, +267.737.
+Fact: The **3 ★** in Single Mitten has/costs 4.062%, 26.691%, 56.387%, 12.451%, 0.408%, +300.
+Fact: The **3.5 ★** in Single Mitten has/costs 2.771%, 15.232%, 45.715%, 35.58%, 0.702%, +340.715.
+Fact: The **4 ★** in Single Mitten has/costs 2.392%, 12.663%, 31.626%, 52.221%, 1.098%, +358.746.
+Fact: The **4.5 ★** in Single Mitten has/costs 2.105%, 10.854%, 25.117%, 59.351%, 2.572%, +379.507.
+Fact: The **5 ★** in Single Mitten has/costs 1.879%, 9.506%, 21.016%, 44.02%, 23.579%, +401.138.
+Fact: The Potential in Single Mitten has/costs Stat ranges, Average.
+Fact: The +1% in Single Mitten has/costs +2%, +3%.
+Fact: The **0 ★** in Single Mitten has/costs 59.657%, 36.919%, 3.424%, +1.4%.
+Fact: The **0.5 ★** in Single Mitten has/costs 57.134%, 39.297%, 3.569%, +1.5%.
+Fact: The **1 ★** in Single Mitten has/costs 53.412%, 42.818%, 3.77%, +1.5%.
+Fact: The **1.5 ★** in Single Mitten has/costs 47.28%, 48.657%, 4.063%, +1.6%.
+Fact: The **2 ★** in Single Mitten has/costs 34.256%, 61.209%, 4.535%, +1.7%.
+Fact: The **2.5 ★** in Single Mitten has/costs 13.448%, 81.136%, 5.417%, +1.9%.
+Fact: The **3 ★** in Single Mitten has/costs 7.671%, 84.657%, 7.671%, +2%.
+Fact: The **3.5 ★** in Single Mitten has/costs 5.118%, 78.841%, 16.041%, +2.1%.
+Fact: The **4 ★** in Single Mitten has/costs 4.392%, 56.745%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Single Mitten has/costs 3.848%, 44.276%, 51.876%, +2.5%.
+Fact: The **5 ★** in Single Mitten has/costs 3.424%, 36.919%, 59.657%, +2.6%.
+Ways to Obtain[]
+* As a drop from the Rhino Beetle.
+* As a drop from the Stockings.
+Outdated Ways[]
+* As a drop from a level 5 Snowbear.
+* From purchasing the Snowey Starter Pack.
+* As a reward from the Soft Gift Box.
+Gallery[]
+A Single Mitten equipped to a Riley Bee.
+A Single Mitten in the Beequip Case.
+Fact: The Sub-Inventories in Single Mitten has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Single Mitten has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Single Mitten has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Single Mitten has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Single Mitten has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Single Mitten has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Single Mitten has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Single Mitten has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Single Mitten has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Single Mitten has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Single Mitten has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Single Mitten has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Single Mitten has/costs **7-Pronged Cog**.
+Fact: The Other in Single Mitten has/costs **Marshmallow Bee**.
+Fact: The Currencies in Single Mitten has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Single Mitten has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Single Mitten has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Single Mitten has/costs **Parachute •  Glider**.
+Fact: The Bags in Single Mitten has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Single Mitten has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Single Mitten has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Single Mitten has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Single Mitten has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Single Mitten has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Single Mitten has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Single Mitten has/costs **Elf Cap •  **Single Mitten** •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Single Mitten has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Single Mitten has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

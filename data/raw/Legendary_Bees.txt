@@ -1,0 +1,20 @@
+Context: Bee Swarm Simulator - Legendary Bees
+
+Legendary Bees
+Fact: The Bee in Legendary Bees has/costs Icon, Description.
+Fact: The Baby Bee in Legendary Bees has/costs This little bee isn't very good at bee tasks yet, but it's guaranteed to bring you joy (and luck)..
+Fact: The Carpenter Bee in Legendary Bees has/costs A bee with a knack for construction. It built its own body out of wood..
+Fact: The Demon Bee in Legendary Bees has/costs A powerful bee with magical powers fueled by pure hatred..
+Fact: The Diamond Bee in Legendary Bees has/costs An extremely wealthy and pompous bee who has the money and talent to justify its attitude..
+Fact: The Lion Bee in Legendary Bees has/costs Half lion, half bee. This is the king of both the jungle and bee hive..
+Fact: The Music Bee in Legendary Bees has/costs This bee's buzz is so beautiful it can bring anyone to tears. It uses this gift to motivate others..
+Fact: The Ninja Bee in Legendary Bees has/costs This bee trained vigorously for years to become the swiftest bee that has ever lived..
+Fact: The Shy Bee in Legendary Bees has/costs This talented bee doesn't like to socialize, it just wants to work and be left alone..
+Egg and Jelly Probability
+Fact: The Basic Egg in Legendary Bees has/costs 0.5%, 0.0625%.
+Fact: The Silver Egg in Legendary Bees has/costs 5%, 0.625%.
+Fact: The Gold Egg in Legendary Bees has/costs 20%, 2.5%.
+Fact: The Diamond Egg in Legendary Bees has/costs 95%, 11.875%.
+Fact: The Mythic Egg in Legendary Bees has/costs 0%, 0%.
+Fact: The Royal Jelly in Legendary Bees has/costs 3%, 0.375%.
+The following audio plays when a legendary bee notification pops up:<https://bee-swarm-simulator.fandom.com/wiki/File:Legenddiscover.ogg>

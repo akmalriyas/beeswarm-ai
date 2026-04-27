@@ -1,0 +1,93 @@
+Context: Bee Swarm Simulator - Mountain Top Field
+
+Mountain Top Field
+Mountain Top Field
+FIELD COLOR
+BEE PREREQUISITES
+NECTAR TYPE
+Invigorating Nectar
+FIELD DIMENSIONS
+24 × 28 flowers
+FLOWER COUNT
+BEE PREFERENCES
+The Mountain Top Field is a field located past the Lion Bee Gate. The Mondo Chick protects this field and respawns roughly every hour.
+This field grants Invigorating Nectar when a planter is planted and harvested here.
+This field can spawn Red Boost, Blue Boost, Honey, Magic Bean, Ticket, Bitterberry, and Neonberry Tokens while collecting pollen.
+Bees that like the Mountain Top Field are Basic Bee, Looker Bee, Frosty Bee, Honey Bee, Precise Bee, Buoyant Bee, Digital Bee, Festive Bee and Gummy Bee. Bees that dislike the Mountain Top Field are Carpenter Bee and Demon Bee.
+This is a 24×28 field, containing 672 flowers. The flowers are red and blue, and the natural size is triple.
+Fact: The Flowers in Mountain Top Field has/costs White, Red, Blue, Total.
+Fact: The Single in Mountain Top Field has/costs 0, 0%, 0, 0%, 0, 0%, **0**, **0%**.
+Fact: The Double in Mountain Top Field has/costs 0, 0%, 0, 0%, 0, 0%, **0**, **0%**.
+Fact: The Triple in Mountain Top Field has/costs 0, 0%, 336, 50%, 336, 50%, **672**, **100%**.
+Fact: The Total in Mountain Top Field has/costs **0**, **0%**, **336**, **50%**, **336**, **50%**, **672**, **100%**.
+_Note:_ flower counts within the table may vary due to rounding. Additionally, in game, all flowers are randomly generated and may not precisely align with the percentages.
+Possible Events[]
+* A level 6-8 Rogue Vicious Bee may spawn here either naturally, when the night starts, or if a player has used a Night Bell.
+* A level 4-6 Wild Windy Bee may spawn here, if manually summoned by a player from the Wind Shrine, it is level 5-6 instead.
+* There are special conditions where a Wild Windy Bee can spawn here.
+* When claiming Spirit Bear’s “Tickle the Wind” quest, 3 level 4 Wild Windy Bee's will spawn here.
+* Mondo Chick spawns here at the beginning of the hour.
+* During a Stick Bug Challenge. If Stick Bug is in Pineapple Patch, Pumpkin Patch, and Cactus Field, he may jump to this field.
+* An Aphid may spawn here upon gathering Leaves.
+Obtaining Boosts[]
+* Using Glitter will add 100% Mountain Top Field pollen onto the current boost for 15 minutes if the boost isn't already maxed out.
+* Using Field Dice, Smooth Dice, or Loaded Dice may add +100% Mountain Top Field pollen for 15 minutes if the current boost isn't maxed out yet.
+* Mountain Top Field Winds can be obtained through the Wind Shrine or codes. They have a base of +20% instant Mountain Top Field conversion and give +5% instant Mountain Top Field conversion and +10% Mountain Top Field pollen for each stack. Mountain Top Field can stack up to a total of 13 times.
+* Redeeming certain valid codes:
+Fact: Obtaining Boosts[] statistic: * ThreeBeeVee (Gives Mountain Top Field Boost x3, Mountain Top Field Capacity x3, and Mountain Top Field Code + other stuff)..
+Outdated Ways[]
+* Giving a Present to Onett in 2020 gave Mountain Top Field Boost x1 and other boosts and items. In 2021 and 2024, he gave Mountain Top Field Boost x3 and other boosts and items.
+Fact: Outdated Ways[] statistic: * Purchasing a Mountain Top Field Market Boost from the Boost Market or certain codes will give x1.5 Mountain Top Field Capacity, x1.25 Mountain Top Field Pollen, +25% Tool Pollen, and x1.25 Convert Rate At Hive..
+* Redeeming certain expired codes:
+* Keen4 (Gave Mountain Top Field Boost x3 + other stuff).
+Fact: Outdated Ways[] statistic: * 3YearParty (Gives Mountain Top Field Boost x3, Mountain Top Field Capacity x3, and Mountain Top Field Market Boost + other stuff)..
+* 100mVisits (Gave Mountain Top Field Boost x3 + other stuff).
+* Xanthan (Gave Mountain Top Field Boost x3 + other stuff).
+* Whoops (Gave Mountain Top Field Boost x3 + other stuff).
+* SaleEnd (Gave Mountain Top Field Boost x3 + other stuff).
+* Reboots (Gave Mountain Top Field Boost x4 + other stuff).
+* MegaMittens (Gave Mountain Top Field Boost x3 + other stuff).
+* PuppyPerk (Gave Mountain Top Field Boost x1 + other stuff).
+* SunBearSendoff (Gave Mountain Top Field Boost x3 + other stuff).
+* 12HourGeneral (Gave Mountain Top Field Boost x1 + other stuff).
+* Waiting (Gave Mountain Top Field Boost x3 + other stuff).
+* 1mFavorites (Gave Mountain Top Field Boost x1 + other stuff).
+* MagicMittens (Gave Mountain Top Field Boost x1 + other stuff).
+* SDMittens1T (Gave Mountain Top Field Boost x1 + other stuff).
+* TallTallMountain (Gave Mountain Top Field Boost x2 + other stuff).
+* BloxyCelebration (Gave Mountain Top Field Boost x3 + other stuff).
+* WindyWeekend (Gave Mountain Top Field Boost x1 and Mountain Top Field Winds x3 + other stuff).
+* RebootCheer (Gave Mountain Top Field Boost x3 and Mountain Top Field Winds x3 + other stuff).
+* 2Years (Gave Mountain Top Field Boost x3 + other stuff).
+Fact: Outdated Ways[] statistic: * 2YearsAfterParty (Gave Mountain Top Field Capacity x3 and Mountain Top Field Market Boost + other stuff)..
+Fact: Outdated Ways[] statistic: * SpaceReboot (Gave Mountain Top Field Boost x3 and Mountain Top Field Capacity x3 + other stuff)..
+* BillionVisits (Gave Mountain Top Field Winds x10 + other stuff).
+* MondoOutage (Gave Mountain Top Field Code Buff + other stuff).
+* FrozenBugReboot (Gave Mountain Top Field Boost x4 and Mountain Top Field Code Buff + other stuff).
+* 1MLikes (Gave Mountain Top Field Boost x1 + other stuff)
+* BlackReboot (Gave Mountain Top Field Boost x4 and Mountain Top Field Winds x15 + other stuff)
+* BeequipTradeReboot (Gave Mountain Top Field Boost x4, and Mountain Top Field Winds x15 + other stuff).
+Fact: Outdated Ways[] statistic: * FrogFix (Gave Mountain Top Field Boost x1 and Mountain Top Field Capacity x1 + other stuff)..
+Gallery[]
+The Mountain Top Field's associated boost icon.
+The Mountain Top Field's associated field stamp.
+Trivia[]
+* This is the only field that doesn't produce treats from farming. However, harvesting sprouts in the Mountain Top Field will still drop normal rewards.
+* Leaves in this field are much less frequent, and always either spawn bitterberries, aphids, or a sticker.
+* This was the only field that wasn't targeted by the Gummy Cannon during the Gummy Invasion event. (The Stump Field, Coconut Field, Pepper Patch, and the Ant Field were not in the game at that time.)
+* The Mountain Top Field used to not have a badge dedicated to it.
+* This was changed in the 2024-01-12 Update, when the Mountain Top Field received a badge, thus making the Ant Field the only field without a badge, and, later, the Brick Fields as well.
+* This is the first field that consists of only triple flowers, the second being the Stump Field, the third and fourth being the Pepper Patch and the Coconut Field.
+* This is also the only field without any white flowers.
+* Before the 2018-11-25 update, the Red Cannon required 22 discovered bee types, but now it requires 25 instead, so the player can't bypass the Lion Bee Gate without 25 bees or 25 bee types discovered.
+* After the 2019-09-28 update, even by bypassing the Lion Bee Gate with 25 bee types discovered but not 25 bees, the player will be teleported back to spawn.
+* The Mountain Top Field requires the most amount of pollen to unlock its Grandmaster badge, at a grand total of 1 quadrillion pollen.
+* The Mountain Top Field is the only field that cannot be boosted without the help of items or codes.
+Fact: The Fields in Mountain Top Field has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • **Mountain Top Field** • Coconut Field • Pepper Patch**.
+Fact: The Shops in Mountain Top Field has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Mountain Top Field has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Mountain Top Field has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Mountain Top Field has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Mountain Top Field has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Mountain Top Field has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Mountain Top Field has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

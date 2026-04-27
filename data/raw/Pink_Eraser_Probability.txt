@@ -1,0 +1,79 @@
+Context: Bee Swarm Simulator - Pink Eraser Probability
+
+Pink Eraser/Probability
+The tables below give the probability of a stat of Pink Eraser falling within a more precise range, and being upgraded within a more precise range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+Due to the size of the tables affecting readability, it has been moved to a separate subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount
+* +Instant Conversion%
+Fact: The Potential in Pink Eraser Probability has/costs Stat ranges, Average.
+Fact: The +20 in Pink Eraser Probability has/costs +21, +22, +23, +24, +25, +26, +27, +28, +29, +30, +31, +32, +33, +34, +35, +36, +37, +38, +39, +40.
+Fact: The **0 ★** in Pink Eraser Probability has/costs 11.722%, 15.205%, 11.566%, 9.509%, 8.06%, 6.94%, 6.026%, 5.253%, 4.585%, 3.995%, 3.468%, 2.991%, 2.556%, 2.155%, 1.784%, 1.439%, 1.117%, 0.813%, 0.527%, 0.257%, 0.032%, +24.989.
+Fact: The **0.5 ★** in Pink Eraser Probability has/costs 0.342%, 3.692%, 17.425%, 14.678%, 11.039%, 8.982%, 7.533%, 6.413%, 5.499%, 4.727%, 4.058%, 3.468%, 2.941%, 2.464%, 2.029%, 1.628%, 1.258%, 0.913%, 0.59%, 0.287%, 0.035%, +25.995.
+Fact: The **1 ★** in Pink Eraser Probability has/costs 0.163%, 1.462%, 3.519%, 7.158%, 18.863%, 14.089%, 10.45%, 8.393%, 6.945%, 5.824%, 4.91%, 4.138%, 3.469%, 2.879%, 2.352%, 1.875%, 1.44%, 1.039%, 0.669%, 0.324%, 0.039%, +26.997.
+Fact: The **1.5 ★** in Pink Eraser Probability has/costs 0.107%, 0.92%, 2.04%, 3.489%, 5.546%, 9.185%, 19.543%, 13.421%, 9.783%, 7.726%, 6.277%, 5.156%, 4.242%, 3.47%, 2.801%, 2.212%, 1.684%, 1.208%, 0.772%, 0.372%, 0.045%, +27.998.
+Fact: The **2 ★** in Pink Eraser Probability has/costs 0.08%, 0.672%, 1.444%, 2.358%, 3.479%, 4.927%, 6.985%, 10.623%, 19.877%, 12.651%, 9.012%, 6.955%, 5.506%, 4.386%, 3.472%, 2.699%, 2.031%, 1.441%, 0.914%, 0.437%, 0.053%, +28.999.
+Fact: The **2.5 ★** in Pink Eraser Probability has/costs 0.064%, 0.529%, 1.119%, 1.788%, 2.56%, 3.474%, 4.595%, 6.043%, 8.1%, 11.739%, 19.979%, 11.739%, 8.1%, 6.043%, 4.595%, 3.474%, 2.56%, 1.788%, 1.119%, 0.529%, 0.064%, +30.
+Fact: The **3 ★** in Pink Eraser Probability has/costs 0.053%, 0.437%, 0.914%, 1.441%, 2.031%, 2.699%, 3.472%, 4.386%, 5.506%, 6.955%, 9.012%, 12.651%, 19.877%, 10.623%, 6.985%, 4.927%, 3.479%, 2.358%, 1.444%, 0.672%, 0.08%, +31.00084.
+Fact: The **3.5 ★** in Pink Eraser Probability has/costs 0.045%, 0.372%, 0.772%, 1.208%, 1.684%, 2.212%, 2.801%, 3.47%, 4.242%, 5.156%, 6.277%, 7.726%, 9.783%, 13.421%, 19.543%, 9.185%, 5.546%, 3.489%, 2.04%, 0.92%, 0.107%, +32.0018.
+Fact: The **4 ★** in Pink Eraser Probability has/costs 0.039%, 0.324%, 0.669%, 1.039%, 1.44%, 1.875%, 2.352%, 2.879%, 3.469%, 4.138%, 4.91%, 5.824%, 6.945%, 8.393%, 10.45%, 14.089%, 18.863%, 7.158%, 3.519%, 1.462%, 0.163%, +33.0029.
+Fact: The **4.5 ★** in Pink Eraser Probability has/costs 0.035%, 0.287%, 0.59%, 0.913%, 1.258%, 1.628%, 2.029%, 2.464%, 2.941%, 3.468%, 4.058%, 4.727%, 5.499%, 6.413%, 7.533%, 8.982%, 11.039%, 14.678%, 17.425%, 3.692%, 0.342%, +34.0046.
+Fact: The **5 ★** in Pink Eraser Probability has/costs 0.032%, 0.257%, 0.527%, 0.813%, 1.117%, 1.439%, 1.784%, 2.155%, 2.556%, 2.991%, 3.468%, 3.995%, 4.585%, 5.253%, 6.026%, 6.94%, 8.06%, 9.509%, 11.566%, 15.205%, 11.722%, +35.011.
+Fact: The Potential in Pink Eraser Probability has/costs Stat ranges, Average.
+Fact: The +15% in Pink Eraser Probability has/costs +16%, +17%, +18%, +19%, +20%.
+Fact: The **0 ★** in Pink Eraser Probability has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +16.2%.
+Fact: The **0.5 ★** in Pink Eraser Probability has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +16.5%.
+Fact: The **1 ★** in Pink Eraser Probability has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +16.7%.
+Fact: The **1.5 ★** in Pink Eraser Probability has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +17%.
+Fact: The **2 ★** in Pink Eraser Probability has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +17.2%.
+Fact: The **2.5 ★** in Pink Eraser Probability has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +17.5%.
+Fact: The **3 ★** in Pink Eraser Probability has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +17.8%.
+Fact: The **3.5 ★** in Pink Eraser Probability has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +18%.
+Fact: The **4 ★** in Pink Eraser Probability has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +18.3%.
+Fact: The **4.5 ★** in Pink Eraser Probability has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +18.5%.
+Fact: The **5 ★** in Pink Eraser Probability has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +18.8%.
+* +Instant Red Bomb Conversion%
+* +Instant Bee Gather Conversion%
+Fact: * +Instant Bee Gather Conversion% requirement: * +Honey From Instant Conversion%.
+Fact: The Potential in Pink Eraser Probability has/costs Stat ranges, Average.
+Fact: The +7% in Pink Eraser Probability has/costs +8%, +9%, +10%.
+Fact: The **0 ★** in Pink Eraser Probability has/costs 46.529%, 38.128%, 13.869%, 1.473%, +7.7%.
+Fact: The **0.5 ★** in Pink Eraser Probability has/costs 34.018%, 48.419%, 15.914%, 1.648%, +7.9%.
+Fact: The **1 ★** in Pink Eraser Probability has/costs 10.694%, 68.731%, 18.704%, 1.871%, +8.1%.
+Fact: The **1.5 ★** in Pink Eraser Probability has/costs 5.854%, 69.201%, 22.781%, 2.164%, +8.2%.
+Fact: The **2 ★** in Pink Eraser Probability has/costs 4.09%, 63.828%, 29.517%, 2.565%, +8.3%.
+Fact: The **2.5 ★** in Pink Eraser Probability has/costs 3.151%, 46.849%, 46.849%, 3.151%, +8.5%.
+Fact: The **3 ★** in Pink Eraser Probability has/costs 2.565%, 29.517%, 63.828%, 4.09%, +8.7%.
+Fact: The **3.5 ★** in Pink Eraser Probability has/costs 2.164%, 22.781%, 69.201%, 5.854%, +8.8%.
+Fact: The **4 ★** in Pink Eraser Probability has/costs 1.871%, 18.704%, 68.731%, 10.694%, +8.9%.
+Fact: The **4.5 ★** in Pink Eraser Probability has/costs 1.648%, 15.914%, 48.419%, 34.018%, +9.1%.
+Fact: The **5 ★** in Pink Eraser Probability has/costs 1.473%, 13.869%, 38.128%, 46.529%, +9.3%.
+Fact: The Potential in Pink Eraser Probability has/costs Stat ranges, Average.
+Fact: The +3% in Pink Eraser Probability has/costs +4%, +5%.
+Fact: The **0 ★** in Pink Eraser Probability has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Pink Eraser Probability has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Pink Eraser Probability has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Pink Eraser Probability has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Pink Eraser Probability has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Pink Eraser Probability has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Pink Eraser Probability has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Pink Eraser Probability has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Pink Eraser Probability has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Pink Eraser Probability has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Pink Eraser Probability has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Pink Eraser Probability has/costs Stat ranges, Average.
+Fact: The +0.5% in Pink Eraser Probability has/costs +0.6%, +0.7%, +0.8%, +0.9%, +1%.
+Fact: The **0 ★** in Pink Eraser Probability has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +0.62%.
+Fact: The **0.5 ★** in Pink Eraser Probability has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +0.65%.
+Fact: The **1 ★** in Pink Eraser Probability has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +0.67%.
+Fact: The **1.5 ★** in Pink Eraser Probability has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +0.7%.
+Fact: The **2 ★** in Pink Eraser Probability has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +0.72%.
+Fact: The **2.5 ★** in Pink Eraser Probability has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +0.75%.
+Fact: The **3 ★** in Pink Eraser Probability has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +0.78%.
+Fact: The **3.5 ★** in Pink Eraser Probability has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +0.8%.
+Fact: The **4 ★** in Pink Eraser Probability has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +0.83%.
+Fact: The **4.5 ★** in Pink Eraser Probability has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +0.85%.
+Fact: The **5 ★** in Pink Eraser Probability has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +0.88%.

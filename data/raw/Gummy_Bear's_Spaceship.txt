@@ -1,0 +1,99 @@
+Context: Bee Swarm Simulator - Gummy Bear's Spaceship
+
+Gummy Bear's Spaceship
+Gummy Bear's Lair.
+The platform to talk to Gummy Bear. This was used for Gummy Bear's Beesmas 2020 quest, or now to teleport out of the lair. Only players with the Gummy Mask can use this.
+Gummy Bear's Lair is a location that can only be accessed by having a Goo Hotshot Badge or above.
+The prompt to enter the Gummy Lair.
+To get into the lair, touch the Gummy Bee model on the Gummy Bee Egg Claim and use a gumdrop. The player can reach the egg claim by going behind the Ant Leaderboard and following the path (where there's also an ant pass token). They can also climb the Stinger Dispenser, go across the gate and reach the Egg Claim or use a cannon, such as the Red or Yellow Cannon in combination with the Parachute/Glider.
+If the player doesn't have the Goo Hotshot Badge, then the following message will prompt:  Only Goo Hotshots can hear Gummy Bee...
+The notification that appears when the player is on top of the Gummy Bee model and does not have the Goo Hotshot Badge.
+Otherwise, the player will be prompted to use gumdrops to enter the Lair with this message:
+The Gummy Bee wants Gumdrops
+The lair contains Gummy Bear and Gummy Bee. It also has the Glue Dispenser, which activates the Unlimited Gumdrops passive, allowing gumdrops to not decrease in count when used. Additionally, it has a shop that sells the Gummy Mask, Gummy Boots and the Gummyballer.
+Fact: The Gummy Mask in Gummy Bear's Spaceship has/costs 5B Honey.
+Fact: Gummy Mask requirement: 250 Glues.
+Fact: Gummy Mask requirement: 100 Enzymes.
+Fact: Gummy Mask requirement: 100 Oils.
+Fact: Gummy Mask requirement: 100 Glitter.
+Fact: The 1 Satisfying Vial in Gummy Bear's Spaceship has/costs "The official mask of a Gummy Soldier.".
+* +75% Goo.
+* +10% Goo Conversion.
+Fact: 1 Satisfying Vial statistic: * x1.25 White Pollen..
+Fact: 1 Satisfying Vial statistic: * +25% Pollen..
+Fact: 1 Satisfying Vial statistic: * x1.5 Capacity..
+Fact: 1 Satisfying Vial statistic: * x1.5 White Field Capacity..
+* +30% Defense.
+* +20% Bee Ability Rate.
+Fact: 1 Satisfying Vial requirement: * +Passive: Coin Scatter (see Honey Mask, needs Honey Mask in order to use)..
+* +Passive: Gummy Morph.
+Fact: The Gummy Boots in Gummy Bear's Spaceship has/costs 100B Honey.
+Fact: Gummy Boots requirement: 500 Glues.
+Fact: Gummy Boots requirement: 250 Glitter.
+Fact: Gummy Boots requirement: 250 Red Extracts.
+Fact: Gummy Boots requirement: 250 Blue Extracts.
+1 Satisfying Vial
+Fact: The 1 Motivating Vial in Gummy Bear's Spaceship has/costs "Squishy boots that leave a trail of Goo wherever you go.".
+* +25% Goo.
+Fact: 1 Motivating Vial statistic: * +20% Pollen..
+* +3 Bee Attack.
+Fact: 1 Motivating Vial requirement: * +50% Honey From Tokens..
+* +8 Player Movespeed.
+* +22 Jump Power.
+* +16 Movement Collection.
+Fact: 1 Motivating Vial requirement: * +Passive: Coconut Haste (see Coconut Clogs, needs Coconut Clogs in order to use)..
+* +Passive: Goo Trail.
+Fact: The Gummyballer in Gummy Bear's Spaceship has/costs 10T Honey.
+Fact: Gummyballer requirement: 1,500 Glues.
+Fact: Gummyballer requirement: 2,000 Gumdrops.
+Fact: Gummyballer requirement: 50 Caustic Waxes.
+Fact: Gummyballer requirement: 50 Super Smoothies.
+Fact: Gummyballer requirement: 5 Turpentines.
+* Conjures up a delectible arsenal of gummy wrecking balls. Bombard Marks and Honey Tokens for massive gooey gains.
+Gummy Bear's Dialogue[]
+When the player walks up to Gummy Bear without having the Gummy Mask or Gummy Boots bought, he will say the following in chat and through notifications :
+The in-game dialogue of Gummy Bear
+The dialogue from Gummy Bear that appears when the Gummy Beacon is activated
+Gummy Bear: "What's sweeter than honey?"
+"Glorious gumdrops... they're just the start!"
+"A sweet and sour, ooey-gooey universe..."
+"Can't you see it too?" (slight pause)
+"What's that Gummy Bee?"
+"They're not seeing clearly?"
+"YOU'RE ALWAYS RIGHT!"
+"GOO-dbye, beekeeper... HAH!"
+After he finishes his speech, Gummy Bear will instantly kill the player, sending the player back to their hive.
+If the player owns the Gummy Mask or the Gummy Boots, they can talk to Gummy Bear, but he does not give a quest, unless it is Beesmas. It is not required to have either of the two equipped to talk to him.
+A beekeeper approaches, Gummy Bee! _The player is given two options: "Talk to Gummy Bear" or "Return to hive"._ _-Talk to Gummy Bear-_ Our Gummy Army marches forward at a steady, viscous pace. An inevitable ooze that envelopes all things, uniting us all! This glorious gummy world awaits you and your Gummy Bee as well. A place where nothing is bitter, and EVERYTHING is sweet! _-Return to hive-_ Back to work, soldier! _The player is teleported to their hive._
+If the player has bought the Gummy Mask after Beesmas 2021, only the dialogue of talking to Gummy Bear will activate.
+* Players should avoid going to Gummy Bear's Lair if they have a lot of pollen in their container, as they will eventually die due to Gummy Bear killing them or by the player needing to reset their character. However, the player can avoid losing pollen by rejoining the game, using a Micro-Converter to convert all of the pollen beforehand, or using a Whirligig.
+* During Beesmas 2020 and 2021, the player would be able to exit the lair if they have given Gummy Bear a present.
+Token locations[]
+* 1 Glitter behind the Gummy Boots case.
+* 1 Star Jelly in front of Gummy Bear.
+* 1 Enzymes in the corner of the lair.
+Trivia[]
+* Before Beesmas 2020, the only way to leave the lair without exiting or losing connection to the game is to die. The player can die by either courtesy of Gummy Bear or by resetting their character.
+* This is currently the only location not connected to the mountain; instead, it is high up in the sky. The player is able to see the silhouette of the lair if they look closely at the sky.
+* Bee Bear refers to Gummy Bear as naughty in 2018, most likely because he kills the player upon finishing his dialogue, and the fact that he tried to "invade" the mountain.
+* Originally, the lair required the Goo Ace Badge or above, which was a mistake on Onett "Onett \(Developer\)")'s end. It was quickly fixed to allow people with Goo Hotshot as well, so there could be more players that could actually access the lair.
+* This, the Ace Shop, and the Badge Bearer's Guild are the only places that require badges to enter them.
+* Gummy Bear's Lair is the only location that requires a specific badge to enter.
+* Before the 2019-04-05 update, the Gummy Bee that was used to teleport was on top of the Ticket Tent. Now Gummy Bee is replaced with a model of Festive Bee and was instead put at the Ant Field.
+* When Gummy Bear's Lair first came out, it said, “Gummy Bee wants 1 Gumdrop.” Now, it says “The Gummy Bee wants Gumdrops.”
+* However, if the player is visiting Gummy Bear's Lair for the first time, standing on the Gummy Bee model will say "The Gummy Bee wants 1 Gumdrops."
+* Spirit Bear mentions how to get to the lair in her quest dialogue.
+* Some players may experience lag when they are getting close to Gummy Bear.
+* This shop and the Petal Shop are the only shops with items in a triangular formation.
+* The player can experience minor glitches in the lair.
+* When the player walks up to Gummy Bear, he sometimes fails to kill the player after he finishes his speech.
+* After Gummy Bear kills the player, their body parts will slip down until they reach the end of the shop. If the player presses E at the right time, they will be stuck in the shop, resulting in the Shop Trap glitch. Only leaving the game could fix this glitch.
+* On rare occasions, Wild Windy Bee can push the player to Gummy Bear's Lair, making them glitch into it.
+Fact: The Fields in Gummy Bear's Spaceship has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Gummy Bear's Spaceship has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Gummy Bear's Spaceship has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Gummy Bear's Spaceship has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Gummy Bear's Spaceship has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Gummy Bear's Spaceship has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Gummy Bear's Spaceship has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • **Gummy Bear's Lair** • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Gummy Bear's Spaceship has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

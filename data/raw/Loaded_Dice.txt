@@ -1,0 +1,94 @@
+Context: Bee Swarm Simulator - Loaded Dice
+
+Loaded dice
+Loaded Dice
+_"Boosts 3 random fields with 300% pollen for 15 minutes. A bit biased towards the field you're in..."_
+Loaded Dice is an inventory item added in the 2021-12-26 update. It boosts three random fields with 300% pollen for 15 minutes, and the field the player is in has a biased chance, meaning it has a higher chance to boost the field the player is standing in. If the player uses it when there is another dice boost active, it will replace the last dice boosts and duration. It has a cooldown of 3 seconds.
+Bias Mechanism[]
+To activate the bias, the player must be standing on a field, and when the first loaded dice is used, there will be a 25% chance for the first field picked to be the field you’re standing in, as more loaded dice is used, the chance will increase by 25% with a maximum chance of 100%. If the player leaves the field, the chance will reset.
+Ways to obtain[]
+* Crafting via Blender for:
+* 3 Smooth Dice
+* 3 Hard Waxes
+* As a rare reward from Robo Bear Challenge (Up to 3 Loaded Dice).
+* As a Stack Reward for adding certain stickers to the Sticker Stack:
+* Bomber Bee Bear rewards 1 Loaded Dice.
+* Triple Exclamation rewards 1 Loaded Dice.
+Drops[]
+* As a very rare drop from the Werewolf.
+* As a very rare drop from Tunnel Bear.
+* As a rare drop from Epic, Legendary, and Mythic Puffshrooms.
+* As a drop from certain planters:
+* Festive Planter
+* Tacky Planter and Petal Planter has a chance to drop 1 Loaded Dice as a bonus drop.
+* Planting the Tacky Planter in the Mountain Top Field may yield 1 Loaded Dice (36-day cooldown).
+* Planting the Heat-Treated Planter in the Mushroom Field may yield 1 Loaded Dice (~1 day cooldown).
+* Planting the Hydroponic Planter in the Blue Flower Field may yield 1 Loaded Dice (~1 day cooldown).
+Quests[]
+* Completing Dapper Bear's 10th quest rewards 1 Loaded Dice and other items.
+* Completing Dapper Bear's 15th quest rewards 3 Loaded Dice and other items.
+Token Location[]
+* A token near the Red HQ's roof grants 1 Loaded Dice.
+Outdated Ways[]
+* Purchasing certain bundles from Bee Bear's Catalog:
+* Booster Bundle gave 1 Loaded Dice \+ other items.
+* Glitching Bundle gave 25 Loaded Dice \+ other items.
+* Loaded Bundle gave 5 Loaded Dice \+ other items.
+* Redeeming certain expired codes:
+* FrozenBugReboot (Gave 1 loaded dice and other stuff).
+* FourYearFiesta (Gave 1 loaded dice and other stuff).
+* ThreeBeeVee (Gave 1 loaded dice and other stuff).
+* By purchasing certain robux packs.
+* Purchasing the Precise Pack for 1,700 robux gave 10 loaded dice and other items.
+* Purchasing the Cyber Mondo Monday Pack for 800 robux gave 10 loaded dice and other items.
+* Purchasing the Magical Mythic Pack for 800 robux gave 25 loaded dice and other items.
+* Purchasing the Cyber Monday Special for 800 robux gave 10 loaded dice and other items.
+* Purchasing the Wavy Doodle Hive Bundle for 800 robux gave 15 loaded dice and other items.
+* Purchasing Cyber Monday Sampler gives 10 loaded dice + other items
+* Opening certain Gift Boxes:
+* The Midnight Gift Box from Beesmas 2021 gave 1 Loaded Dice \+ other items.
+* The Earthen Gift Box from Beesmas 2021 gave 3 Loaded Dice \+ other items.
+* The Tropical Gift Box from Beesmas 2022 gave 5 Loaded Dice \+ other items.
+Gallery[]
+2 loaded dice from a Tacky Planter.
+The Magical Mythic Pack in the Robux Shop containing loaded dice.
+A loaded dice token.
+Loaded dice in a player's inventory.
+Trivia[]
+* If you some how roll another dice while a dice is already being rolled, this notification would pop up:
+You are already rolling a dice
+* This is the only dice to currently have a cap (25).
+* Field Dice used to have a cap of 25 until the 2021-12-26 update.
+* This and the Smooth Dice are the only items which can produce more than 1 field boost at a time, and produce more than x1 stack of field boost at a time.
+* The fields shown on the dice are the Sunflower Field, the Clover Field, the Coconut Field, the Pumpkin Patch, the Pine Tree Forest and the Blue Flower Field.
+* There also is an X icon on the front dice. It is presumed it's the "biased" slot for the field that the player is standing on.
+* In real life, loaded dice are rigged dice designed to make one side show up more often than the rest, which correlates to the dice's in-game bias of the field your standing in.
+Fact: The Sub-Inventories in Loaded Dice has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Loaded Dice has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Loaded Dice has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Loaded Dice has/costs **Field Dice •  Smooth Dice •  **Loaded Dice****.
+Fact: The Treats in Loaded Dice has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Loaded Dice has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Loaded Dice has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Loaded Dice has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Loaded Dice has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Loaded Dice has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Loaded Dice has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Loaded Dice has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Loaded Dice has/costs **7-Pronged Cog**.
+Fact: The Other in Loaded Dice has/costs **Marshmallow Bee**.
+Fact: The Currencies in Loaded Dice has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Loaded Dice has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Loaded Dice has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Loaded Dice has/costs **Parachute •  Glider**.
+Fact: The Bags in Loaded Dice has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Loaded Dice has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Loaded Dice has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Loaded Dice has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Loaded Dice has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Loaded Dice has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Loaded Dice has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Loaded Dice has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Loaded Dice has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Loaded Dice has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

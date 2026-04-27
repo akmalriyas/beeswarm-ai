@@ -1,0 +1,110 @@
+Context: Bee Swarm Simulator - Beesmas Tree Hat Probability
+
+Beesmas Tree Hat/Probability
+The tables below give the probability of a stat of Beesmas Tree Hat falling within a more precise range, and being upgraded within a more precise range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+Due to the size of the tables affecting readability, it has been moved to a separate subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount%
+* +Critical Chance%
+Fact: * +Critical Chance% statistic: * +Ability Pollen%.
+Fact: The Potential in Beesmas Tree Hat Probability has/costs Stat ranges, Average.
+Fact: The +10% in Beesmas Tree Hat Probability has/costs +11%, +12%, +13%, +14%, +15%, +16%, +17%, +18%, +19%, +20%.
+Fact: The **0 ★** in Beesmas Tree Hat Probability has/costs 19.979%, 23.478%, 16.201%, 12.086%, 9.189%, 6.948%, 5.12%, 3.575%, 2.238%, 1.059%, 0.127%, +12.5%.
+Fact: The **0.5 ★** in Beesmas Tree Hat Probability has/costs 1.534%, 27.918%, 22.425%, 15.147%, 11.033%, 8.135%, 5.895%, 4.066%, 2.522%, 1.184%, 0.142%, +13%.
+Fact: The **1 ★** in Beesmas Tree Hat Probability has/costs 0.685%, 7.384%, 30.794%, 21.247%, 13.969%, 9.855%, 6.958%, 4.717%, 2.888%, 1.344%, 0.16%, +13.5%.
+Fact: The **1.5 ★** in Beesmas Tree Hat Probability has/costs 0.442%, 4.161%, 11.438%, 32.154%, 19.911%, 12.634%, 8.52%, 5.622%, 3.381%, 1.553%, 0.183%, +14%.
+Fact: The **2 ★** in Beesmas Tree Hat Probability has/costs 0.326%, 2.924%, 7.038%, 14.315%, 32.822%, 18.37%, 11.092%, 6.978%, 4.081%, 1.84%, 0.214%, +14.5%.
+Fact: The **2.5 ★** in Beesmas Tree Hat Probability has/costs 0.259%, 2.258%, 5.155%, 9.269%, 16.547%, 33.026%, 16.547%, 9.269%, 5.155%, 2.258%, 0.259%, +15%.
+Fact: The **3 ★** in Beesmas Tree Hat Probability has/costs 0.214%, 1.84%, 4.081%, 6.978%, 11.092%, 18.37%, 32.822%, 14.315%, 7.038%, 2.924%, 0.326%, +15.5%.
+Fact: The **3.5 ★** in Beesmas Tree Hat Probability has/costs 0.183%, 1.553%, 3.381%, 5.622%, 8.52%, 12.634%, 19.911%, 32.154%, 11.438%, 4.161%, 0.442%, +16%.
+Fact: The **4 ★** in Beesmas Tree Hat Probability has/costs 0.16%, 1.344%, 2.888%, 4.717%, 6.958%, 9.855%, 13.969%, 21.247%, 30.794%, 7.384%, 0.685%, +16.5%.
+Fact: The **4.5 ★** in Beesmas Tree Hat Probability has/costs 0.142%, 1.184%, 2.522%, 4.066%, 5.895%, 8.135%, 11.033%, 15.147%, 22.425%, 27.918%, 1.534%, +17%.
+Fact: The **5 ★** in Beesmas Tree Hat Probability has/costs 0.127%, 1.059%, 2.238%, 3.575%, 5.12%, 6.948%, 9.189%, 12.086%, 16.201%, 23.478%, 19.979%, +17.5%.
+Fact: The Potential in Beesmas Tree Hat Probability has/costs Stat ranges, Average.
+Fact: The +2% in Beesmas Tree Hat Probability has/costs +3%, +4%, +5%.
+Fact: The **0 ★** in Beesmas Tree Hat Probability has/costs 46.529%, 38.128%, 13.869%, 1.473%, +2.7%.
+Fact: The **0.5 ★** in Beesmas Tree Hat Probability has/costs 34.018%, 48.419%, 15.914%, 1.648%, +2.9%.
+Fact: The **1 ★** in Beesmas Tree Hat Probability has/costs 10.694%, 68.731%, 18.704%, 1.871%, +3.1%.
+Fact: The **1.5 ★** in Beesmas Tree Hat Probability has/costs 5.854%, 69.201%, 22.781%, 2.164%, +3.2%.
+Fact: The **2 ★** in Beesmas Tree Hat Probability has/costs 4.09%, 63.828%, 29.517%, 2.565%, +3.3%.
+Fact: The **2.5 ★** in Beesmas Tree Hat Probability has/costs 3.151%, 46.849%, 46.849%, 3.151%, +3.5%.
+Fact: The **3 ★** in Beesmas Tree Hat Probability has/costs 2.565%, 29.517%, 63.828%, 4.09%, +3.7%.
+Fact: The **3.5 ★** in Beesmas Tree Hat Probability has/costs 2.164%, 22.781%, 69.201%, 5.854%, +3.8%.
+Fact: The **4 ★** in Beesmas Tree Hat Probability has/costs 1.871%, 18.704%, 68.731%, 10.694%, +3.9%.
+Fact: The **4.5 ★** in Beesmas Tree Hat Probability has/costs 1.648%, 15.914%, 48.419%, 34.018%, +4.1%.
+Fact: The **5 ★** in Beesmas Tree Hat Probability has/costs 1.473%, 13.869%, 38.128%, 46.529%, +4.3%.
+Fact: The Potential in Beesmas Tree Hat Probability has/costs Stat ranges, Average.
+Fact: The +2% in Beesmas Tree Hat Probability has/costs +3%, +4%, +5%.
+Fact: The **0 ★** in Beesmas Tree Hat Probability has/costs 46.529%, 38.128%, 13.869%, 1.473%, +2.7%.
+Fact: The **0.5 ★** in Beesmas Tree Hat Probability has/costs 34.018%, 48.419%, 15.914%, 1.648%, +2.9%.
+Fact: The **1 ★** in Beesmas Tree Hat Probability has/costs 10.694%, 68.731%, 18.704%, 1.871%, +3.1%.
+Fact: The **1.5 ★** in Beesmas Tree Hat Probability has/costs 5.854%, 69.201%, 22.781%, 2.164%, +3.2%.
+Fact: The **2 ★** in Beesmas Tree Hat Probability has/costs 4.09%, 63.828%, 29.517%, 2.565%, +3.3%.
+Fact: The **2.5 ★** in Beesmas Tree Hat Probability has/costs 3.151%, 46.849%, 46.849%, 3.151%, +3.5%.
+Fact: The **3 ★** in Beesmas Tree Hat Probability has/costs 2.565%, 29.517%, 63.828%, 4.09%, +3.7%.
+Fact: The **3.5 ★** in Beesmas Tree Hat Probability has/costs 2.164%, 22.781%, 69.201%, 5.854%, +3.8%.
+Fact: The **4 ★** in Beesmas Tree Hat Probability has/costs 1.871%, 18.704%, 68.731%, 10.694%, +3.9%.
+Fact: The **4.5 ★** in Beesmas Tree Hat Probability has/costs 1.648%, 15.914%, 48.419%, 34.018%, +4.1%.
+Fact: The **5 ★** in Beesmas Tree Hat Probability has/costs 1.473%, 13.869%, 38.128%, 46.529%, +4.3%.
+Fact: **5 ★** statistic: * +Capacity.
+* +Convert Rate At Hive%
+Fact: The Potential in Beesmas Tree Hat Probability has/costs Stat ranges, Average.
+Fact: The +10,000 in Beesmas Tree Hat Probability has/costs +15,000, +20,000, +25,000.
+Fact: The **0 ★** in Beesmas Tree Hat Probability has/costs 46.529%, 38.128%, 13.869%, 1.473%, +13,514.326.
+Fact: The **0.5 ★** in Beesmas Tree Hat Probability has/costs 34.018%, 48.419%, 15.914%, 1.648%, +14,259.663.
+Fact: The **1 ★** in Beesmas Tree Hat Probability has/costs 10.694%, 68.731%, 18.704%, 1.871%, +15,587.602.
+Fact: The **1.5 ★** in Beesmas Tree Hat Probability has/costs 5.854%, 69.201%, 22.781%, 2.164%, +16,062.701.
+Fact: The **2 ★** in Beesmas Tree Hat Probability has/costs 4.09%, 63.828%, 29.517%, 2.565%, +16,527.868.
+Fact: The **2.5 ★** in Beesmas Tree Hat Probability has/costs 3.151%, 46.849%, 46.849%, 3.151%, +17,500.
+Fact: The **3 ★** in Beesmas Tree Hat Probability has/costs 2.565%, 29.517%, 63.828%, 4.09%, +18,472.132.
+Fact: The **3.5 ★** in Beesmas Tree Hat Probability has/costs 2.164%, 22.781%, 69.201%, 5.854%, +18,937.299.
+Fact: The **4 ★** in Beesmas Tree Hat Probability has/costs 1.871%, 18.704%, 68.731%, 10.694%, +19,412.398.
+Fact: The **4.5 ★** in Beesmas Tree Hat Probability has/costs 1.648%, 15.914%, 48.419%, 34.018%, +20,740.337.
+Fact: The **5 ★** in Beesmas Tree Hat Probability has/costs 1.473%, 13.869%, 38.128%, 46.529%, +21,485.674.
+_Note that this stat may be displayed as its rounded value in-game. It is not rounded internally, however._
+Fact: The Potential in Beesmas Tree Hat Probability has/costs Stat ranges, Average.
+Fact: The +3%-+3.1% in Beesmas Tree Hat Probability has/costs +3.1%-+3.2%, +3.2%-+3.3%, +3.3%-+3.4%, +3.4%-+3.5%, +3.5%-+3.6%, +3.6%-+3.7%, +3.7%-+3.8%, +3.8%-+3.9%, +3.9%-+4%, +4%-+4.1%, +4.1%-+4.2%, +4.2%-+4.3%, +4.3%-+4.4%, +4.4%-+4.5%, +4.5%-+4.6%, +4.6%-+4.7%, +4.7%-+4.8%, +4.8%-+4.9%, +4.9%-+5%.
+Fact: The **0 ★** in Beesmas Tree Hat Probability has/costs 19.979%, 13.047%, 10.431%, 8.732%, 7.469%, 6.462%, 5.625%, 4.908%, 4.281%, 3.725%, 3.224%, 2.769%, 2.351%, 1.966%, 1.609%, 1.275%, 0.963%, 0.668%, 0.39%, 0.127%, +3.5%.
+Fact: The **0.5 ★** in Beesmas Tree Hat Probability has/costs 1.534%, 8.466%, 19.452%, 12.52%, 9.904%, 8.205%, 6.942%, 5.935%, 5.098%, 4.381%, 3.754%, 3.198%, 2.697%, 2.242%, 1.825%, 1.44%, 1.082%, 0.749%, 0.436%, 0.142%, +3.6%.
+Fact: The **1 ★** in Beesmas Tree Hat Probability has/costs 0.685%, 2.384%, 5%, 11.931%, 18.863%, 11.931%, 9.315%, 7.616%, 6.353%, 5.346%, 4.509%, 3.792%, 3.165%, 2.609%, 2.108%, 1.653%, 1.236%, 0.851%, 0.493%, 0.16%, +3.7%.
+Fact: The **1.5 ★** in Beesmas Tree Hat Probability has/costs 0.442%, 1.449%, 2.712%, 4.411%, 7.027%, 13.959%, 18.195%, 11.264%, 8.648%, 6.949%, 5.685%, 4.678%, 3.841%, 3.124%, 2.498%, 1.941%, 1.44%, 0.985%, 0.568%, 0.183%, +3.8%.
+Fact: The **2 ★** in Beesmas Tree Hat Probability has/costs 0.326%, 1.043%, 1.88%, 2.887%, 4.151%, 5.849%, 8.466%, 15.397%, 17.425%, 10.493%, 7.877%, 6.178%, 4.914%, 3.908%, 3.07%, 2.354%, 1.727%, 1.17%, 0.67%, 0.214%, +3.9%.
+Fact: The **2.5 ★** in Beesmas Tree Hat Probability has/costs 0.259%, 0.815%, 1.442%, 2.159%, 2.996%, 4.0029%, 5.266%, 6.965%, 9.581%, 16.513%, 16.513%, 9.581%, 6.965%, 5.266%, 4.0029%, 2.996%, 2.159%, 1.442%, 0.815%, 0.259%, +4%.
+Fact: The **3 ★** in Beesmas Tree Hat Probability has/costs 0.214%, 0.67%, 1.17%, 1.727%, 2.354%, 3.07%, 3.908%, 4.914%, 6.178%, 7.877%, 10.493%, 17.425%, 15.397%, 8.466%, 5.849%, 4.151%, 2.887%, 1.88%, 1.043%, 0.326%, +4.1%.
+Fact: The **3.5 ★** in Beesmas Tree Hat Probability has/costs 0.183%, 0.568%, 0.985%, 1.44%, 1.941%, 2.498%, 3.124%, 3.841%, 4.678%, 5.685%, 6.949%, 8.648%, 11.264%, 18.195%, 13.959%, 7.027%, 4.411%, 2.712%, 1.449%, 0.442%, +4.2%.
+Fact: The **4 ★** in Beesmas Tree Hat Probability has/costs 0.16%, 0.493%, 0.851%, 1.236%, 1.653%, 2.108%, 2.609%, 3.165%, 3.792%, 4.509%, 5.346%, 6.353%, 7.616%, 9.315%, 11.931%, 18.863%, 11.931%, 5%, 2.384%, 0.685%, +4.3%.
+Fact: The **4.5 ★** in Beesmas Tree Hat Probability has/costs 0.142%, 0.436%, 0.749%, 1.082%, 1.44%, 1.825%, 2.242%, 2.697%, 3.198%, 3.754%, 4.381%, 5.098%, 5.935%, 6.942%, 8.205%, 9.904%, 12.52%, 19.452%, 8.466%, 1.534%, +4.4%.
+Fact: The **5 ★** in Beesmas Tree Hat Probability has/costs 0.127%, 0.39%, 0.668%, 0.963%, 1.275%, 1.609%, 1.966%, 2.351%, 2.769%, 3.224%, 3.725%, 4.281%, 4.908%, 5.625%, 6.462%, 7.469%, 8.732%, 10.431%, 13.047%, 19.979%, +4.5%.
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount%
+Fact: The Potential in Beesmas Tree Hat Probability has/costs Stat ranges, Average.
+Fact: The +1% in Beesmas Tree Hat Probability has/costs +2%.
+Fact: The **0 ★** in Beesmas Tree Hat Probability has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Beesmas Tree Hat Probability has/costs 83.906%, 16.094%, +1.2%.
+Fact: The **1 ★** in Beesmas Tree Hat Probability has/costs 82.852%, 17.148%, +1.2%.
+Fact: The **1.5 ★** in Beesmas Tree Hat Probability has/costs 81.267%, 18.733%, +1.2%.
+Fact: The **2 ★** in Beesmas Tree Hat Probability has/costs 78.601%, 21.399%, +1.2%.
+Fact: The **2.5 ★** in Beesmas Tree Hat Probability has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **3 ★** in Beesmas Tree Hat Probability has/costs 50%, 50%, +1.5%.
+Fact: The **3.5 ★** in Beesmas Tree Hat Probability has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Beesmas Tree Hat Probability has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Beesmas Tree Hat Probability has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Beesmas Tree Hat Probability has/costs 15.343%, 84.657%, +1.8%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: The Potential in Beesmas Tree Hat Probability has/costs Stat ranges, Average.
+Fact: The +250 in Beesmas Tree Hat Probability has/costs +500, +750, +1,000.
+Fact: The **0 ★** in Beesmas Tree Hat Probability has/costs 46.529%, 38.128%, 13.869%, 1.473%, +425.716.
+Fact: The **0.5 ★** in Beesmas Tree Hat Probability has/costs 40.445%, 43.056%, 14.933%, 1.566%, +444.049.
+Fact: The **1 ★** in Beesmas Tree Hat Probability has/costs 29.352%, 52.421%, 16.527%, 1.699%, +476.433.
+Fact: The **1.5 ★** in Beesmas Tree Hat Probability has/costs 9.504%, 69.398%, 19.189%, 1.908%, +533.752.
+Fact: The **2 ★** in Beesmas Tree Hat Probability has/costs 5.114%, 67.991%, 24.613%, 2.283%, +560.159.
+Fact: The **2.5 ★** in Beesmas Tree Hat Probability has/costs 3.151%, 46.849%, 46.849%, 3.151%, +625.
+Fact: The **3 ★** in Beesmas Tree Hat Probability has/costs 2.565%, 29.517%, 63.828%, 4.09%, +673.607.
+Fact: The **3.5 ★** in Beesmas Tree Hat Probability has/costs 2.164%, 22.781%, 69.201%, 5.854%, +696.865.
+Fact: The **4 ★** in Beesmas Tree Hat Probability has/costs 1.871%, 18.704%, 68.731%, 10.694%, +720.62.
+Fact: The **4.5 ★** in Beesmas Tree Hat Probability has/costs 1.648%, 15.914%, 48.419%, 34.018%, +787.017.
+Fact: The **5 ★** in Beesmas Tree Hat Probability has/costs 1.473%, 13.869%, 38.128%, 46.529%, +824.284.

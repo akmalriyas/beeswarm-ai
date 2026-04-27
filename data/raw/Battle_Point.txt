@@ -1,0 +1,21 @@
+Context: Bee Swarm Simulator - Battle Point
+
+Battle Point
+The Global Top Battlers leaderboard.
+Battle Points are points used for Global Top Battlers Leaderboard rankings and the Battle Badge. They are obtained by defeating certain mobs.
+The player can see how many battle points they have by stepping on the pad in front of the Global Top Battlers Leaderboard or by looking in your badges and scrolling down to the Battle Badge.
+Battle Points per Mob[]
+* Ladybugs, rhino beetles, and cave monsters: 1 point.
+* Mantises and scorpions: 5 points.
+* Spiders: 10 points.
+* Aphids: 10 points if normal, 20 if rage, armored, or diamond.
+* Werewolves: 25 points.
+* King Beetle: 150 points.
+* Tunnel Bear: 200 points.
+* Coconut Crab: 400 points.
+* Stump Snail: 500 points.
+Mobs not mentioned give zero battle points.
+Trivia[]
+* The first player to get the Battle Master Badge was DB4444.
+* The first player to get the Battle Grandmaster Badge was MunkNull.
+* No mob has been added since the 2019-09-28 update that gives Battle Points.

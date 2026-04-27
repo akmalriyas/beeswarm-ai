@@ -1,0 +1,107 @@
+Context: Bee Swarm Simulator - Turpentine
+
+Turpentine
+_"A strong solvent that can remove all Waxes from a bee's Beequip."_
+Turpentine is a craftable inventory item added in the 2021-12-26 update. It is used to remove all waxes from a Beequip.
+Turpentine have a maximum cap of 25. Obtaining while having more than 25 turpentines will not add them to the player's inventory unless received through quests, redeeming codes, or purchasing them in the Robux Shop through limited-time offers.
+Ways to Obtain[]
+* Crafting via Blender for:
+* 10 Super Smoothies
+* 10 Caustic Waxes
+* 100 Star Jellies
+* 1,000 Honeysuckles
+* As an extremely rare drop from an Epic Puffshroom, a very rare drop from a Legendary Puffshroom and an uncommon drop from a Mythic Puffshroom.
+* As a very rare drop from any planter.
+* As a reward for reaching the Top 25 Daily Leaderboard for Retro Swarm Challenge.
+* As a very rare reward from the Retro Swarm Challenge.
+* As an extremely rare reward from the Robo Bear Challenge.
+* As a reward from completing Stick Bug's Beesmas quest.
+Fact: * 1,000 Honeysuckles requirement: * Purchasing the Purple-Turple Mega Pack from Bee Bear's Catalog gives 1 Turpentine + other items..
+* By purchasing certain packs from the Robux Shop.
+Fact: * 1,000 Honeysuckles requirement: * Purchasing the Merry Mythic Mondo-Haul Bundle for 4,500 Robux gives 1 Turpentine + other items..
+* As a drop from certain Beesmas decorations:
+* Dapper Bear's Samovar drops a Turpentine on the 25th use.
+* Completing Robo Party on rank 45 and 50 for the first time gives the player who started it a Turpentine and other rewards.
+Outdated Ways[]
+Fact: Outdated Ways[] requirement: * Opening the Mondo Gift Box during Beesmas 2021 and beyond gave 1 Turpentine + other items..
+Fact: Outdated Ways[] requirement: * From Purchasing the Hefty Honeyday Bundle in Bee Bear's Catalog (Gave 1 Turpentine + other items)..
+Fact: Outdated Ways[] requirement: * Purchasing the Merry Mondo Bundle from Bee Bear’s Catalog gave 1 Turpentine + other items..
+Fact: Outdated Ways[] requirement: * Purchasing the Triumphant Turp Pack from Bee Bear's Catalog gave 1 Turpentine + other items..
+* By purchasing certain packs from the Robux Shop.
+Fact: Outdated Ways[] requirement: * Purchasing the Mondo Robo Bundle for 4,500 Robux gave 1 Turpentine + other items..
+Fact: Outdated Ways[] requirement: * Purchasing the Gifted Giga-Bundle for 4,500 Robux gave 1 Turpentine + other items..
+Fact: Outdated Ways[] requirement: * Purchasing the Royal Winter Wonder Haul for 4,500 Robux gave 1 Turpentine + other items..
+Crafting uses[]
+Total required for all single-purchase items: 35 Turpentines
+Fact: The **Turpentines** in Turpentine has/costs Other ingredients, Result.
+Fact: The 1 in Turpentine has/costs 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 750 Blue Extracts.
+Fact: 75 Magic Beans requirement: 500 Soft Waxes.
+Fact: The 25 Caustic Waxes in Turpentine has/costs Hydroponic Planter.
+Fact: The 1 in Turpentine has/costs 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 750 Red Extracts.
+Fact: 75 Magic Beans requirement: 150 Hard Waxes.
+Fact: The 25 Swirled Waxes in Turpentine has/costs Heat-Treated Planter.
+Fact: The 3 in Turpentine has/costs 7.5T Honey.
+Fact: 3 requirement: 500 Coconuts.
+1,500 Tropical Drinks
+Fact: 1,500 Tropical Drinks requirement: 200 Purple Potions.
+Fact: 1,500 Tropical Drinks requirement: 200 Hard Waxes.
+Fact: The 3 Refreshing Vials in Turpentine has/costs Coconut Belt.
+Fact: The 5 in Turpentine has/costs 10T Honey.
+Fact: 5 requirement: 1,500 Glues.
+Fact: 5 requirement: 2,000 Gumdrops.
+Fact: 5 requirement: 50 Caustic Waxes.
+Fact: The 50 Super Smoothies 3 Satisfying Vials in Turpentine has/costs Gummyballer.
+Fact: The 25 in Turpentine has/costs 100T Honey.
+500 Magic Beans
+Fact: 500 Magic Beans requirement: 100 Super Smoothies.
+Fact: 500 Magic Beans requirement: 100 Swirled Waxes.
+Fact: The 100 Caustic Waxes in Turpentine has/costs The Planter Of Plenty.
+Gallery[]
+A Turpentine token.
+Turpentines in a player's inventory.
+Trivia[]
+* If a Beequip has no waxes used on it, a Turpentine can still be used on the Beequip.
+* Turpentine's raw ingredients cost:
+* 1,750 Honeysuckles
+* 164,250 Strawberries
+* 164,250 Blueberries
+* 232,000 Pineapples
+* 13,500 Sunflower Seeds
+* 600 Coconuts
+* 370 Neonberries
+* 1,650 Bitterberries
+* 390 Magic Beans (7,800 Tickets)
+* 88,520 Royal Jellies (88.52B Honey)
+Fact: The Sub-Inventories in Turpentine has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Turpentine has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  **Turpentine** •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Turpentine has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Turpentine has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Turpentine has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Turpentine has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Turpentine has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Turpentine has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Turpentine has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Turpentine has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Turpentine has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Turpentine has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Turpentine has/costs **7-Pronged Cog**.
+Fact: The Other in Turpentine has/costs **Marshmallow Bee**.
+Fact: The Currencies in Turpentine has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Turpentine has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Turpentine has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Turpentine has/costs **Parachute •  Glider**.
+Fact: The Bags in Turpentine has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Turpentine has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Turpentine has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Turpentine has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Turpentine has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Turpentine has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Turpentine has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Turpentine has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Turpentine has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Turpentine has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

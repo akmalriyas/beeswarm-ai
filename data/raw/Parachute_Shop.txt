@@ -1,0 +1,97 @@
+Context: Bee Swarm Simulator - Parachute Shop
+
+Parachute Shop
+Pro Shop
+Location
+Past the Brave Bee Gate.
+The Pro Shop is a shop located past the Brave Bee Gate, next to the Pineapple Patch. The Mythic Meteor Shower Summoner used to be on top of the shop before being moved in the Trading Update to the Badge Bearer's Guild.
+This shop sells four Bags, five Tools, four Guards, a Hat, a Belt, a pair of Boots, Paper Planters, and the Parachute.
+As with the Noob Shop, the game does not explicitly name the shop. However, the bear who runs the shop is named "Pro Bear". Therefore, the community has named the shop as such.
+* Accessories
+Fact: The Super-Scooper in Parachute Shop has/costs 40,000 Honey, Collects 4 pollen from the 5 patches in front of you in 0.5 seconds..
+Fact: The Pulsar in Parachute Shop has/costs 125,000 Honey, Collects 2 pollen from 29 surrounding patches in 1 second..
+Fact: The Electro-Magnet in Parachute Shop has/costs 300,000 Honey, Collects 4 pollen from 9 surrounding patches in 0.5 seconds..
+Fact: The Scissors in Parachute Shop has/costs 850,000 Honey, Collects ALL pollen from patch in front of you in 0.5 seconds..
+Fact: The Honey Dipper in Parachute Shop has/costs 1,500,000 Honey, Collects 2 pollen from 49 surrounding patches in 0.9 seconds..
+Fact: The Mega-Jug in Parachute Shop has/costs 50,000 Honey, A humongous jug!.
+Fact: Mega-Jug statistic: * +25,000 Capacity..
+* +40% Convert Rate.
+Fact: The Compressor in Parachute Shop has/costs 160,000 Honey, A machine which packs pollen to increase space..
+Fact: Compressor statistic: * +50,000 Capacity..
+* +55% Convert Rate.
+Fact: The Elite Barrel in Parachute Shop has/costs 650,000 Honey, The worlds _[sic]_ most advanced barrel. Increases pollen from certain fields..
+Fact: Elite Barrel statistic: * +125,000 Capacity..
+* +70% Convert Rate.
+Fact: The Port-O-Hive in Parachute Shop has/costs 1,250,000 Honey, A miniature hive you can wear on your back! Instantly converts some pollen to honey..
+Fact: Port-O-Hive statistic: * +250,000 Capacity..
+* +100% Convert Rate.
+* +5% Instant Conversion.
+Fact: The Propeller Hat in Parachute Shop has/costs 2,500,000 Honey.
+Fact: Propeller Hat requirement: 25 Gumdrops.
+Fact: Propeller Hat requirement: 100 Pineapples.
+Fact: The 5 Moon Charms in Parachute Shop has/costs A playful hat that keeps the sun out of your eyes..
+Fact: 5 Moon Charms statistic: * +15% Pollen..
+* +5% Bee Ability Rate.
+* +10 Jump Power.
+Fact: The Brave Guard in Parachute Shop has/costs 300,000 Honey.
+Fact: The 3 Stingers in Parachute Shop has/costs A right shoulder pad crafted by a Brave Bee..
+* [Right Shoulder]
+Fact: * [Right Shoulder] statistic: * +15,000 Capacity..
+Fact: * [Right Shoulder] statistic: * +5% White Pollen..
+* +1 Colorless Attack.
+Fact: The Hasty Guard in Parachute Shop has/costs 300,000 Honey.
+Fact: The 5 Moon Charms in Parachute Shop has/costs A right shoulder pad crafted by a Hasty Bee..
+* [Right Shoulder]
+Fact: * [Right Shoulder] statistic: * +15,000 Capacity..
+* +1% Bee Movespeed.
+* x1.1 Player Movespeed.
+Fact: The Bomber Guard in Parachute Shop has/costs 300,000 Honey.
+Fact: The 25 Sunflower Seeds in Parachute Shop has/costs A left shoulder pad crafted by a Bomber Bee..
+* [Left Shoulder]
+Fact: * [Left Shoulder] statistic: * +15,000 Capacity..
+Fact: * [Left Shoulder] statistic: * +5% White Pollen..
+Fact: * [Left Shoulder] statistic: * +15% Bomb Pollen..
+Fact: The Looker Guard in Parachute Shop has/costs 300,000 Honey.
+Fact: The 25 Sunflower Seeds in Parachute Shop has/costs A left shoulder pad crafted by a Looker Bee..
+* [Left Shoulder]
+Fact: * [Left Shoulder] statistic: * +15,000 Capacity..
+* +1% Critical Chance.
+* +25% Critical Power.
+Fact: The Belt Bag in Parachute Shop has/costs 440,000 Honey.
+Fact: Belt Bag requirement: 50 Pineapples.
+Fact: Belt Bag requirement: 50 Sunflower Seeds.
+Fact: The 3 Stingers in Parachute Shop has/costs A convenient pouch designed for easy access..
+Fact: 3 Stingers statistic: * +25,000 Capacity..
+* +20 Convert Amount.
+* +50% Loot Luck.
+Fact: The Hiking Boots in Parachute Shop has/costs 2,200,000 Honey.
+50 Blueberries
+Fact: The 50 Strawberries in Parachute Shop has/costs A durable pair of boots helpful for traversing the mountain..
+* +6 Movespeed.
+* +10 Jump Power.
+* +6 Movement Collection.
+Fact: The Parachute in Parachute Shop has/costs 500,000 Honey, A parachute you can use to glide down the mountain and reach new places! Press jump while in the air to open..
+Fact: The Paper Planter in Parachute Shop has/costs 25,000 Honey.
+Fact: The 1 Sunflower Seed in Parachute Shop has/costs When placed in a flower field, this grows in about 1 hour of playtime. Harvest it to gain around 50,000 Pollen, random items, and Nectar boosts!.
+* Rewards are based on the field you place it on.
+* Only grows while in game, but remains on the field and will still be there if you leave the game and come back.
+When in the shop, the following audio plays:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Vendor.ogg>
+Trivia[]
+* The Slingshot will sometimes undershoot the player near Panda Bear or in the middle of the Bamboo Field. If the Slingshot does not undershoot, it will regularly shoot the player in front of the shop's door.
+* There are two Royal Jelly tokens, one of them on top of the shop at the end of a dark passage and one within inside the shop, the latter being hidden in the Maze behind Pro Bear. The player can obtain it by going all the way to the end, turning right, going to the end, turning right, and going to the first corridor on the right and follow through it to find the token.
+* Since the 2018-07-11 update, there is a Sunflower Seed token inside the maze that gives 10 Sunflower Seeds. The player can obtain it by going right two times, just like the Royal Jelly, but on the second right, go to the end of the hall and follow through the last corridor to the right.
+* There is a giant pineapple near the Pro Shop, where there are 3 Tickets on top that can be collected by using the Red Cannon and the Parachute or Glider to glide down onto the top.
+* If the player stands on the piece of blue wall behind the backpack models and jumps high enough, they can go into the space between the roof and the ceiling.
+* Spotted chicks were able to spawn here before they were removed.
+* Spotted chicks were also able to spawn in the space between the roof and the ceiling. When they spawned there, the feet of the chick would be visible.
+* With 18 items, the Pro Shop has the most purchasable items out of all of the shops.
+* Out of the three shops that have a shop bear, this is the only one that sells at least 1 type of guard.
+Fact: The Fields in Parachute Shop has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Parachute Shop has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • **Pro Shop** • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Parachute Shop has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Parachute Shop has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Parachute Shop has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Parachute Shop has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Parachute Shop has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Parachute Shop has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

@@ -1,0 +1,886 @@
+Context: Bee Swarm Simulator - Beret
+
+Color: Blue
+"Only the blue bees are cool enough to don this comfy cap."
+Fact: Beret statistic: +Convert Amount.
+Fact: Beret statistic: +Convert Amount%.
+Fact: Beret statistic: +Ability Pollen%.
+Fact: Beret statistic: +Ability: Blue Boost.
+Fact: Beret statistic: +Capacity.
+Fact: Beret statistic: +Blue Field Capacity%.
+Fact: Beret statistic: +Capacity%.
+A Beret is a level 11 Beequip. It has an equip limit of two. And can only be equipped by blue bees.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip does not use the old RNG functions.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades, Range.
+Fact: The Chance in Beret has/costs Value, Weight, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Fact: The Bias scales linearly in Beret has/costs **0.5**, A random value between **+1** -**+2**.
+Intervals of +1
+Fact: The Bias: {2, 1} in Beret has/costs **20**, **+10 - +60**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Beret has/costs **0.5**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Beret has/costs **20**, **+5% - +50%**.
+Fact: The +Ability Pollen% in Beret has/costs An exact value between **10%** -**50%**.
+Fact: The Linear scaling by a factor of 1 in Beret has/costs A random value between **+1%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Beret has/costs \-, \-, \-, **0% - +5%**.
+Fact: Bias scales linearly statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, An exact value between **0.0002** -**0.002**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 0.5 in Beret has/costs **-**, **1**, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Fact: The Bias scales linearly in Beret has/costs An exact value between **0.25** -**0.5**.
+Fact: The Linear scaling by a factor of 1 in Beret has/costs A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Fact: The Bias: {2, 1} in Beret has/costs **5**, **+10,000 - +35,000**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, An exact value between **0.02** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Beret has/costs **+1%**, **5**, **0% - +5%**.
+Fact: Linear scaling by a factor of 1 statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, An exact value between **0.001** -**0.05**.
+Fact: The Linear scaling by a factor of 1 in Beret has/costs **+1%**, **5**, **0% - +5%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Beret has/costs **39.3701%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beret has/costs **39.3701%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **10%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.96% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +10,000
+Fact: The Average value: +12,480.8551 in Beret has/costs **19.685%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,000
+Fact: The Average value: +2,218.8324 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **1.5748%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Beret has/costs **39.3329%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +6.22% in Beret has/costs **39.3329%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **10%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.96% in Beret has/costs \-, \-, \-.
+Fact: Average value: +1.96% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.0157%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +10,000
+Fact: The Average value: +12,480.8551 in Beret has/costs **19.6665%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,000
+Fact: The Average value: +2,218.8324 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **1.5733%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.0787%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Beret has/costs **38.373%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0316
+Fact: The Average value: +1.1598 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Beret has/costs **38.373%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **14%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +2.19% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +11,000
+Fact: The Average value: +12,990.9511 in Beret has/costs **21.1051%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,031.6228
+Fact: The Average value: +2,230.1113 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **2.1489%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Beret has/costs **38.1776%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0316
+Fact: The Average value: +1.1598 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +5.5%
+Fact: The Average value: +6.54% in Beret has/costs **38.1776%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.01%
+Fact: The Average value: +1.16% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **14%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.4%
+Fact: The Average value: +2.19% in Beret has/costs \-, \-, \-.
+Fact: Average value: +2.19% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.0587%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +11,000
+Fact: The Average value: +12,990.9511 in Beret has/costs **20.9977%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,031.6228
+Fact: The Average value: +2,230.1113 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **2.1379%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.4505%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Beret has/costs **37.4251%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0894
+Fact: The Average value: +1.173 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Beret has/costs **37.4251%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **18%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +2.42% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +12,000
+Fact: The Average value: +13,494.2512 in Beret has/costs **22.4551%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,089.4427
+Fact: The Average value: +2,254.6734 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **2.6946%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Beret has/costs **37.0974%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.0894
+Fact: The Average value: +1.173 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6%
+Fact: The Average value: +6.74% in Beret has/costs **37.0974%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **18%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +2.42% in Beret has/costs \-, \-, \-.
+Fact: Average value: +2.42% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.0746%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +12,000
+Fact: The Average value: +13,494.2512 in Beret has/costs **22.2584%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,089.4427
+Fact: The Average value: +2,254.6734 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **2.671%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.8013%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Beret has/costs **36.523%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1643
+Fact: The Average value: +1.1938 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Beret has/costs **36.523%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **22%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.56% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +13,000
+Fact: The Average value: +13,996.4804 in Beret has/costs **23.74%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,164.3168
+Fact: The Average value: +2,298.3277 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **3.214%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Beret has/costs **36.078%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.1643
+Fact: The Average value: +1.1938 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +6.5%
+Fact: The Average value: +7.01% in Beret has/costs **36.078%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **22%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.56% in Beret has/costs \-, \-, \-.
+Fact: Average value: +2.56% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.0856%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +13,000
+Fact: The Average value: +13,996.4804 in Beret has/costs **23.4507%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,164.3168
+Fact: The Average value: +2,298.3277 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **3.1749%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **1.1328%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Beret has/costs **35.6633%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.253
+Fact: The Average value: +1.2266 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Beret has/costs **35.6633%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **26%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.84% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +14,000
+Fact: The Average value: +14,498.3147 in Beret has/costs **24.9643%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,252.9822
+Fact: The Average value: +2,405.3633 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **3.709%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Beret has/costs **35.1139%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.253
+Fact: The Average value: +1.2266 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7%
+Fact: The Average value: +7.25% in Beret has/costs **35.1139%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **26%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.84% in Beret has/costs \-, \-, \-.
+Fact: Average value: +2.84% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.094%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +14,000
+Fact: The Average value: +14,498.3147 in Beret has/costs **24.5797%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,252.9822
+Fact: The Average value: +2,405.3633 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **3.6518%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **1.4467%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Beret has/costs **34.8432%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.3536
+Fact: The Average value: +1.2826 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beret has/costs **34.8432%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **30%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +15,000
+Fact: The Average value: +15,000 in Beret has/costs **26.1324%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,353.5534
+Fact: The Average value: +2,466.6579 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **4.1812%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Beret has/costs **34.2004%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.3536
+Fact: The Average value: +1.2826 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +7.5%
+Fact: The Average value: +7.5% in Beret has/costs **34.2004%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **30%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3% in Beret has/costs \-, \-, \-.
+Fact: Average value: +3% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.1007%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +15,000
+Fact: The Average value: +15,000 in Beret has/costs **25.6503%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,353.5534
+Fact: The Average value: +2,466.6579 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **4.104%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **1.7442%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Beret has/costs **34.0599%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.4648
+Fact: The Average value: +1.4041 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beret has/costs **34.0599%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **34%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.16% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +16,000
+Fact: The Average value: +15,501.6853 in Beret has/costs **27.248%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,464.758
+Fact: The Average value: +2,493.1342 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **4.6322%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Beret has/costs **33.3335%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.4648
+Fact: The Average value: +1.4041 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8%
+Fact: The Average value: +7.75% in Beret has/costs **33.3335%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.36%
+Fact: The Average value: +1.29% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **34%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.16% in Beret has/costs \-, \-, \-.
+Fact: Average value: +3.16% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.1063%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +16,000
+Fact: The Average value: +15,501.6853 in Beret has/costs **26.6668%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,464.758
+Fact: The Average value: +2,493.1342 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **4.5334%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **2.0267%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Beret has/costs **33.3111%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.5857
+Fact: The Average value: +1.6647 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beret has/costs **33.3111%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **38%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.44% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +17,000
+Fact: The Average value: +16,003.5196 in Beret has/costs **28.3145%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,585.662
+Fact: The Average value: +2,517.4348 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **5.0633%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Beret has/costs **32.5096%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.5857
+Fact: The Average value: +1.6647 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +8.5%
+Fact: The Average value: +7.99% in Beret has/costs **32.5096%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.49%
+Fact: The Average value: +1.46% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **38%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.44% in Beret has/costs \-, \-, \-.
+Fact: Average value: +3.44% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.1109%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +17,000
+Fact: The Average value: +16,003.5196 in Beret has/costs **27.6332%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,585.662
+Fact: The Average value: +2,517.4348 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **4.9415%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **2.2952%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Beret has/costs **32.5945%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.7155
+Fact: The Average value: +1.7586 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beret has/costs **32.5945%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **42%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +3.58% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +18,000
+Fact: The Average value: +16,505.7488 in Beret has/costs **29.3351%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,715.5418
+Fact: The Average value: +2,563.6859 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **5.4759%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Beret has/costs **31.7257%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.7155
+Fact: The Average value: +1.7586 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9%
+Fact: The Average value: +8.26% in Beret has/costs **31.7257%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.64%
+Fact: The Average value: +1.71% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **42%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +3.58% in Beret has/costs \-, \-, \-.
+Fact: Average value: +3.58% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.1148%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +18,000
+Fact: The Average value: +16,505.7488 in Beret has/costs **28.5531%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,715.5418
+Fact: The Average value: +2,563.6859 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **5.3299%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **2.5507%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Beret has/costs **31.9081%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8538
+Fact: The Average value: +1.8117 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beret has/costs **31.9081%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **46%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +3.81% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +19,000
+Fact: The Average value: +17,009.0489 in Beret has/costs **30.3127%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,853.815
+Fact: The Average value: +2,713.9693 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **5.8711%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Beret has/costs **30.9788%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.8538
+Fact: The Average value: +1.8117 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +9.5%
+Fact: The Average value: +8.46% in Beret has/costs **30.9788%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.81%
+Fact: The Average value: +1.8% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **46%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +3.81% in Beret has/costs \-, \-, \-.
+Fact: Average value: +3.81% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.1182%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +19,000
+Fact: The Average value: +17,009.0489 in Beret has/costs **29.4298%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +2,853.815
+Fact: The Average value: +2,713.9693 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **5.7001%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **2.7943%**, **+1%**, **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Beret has/costs **31.25%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beret has/costs **31.25%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **50%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.04% in Beret has/costs \-, \-, \-.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +20,000
+Fact: The Average value: +17,519.1449 in Beret has/costs **31.25%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +3,000
+Fact: The Average value: +2,781.1676 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **6.25%**, **+1%**, **5**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Beret has/costs Base, Upgrades.
+Fact: The Chance in Beret has/costs Value, Chance, Value, Limit.
+Fact: The +Convert Amount in Beret has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Beret has/costs **30.2663%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Beret has/costs **20**.
+Fact: The +Convert Amount% in Beret has/costs **100%**, A random value between **+5%** -**+10%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +8.78% in Beret has/costs **30.2663%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Beret has/costs **20**.
+Fact: The +Ability Pollen% in Beret has/costs **50%**, A random value between **+1%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.04% in Beret has/costs \-, \-, \-.
+Fact: Average value: +4.04% statistic: +Ability: Blue Boost.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **0.1211%**, **-**, **1**.
+Fact: The +Capacity in Beret has/costs **100%**, A random value between **+10,000** -**+20,000**.
+Intervals of +1,000
+Biased to values near +20,000
+Fact: The Average value: +17,519.1449 in Beret has/costs **30.2663%**, A random value between **+2,000** -**+3,000**.
+Intervals of +500
+Biased to values near +3,000
+Fact: The Average value: +2,781.1676 in Beret has/costs **5**.
+Fact: The +Blue Field Capacity% in Beret has/costs \-, \-, **6.0533%**, **+1%**, **5**.
+Fact: +Blue Field Capacity% statistic: +Capacity%.
+Fact: The Caustic Points Only in Beret has/costs \-, \-, **3.0266%**, **+1%**, **5**.
+Probabilities[]
+The tables below give the probability of a stat of Beret falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount
+* +Convert Amount%
+Fact: * +Convert Amount% statistic: * +Ability Pollen%.
+Fact: The Potential in Beret has/costs Stat ranges, Average.
+Fact: The +10-+11 in Beret has/costs +12-+13, +14-+15, +16-+17, +18-+19, +20.
+Fact: The **0 ★** in Beret has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.481.
+Fact: The **0.5 ★** in Beret has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +12.991.
+Fact: The **1 ★** in Beret has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.494.
+Fact: The **1.5 ★** in Beret has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +13.996.
+Fact: The **2 ★** in Beret has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.498.
+Fact: The **2.5 ★** in Beret has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15.
+Fact: The **3 ★** in Beret has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.502.
+Fact: The **3.5 ★** in Beret has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16.0035.
+Fact: The **4 ★** in Beret has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.506.
+Fact: The **4.5 ★** in Beret has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17.009.
+Fact: The **5 ★** in Beret has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.519.
+Fact: The Potential in Beret has/costs Stat ranges, Average.
+Fact: The +5% in Beret has/costs +6%, +7%, +8%, +9%, +10%.
+Fact: The **0 ★** in Beret has/costs 33.026%, 33.093%, 18.538%, 10.31%, 4.515%, 0.518%, +6.2%.
+Fact: The **0.5 ★** in Beret has/costs 10%, 50.082%, 22.356%, 11.891%, 5.095%, 0.577%, +6.5%.
+Fact: The **1 ★** in Beret has/costs 3.069%, 47.726%, 28.63%, 14.075%, 5.847%, 0.653%, +6.7%.
+Fact: The **1.5 ★** in Beret has/costs 1.891%, 28.109%, 45.055%, 17.329%, 6.864%, 0.751%, +7%.
+Fact: The **2 ★** in Beret has/costs 1.37%, 14.768%, 51.781%, 22.877%, 8.322%, 0.884%, +7.2%.
+Fact: The **2.5 ★** in Beret has/costs 1.074%, 10.6%, 38.326%, 38.326%, 10.6%, 1.074%, +7.5%.
+Fact: The **3 ★** in Beret has/costs 0.884%, 8.322%, 22.877%, 51.781%, 14.768%, 1.37%, +7.8%.
+Fact: The **3.5 ★** in Beret has/costs 0.751%, 6.864%, 17.329%, 45.055%, 28.109%, 1.891%, +8%.
+Fact: The **4 ★** in Beret has/costs 0.653%, 5.847%, 14.075%, 28.63%, 47.726%, 3.069%, +8.3%.
+Fact: The **4.5 ★** in Beret has/costs 0.577%, 5.095%, 11.891%, 22.356%, 50.082%, 10%, +8.5%.
+Fact: The **5 ★** in Beret has/costs 0.518%, 4.515%, 10.31%, 18.538%, 33.093%, 33.026%, +8.8%.
+Fact: The Potential in Beret has/costs Stat ranges, Average.
+Fact: The +1% in Beret has/costs +2%, +3%, +4%, +5%.
+Fact: The **0 ★** in Beret has/costs 38.493%, 35.788%, 17.594%, 7.309%, 0.816%, +2%.
+Fact: The **0.5 ★** in Beret has/costs 21.459%, 48.646%, 20.693%, 8.291%, 0.911%, +2.2%.
+Fact: The **1 ★** in Beret has/costs 5.144%, 58.953%, 25.285%, 9.586%, 1.032%, +2.4%.
+Fact: The **1.5 ★** in Beret has/costs 3.068%, 51.184%, 33.184%, 11.375%, 1.189%, +2.6%.
+Fact: The **2 ★** in Beret has/costs 2.196%, 28.373%, 54.00013%, 14.028%, 1.403%, +2.8%.
+Fact: The **2.5 ★** in Beret has/costs 1.712%, 18.459%, 59.657%, 18.459%, 1.712%, +3%.
+Fact: The **3 ★** in Beret has/costs 1.403%, 14.028%, 54.00013%, 28.373%, 2.196%, +3.2%.
+Fact: The **3.5 ★** in Beret has/costs 1.189%, 11.375%, 33.184%, 51.184%, 3.068%, +3.4%.
+Fact: The **4 ★** in Beret has/costs 1.032%, 9.586%, 25.285%, 58.953%, 5.144%, +3.6%.
+Fact: The **4.5 ★** in Beret has/costs 0.911%, 8.291%, 20.693%, 48.646%, 21.459%, +3.8%.
+Fact: The **5 ★** in Beret has/costs 0.816%, 7.309%, 17.594%, 35.788%, 38.493%, +4%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: The Potential in Beret has/costs Stat ranges, Average.
+Fact: The +10,000-+11,000 in Beret has/costs +12,000-+13,000, +14,000-+15,000, +16,000-+17,000, +18,000-+19,000, +20,000.
+Fact: The **0 ★** in Beret has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12,480.855.
+Fact: The **0.5 ★** in Beret has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +12,990.951.
+Fact: The **1 ★** in Beret has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13,494.251.
+Fact: The **1.5 ★** in Beret has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +13,996.48.
+Fact: The **2 ★** in Beret has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14,498.315.
+Fact: The **2.5 ★** in Beret has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15,000.
+Fact: The **3 ★** in Beret has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15,501.685.
+Fact: The **3.5 ★** in Beret has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16,003.52.
+Fact: The **4 ★** in Beret has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16,505.749.
+Fact: The **4.5 ★** in Beret has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17,009.049.
+Fact: The **5 ★** in Beret has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17,519.145.
+* Bee Stats
+* Hive Bonuses
+* +Convert Amount
+* +Convert Amount%
+Fact: The Potential in Beret has/costs Stat ranges, Average.
+Fact: The +1 in Beret has/costs +2.
+Fact: The **0 ★** in Beret has/costs 84.657%, 15.343%, +1.153.
+Fact: The **0.5 ★** in Beret has/costs 84.02%, 15.98%, +1.16.
+Fact: The **1 ★** in Beret has/costs 82.703%, 17.297%, +1.173.
+Fact: The **1.5 ★** in Beret has/costs 80.617%, 19.383%, +1.194.
+Fact: The **2 ★** in Beret has/costs 77.336%, 22.664%, +1.227.
+Fact: The **2.5 ★** in Beret has/costs 71.745%, 28.255%, +1.283.
+Fact: The **3 ★** in Beret has/costs 59.588%, 40.412%, +1.404.
+Fact: The **3.5 ★** in Beret has/costs 33.533%, 66.467%, +1.665.
+Fact: The **4 ★** in Beret has/costs 24.137%, 75.863%, +1.759.
+Fact: The **4.5 ★** in Beret has/costs 18.831%, 81.169%, +1.812.
+Fact: The **5 ★** in Beret has/costs 15.343%, 84.657%, +1.847.
+Fact: The Potential in Beret has/costs Stat ranges, Average.
+Fact: The +1% in Beret has/costs +2%.
+Fact: The **0 ★** in Beret has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Beret has/costs 84.462%, 15.538%, +1.2%.
+Fact: The **1 ★** in Beret has/costs 83.843%, 16.157%, +1.2%.
+Fact: The **1.5 ★** in Beret has/costs 82.689%, 17.311%, +1.2%.
+Fact: The **2 ★** in Beret has/costs 80.752%, 19.248%, +1.2%.
+Fact: The **2.5 ★** in Beret has/costs 77.465%, 22.535%, +1.2%.
+Fact: The **3 ★** in Beret has/costs 71.278%, 28.722%, +1.3%.
+Fact: The **3.5 ★** in Beret has/costs 53.932%, 46.068%, +1.5%.
+Fact: The **4 ★** in Beret has/costs 28.722%, 71.278%, +1.7%.
+Fact: The **4.5 ★** in Beret has/costs 20.226%, 79.774%, +1.8%.
+Fact: The **5 ★** in Beret has/costs 15.343%, 84.657%, +1.8%.
+Fact: **5 ★** statistic: * +Capacity.
+Fact: The Potential in Beret has/costs Stat ranges, Average.
+Fact: The +2,000 in Beret has/costs +2,500, +3,000.
+Fact: The **0 ★** in Beret has/costs 59.657%, 36.919%, 3.424%, +2,218.832.
+Fact: The **0.5 ★** in Beret has/costs 57.525%, 38.928%, 3.547%, +2,230.111.
+Fact: The **1 ★** in Beret has/costs 52.863%, 43.339%, 3.798%, +2,254.673.
+Fact: The **1.5 ★** in Beret has/costs 44.515%, 51.304%, 4.181%, +2,298.328.
+Fact: The **2 ★** in Beret has/costs 23.676%, 71.576%, 4.748%, +2,405.363.
+Fact: The **2.5 ★** in Beret has/costs 12.284%, 82.1%, 5.616%, +2,466.658.
+Fact: The **3 ★** in Beret has/costs 8.421%, 84.532%, 7.047%, +2,493.134.
+Fact: The **3.5 ★** in Beret has/costs 6.316%, 83.881%, 9.803%, +2,517.435.
+Fact: The **4 ★** in Beret has/costs 4.989%, 77.284%, 17.726%, +2,563.686.
+Fact: The **4.5 ★** in Beret has/costs 4.081%, 49.044%, 46.875%, +2,713.969.
+Fact: The **5 ★** in Beret has/costs 3.424%, 36.919%, 59.657%, +2,781.168.
+Ways to obtain[]
+* Small chance of dropping from Blue Clay Planter and The Planter Of Plenty.
+* Can be purchased from Dapper Bear's Shop.
+* Completing Gifted Bucko Bee's 2025 Beesmas quest.
+* Giving Dapper Bear a Present during Beesmas 2025.
+Gallery[]
+A Beret in Dapper Bear's Shop not able to be crafted.
+A Beret with no Waxes used on it.
+Fact: The Sub-Inventories in Beret has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Beret has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Beret has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Beret has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Beret has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Beret has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Beret has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Beret has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Beret has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Beret has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Beret has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Beret has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Beret has/costs **7-Pronged Cog**.
+Fact: The Other in Beret has/costs **Marshmallow Bee**.
+Fact: The Currencies in Beret has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Beret has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Beret has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Beret has/costs **Parachute •  Glider**.
+Fact: The Bags in Beret has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Beret has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Beret has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Beret has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Beret has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Beret has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Beret has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  **Beret** •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Beret has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Beret has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Beret has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

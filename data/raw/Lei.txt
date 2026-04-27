@@ -1,0 +1,1112 @@
+Context: Bee Swarm Simulator - Lei
+
+"Threaded petals to drape around your décolletage."
+Fact: Lei statistic: +Gather Amount.
+Fact: Lei statistic: +Gather Amount%.
+Fact: Lei statistic: +Gather Pollination Chance%.
+Fact: Lei statistic: +Ability Rate%.
+Fact: Lei statistic: +Ability: Boost (no White Boost).
+Fact: Lei statistic: +Sunflower Field Pollen%.
+Fact: Lei statistic: +Blue Flower Field Pollen%.
+Fact: Lei statistic: +Rose Field Pollen%.
+Fact: Lei statistic: +Coconut Field Pollen%.
+A Lei is a level 14 Beequip. It has an equip limit of one. There is no color requirement. It can only be equipped to Basic, Looker, Stubborn, Hasty, and Exhausted Bees.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip does not use the old RNG functions.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades, Range.
+Fact: The Chance in Lei has/costs Value, Weight, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Fact: The Bias scales linearly in Lei has/costs **0.33**, A random value between **+1** -**+2**.
+Intervals of +1
+Fact: The Bias: {3, 1} in Lei has/costs **20**, **+10 - +60**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Lei has/costs **0.33**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Lei has/costs **20**, **+10% - +60%**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Lei has/costs **0.33**, **+1%**, **20**, **+20% - +50%**.
+Fact: The +Ability Rate% in Lei has/costs An exact value between **10%** -**50%**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs **+1%**, \-, \-, \-, **0% - +1%**.
+Fact: Linear scaling by a factor of 1 statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, An exact value between **0.001** -**0.01**.
+Linear scaling by a factor of 1
+Fact: The Scaling power: 0.5 in Lei has/costs **-**, **1**, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs An exact value between **10%** -**25%**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs A random value between **+3%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Lei has/costs An exact value between **0.02** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs **+2%**.
+A random value between (+1% - +2%)
+Intervals of +2%
+Fact: The Bias scales linearly in Lei has/costs **10**, **0% - +25%**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs An exact value between **10%** -**25%**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs A random value between **+3%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Lei has/costs An exact value between **0.02** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs **+2%**.
+A random value between (+1% - +2%)
+Intervals of +2%
+Fact: The Bias scales linearly in Lei has/costs **10**, **0% - +25%**.
+Fact: The +Rose Field Pollen% in Lei has/costs An exact value between **10%** -**25%**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs A random value between **+3%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Lei has/costs An exact value between **0.02** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs **+2%**.
+A random value between (+1% - +2%)
+Intervals of +2%
+Fact: The Bias scales linearly in Lei has/costs **10**, **0% - +25%**.
+Fact: The +Coconut Field Pollen% in Lei has/costs An exact value between **5%** -**10%**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs A random value between **+3%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Lei has/costs An exact value between **0.02** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Lei has/costs **+2%**.
+A random value between (+1% - +2%)
+Intervals of +2%
+Fact: The Bias scales linearly in Lei has/costs **10**, **0% - +25%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Lei has/costs **30.8411%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Lei has/costs **30.8411%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +22.48% in Lei has/costs **30.8411%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8692%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8692%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8692%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8692%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +10
+Fact: The Average value: +12.4809 in Lei has/costs **30.8123%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1
+Fact: The Average value: +1.1534 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Lei has/costs **30.8123%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +22.48% in Lei has/costs **30.8123%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **10%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.0934%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8674%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8674%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8674%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +3.44% in Lei has/costs **1.8674%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Lei has/costs **29.9456%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.01
+Fact: The Average value: +1.1554 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Lei has/costs **29.9456%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +21%
+Fact: The Average value: +22.99% in Lei has/costs **29.9456%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **14%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **11.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.5408%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **11.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.5408%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **11.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.5408%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **5.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.5408%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +11
+Fact: The Average value: +12.991 in Lei has/costs **29.8414%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.01
+Fact: The Average value: +1.1554 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Lei has/costs **29.8414%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.03%
+Fact: The Average value: +1.16% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +21%
+Fact: The Average value: +22.99% in Lei has/costs **29.8414%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **14%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.3478%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **11.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.532%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **11.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.532%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **11.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.532%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **5.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.52% in Lei has/costs **2.532%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Lei has/costs **29.1005%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.04
+Fact: The Average value: +1.1616 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Lei has/costs **29.1005%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +22%
+Fact: The Average value: +23.49% in Lei has/costs **29.1005%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **18%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **13%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1746%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **13%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1746%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **13%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1746%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **6%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1746%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +12
+Fact: The Average value: +13.4943 in Lei has/costs **28.9721%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.04
+Fact: The Average value: +1.1616 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Lei has/costs **28.9721%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.09%
+Fact: The Average value: +1.17% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +22%
+Fact: The Average value: +23.49% in Lei has/costs **28.9721%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **18%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.4412%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **13%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1606%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **13%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1606%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **13%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1606%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **6%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.4%
+Fact: The Average value: +3.66% in Lei has/costs **3.1606%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Lei has/costs **28.3019%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.09
+Fact: The Average value: +1.1731 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Lei has/costs **28.3019%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +23%
+Fact: The Average value: +24% in Lei has/costs **28.3019%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **22%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **14.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7736%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **14.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7736%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **14.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7736%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **6.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7736%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +13
+Fact: The Average value: +13.9965 in Lei has/costs **28.1587%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.09
+Fact: The Average value: +1.1731 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Lei has/costs **28.1587%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.16%
+Fact: The Average value: +1.19% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +23%
+Fact: The Average value: +24% in Lei has/costs **28.1587%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **22%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.506%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **14.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7545%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **14.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7545%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **14.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7545%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **6.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.6%
+Fact: The Average value: +3.89% in Lei has/costs **3.7545%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Lei has/costs **27.5459%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.16
+Fact: The Average value: +1.1925 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Lei has/costs **27.5459%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +24%
+Fact: The Average value: +24.5% in Lei has/costs **27.5459%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **26%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **16%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3406%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **16%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3406%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **16%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3406%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **7%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3406%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +14
+Fact: The Average value: +14.4983 in Lei has/costs **27.3929%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.16
+Fact: The Average value: +1.1925 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Lei has/costs **27.3929%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.23% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +24%
+Fact: The Average value: +24.5% in Lei has/costs **27.3929%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **26%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.5555%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **16%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3165%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **16%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3165%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **16%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3165%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **7%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.96% in Lei has/costs **4.3165%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Lei has/costs **26.8293%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.25
+Fact: The Average value: +1.2253 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Lei has/costs **26.8293%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.35%
+Fact: The Average value: +1.28% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +25%
+Fact: The Average value: +25% in Lei has/costs **26.8293%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **30%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **17.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.878%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **17.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.878%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **17.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.878%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **7.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.878%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +15
+Fact: The Average value: +15 in Lei has/costs **26.6696%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.25
+Fact: The Average value: +1.2253 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Lei has/costs **26.6696%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.35%
+Fact: The Average value: +1.28% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +25%
+Fact: The Average value: +25% in Lei has/costs **26.6696%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **30%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.5951%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **17.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.849%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **17.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.849%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **17.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.849%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **7.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4%
+Fact: The Average value: +4% in Lei has/costs **4.849%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Lei has/costs **26.149%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.36
+Fact: The Average value: +1.2872 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Lei has/costs **26.149%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.46%
+Fact: The Average value: +1.4% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +26%
+Fact: The Average value: +25.5% in Lei has/costs **26.149%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **34%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **19%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3883%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **19%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3883%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **19%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3883%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **8%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3883%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +16
+Fact: The Average value: +15.5017 in Lei has/costs **25.9848%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.36
+Fact: The Average value: +1.2872 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Lei has/costs **25.9848%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.46%
+Fact: The Average value: +1.4% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +26%
+Fact: The Average value: +25.5% in Lei has/costs **25.9848%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **34%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.6277%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **19%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3545%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **19%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3545%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **19%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3545%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **8%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.2%
+Fact: The Average value: +4.04% in Lei has/costs **5.3545%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Lei has/costs **25.5023%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.49
+Fact: The Average value: +1.4607 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Lei has/costs **25.5023%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.59%
+Fact: The Average value: +1.66% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +27%
+Fact: The Average value: +26% in Lei has/costs **25.5023%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **38%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **20.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8733%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **20.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8733%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **20.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8733%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **8.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8733%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +17
+Fact: The Average value: +16.0035 in Lei has/costs **25.3353%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.49
+Fact: The Average value: +1.4607 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Lei has/costs **25.3353%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.59%
+Fact: The Average value: +1.66% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +27%
+Fact: The Average value: +26% in Lei has/costs **25.3353%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **38%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.6549%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **20.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8348%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **20.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8348%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **20.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8348%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **8.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +4.11% in Lei has/costs **5.8348%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Lei has/costs **24.8869%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.64
+Fact: The Average value: +1.7128 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Lei has/costs **24.8869%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.72%
+Fact: The Average value: +1.76% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +28%
+Fact: The Average value: +26.51% in Lei has/costs **24.8869%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **42%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **22%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.3348%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **22%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.3348%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **22%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.3348%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **9%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.3348%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +18
+Fact: The Average value: +16.5057 in Lei has/costs **24.7182%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.64
+Fact: The Average value: +1.7128 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Lei has/costs **24.7182%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.72%
+Fact: The Average value: +1.76% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +28%
+Fact: The Average value: +26.51% in Lei has/costs **24.7182%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **42%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.6779%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **22%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.2919%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **22%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.2919%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **22%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.2919%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **9%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.6%
+Fact: The Average value: +4.34% in Lei has/costs **6.2919%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Lei has/costs **24.3004%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.81
+Fact: The Average value: +1.7977 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Lei has/costs **24.3004%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.85%
+Fact: The Average value: +1.81% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +29%
+Fact: The Average value: +27.01% in Lei has/costs **24.3004%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **46%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **23.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7747%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **23.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7747%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **23.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7747%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **9.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7747%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +19
+Fact: The Average value: +17.009 in Lei has/costs **24.131%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +1.81
+Fact: The Average value: +1.7977 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Lei has/costs **24.131%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.85%
+Fact: The Average value: +1.81% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +29%
+Fact: The Average value: +27.01% in Lei has/costs **24.131%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **46%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.6975%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **23.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7274%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **23.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7274%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **23.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7274%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **9.5%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.8%
+Fact: The Average value: +4.48% in Lei has/costs **6.7274%**, **+2%**, **10**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Lei has/costs **23.741%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Lei has/costs **23.741%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +30%
+Fact: The Average value: +27.52% in Lei has/costs **23.741%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **50%**, **+1%**, \-, \-, \-.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **25%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1942%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **25%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1942%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **25%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1942%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1942%**, **+2%**, **10**.
+All results are rounded to at most 4 decimal digits.
+Fact: The Caustic Req. in Lei has/costs Base, Upgrades.
+Fact: The Chance in Lei has/costs Value, Chance, Value, Limit.
+Fact: The +Gather Amount in Lei has/costs **100%**, A random value between **+10** -**+20**.
+Intervals of +1
+Biased to values near +20
+Fact: The Average value: +17.5191 in Lei has/costs **23.5714%**, A random value between **+1** -**+2**.
+Intervals of +1
+Biased to values near +2
+Fact: The Average value: +1.8466 in Lei has/costs **20**.
+Fact: The +Gather Amount% in Lei has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Lei has/costs **23.5714%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Lei has/costs **20**.
+Fact: The +Gather Pollination Chance% in Lei has/costs **100%**, A random value between **+20%** -**+30%**.
+Intervals of +1%
+Biased to values near +30%
+Fact: The Average value: +27.52% in Lei has/costs **23.5714%**, **+1%**, **20**.
+Fact: The +Ability Rate% in Lei has/costs **50%**, **+1%**, \-, \-, \-.
+Fact: +Ability Rate% statistic: +Ability: Boost (no White Boost).
+Fact: The Caustic Points Only in Lei has/costs \-, \-, **0.7143%**, **-**, **1**.
+Fact: The +Sunflower Field Pollen% in Lei has/costs **25%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1429%**, **+2%**, **10**.
+Fact: The +Blue Flower Field Pollen% in Lei has/costs **25%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1429%**, **+2%**, **10**.
+Fact: The +Rose Field Pollen% in Lei has/costs **25%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1429%**, **+2%**, **10**.
+Fact: The +Coconut Field Pollen% in Lei has/costs **10%**, A random value between **+3%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.56% in Lei has/costs **7.1429%**, **+2%**, **10**.
+Probabilities[]
+The tables below give the probability of a stat of Lei falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* Hive Bonuses
+* +Gather Amount
+* +Gather Amount%
+* +Gather Pollination Chance%
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +10-+11 in Lei has/costs +12-+13, +14-+15, +16-+17, +18-+19, +20.
+Fact: The **0 ★** in Lei has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.481.
+Fact: The **0.5 ★** in Lei has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +12.991.
+Fact: The **1 ★** in Lei has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.494.
+Fact: The **1.5 ★** in Lei has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +13.996.
+Fact: The **2 ★** in Lei has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.498.
+Fact: The **2.5 ★** in Lei has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15.
+Fact: The **3 ★** in Lei has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.502.
+Fact: The **3.5 ★** in Lei has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16.0035.
+Fact: The **4 ★** in Lei has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.506.
+Fact: The **4.5 ★** in Lei has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17.009.
+Fact: The **5 ★** in Lei has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.519.
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +10%-+11% in Lei has/costs +12%-+13%, +14%-+15%, +16%-+17%, +18%-+19%, +20%.
+Fact: The **0 ★** in Lei has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.5%.
+Fact: The **0.5 ★** in Lei has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +13%.
+Fact: The **1 ★** in Lei has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.5%.
+Fact: The **1.5 ★** in Lei has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +14%.
+Fact: The **2 ★** in Lei has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.5%.
+Fact: The **2.5 ★** in Lei has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15%.
+Fact: The **3 ★** in Lei has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.5%.
+Fact: The **3.5 ★** in Lei has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16%.
+Fact: The **4 ★** in Lei has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.5%.
+Fact: The **4.5 ★** in Lei has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17%.
+Fact: The **5 ★** in Lei has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.5%.
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +20%-+21% in Lei has/costs +22%-+23%, +24%-+25%, +26%-+27%, +28%-+29%, +30%.
+Fact: The **0 ★** in Lei has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +22.5%.
+Fact: The **0.5 ★** in Lei has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +23%.
+Fact: The **1 ★** in Lei has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +23.5%.
+Fact: The **1.5 ★** in Lei has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +24%.
+Fact: The **2 ★** in Lei has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +24.5%.
+Fact: The **2.5 ★** in Lei has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +25%.
+Fact: The **3 ★** in Lei has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +25.5%.
+Fact: The **3.5 ★** in Lei has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +26%.
+Fact: The **4 ★** in Lei has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +26.5%.
+Fact: The **4.5 ★** in Lei has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +27%.
+Fact: The **5 ★** in Lei has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +27.5%.
+Fact: **5 ★** statistic: * +Sunflower Field Pollen%.
+Fact: **5 ★** statistic: * +Blue Flower Field Pollen%.
+Fact: **5 ★** statistic: * +Rose Field Pollen%.
+Fact: **5 ★** requirement: * +Coconut Field Pollen%.
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +3% in Lei has/costs +4%, +5%.
+Fact: The **0 ★** in Lei has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +3% in Lei has/costs +4%, +5%.
+Fact: The **0 ★** in Lei has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +3% in Lei has/costs +4%, +5%.
+Fact: The **0 ★** in Lei has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +3% in Lei has/costs +4%, +5%.
+Fact: The **0 ★** in Lei has/costs 59.657%, 36.919%, 3.424%, +3.4%.
+Fact: The **0.5 ★** in Lei has/costs 51.876%, 44.276%, 3.848%, +3.5%.
+Fact: The **1 ★** in Lei has/costs 38.863%, 56.745%, 4.392%, +3.7%.
+Fact: The **1.5 ★** in Lei has/costs 16.041%, 78.841%, 5.118%, +3.9%.
+Fact: The **2 ★** in Lei has/costs 10.288%, 83.577%, 6.135%, +4%.
+Fact: The **2.5 ★** in Lei has/costs 7.671%, 84.657%, 7.671%, +4%.
+Fact: The **3 ★** in Lei has/costs 6.135%, 83.577%, 10.288%, +4%.
+Fact: The **3.5 ★** in Lei has/costs 5.118%, 78.841%, 16.041%, +4.1%.
+Fact: The **4 ★** in Lei has/costs 4.392%, 56.745%, 38.863%, +4.3%.
+Fact: The **4.5 ★** in Lei has/costs 3.848%, 44.276%, 51.876%, +4.5%.
+Fact: The **5 ★** in Lei has/costs 3.424%, 36.919%, 59.657%, +4.6%.
+* Bee Stats
+* +Gather Amount
+* +Gather Amount%
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +1 in Lei has/costs +2.
+Fact: The **0 ★** in Lei has/costs 84.657%, 15.343%, +1.153.
+Fact: The **0.5 ★** in Lei has/costs 84.462%, 15.538%, +1.155.
+Fact: The **1 ★** in Lei has/costs 83.843%, 16.157%, +1.162.
+Fact: The **1.5 ★** in Lei has/costs 82.689%, 17.311%, +1.173.
+Fact: The **2 ★** in Lei has/costs 80.752%, 19.248%, +1.192.
+Fact: The **2.5 ★** in Lei has/costs 77.465%, 22.535%, +1.225.
+Fact: The **3 ★** in Lei has/costs 71.278%, 28.722%, +1.287.
+Fact: The **3.5 ★** in Lei has/costs 53.932%, 46.068%, +1.461.
+Fact: The **4 ★** in Lei has/costs 28.722%, 71.278%, +1.713.
+Fact: The **4.5 ★** in Lei has/costs 20.226%, 79.774%, +1.798.
+Fact: The **5 ★** in Lei has/costs 15.343%, 84.657%, +1.847.
+Fact: The Potential in Lei has/costs Stat ranges, Average.
+Fact: The +1% in Lei has/costs +2%.
+Fact: The **0 ★** in Lei has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Lei has/costs 84.02%, 15.98%, +1.2%.
+Fact: The **1 ★** in Lei has/costs 82.703%, 17.297%, +1.2%.
+Fact: The **1.5 ★** in Lei has/costs 80.617%, 19.383%, +1.2%.
+Fact: The **2 ★** in Lei has/costs 77.336%, 22.664%, +1.2%.
+Fact: The **2.5 ★** in Lei has/costs 71.745%, 28.255%, +1.3%.
+Fact: The **3 ★** in Lei has/costs 59.588%, 40.412%, +1.4%.
+Fact: The **3.5 ★** in Lei has/costs 33.533%, 66.467%, +1.7%.
+Fact: The **4 ★** in Lei has/costs 24.137%, 75.863%, +1.8%.
+Fact: The **4.5 ★** in Lei has/costs 18.831%, 81.169%, +1.8%.
+Fact: The **5 ★** in Lei has/costs 15.343%, 84.657%, +1.8%.
+Ways to Obtain[]
+* As a very rare drop from the Petal Planter.
+Outdated Ways[]
+* From the Tropical Gift Box.
+* By purchasing the Island Bundle from Bee Bear's Catalog.
+Gallery[]
+A Lei in the Beequip Storage.
+A Lei next to a Loaded Dice from the Tropical Gift Box.
+Fact: The Sub-Inventories in Lei has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Lei has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Lei has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Lei has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Lei has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Lei has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Lei has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Lei has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Lei has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Lei has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Lei has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Lei has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Lei has/costs **7-Pronged Cog**.
+Fact: The Other in Lei has/costs **Marshmallow Bee**.
+Fact: The Currencies in Lei has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Lei has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Lei has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Lei has/costs **Parachute •  Glider**.
+Fact: The Bags in Lei has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Lei has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Lei has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Lei has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Lei has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Lei has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Lei has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  **Lei** •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Lei has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Lei has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Lei has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

@@ -1,0 +1,58 @@
+Context: Bee Swarm Simulator - Scythe
+
+Fact: The **Price** in Scythe has/costs 3,500,000 Honey.
+Fact: The **Shop** in Scythe has/costs Red HQ.
+Fact: **Shop** statistic: Pollen Collection.
+Fact: The **Range** in Scythe has/costs 7 Flowers.
+Fact: The **Collecting Pattern** in Scythe has/costs Line.
+Fact: The **Collecting Time** in Scythe has/costs 0.47.
+Fact: The **Base Collection** in Scythe has/costs 7.
+Fact: The Flowers in Scythe has/costs Single, Double, Triple, Large, Star.
+Fact: The White in Scythe has/costs 7, 14, 21, 28, 35.
+Fact: The Red in Scythe has/costs 14, 28, 42, 56, 70.
+Fact: The Blue in Scythe has/costs 7, 14, 21, 28, 35.
+Fact: Blue statistic: _Special Multiplier(s): x2 Red Pollen Multiplier_.
+_Not to be confused with theDark Scythe._
+The Scythe is a tool that can be purchased in the Red HQ.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 3,500,000 Honey.
+The Scythe collects 7 pollen from 7 patches in 0.47 seconds and collects x2 pollen from red flowers. Every 20th swing spawns a flame. Its average base pollen collection rate is 139.01 pollen per second: 208.51 from red flowers and 104.26 from white and blue flowers. It emits fire particles at the blade.
+Gallery[]
+The Scythe's associated sticker.
+Trivia[]
+* This is one of the three items in the game that can cut the vines in front of the parkour leading to the Commando Chick's Hideout, the other two being the Scissors and the Clippers.
+* There is a model of the Scythe on top of the Red HQ. The code "Roof" is next to it.
+* The surface of the Scythe is reflective, which is why it becomes dark during nighttime.
+* Its blue counterpart is the Bubble Wand.
+* This is the fastest tool in the game (in terms of how long the cooldown of each collection lasts).
+* Similarly to the Bubble Wand, it is the second cheapest item in Red HQ in terms of honey, behind the Red Guard.
+* This is the only tool that has the ability to damage mobs by the flame it spawns.
+Fact: The Sub-Inventories in Scythe has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Scythe has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Scythe has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Scythe has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Scythe has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Scythe has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Scythe has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Scythe has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Scythe has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Scythe has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Scythe has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Scythe has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Scythe has/costs **7-Pronged Cog**.
+Fact: The Other in Scythe has/costs **Marshmallow Bee**.
+Fact: The Currencies in Scythe has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Scythe has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  **Scythe** •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Scythe has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Scythe has/costs **Parachute •  Glider**.
+Fact: The Bags in Scythe has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Scythe has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Scythe has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Scythe has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Scythe has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Scythe has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Scythe has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Scythe has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Scythe has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Scythe has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

@@ -1,0 +1,153 @@
+Context: Bee Swarm Simulator - Gumdrops
+
+_"Use while standing in a field to cover flowers in goo. Goo grants bonus honey."_
+Gumdrops are an inventory item that was introduced in the Gummy Invasion Event. When used, gumdrop blobs fall from the air and splatter goo if they hit a flower. Goo grants an additional 40% bonus honey, with bigger goo puddles granting even more bonus honey. Gumdrops can also be used to craft other gear, such as the Gummyballer.
+Gumdrops falling in a field.
+Placing gumdrops in a hotbar slot triggers an ON/OFF switch to appear beneath it. Toggling the switch allows the player to use gumdrops automatically every two seconds. The switch can be turned off by manually using gumdrops in any way.
+Ways to Obtain[]
+* Crafting via Blender for:
+* 3 Blueberries
+* 3 Strawberries
+* 3 Pineapples
+* Spending Tickets at the Gumdrop Shop grants 3 Gumdrops for each ticket.
+* As a reward for completing certain Black Bear and Brown Bear quests.
+* Receiving Science Bear's "Chemical Analysis" quest gives the player 10 Gumdrops.
+* As a Cub Buddy gift in increments of 1 or 5.
+* As a possible reward for participating in the Stick Bug Challenge. The number of Gumdrops rewarded increases with score.
+* Collecting tokens from the Supreme Star Amulet passive, "Gummy Star".
+* There is a token worth 5 Gumdrops in a block near the Ant Gate, it is most likely the gumdrop token left behind from the Gummy Invasion event in 2018.
+* Redeeming certain valid codes:
+Fact: * 3 Pineapples requirement: * BeesBuzz123 (Gives 10 **Gumdrops** \+ other stuff)..
+Fact: * 3 Pineapples requirement: * 15MMembers (Gives 15 **Gumdrops** \+ other stuff)..
+* GumdropsForScience (Gives 15 Gumdrops).
+* As a Stack Reward for adding certain stickers to the Sticker Stack:
+* The Silly Tongue rewards 25 Gumdrops.
+* The Yellow Walking Wiggly Person rewards 25 Gumdrops.
+* The Gummyballer rewards 25 Gumdrops.
+* Opening the Confectionery Gift Box rewards 500 Gumdrops and other items.
+Drops[]
+* As a drop from any planter.
+* As a drop from Festive Gifts.
+* As a drop from Puffshrooms.
+* As a drop from catching mythic meteors.
+* As a drop from Stockings.
+* As a drop from certain mobs. (Anywhere from 0 to 2,500 gumdrops per mob, depending on Loot Luck and the type of mob.)
+* As a drop from leaves in the Stump Field.
+* As a drop from a Gummy Sprout or a Festive Sprout.
+* Using Dapper Bear's Samovar drops 25 Gumdrops after every 5th use except the 25th.
+Outdated Ways[]
+* Using the Honey Dispenser during the Gummy Invasion (gave 1 Gumdrops per use).
+* Before Gummy Bear left, completing his quests each gave 1 Gumdrops , except for the last quest, for which the reward was a Gummy Bee Egg.
+* The gumdrop token behind where Gummy Bear used to be during the Gummy Invasion granted 5 Gumdrops.
+* When the Egg Hunt 2019 Event was active, the player could find a token behind the Egg Hunt Info. The token is currently covered by a green platform; however, it is close enough to be reached along its wall.
+* Under the Beesmas Tree, there was a gumdrop token worth 5 Gumdrops.
+* There was a gumdrop token worth 15 Gumdrops behind the Golden Present.
+* Opening the Gooey Present rewarded 100 Gumdrops and other items.
+* As a drop from certain Gift Boxes.
+* Opening the Kitsch Gift Box from Beesmas 2021 rewarded 10 Gumdrops and other items.
+* Opening the Gummy Gift Box from Beesmas 2021 rewarded 50 Gumdrops and other items.
+* Opening the Gummy Gift Box from Beesmas 2022 rewarded 25 Gumdrops and other items.
+* Opening the Gooey Gift Box from Beesmas 2022 rewarded 100 Gumdrops and other items.
+* Opening the Sweet-n-sour Gift Box "Gift Boxes") from Summer 2024 rewarded 400 Gumdrops and other items.
+* Opening the Honeydew Gift Box from Winter 2024 rewarded 500 Gumdrops and other items.
+* During a Gummy Siege, the fields targeted by Gummy Bear will spawn Gumdrops.
+* There used to be a Gumdrops token behind the Gummy Cannon.
+* Redeeming certain expired codes:
+Fact: Outdated Ways[] requirement: * Arizona (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Tabby (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * JellyHill (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * MischiefMaker (Gave 10 **Gumdrops** \+ other stuff)..
+* CornSyrup (Gave 10 Gumdrops).
+Fact: Outdated Ways[] requirement: * Unity (Gave 5 **Gumdrops** \+ other stuff)..
+* Starch (Gave 30 Gumdrops).
+Fact: Outdated Ways[] requirement: * 100mVisits (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Xanthan (Gave 30 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Gel (Gave 15 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * LateNightGumdrops (Gave 20 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Afternoon (Gave 20 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * SugarRush (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * GummyBoost (Gave 30 **Gumdrops** \+ other stuff)..
+* Pectin (Gave 10 Gumdrops).
+* Tapioca (Gave 10 Gumdrops).
+Fact: Outdated Ways[] requirement: * MillionMembers (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * 1mFavorites (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Gumdrops (Gave 20 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * MayRuTreats (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * GummySausage (Gave 15 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * WillGoold (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Crafty (Gave 25 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * BeeDay2019 (Gave 1 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Leftovers (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * ClubBasket (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * WikiHonor (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * BeesmasBegins (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Discord100k (Gave 3 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Mocito100T (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * 1MLikes (Gave 1 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * 10mMembers (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * 500mil (Gave 5 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * BoxWhoops (Gave 10 **Gumdrops** \+ other stuff)..
+Fact: Outdated Ways[] requirement: * Boo Swarm (Gave 10 **Gumdrops** \+ other stuff)..
+Crafting Uses[]
+Total required for all single-purchase items: 4,525 Gumdrops
+Fact: The **Gumdrops** in Gumdrops has/costs Other ingredients, Result.
+Fact: The 5 in Gumdrops has/costs 1 Royal Jelly.
+Fact: The 5 Pineapples in Gumdrops has/costs Moon Charm.
+Fact: The 25 in Gumdrops has/costs 2,500,000 Honey.
+Fact: 25 requirement: 100 Pineapples.
+Fact: The 5 Moon Charms in Gumdrops has/costs Propeller Hat.
+Fact: The 50 in Gumdrops has/costs 10 Royal Jellies, Glue.
+Fact: The 2000 in Gumdrops has/costs 1,500 Glues.
+Fact: 2000 requirement: 50 Caustic Waxes.
+Fact: 2000 requirement: 50 Super Smoothies.
+Fact: 2000 requirement: 5 Turpentines.
+Fact: The 5 Satisfying Vials in Gumdrops has/costs Gummyballer.
+Fact: The 2500 in Gumdrops has/costs \-, Gummy Bee.
+Gallery[]
+The gumdrops token behind the Gummy Cannon.
+The unlimited gumdrops buff icon.
+A player using gumdrops.
+Gumdrops falling from the sky.
+Goo on a field.
+The Gumdrop Shop.
+The old cooldown notification in the chat box.
+Onett mentioning the flavors of the gumdrops.
+The "Gumdropss" typo appearing in chat.
+Trivia[]
+* Gumdrops are the only item that changes the overlay on the leaves.
+* Gumdrops are the cheapest items in the game that cost tickets, costing only 1/3 tickets, and they are also the cheapest to speed up in the Blender, along with moon charms, requiring only 1 ticket for every 10 gumdrops.
+* If the player crafts glue in the Blender, it will say " - Amount of glues crafting * 50] _Gumdropss_ " instead of "_Gumdrops_ ". This also happens when donating gumdrops to the [Wind Shrine and getting Gummy Bee from the Gummy Bee Egg Claim.
+* Unlimited Gumdrops is a buff allows the player to use gumdrops without taking them away from the player's inventory for 3 minutes (only obtainable from codes and the Glue Dispenser). This does not increase the number of gumdrops the player has.
+* To enter Gummy Bear's Lair, the player will need to use a gumdrop on top of the Gummy Bee at the Gummy Bee Egg Claim near the Ant Gate after earning the Goo Hotshot badge.
+* Gumdrops are currently the only way to get Gummy Bee after the 2019-04-05 update.
+* After the 2019-09-28 update, the hotkey for gumdrops (G), along with the hotkey of Stingers and Micro-Converters, were removed.
+* Before the 2019-04-05 update, if the player attempted to use gumdrops before the cooldown was over, a message in the bottom right corner would say: [Must wait X seconds to use gumdrops again]. If the player doesn’t have any gumdrops, a message will appear saying: [You don't have any Gumdrops].
+Fact: The Sub-Inventories in Gumdrops has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Gumdrops has/costs **Sprinkler Builder •  **Gumdrops** •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Gumdrops has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Gumdrops has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Gumdrops has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Gumdrops has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Gumdrops has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Gumdrops has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Gumdrops has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Gumdrops has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Gumdrops has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Gumdrops has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Gumdrops has/costs **7-Pronged Cog**.
+Fact: The Other in Gumdrops has/costs **Marshmallow Bee**.
+Fact: The Currencies in Gumdrops has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Gumdrops has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Gumdrops has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Gumdrops has/costs **Parachute •  Glider**.
+Fact: The Bags in Gumdrops has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Gumdrops has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Gumdrops has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Gumdrops has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Gumdrops has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Gumdrops has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Gumdrops has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Gumdrops has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Gumdrops has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Gumdrops has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

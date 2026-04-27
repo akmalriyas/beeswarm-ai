@@ -1,0 +1,101 @@
+Context: Bee Swarm Simulator - Looker Bee
+
+Looker Bee
+Looker Bee
+_"This silent bee is always watching and gaining valuable insights."_
+Fact: The 20 in Looker Bee has/costs **Speed**.
+Fact: The 14 in Looker Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #32be4e #1b2a35 #32be4e
+Looker Bee is a Colorless Rare bee.
+Looker Bee's favorite treat is Sunflower Seeds.
+Looker Bee likes the Clover Field and the Mountain Top Field. It dislikes the Sunflower Field and the Pepper Patch.
+* Collects 13 pollen in 4 seconds.
+* Makes 160 honey in 4 seconds.
+* +80 convert amount, +3 gather amount, +5% Critical Chance.
+* 🌟 Gifted Hive Bonus: +25% Critical Power.
+Abilities[]
+* [Focus] Grants +3% Critical Chance for 20 seconds. Stacks up to 10 times. Critical Hits increase pollen and damage by 100%.
+Fact: Abilities[] statistic: Looker Bee has a base pollen collection of **13** in **4 seconds**. That's equivalent to 3.25  per second. (**26** in **4 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Looker Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Looker Bee has/costs with Melody.
+Fact: The Single in Looker Bee has/costs 13, 26, 39.
+Fact: The Double in Looker Bee has/costs 26, 52, 78.
+Fact: The Triple in Looker Bee has/costs 39, 78, 117.
+Fact: The Large in Looker Bee has/costs 52, 104, 156.
+Fact: The Star in Looker Bee has/costs 65, 130, 195.
+Looker Bee can make 160 in 4 seconds! That's equivalent to 40 per second. (160 in 2 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Looker Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Looker Bee has/costs 25%, 200.
+Fact: The 2 in Looker Bee has/costs 50%, 240.
+Fact: The 3 in Looker Bee has/costs 75%, 280.
+Fact: The 4 in Looker Bee has/costs 100%, 320.
+Fact: The 5 in Looker Bee has/costs 125%, 360.
+Fact: The 6 in Looker Bee has/costs 150%, 400.
+Fact: The 7 in Looker Bee has/costs 175%, 440.
+Fact: The 8 in Looker Bee has/costs 200%, 480.
+Fact: The _Science Enhancement_ in Looker Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Looker Bee has/costs 225%, 520.
+Fact: The 10 in Looker Bee has/costs 250%, 560.
+Fact: The 11 in Looker Bee has/costs 275%, 600.
+Fact: The 12 in Looker Bee has/costs 300%, 640.
+Fact: The 13 in Looker Bee has/costs 325%, 680.
+Fact: The 14 in Looker Bee has/costs 350%, 720.
+Fact: The 15 in Looker Bee has/costs 375%, 760.
+Fact: The 16 in Looker Bee has/costs 400%, 800.
+Fact: The _Science Enhancement_ in Looker Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Looker Bee has/costs 425%, 840.
+Fact: The 18 in Looker Bee has/costs 450%, 880.
+Fact: The 19 in Looker Bee has/costs 475%, 920.
+Fact: The 20 in Looker Bee has/costs 500%, 960.
+Fact: The 21 in Looker Bee has/costs 525%, 1000.
+Fact: The 22 in Looker Bee has/costs 550%, 1040.
+Fact: The 23 in Looker Bee has/costs 575%, 1080.
+Fact: The 24 in Looker Bee has/costs 600%, 1120.
+Fact: The _Science Enhancement_ in Looker Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Looker Bee has/costs 625%, 1160.
+Fact: The 26 in Looker Bee has/costs 650%, 1200.
+Fact: The 27 in Looker Bee has/costs 675%, 1240.
+Fact: The 28 in Looker Bee has/costs 700%, 1280.
+Fact: The 29 in Looker Bee has/costs 725%, 1320.
+Fact: The 30 in Looker Bee has/costs 750%, 1360.
+Fact: The 31 in Looker Bee has/costs 775%, 1400.
+Egg and Jelly Probability
+Fact: The Basic Egg in Looker Bee has/costs 10%, 1.11111%.
+Fact: The Silver Egg in Looker Bee has/costs 64.9%, 7.21111%.
+Fact: The Gold Egg in Looker Bee has/costs 0%, 0%.
+Fact: The Diamond Egg in Looker Bee has/costs 0%, 0%.
+Fact: The Mythic Egg in Looker Bee has/costs 0%, 0%.
+Fact: The Royal Jelly in Looker Bee has/costs 70%, 7.77778%.
+Gallery[]
+Looker Bee's old hive slot design.
+A Gifted Looker Bee hive slot.
+Looker Bee's icon.
+.png "Png \(4\).png \(2 KB\)")
+Looker Bee's face.
+The Wobbly Looker Bee sticker.
+Trivia[]
+* Looker Bee was the "oldest designed character",[1] not necessarily in the form of a bee. It had the signature eyes, was green, and had two little legs.[2]
+* Looker Bee was the first bee to have a royal jelly only turning a bee into it. The jelly was obtainable by using the code, 'ThoseEyes' (expired).
+* The Looker Guard, which can be bought in the Pro Shop, has a special design, name, and stats dedicated to Looker Bee.
+* Looker Bee used to have the same gifted hive bonus as Tabby Bee before the nerf on 2021-12-26 update
+* Looker Bee was one of the first bees that were added to the game in an update, along with Commander Bee, Music Bee, and Photon Bee.
+* Looker Bee and Stubborn Bee are the only Rare bees that were added after the game's launch.
+* Looker Bee's skin is the same as Commander Bee's skin.
+* Looker Bee is the only bee that dislikes Sunflower Field.
+* The reason Looker Bee likes the Mountain Top Field might be because high places have very good views from above. And the reason Looker Bee likes Clover Field could be based on the effort to look for a four-leafed clover in a field of clovers.
+* The reason Looker Bee dislikes the Sunflower Field may be because of the blinding sunlight from the sun that would be present in a field of sunflowers.
+Fact: The Common & Rare in Looker Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  **Looker Bee** •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Looker Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Looker Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Looker Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Looker Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.
+References[]
+1. ↑ [1] Discord message from Onett
+2. ↑ [2] Discord message from Onett

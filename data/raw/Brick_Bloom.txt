@@ -1,0 +1,50 @@
+Context: Bee Swarm Simulator - Brick Bloom
+
+Brick Bloom
+_For a similar mob that appears in fields outside of the Retro Swarm Challenge, seeBloom._
+A Brick Bloom.
+Brick Blooms are passive entities that can be spawned naturally in any of the four fields of the Retro Swarm Challenge. They are retro-styled flowers with a green stem with purple petals, and a yellow center. After a certain amount of pollen is collected in their radius, Brick Blooms burst into Brick tokens. Brick Blooms spawn on rounds, 1, 3, 7, 12, 18, and may continue spawning on higher rounds. The first Brick Bloom always spawns in the Mixed Brick Field. In higher waves, multiple Brick Blooms may be active at the same time.
+Levels[]
+There are multiple levels of Brick Blooms that can spawn. The later the round, the higher level a Brick Bloom will usually be when spawning. Similar to Puffshrooms, the higher level a Brick Bloom is, the larger it will appear. When a Brick Bloom is defeated, another one will spawn in a random field, one level higher.
+Fact: The Level in Brick Bloom has/costs Pollen Required.
+Fact: The 1 in Brick Bloom has/costs 1,000.
+Fact: The 2 in Brick Bloom has/costs 10,000.
+Fact: The 3 in Brick Bloom has/costs 50,000.
+Fact: The 4 in Brick Bloom has/costs 100,000.
+Fact: The 5 in Brick Bloom has/costs 250,000.
+Fact: The 6 in Brick Bloom has/costs 500,000.
+Fact: The 7 in Brick Bloom has/costs 1,000,000.
+Fact: The 8 in Brick Bloom has/costs 2,500,000.
+Fact: The 9 in Brick Bloom has/costs 5,000,000.
+Fact: The 10 in Brick Bloom has/costs 10,000,000.
+Fact: The 11 in Brick Bloom has/costs 25,000,000.
+Fact: The 12 in Brick Bloom has/costs 50,000,000.
+Fact: The 13 in Brick Bloom has/costs 100,000,000.
+Fact: The 14 in Brick Bloom has/costs 250,000,000.
+Fact: The 15 in Brick Bloom has/costs 500,000,000.
+Fact: The 16 in Brick Bloom has/costs 1,000,000,000.
+Fact: The 17 in Brick Bloom has/costs 2,500,000,000.
+The tokens that spawn from Brick Blooms are both local and global, so players always receive tokens from them regardless of whether they helped to destroy it or not. More bricks are rewarded when defeating higher level Brick Blooms.
+* Snowflakes (Beesmas only)
+Strategies[]
+* Having multiple players can help with collecting the required amount of pollen faster.
+* With a team, one player can be designated for the managing of Brick Blooms.
+* Picking bees with extra pollen multipliers such as gifted bees can help out a lot.
+* Paying attention to which field the Brick Bloom spawned on and acting on that can help out. A player who is managing Brick Blooms but has a predominantly red hive may have difficulty dealing with higher level Brick Blooms on the Blue Brick Field. Players can communicate how to handle different fields to manage Brick Blooms more efficiently.
+* Using ranged weapons can allow a player to fend off mobs while the player's bees collect pollen for a Brick Bloom, not getting distracted by mobs.
+* Using certain consumables for their buffs can help increase pollen collection.
+* When spawning, Brick Blooms follow a randomly chosen cycle of the 4 Retro fields (ex. Mixed -> White -> Red -> Blue -> Mixed). The cycle a Brick Bloom follows is independent of what cycles the other Brick Blooms follow.
+Trivia[]
+* Despite having a level system, there is no way to "miss" a Brick Bloom, unlike with most mobs.
+* This is due to the fact that a Brick Bloom is a passive mob, like Puffshrooms and Blooms.
+Fact: The Normal in Brick Bloom has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Brick Bloom has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Brick Bloom has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Brick Bloom has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Brick Bloom has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Brick Bloom has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Brick Bloom has/costs **Slime • Zombie • **Brick Bloom****.
+Fact: The Robo Bear Challenge in Brick Bloom has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Brick Bloom has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Brick Bloom has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Brick Bloom has/costs **Chick • Hostage Chick • Spotted Chick**.

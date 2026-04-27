@@ -1,0 +1,55 @@
+Context: Bee Swarm Simulator - Electro-Magnet
+
+Electro-Magnet
+Electro-Magnet
+Fact: The **Price** in Electro-Magnet has/costs 300,000 Honey.
+Fact: The **Shop** in Electro-Magnet has/costs Pro Shop.
+Fact: **Shop** statistic: Pollen Collection.
+Fact: The **Range** in Electro-Magnet has/costs 9 Flowers.
+Fact: The **Collecting Pattern** in Electro-Magnet has/costs Surround.
+Fact: The **Collecting Time** in Electro-Magnet has/costs 0.5.
+Fact: The **Base Collection** in Electro-Magnet has/costs 4.
+Fact: The Flowers in Electro-Magnet has/costs Single, Double, Triple, Large, Star.
+Fact: The White in Electro-Magnet has/costs 4, 8, 12, 16, 20.
+Fact: The Red in Electro-Magnet has/costs 4, 8, 12, 16, 20.
+Fact: The Blue in Electro-Magnet has/costs 4, 8, 12, 16, 20.
+_Special Multiplier(s): None_
+The Electro-Magnet is a tool added in the 2018-06-02 update. It can be purchased in the Pro Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 300,000 Honey.
+It collects 4 pollen from 9 surrounding flowers in 0.5 seconds, which comes to a base pollen collection rate of 72 pollen per second.
+Gallery[]
+The Electro-Magnet's associated sticker.
+Trivia[]
+* This tool is the upgraded version of the Magnet. Their appearances are similar and they are the only tools to collect pollen in a square pattern. However, the two have their differences. The Electro-Magnet is yellow and white in color, and it has electricity running on its tips, while the Magnet is red and gray, without electricity. It collects faster and also has four tips, whereas the Magnet only has two.
+* The Electro-Magnet, Clippers, Golden Rake, Spark Staff, Petal Wand, Dark Scythe, Tide Popper and the Gummyballer are the only tools added in an update.
+* The Electro-Magnet's associated sticker is missing its handle.
+Fact: The Sub-Inventories in Electro-Magnet has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Electro-Magnet has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Electro-Magnet has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Electro-Magnet has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Electro-Magnet has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Electro-Magnet has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Electro-Magnet has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Electro-Magnet has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Electro-Magnet has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Electro-Magnet has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Electro-Magnet has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Electro-Magnet has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Electro-Magnet has/costs **7-Pronged Cog**.
+Fact: The Other in Electro-Magnet has/costs **Marshmallow Bee**.
+Fact: The Currencies in Electro-Magnet has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Electro-Magnet has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  **Electro-Magnet** •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Electro-Magnet has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Electro-Magnet has/costs **Parachute •  Glider**.
+Fact: The Bags in Electro-Magnet has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Electro-Magnet has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Electro-Magnet has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Electro-Magnet has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Electro-Magnet has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Electro-Magnet has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Electro-Magnet has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Electro-Magnet has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Electro-Magnet has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Electro-Magnet has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

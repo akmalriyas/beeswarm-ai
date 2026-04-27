@@ -1,0 +1,173 @@
+Context: Bee Swarm Simulator - Red Extract
+
+Red Extract
+Red Extract
+Fact: Red Extract statistic: _"Grants x1.25 Red Pollen for 10 minutes."_.
+Fact: Red Extract statistic: A **Red Extract** is an inventory item that was added in the 2018-11-25 update. The purpose of it is to use it as a material to craft accessories, or for a 10-minute boost that grants x1.25 Red Pollen. The buff cannot stack and will only reset its timer if you used a **Red Extract** when there is another one active. Using a Purple Potion or Super Smoothie will override the buff..
+A red extract token.
+Ways to Obtain[]
+* Crafting it via Blender for:
+* 50 Strawberries
+* 10 Royal Jellies
+* Matching a pair of red extracts in Mega Memory Match (worth 1 red extract) or Extreme Memory Match (worth 3 red extracts).
+* As a reward from the Wind Shrine.
+* As a Stack Reward for adding certain Stickers to the Sticker Stack:
+* Flying Rad Bee Sticker rewards 1 red extract.
+* Round Rascal Bee Sticker rewards 1 red extract.
+* Flying Festive Bee Sticker rewards 1 red extract.
+* Little Scorpion Sticker rewards 1 red extract.
+* Red X Sticker rewards 1 red extract.
+* AFK Sticker rewards 1 red extract.
+* Small Flame Sticker rewards 1 red extract.
+* Shrugging Heart Sticker rewards 1 red extract.
+* Red Doodle Person Sticker rewards 1 red extract.
+* Scythe Sticker rewards 1 red extract.
+* Dark Scythe Sticker rewards 1 red extract.
+* As a reward from the Retro Swarm Challenge.
+Drops[]
+* As a drop from certain mobs
+* Ladybug (Rare)
+* Scorpion (Rare)
+* King Beetle
+* Rage Aphid
+* Farming in the Mushroom Field, Strawberry Field, Rose Field, or the Pepper Patch can rarely drop red extracts.
+* A rare drop from leaves in the Mushroom Field, Strawberry Field, or the Rose Field.
+* As a rare drop from sprouts (the odds increase depending on the rarity of the sprout and if the sprout is located in red fields).
+* As a drop from a Festive Gift (if Festive Bee is gifted) or Festive Mark.
+* As a rare gift from a cub buddy.
+* As a guaranteed drop from the certain planters:
+* Red Clay Planter
+* Heat-Treated Planter (Drops extra red extracts in red fields.)
+* Planting the Heat-Treated Planter in the Mushroom Field, then the Strawberry Field, then the Rose Field, then the Pepper Patch results in an additional 100 Red Extracts (unknown cooldown).
+* Additionally, it has a small chance to drop 100 Red Extracts upon harvesting in any field.
+* Planters harvested in red fields have a chance to drop red extracts.
+Quests[]
+* Completing any of Gifted Riley Bee's quests will always reward one Red Extract.
+* Black Bear gives Red Extracts on the following quests:
+* Get Red-y gives 1 Red Extract and other items.
+* Rocky Red Mountain gives 1 Red Extract and other items.
+* Capsaicin Collector gives 1 Red Extract and other items.
+* Black Bear's repeatable quests occasionally give Red Extracts.
+* Science Bear gives red extracts on the following quests:
+* Meticulously Crafted gives 1 Red Extract and other items.
+* Mushroom Measurement Monotony gives 3 Red Extracts and other items.
+Outdated Ways[]
+* As a drop from the Stockings.
+* Giving a present to Gifted Riley Bee rewards 1 red extract, the buff itself, and other items and boosts.
+* Purchasing the Booster Bundle in Bee Bear's Catalog for 33 Snowflake and 3 Gingerbread Bear gives 5 red extracts and other items.
+* Bee Bear gave red extracts on the following quests:
+* The Joy of Buying gave 1 Red Extract and other items.
+* The Gift of Gifts gave 3 Red Extracts and other items
+* Upgrading The Honeydays gave 3 Red Extracts and other items
+* From various Gift Boxes.
+* Opening the Kitsch Gift Box rewarded 3 Red Extracts and other items.
+* Opening the Mythic Gift Box rewarded 5 Red Extracts and other items.
+Fact: Outdated Ways[] requirement: * Purchasing the Precise Pack gave 50 **Red Extracts** \+ Other items..
+* Giving a present to Gifted Riley Bee gave five red extracts, activated the buff, and field boosts.
+* Completing Bubble Bee Man's "Bubble Bee Man") 'B.B.M. Mission' quest yielded one red extract.
+Fact: Outdated Ways[] requirement: * Purchasing the Extract Bundle in Bee Bear's Catalog granted 15 **Red Extracts** \+ Other items..
+* Purchasing the Cozy Bundle from Bee Bear's Catalog gave 25 red extracts along with other items.
+* Bee Bear gave red extracts on the following quests:
+* Festive Bee Workshop 2 gave 1 Red Extract and other items.
+* Opening certain Ornament Presents:
+* The Colorful Present rewarded 1 Red Extract and other items.
+* The Festive Present rewarded 4 Red Extracts and other items.
+* The Mythic Present rewarded 3 Red Extracts and other items.
+* Opening certain Gift Boxes:
+* Opening the Peppermint Gift Box gave 2 Red Extracts and other items.
+* Opening the Purple Gift Box gave 10 Red Extracts and other items.
+* Redeeming certain expired codes:
+* Using the code "2YearsAfterParty" (Activated the buff and other stuff).
+* Using the code "Valentine" (Activated the buff and other stuff).
+* Using the code "Crafty" (Gave 1 Red Extract and other stuff).
+* Using the code "Discord50k" (Activated the buff and other stuff).
+* Using the code "RedCatBee" (Gave 1 Red Extract and other stuff).
+* Using the code "ExoExtract" (Gave 1 Red Extract and other stuff).
+* Using the code "3YearParty" (Gave 1 Red Extract and other stuff).
+Crafting Uses[]
+Total required for all single-purchase items: 3,083 Red Extracts
+Fact: The **Red Extracts** in Red Extract has/costs Other items required, Crafted item.
+Fact: The 2 in Red Extract has/costs 12,500,000 Honey.
+Fact: The 2 Soft Waxes in Red Extract has/costs Red Port-O-Hive.
+Fact: The 3 in Red Extract has/costs 3 Blue Extracts.
+Fact: 3 requirement: 3 Glues.
+Fact: The 3 Neonberries in Red Extract has/costs Purple Potion.
+Fact: The 3 in Red Extract has/costs 15,000,000 Honey.
+Fact: 3 requirement: 5 Oils.
+Fact: The 3 Blue Extracts in Red Extract has/costs Beekeeper's Boots.
+Fact: The 3 in Red Extract has/costs 5,000,000 Honey.
+50 Strawberries
+5 Royal Jellies
+Fact: The 5 Stingers in Red Extract has/costs Elite Red Guard.
+Fact: The 10 in Red Extract has/costs 30,000,000 Honey.
+100 Strawberries
+Fact: 100 Strawberries requirement: 5 Glues.
+Fact: The 25 Stingers in Red Extract has/costs Riley Guard.
+Fact: The 15 in Red Extract has/costs 10,000,000 Honey.
+5 Magic Beans
+Fact: The 20 Soft Waxes in Red Extract has/costs Red Clay Planter.
+Fact: The 50 in Red Extract has/costs 100,000,000 Honey.
+500 Strawberries
+Fact: 500 Strawberries requirement: 25 Enzymes.
+Fact: The 15 Glues in Red Extract has/costs Fire Mask.
+Fact: The 100 in Red Extract has/costs 200,000,000 Honey.
+Fact: 100 requirement: 100 Stingers.
+Fact: 100 requirement: 50 Oils.
+Fact: The 25 Glitter in Red Extract has/costs Crimson Guard.
+Fact: The 150 in Red Extract has/costs 25B Honey.
+150 Tropical Drinks
+Fact: 150 Tropical Drinks requirement: 150 Coconuts.
+Fact: The 150 Blue Extracts in Red Extract has/costs Coconut Canister.
+Fact: The 250 in Red Extract has/costs 5B Honey.
+Fact: 250 requirement: 500 Stingers.
+Fact: 250 requirement: 150 Enzymes.
+Fact: 250 requirement: 100 Glues.
+Fact: The 1 Invigorating Vial in Red Extract has/costs Demon Mask.
+Fact: The 250 in Red Extract has/costs 100B Honey.
+Fact: 250 requirement: 500 Glues.
+Fact: 250 requirement: 250 Blue Extracts.
+Fact: 250 requirement: 250 Glitter.
+1 Satisfying Vial
+Fact: The 1 Motivating Vial in Red Extract has/costs Gummy Boots.
+Fact: The 750 in Red Extract has/costs 150 Gifted Riley Bee quests completed.
+Fact: 750 requirement: 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 150 Hard Waxes.
+Fact: 75 Magic Beans requirement: 25 Swirled Waxes.
+Fact: The 1 Turpentine in Red Extract has/costs Heat-Treated Planter.
+Fact: The 1,500 in Red Extract has/costs 250 Gifted Riley Bee quests completed.
+Fact: 1,500 requirement: 2.5T Honey.
+Fact: 1,500 requirement: 150 Stingers.
+Fact: 1,500 requirement: 100 Hard Waxes.
+Fact: 1,500 requirement: 50 Caustic Waxes.
+Fact: 1,500 requirement: 50 Super Smoothies.
+Fact: The 3 Invigorating Vials in Red Extract has/costs Dark Scythe.
+Fact: The Sub-Inventories in Red Extract has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Red Extract has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Red Extract has/costs ****Red Extract** •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Red Extract has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Red Extract has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Red Extract has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Red Extract has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Red Extract has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Red Extract has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Red Extract has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Red Extract has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Red Extract has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Red Extract has/costs **7-Pronged Cog**.
+Fact: The Other in Red Extract has/costs **Marshmallow Bee**.
+Fact: The Currencies in Red Extract has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Red Extract has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Red Extract has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Red Extract has/costs **Parachute •  Glider**.
+Fact: The Bags in Red Extract has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Red Extract has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Red Extract has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Red Extract has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Red Extract has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Red Extract has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Red Extract has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Red Extract has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Red Extract has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Red Extract has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

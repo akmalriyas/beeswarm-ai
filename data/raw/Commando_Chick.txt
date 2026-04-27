@@ -1,0 +1,111 @@
+Context: Bee Swarm Simulator - Commando Chick
+
+Commando Chick
+Datamined information: The formula for calculating Commando Chick's level at a given capture count.
+Date of datamined file: December 19th, 2024
+Commando Chick
+Location
+Commando Chick's Hideout
+Respawns Every
+30:00 (25:30 with Gifted Vicious Bee hive boost)
+Fact: The Health in Commando Chick has/costs Damage.
+Fact: The 150-10,000,000 (Depending on the number of captures) in Commando Chick has/costs 20 (from colliding with the player), 50 (from grenade).
+Fact: The Battle Points in Commando Chick has/costs Bond.
+Fact: The 0 in Commando Chick has/costs 5.
+Fact: The Honey in Commando Chick has/costs Level.
+Fact: The 2,400-18B (Depending on the level of it) in Commando Chick has/costs 3-25 (Dependent on the number of captures).
+The Commando Chick is a mini-boss chick that spawns in its hideout. Its hideout is located to the left of Brown Bear and the Wealth Clock. To cut the vines, the Clippers, Scissors, Scythe or Dark Scythe needs to be equipped. Once the vines are cut, they will never regrow back.
+The Commando Chick has a respawn time of 30:00 (25:30 with Gifted Vicious Bee). When Commando Chick hides in its egg, it throws grenades (1 if it has more than 2/3 of its health, 2 if it has less than 2/3 of its health, 3 if it has less than 1/3 of its health, 4 if less than 1/100).
+The Commando Chick deals 20 damage when colliding with the player and 50 damage if the player is near a grenade when it explodes. Starting at 150 health and level 3, the chick increases in health and level with each successive capture, reaching level 6 by the fifth capture. The chick will grow another level after a progressively higher amount of captures per level up.
+Commando Chick has a similar appearance to other Chicks but is twice as large as a normal one. It also has a green shell and red eyes.
+The Commando Chick stays still and blocks attacks when it is in its shell. After some time, it jumps out of its shell and resumes running around within the hideout.
+Levels[]
+The Commando Chick's level is based on the number of kills the player has recorded against it.
+The following formula can be used to find the Commando Chick's level at a given number of kills:
+* Let the number of kills be  x  .
+* If  x < 2  , its level is 3.
+* Otherwise, its level is  3 + ⌊ − 1.375 + 0.390625 + 1.5 x 0.75 + 1 ⌋ }}{0.75}}+1}\right\rfloor } , clamped between 1 and 25.
+The higher Commando Chick's level is, the more HP it has and the faster it moves, specifically by 0.5 more studs per level.
+The below table gives the number of kills required for a certain level, and the amount of HP it has at that level.
+Fact: The Level in Commando Chick has/costs Kills, Health.
+Fact: The 3 in Commando Chick has/costs 0, 150.
+Fact: The 4 in Commando Chick has/costs 2, 2,000.
+Fact: The 5 in Commando Chick has/costs 3, 10,000.
+Fact: The 6 in Commando Chick has/costs 6, 15,000.
+Fact: The 7 in Commando Chick has/costs 9, 25,000.
+Fact: The 8 in Commando Chick has/costs 13, 50,000.
+Fact: The 9 in Commando Chick has/costs 18, 100,000.
+Fact: The 10 in Commando Chick has/costs 23, 150,000.
+Fact: The 11 in Commando Chick has/costs 29, 200,000.
+Fact: The 12 in Commando Chick has/costs 36, 300,000.
+Fact: The 13 in Commando Chick has/costs 44, 400,000.
+Fact: The 14 in Commando Chick has/costs 53, 500,000.
+Fact: The 15 in Commando Chick has/costs 62, 750,000.
+Fact: The 16 in Commando Chick has/costs 72, 1,000,000.
+Fact: The 17 in Commando Chick has/costs 83, 2,500,000.
+Fact: The 18 in Commando Chick has/costs 94, 5,000,000.
+Fact: The 19 in Commando Chick has/costs 106, 7,500,000.
+Fact: The 20 in Commando Chick has/costs 119, 10,000,000.
+Fact: The 21 in Commando Chick has/costs 133, 10,000,000.
+Fact: The 22 in Commando Chick has/costs 148, 10,000,000.
+Fact: The 23 in Commando Chick has/costs 163, 10,000,000.
+Fact: The 24 in Commando Chick has/costs 179, 10,000,000.
+Fact: The 25 in Commando Chick has/costs 196, 10,000,000.
+_For a complete list of drops, seehere._
+* Honey From Tokens will increase the honey output of each capture.
+* Loot Luck doesn't affect Commando Chick's drops.
+* Many drops will always occur after a certain number of Commando Chick captures.
+* Commando Chick tokens will be automatically collected when they fade away.
+* Milestone rewards:
+* Drops Glue upon the 5th capture.
+* Drops Gold Egg upon the 10th capture.
+* Drops Star Jelly upon the 15th capture.
+* Drops 3 Blue Extracts upon the 20th capture.
+* Drops 100 Tickets upon the 25th capture.
+* Drops 10 Stingers upon the 30th capture.
+* Drops 10 Ant Passes and 10 Stingers upon the 40th capture.
+* Drops Mythic Egg upon the 50th capture.
+* Drops Star Treat upon the 100th capture.
+* Drops Commander Bee Egg upon the 200th capture.
+Strategy[]
+* Standing on the last stair, nearest to Commando Chick's hideout normally makes the chick flee. However, if the player stands on the edge of that stair (as close as possible to the hideout), Commando Chick does not flee and the player's bees can defeat Commando Chick whilst they take no damage.
+* This strategy does not guarantee success, as there could be a slight chance of the chick fleeing or accidentally jumping onto the stair as it hops when entering the egg.
+* The player could just move into the hideout and then back onto the stair again to fix this.
+* Re-entering the hideout when the Commando Chick is still in its egg will cause it to change back to its roaming state; although still spawning another set of grenades.
+* This mob can be damaged by any player, as such, having another player help can make progress faster.
+Gallery[]
+A level 21 Commando Chick's HP bar, at 9,984,846.
+The notification about Commando Chick fleeing after the player leaves its hideout.
+Commando Chick hiding in its egg with 4 grenades.
+A player capturing Commando Chick for the 50th time.
+Commando Chick with an invisible shell.
+A flipped over Commando Chick.
+Commando Chick being Mind Hacked.
+A level 20 Commando Chick outside of its shell.
+A picture of the Commando Chick duplicating a fake copy of itself inside the floor after the player left the hideout but came back quickly.
+Trivia[]
+* This is one of the few mobs to have its own hideout with the others being King Beetle and Tunnel Bear.
+* Commando Chick’s hideout is the only one of the three where you have to complete an obby to enter it.
+* Commando Chick is the only chick to have a green color egg.
+* Commando Chick can spawn many grenades by leaving and reentering Commando Chick's spawn area multiple times.
+* Commando Chick is the only chick with red eyes; all other chicks have black eyes.
+* Commando Chick is one of the two chicks to drop a Mythic Egg, the other being the Mondo Chick.
+* Commando Chick is one of two mobs whose health is saved if the player leaves mid-session, the other being the Stump Snail.
+* Other player's bees can attack your Commando Chick.
+* Only your Commando Chick can damage you by contact, but all grenades can damage all players.
+* There used to be a leaderboard behind where it spawns called the Most Commando Captures Leaderboard. Since 2020-04-07, the leaderboard has been removed.
+* There is a glitch where Commando Chick will disappear while being actively fought. When this occurs, a different fleeing message will appear: [🐣 Commando Chick got away! 🐣]
+* The normal message is [🐣 Commando Chick fled! (HP Saved) 🐣]
+* There is a glitch where Commando Chick's feet clip into the ground. This will cause it to slide and move extremely fast, even if it is in its egg. If it hits a corner, it will not change direction and stay there until it goes into its roaming stage again.
+* There was a glitch where Commando Chick would stay in its egg and would not go out of its egg, even when it was moving. This can also make some player's bees keep on missing their shots. The easiest way to fix this glitch was to exit Commando Chick's Hideout and re-enter it
+Fact: The Normal in Commando Chick has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Commando Chick has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Commando Chick has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Commando Chick has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Commando Chick has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Commando Chick has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Commando Chick has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Commando Chick has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Commando Chick has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Commando Chick has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Commando Chick has/costs **Chick • Hostage Chick • Spotted Chick**.

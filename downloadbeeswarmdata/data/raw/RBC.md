@@ -1,0 +1,376 @@
+# RBC
+
+![Digital Bee](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/27/Digital_Bee.png/revision/latest/scale-to-width-down/100?cb=20230415203844) | **This piece of content contains information obtained through datamining.** Due to the nature of the information, details may be inaccurate or outdated.  
+Datamined information: The formula for calculating the cost of rerolls, upgrade cost per rarity and the probability of getting an upgrade of any rarity.  
+Date of datamined file: February 26th, 2026  
+---|---  
+![PhotonBee Gifted](https://static.wikia.nocookie.net/bee-swarm-simulator/images/3/37/PhotonBee_Gifted.png/revision/latest/scale-to-width-down/100?cb=20181207154344) | **This piece of content may contain assumptions.** Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.   
+Assumptions made: The formula of upgrade cost per rarity.  
+---|---  
+  
+_This page is exclusively for the Robo Bear Challenge. For the quest giver and shop owner, see[Robo Bear](/wiki/Robo_Bear "Robo Bear")._
+
+[![Robo Bear Challenge with quests loaded.](https://static.wikia.nocookie.net/bee-swarm-simulator/images/1/1f/Robo_bear_challenge_%28Sharpest_zoom_in_by_beeswarmer791%29.jpg/revision/latest/scale-to-width-down/180?cb=20230304214054)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/1/1f/Robo_bear_challenge_%28Sharpest_zoom_in_by_beeswarmer791%29.jpg/revision/latest?cb=20230304214054) [](/wiki/File:Robo_bear_challenge_\(Sharpest_zoom_in_by_beeswarmer791\).jpg)
+
+Robo Bear Challenge with quests loaded.
+
+The **Robo Bear Challenge** is a 5-minute challenge that can be started by talking to [Robo Bear](/wiki/Robo_Bear "Robo Bear"). 
+
+Upon entering the challenge, the player receives 2 quests, which can be rerolled once for free in the whole run. Then, the player picks 3 bees from their hive, which can also be rerolled. After the 3 bees are chosen, all other bees that aren't picked in prior rounds or the current round are locked. The player is then allowed to purchase buffs/upgrades that cost ![Cog](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Cogs](/wiki/Cog "Cog"). After this, the player has 5 minutes to complete the quest that they have chosen. [Mechsquitos](/wiki/Mechsquito "Mechsquito"), [Mega Mechsquitos](/wiki/Mega_Mechsquito "Mega Mechsquito"), [Cogmowers](/wiki/Cogmower "Cogmower"), [Cogturrets](/wiki/Cogturret "Cogturret"), are mainly spawned and [Golden Cogmowers](/wiki/Golden_Cogmower "Golden Cogmower") spawns at random fields during the challenge. Each 5 rounds completed gets to earn a new tier of [Cog Amulet](/wiki/Amulet#Cog_Amulet "Amulet"). 
+
+## Gameplay[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D1&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+[![The starting of a Robo Bear challenge displays a quest selection screen.](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/8/83/Robo.jpg/revision/latest?cb=20230412171753) [![The starting of a Robo Bear challenge displays a quest selection screen.](https://static.wikia.nocookie.net/bee-swarm-simulator/images/8/83/Robo.jpg/revision/latest/scale-to-width-down/280?cb=20230412171753)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/8/83/Robo.jpg/revision/latest?cb=20230412171753) [](/wiki/File:Robo.jpg)
+
+The starting of a Robo Bear challenge displays a quest selection screen.
+
+### Before Starting[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D2&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+[![The upgrade selection menu. Comes after the Bee selection menu.](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/a/a3/Image_RBC_bee_choose.png/revision/latest?cb=20250122040614) [![The upgrade selection menu. Comes after the Bee selection menu.](https://static.wikia.nocookie.net/bee-swarm-simulator/images/a/a3/Image_RBC_bee_choose.png/revision/latest/scale-to-width-down/180?cb=20250122040614)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/a/a3/Image_RBC_bee_choose.png/revision/latest?cb=20250122040614) [](/wiki/File:Image_RBC_bee_choose.png)
+
+The upgrade selection menu. Comes after the Bee selection menu.
+
+To start the Robo Bear Challenge, the player must spend a [Robo Pass](/wiki/Robo_Pass "Robo Pass"). Once spent, the player receives 10 free ![Cog](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Cogs](/wiki/Cog "Cog") and a Quest Reroll. Then, the player has to select one of two quests. After this, the player will select one of the three selected bees in the player's hive (the player must select 3 bees in the first round and 2 bees in subsequent rounds) and can be rerolled at the expense of cogs. This expense increases as it is used more. The bees in the selection is shown their hive level, their gifted status, their equipped [Beequip](/wiki/Beequip "Beequip") and their mutation. After choosing the three bees, the player can purchase upgrades for cogs, there are three different upgrades the player can choose from and can also be rerolled for cogs that also has an expense increasing as it is used more. 
+
+The cost of rerolling bees and upgrades depends how high the player's current round is, and how many rerolls the player has done within the round. More specifically, let _rnd_ be the player's current round, and _cnt_ be the number of rerolls the player has done within the round: 
+
+  * b a s e C o s t = 4 + 8 × r n d − 1 24 {\displaystyle baseCost=4+8\times {\frac {rnd-1}{24}}} ![{\\displaystyle baseCost=4+8\\times {\\frac {rnd-1}{24}}}](https://services.fandom.com/mathoid-facade/v1/media/math/render/svg/b8eeeabfc0802de481f31b3677419525af7838eb)
+  * The cost of a reroll is equal to  ⌊ b a s e C o s t + b a s e C o s t × c n t 2 + 0.5 ⌋ {\displaystyle \left\lfloor baseCost+{\frac {baseCost\times cnt}{2}}+0.5\right\rfloor } ![{\\displaystyle \\left\\lfloor baseCost+{\\frac {baseCost\\times cnt}{2}}+0.5\\right\\rfloor }](https://services.fandom.com/mathoid-facade/v1/media/math/render/svg/b7f41ac62cdd9c9b4d1a5affc7da4d04dc5eb518).
+
+
+
+### After Starting[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D3&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+After starting the round, the player will receive the quest, the [Robo Bear Challenge Debuff](/wiki/Buffs_%26_Debuffs#Robo_Bear_Challenge "Buffs & Debuffs"), and their selected bees. The unselected bees are shut down in the player's hive. The Robo Bear Challenge Debuff affects Capacity, Tool Pollen, Pollen from Movement Collection, and Pollen from Coconuts. 
+
+The player has 5 minutes to finish each quest. During the Challenge, the player is unable to harvest [planters](/wiki/Planter "Planter") and use [Beesmas](/wiki/Category:Beesmas "Category:Beesmas") Decorations. All Beesmas-related buffs ([Honeyday Event](/wiki/Buffs_%26_Debuffs#Honeyday_Event "Buffs & Debuffs"), [Galentine's Blessing](/wiki/Buffs_%26_Debuffs#Galentine's_Blessing "Buffs & Debuffs"), [Festive Nymph Blessing](/wiki/Buffs_%26_Debuffs#Festive_Nymph_Blessing "Buffs & Debuffs"), [Robo Party Blessing](/wiki/Buffs_%26_Debuffs#Robo_Party_Blessing "Buffs & Debuffs") and [Beesmas Repentance](/wiki/Buffs_%26_Debuffs#Beesmas_Repentance "Buffs & Debuffs") as of the time of writing) will also be disabled during this period. 
+
+Upon completion of the quest, the round ends, and the player will receive cogs based on how many cogs the quest said it would give, along with bonus cogs depending on how fast the player finished the quest. The cogs from the Round Speed Bonus is given if the player completes the quest within 3 minutes and 45 seconds and the amount of cogs given is calculated proportionately. If the player has upgrades that grant bonus cogs, they will also be granted bonus cogs based on the total amount of cogs from all Upgrades. 
+
+After a round is finished or if the challenge ends, all mobs exclusive in the challenge will be gone along with the upgrades and the Robo Bear Challenge Debuff. This process will repeat again in subsequent rounds, but the player can only select two bees to add on to the bees they already selected. 
+
+  * **Upon reaching Round 5** , there is a guaranteed quest to that requires the Player to defeat 25 Mechsquitos and collect 1,600,000 of a certain color of Pollen. This Round grants the Player a [Bronze Cog Amulet](/wiki/Cog_Amulet#Bronze_Cog_Amulet "Cog Amulet") upon completion.
+  * **Upon reaching Round 10** , there is a guaranteed quest that requires the Player to defeat 10 Cogmowers that are spread out throughout the mountain and collect 60,000,000 of a certain color of Pollen. This Round grants the Player a [Silver Cog Amulet](/wiki/Cog_Amulet#Silver_Cog_Amulet "Cog Amulet") upon completion.
+  * **Upon reaching Round 15** , there is a guaranteed quest that requires the Player to defeat 10 Mega Mechsquitos and collect 2,000,000,000 of a certain color of Pollen. This Round grants the Player a [Gold Cog Amulet](/wiki/Cog_Amulet#Gold_Cog_Amulet "Cog Amulet") upon completion.
+  * **Upon reaching Round 20** , there is a guaranteed quest that requires the Player to defeat 20 Cogmowers and collect 60,000,000,000 of a certain color of Pollen. This Round grants the Player a [Diamond Cog Amulet](/wiki/Cog_Amulet#Diamond_Cog_Amulet "Cog Amulet") upon completion.
+  * **Upon completing Round 25** , the Challenge ends and grants the Player a [Supreme Cog Amulet](/wiki/Cog_Amulet#Supreme_Cog_Amulet "Cog Amulet") and the [Robo Bear Cub Buddy](/wiki/Cub_Buddy "Cub Buddy") (If not already owned) upon completion.
+
+
+
+During and between rounds, cogs may be spent at [Robo Bear's Shop](/wiki/Robo_Bear%27s_Shop "Robo Bear's Shop"). 
+
+All cogs in the player's inventory are removed once the challenge ends, which happens when either the player hatches or transforms a bee, the timer of the challenge quest runs out, if the player leaves the game, or if the player presses the “Quit” button which appears on the challenge quest box. 
+
+<https://bee-swarm-simulator.fandom.com/wiki/File:Rbcloading.ogg> [](/wiki/File:Rbcloading.ogg)
+
+**"Rbcloading", the theme that plays before starting a round in the challenge.**
+
+<https://bee-swarm-simulator.fandom.com/wiki/File:Digitize.ogg> [](/wiki/File:Digitize.ogg)
+
+**"Digitize", the theme that plays upon starting a round in the challenge.**
+
+### Upgrades[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D4&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+The probability of getting an upgrade of a certain rarity depends on how high the round is. More specifically, it uses a weighted system, where the weight scales linearly between 2 values, seen in the below table: 
+
+Rarity  | Weight lower bound  | Weight upper bound   
+---|---|---  
+Common  | 80  | 60   
+Rare  | 30  | 50   
+Epic  | 10  | 25   
+Legendary  | 1  | 10   
+  
+To calculate the weight of an upgrade in a given round, use the following formula, where _minWeight_ and _maxWeight_ is the minimum and maximum weight of the rarity in the above table respectively, and _rnd_ is the player's current round:  w e i g h t = m i n W e i g h t + ( m a x W e i g h t − m i n W e i g h t ) × r n d − 1 24 {\displaystyle weight=minWeight+(maxWeight-minWeight)\times {\frac {rnd-1}{24}}} ![{\\displaystyle weight=minWeight+\(maxWeight-minWeight\)\\times {\\frac {rnd-1}{24}}}](https://services.fandom.com/mathoid-facade/v1/media/math/render/svg/6730b3e70b09a8fa8d9f99a1ab775e23b37f7ad8). 
+
+Below is a table of every upgrade rarity's probability of showing up as an upgrade every round: 
+
+Round  |  Rarity   
+---|---  
+Common  | Rare  | Epic  | Legendary   
+1  | 66.12%  | 24.79%  | 8.26%  | 0.83%   
+2  | 64.89%  | 25.27%  | 8.71%  | 1.13%   
+3  | 63.69%  | 25.75%  | 9.15%  | 1.42%   
+4  | 62.5%  | 26.21%  | 9.58%  | 1.71%   
+5  | 61.33%  | 26.67%  | 10%  | 2%   
+6  | 60.19%  | 27.12%  | 10.42%  | 2.28%   
+7  | 59.06%  | 27.56%  | 10.83%  | 2.56%   
+8  | 57.94%  | 27.99%  | 11.23%  | 2.83%   
+9  | 56.85%  | 28.42%  | 11.63%  | 3.1%   
+10  | 55.77%  | 28.85%  | 12.02%  | 3.37%   
+11  | 54.71%  | 29.26%  | 12.4%  | 3.63%   
+12  | 53.66%  | 29.67%  | 12.78%  | 3.88%   
+13  | 52.63%  | 30.08%  | 13.16%  | 4.14%   
+14  | 51.62%  | 30.47%  | 13.53%  | 4.38%   
+15  | 50.62%  | 30.86%  | 13.89%  | 4.63%   
+16  | 49.63%  | 31.25%  | 14.25%  | 4.87%   
+17  | 48.66%  | 31.63%  | 14.6%  | 5.11%   
+18  | 47.71%  | 32%  | 14.95%  | 5.34%   
+19  | 46.76%  | 32.37%  | 15.29%  | 5.58%   
+20  | 45.83%  | 32.74%  | 15.63%  | 5.8%   
+21  | 44.92%  | 33.1%  | 15.96%  | 6.03%   
+22  | 44.01%  | 33.45%  | 16.29%  | 6.25%   
+23  | 43.12%  | 33.8%  | 16.61%  | 6.47%   
+24  | 42.25%  | 34.14%  | 16.93%  | 6.68%   
+25  | 41.38%  | 34.48%  | 17.24%  | 6.9%   
+  
+The probability of getting any upgrade of the same rarity is the same. Below are tables of every upgrades found in the challenge: 
+
+Common Upgrades  **Upgrade Name** | **Cap** | **Effects** | **Effects at Cap**  
+---|---|---|---  
+Botnet  | 1  | +25% Bee Gather Pollen, +1 Cogs Per Round  | N/A   
+Credit  | 3  | +2 Cogs Per Round  | +6 Cogs Per Round   
+Defragment  | 10  | x1.5 Capacity, x0.9 Critical Power | x6 Capacity, x0.5 Critical Power  
+Homepage  | 10  | x1.25 Sunflower Field Pollen, x1.25 Dandelion Field Pollen, x1.25 Mushroom Field Pollen, x1.25 Blue Flower Field Pollen  | x3.5 Sunflower Field Pollen, x3.5 Dandelion Field Pollen, x3.5 Mushroom Field Pollen, x3.5 Blue Flower Field Pollen   
+Iterate  | 100  | x1.05 Pollen  | x6 Pollen   
+Overfit: Blue  | 10  | x1.25 Blue Pollen, x0.95 Player Movespeed, -5% Bee Movespeed | x4 Blue Pollen, x0.75 Player Movespeed, -15% Bee Movespeed  
+Overfit: Red  | 10  | x1.25 Red Pollen, x0.9 Capacity | x4 Red Pollen, x0.5 Capacity  
+Overfit: White  | 10  | x1.25 White Pollen, x0.9 Convert Rate | x4 White Pollen, x0.5 Convert Rate  
+Sharpen  | 10  | x1.2 Bee Attack, x0.9 Capacity | x3 Bee Attack, x0.5 Capacity  
+Rare Upgrades  **Upgrade Name** | **Cap** | **Effects** | **Effects at Cap**  
+---|---|---|---  
+APM  | 1  | Focus tokens grant x1.03 Tool Pollen and Collector Tool Speed for 20s. Stacks up to 10 times.  | N/A   
+Blue Screen  | 1  | Blue Boost tokens grant x1.03 Attack and x1.03 Blue Bee Attack for 15s. Stacks up to 10 times.  | N/A   
+Crypto  | 3  | +3 Cogs Per Round, x0.8 Pollen, x0.8 Capacity | +9 Cogs Per Round, x0.5 Pollen, x0.5 Capacity  
+Commit  | 2  | +5% Critical Chance, -10% Instant Conversion, -10% Instant Red Conversion, -10% Instant White Conversion | +10% Critical Chance, -20% Instant Conversion, -20% Instant Red Conversion, -20% Instant White Conversion  
+Dynamo  | 10  | x1.25 Bomb Pollen, x0.9 Bee Gather Pollen | x3.5 Bomb Pollen, x0.4 Bee Gather Pollen  
+Equalize  | 1  | +1 Bee Attack, x1.25 Ungifted Bee Attack  | N/A   
+Expansion  | 100  | x1.25 Capacity  | x26 Capacity   
+GPU  | 3  | x1.25 Pollen, -4 Cogs Per Round | x1.75 Pollen, -12 Cogs Per Round  
+Multithread  | 1  | All Ability Tokens can be created During Battle, -1 Cogs Per Round | N/A   
+Nullify  | 2  | x1.5 Critical Power, x0.8 Pollen | x2 Critical Power, x0.6 Pollen  
+Outsource  | 3  | x1.5 Bee Gather Pollen, x0.85 Tool Pollen | x2.5 Bee Gather Pollen, x0.55 Tool Pollen  
+RAM  | 10  | +75,000 Capacity, +1 Cogs per Round  | +750,000 Capacity, +10 Cogs per Round   
+Router  | 10  | x1.3 Strawberry Field Pollen, x1.3 Spider Field Pollen, x1.3 Bamboo Field Pollen, x1.3 Pineapple Field Pollen  | x4 Strawberry Field Pollen, x4 Spider Field Pollen, x4 Bamboo Field Pollen, x4 Pineapple Field Pollen   
+Saturate  | 3  | x1.25 Blue Bee Attack, x1.25 Colorless Bee Attack, x0.8 Red Bee Attack | x1.75 Blue Bee Attack, x1.75 Colorless Bee Attack, x0.4 Red Bee Attack  
+SSD: Blue  | 3  | x2 Blue Field Capacity, x1.5 Blue Bee Convert Rate, -3% Critical Chance | x4 Blue Field Capacity, x2.5 Blue Bee Convert Rate, -6% Critical Chance  
+SSD: Red  | 3  | x2 Red Field Capacity, x1.5 Red Bee Convert Rate, x0.75 Bomb Pollen | x4 Red Field Capacity, x2.5 Red Bee Convert Rate, x0.5 Bomb Pollen  
+SSD: White  | 3  | x2 White Field Capacity, x1.5 Colorless Bee Convert Rate, x0.8 Bee Attack | x4 White Field Capacity, x2.5 Colorless Bee Convert Rate, x0.6 Bee Attack  
+Subscribe  | 1  | +1 Cogs Per Round, x1.1 Event Bee Pollen  | N/A   
+Virus  | 3  | +1 Bee Attack, +1% Critical Chance, x0.9 Pollen | +3 Bee Attack, +3% Critical Chance, x0.7 Pollen  
+VPN  | 3  | +10% Dodge Chance  | +30% Dodge Chance   
+Epic Upgrades  **Upgrade Name** | **Cap** | **Effects** | **Effects at Cap**  
+---|---|---|---  
+Bandwidth  | 1  | x1.25 Convert Rate At Hive, x1.1 Mark Ability Pollen, x3 Crimson and Cobalt Ability Pollen  | N/A   
+Base-15  | 10  | x1.25 Cactus Field Pollen, x1.25 Pumpkin Field Pollen, x1.25 Pine Tree Forest Pollen, x1.25 Rose Field Pollen  | x3.5 Cactus Field Pollen, x3.5 Pumpkin Field Pollen, x3.5 Pine Tree Forest Pollen, x3.5 Rose Field Pollen   
+beeBay  | 1  | +1 Option When Choosing Bees, +1 Cogs per Round  | N/A   
+Client-Side  | 1  | x1.25 Player Movespeed, x1.25 Tool Pollen, x0.75 Convert Rate | N/A   
+Demarcate  | 1  | Mark tokens grant x1.03 Critical Power for 15s. Stacks up to 10 times.  | N/A   
+F5  | 1  | +1 Quest Reroll, -3 Cogs Per Round | N/A   
+Fission  | 1  | x4 Bomb Pollen, +1 Cogs Per Round, +1 Bee Attack, x0.75 Pollen | N/A   
+FOV  | 1  | +1 Option When Choosing Upgrades, -2% Critical Chance | N/A   
+Furnace  | 1  | x1.5 Flame Pollen, x1.5 Flame Duration, x1.5 Flame Damage, -4 Cogs Per Round | N/A   
+HDD  | 1  | x3 Capacity, x4 Convert Rate at Hive, x0.5 Convert Rate. x0 Instant Conversion, x0.5 Goo Conversion | N/A   
+Inject  | 1  | +2 Blue Bee Attack, +1 Colorless Bee Attack, x1.25 Impale Damage  | N/A   
+Invert  | 1  | Bubbles collect x4 from Red Flowers. Flames collect x4 from Blue Flowers.  | N/A   
+Malware  | 3  | +3 Bee Attack, x0.75 Capacity, x0.75 Convert Rate | +9 Bee Attack, x0.25 Capacity, x0.25 Convert Rate  
+NFT  | 1  | +4 Cogs Per Round, -3 Bee Attack | N/A   
+Normalize  | 1  | x2 Pollen, x2 Bee Attack, x0 Critical Chance | N/A   
+Pop-Up  | 1  | x2 Bubble Pollen, x1.5 Bubble Lifespan, +3 Blue Bee Attack, -4 Cogs Per Round | N/A   
+Proxy  | 1  | Haste tokens grant +2% Dodge Chance for 20s. Stacks up to 10 times.  | N/A   
+Refractor  | 10  | x1.1 Bee Ability Pollen, x0.9 Convert Rate | x2 Bee Ability Pollen, x0.75 Convert Rate  
+Respec: Blue  | 2  | x0.6 Blue Pollen, x1.25 White Pollen, x1.25 Red Pollen  | x0.4 Blue Pollen, x1.5 White Pollen, x1.5 Red Pollen   
+Respec: Red  | 2  | x0.6 Red Pollen, x1.25 Blue Pollen, x1.25 White Pollen  | x0.4 Red Pollen, x1.5 Blue Pollen, x1.5 White Pollen   
+Respec: White  | 2  | x0.6 White Pollen, x1.25 Blue Pollen, x1.25 Red Pollen  | x0.4 White Pollen, x1.5 Blue Pollen, x1.5 Red Pollen   
+RGB  | 1  | +1% Critical Chance, x1.25 Flame Pollen, x1.25 Bubble Pollen, x0.8 Bee Gather Pollen | N/A   
+Synchronize  | 1  | x1.2 Bomb Power, Red Bomb Sync is always active if Crimson Bee is active. Blue Bomb Sync is always active if Cobalt Bee is active.  | N/A   
+Torrent  | 1  | +10% Instant Conversion, x1.5 Tornado Pollen, x1.5 Beamstorm Pollen  | N/A   
+Trojan  | 10  | x1.25 Bee Attack, -10% Bee Movespeed | x3.5 Bee Attack, -50% Bee Movespeed  
+Network  | 1  | x1.25 Mark Duration, x1.5 Convert Rate, x0.75 Bee Attack | N/A   
+White Noise  | 1  | x1.1 White Pollen. x1.5 Buzz Bomb Pollen, -1 Cogs Per Round | N/A   
+Virtual Pet  | 1  | +10% Bee Movespeed, x1.5 Scratch Pollen, x3 Fetch Pollen  | N/A   
+Legendary Upgrades  **Upgrade Name** | **Cap** | **Effects** | **Effects at Cap**  
+---|---|---|---  
+Bluetooth  | 1  | x2 Blue Bee Attack, x1.25 Blue Pollen  | N/A   
+Bruteforce  | 1  | +6% Super-Crit Chance, x1.25 Red Pollen  | N/A   
+Codec  | 1  | +20% Instant Conversion, x0.8 Attack | N/A   
+Corrupt  | 1  | +1% Ability Duplication Chance, x2 Duped Ability Pollen  | N/A   
+Fluid Simulation  | 1  | x1.25 Goo, x1.25 White Pollen  | N/A   
+Optimize  | 25  | x1.1 Pollen, x1.1 Convert Rate, x1.1 Capacity  | x3.5 Pollen, x3.5 Convert Rate, x3.5 Capacity   
+Overclock  | 1  | +10% Bee Movespeed, +10% Bee Ability Rate, x0.75 Capacity | N/A   
+Pseudo-RNG  | 1  | +3% Critical Chance, x1.25 Super-Crit Power, x2 Clover Field Pollen  | N/A   
+Reboot  | 1  | +1 Quest Reroll  | N/A   
+Stack Overflow  | 1  | +10 Cogs Per Round, x0.75 Movespeed, -25% Bee Movespeed | N/A   
+The Cloud  | 3  | x2.5 Capacity  | x5.5 Capacity   
+Wifi  | 10  | x1.5 Stump Field Pollen, x1.5 Mountain Top Field Pollen, x1.5 Coconut Field Pollen, x1.5 Pepper Patch Pollen  | x6 Stump Field Pollen, x6 Mountain Top Field Pollen, x6 Coconut Field Pollen, x6 Pepper Patch Pollen   
+  
+#### Cost[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D5&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+The cost of an upgrade depends on how high the player's current round is, and the level of that upgrade. More specifically: 
+
+  * The range of costs of an upgrade of a given rarity in round 1 is found in the table below:
+
+Rarity  | Cost lower bound  | Cost upper bound   
+---|---|---  
+Common  | 6  | 8   
+Rare  | 9  | 11   
+Epic  | 12  | 14   
+Legendary  | 15  | 18   
+  
+  * The lower and upper bound is increased linearly with how high the player's current round is, using the following formula, where _bound_ is either the lower or upper bound of the upgrade, and _rnd_ is the player's current round:  b o u n d = b o u n d × ( 1 + 0.25 × r n d − 1 24 ) {\displaystyle bound=bound\times (1+0.25\times {\frac {rnd-1}{24}})} ![{\\displaystyle bound=bound\\times \(1+0.25\\times {\\frac {rnd-1}{24}}\)}](https://services.fandom.com/mathoid-facade/v1/media/math/render/svg/4738d74728a8fee1a37282d43013c7c5cf4d15ae). 
+    * Below is a table of the range of upgrade costs per rarity every round:
+
+Round  |  Rarity   
+---|---  
+Common  | Rare  | Epic  | Legendary   
+1  | 6-8  | 9-11  | 12-14  | 15-18   
+2  | 6-8  | 9-11  | 12-14  | 15-18   
+3  | 6-8  | 9-11  | 12-14  | 15-18   
+4  | 6-8  | 9-11  | 12-14  | 15-19   
+5  | 6-8  | 9-11  | 13-15  | 16-19   
+6  | 6-8  | 9-12  | 13-15  | 16-19   
+7  | 6-9  | 10-12  | 13-15  | 16-19   
+8  | 6-9  | 10-12  | 13-15  | 16-19   
+9  | 7-9  | 10-12  | 13-15  | 16-20   
+10  | 7-9  | 10-12  | 13-15  | 16-20   
+11  | 7-9  | 10-12  | 13-15  | 17-20   
+12  | 7-9  | 10-12  | 13-16  | 17-20   
+13  | 7-9  | 10-12  | 14-16  | 17-20   
+14  | 7-9  | 10-12  | 14-16  | 17-20   
+15  | 7-9  | 10-13  | 14-16  | 17-21   
+16  | 7-9  | 10-13  | 14-16  | 17-21   
+17  | 7-9  | 11-13  | 14-16  | 18-21   
+18  | 7-9  | 11-13  | 14-16  | 18-21   
+19  | 7-10  | 11-13  | 14-17  | 18-21   
+20  | 7-10  | 11-13  | 14-17  | 18-22   
+21  | 7-10  | 11-13  | 15-17  | 18-22   
+22  | 7-10  | 11-13  | 15-17  | 18-22   
+23  | 7-10  | 11-14  | 15-17  | 18-22   
+24  | 7-10  | 11-14  | 15-17  | 19-22   
+25  | 8-10  | 11-14  | 15-18  | 19-23   
+  
+  * The cost of an upgrade is then scaled linearly with the level of the upgrade, using the following formula, where _lowerBound_ and _upperBound_ are the lower and upper bounds of the upgrade given the current round, and _lvl_ and _maxlvl_ are the level of the upgrade and the maximum possible level of the upgrade:  c o s t = l o w e r B o u n d + ( u p p e r B o u n d − l o w e r B o u n d ) × l v l − 1 m a x l v l − 1 {\displaystyle cost=lowerBound+(upperBound-lowerBound)\times {\frac {lvl-1}{maxlvl-1}}} ![{\\displaystyle cost=lowerBound+\(upperBound-lowerBound\)\\times {\\frac {lvl-1}{maxlvl-1}}}](https://services.fandom.com/mathoid-facade/v1/media/math/render/svg/6d6e08afe0a260e9545b6d1472b58acc716354a7).
+
+
+
+### Mobs[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D6&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+  * [ Mechsquito ](https://bee-swarm-simulator.fandom.com/wiki/Mechsquito)
+  * [ Cogmower ](https://bee-swarm-simulator.fandom.com/wiki/Cogmower)
+  * [ Cogturret ](https://bee-swarm-simulator.fandom.com/wiki/Cogturret)
+  * [ Mega Mechsquito ](https://bee-swarm-simulator.fandom.com/wiki/Mega_Mechsquito)
+  * [ Golden Cogmower ](https://bee-swarm-simulator.fandom.com/wiki/Golden_Cogmower)
+
+
+
+  
+
+
+## Tips[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D7&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+### Pre-Round Preparations[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D8&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+  * If you are aiming for a high score, you should **use consumables** , such as Super Smoothies. You are also able to use field boosts and winds during a round. Even if you're not aiming for a high score, doing so can still be useful. 
+    * Giving Onett a Present grants the Super Smoothie buff as well as a 3x Mountain Top Field buff. It also gives a free Robo Pass.
+  * Attempt to **save your quest rerolls** or get the Reboot upgrade for an extra quest re-roll. Quest re-rolls are important if you get bad quests (i.e. being a red hive and getting two quests related to blue pollen, or a convert at hive quest).
+  * Don't be afraid to **save up cogs** if the options are bad. They can be spent later on other re-rolls, upgrades, or drives.
+  * **Use the lock feature when necessary.** If there is an upgrade that you need but cannot afford it, this feature will allow that specific upgrade to stay where it is until you select it. There is a lock beside each upgrade.
+  * **Prioritize attack bees** such as Precise Bees, Spicy Bees, Vicious Bee, and Windy Bee. Vicious Bee is especially useful as it can attack entire swarms of mobs with Impale. Windy Bee provides excellent crowd control by damaging multiple mobs at a time with Tornado.
+  * Digital Bee can freeze enemies and makes them receive more damage.
+  * Avoid picking a "Convert at Hive" quest, unless your hive primarily consists of blue bees or the required amount is low.
+
+
+
+### Tips During Rounds[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D9&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+  * **Always keep on your toes!** Mechsquitoes will apply Mechsquito Toxin on you, which reduces Pollen and Player movespeed. This can quickly accumulate in later rounds and severely hamper your collection. Mega Mechsquitoes can also do considerable damage to a still player.
+  * **Prioritize Cogturrets** if possible. Cogturrets can make large swathes of the field dangerous with their rolling cogs, so try to stay near them so your Bees will attack them and take them down before they pile up and make the field impossible to navigate. 
+    * In addition, Cogturrets only shoot their rolling cogs forward, to the left, to the right or backwards, so tracking where the rolling cogs will go and avoiding those spaces can be very helpful in dodging their cogs.
+  * If the Cogmower/Cogturret spam is becoming too great, **use Star Saw (if you have it).** Star Saw circles around you for 30 seconds after activation, and while it's difficult to hit Mechsquitoes and Mega Mechsquitoes (owing to their flying hitboxes), Cogmowers and Cogturrets can easily be hit with it, allowing you to quickly take down these threats if the Bees are preoccupied with Mechsquitoes and Mega Mechsquitoes.
+  * **Finish the round quickly!** A fast and decisive completion is key to a good run. As the round drags on, waves of enemies will pile up on each other, making them harder to clear. This in turn leads to a more cluttered field and a higher chance of death, ending in a death spiral that's sure to end in defeat (especially in later rounds).
+  * If you're a Blue Hive or a mid-game Bomb Hive, make sure to use both Crimson and Cobalt Bee as the synchronize upgrade can save you. Also, in general there are a ton of upgrades that synergize around bombs and Crimson and Cobalt bee.
+  * If you have any boost items active, such as [Purple Potion](/wiki/Purple_Potion "Purple Potion") or [Super Smoothie](/wiki/Super_Smoothie "Super Smoothie") when the round seems unbeatable, it is best to leave the challenge to give their buffs more time to be used in later sessions.
+
+
+
+## Rewards[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D10&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+After the challenge ends, a message box displays the rewards. The number of rewards received tends to increase with a higher score. The rewards also increase in quality and quantity relative to the player's level. A higher level will also give players higher-tier Cog Amulets. The player will also only receive four rewards (other than the amulet) in varying quantities (except for the drive, which is guaranteed to have only one). 
+
+### Rewards List[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D11&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+  * ![Honey](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Honey](/wiki/Honey "Honey")
+  * Potentially 1-2 items of the following types (has a chance to reward one more type of drive when completing the challenge): 
+    * ![Red Drive](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Red Drives](/wiki/Drives#Red_Drive "Drives")
+    * ![White Drive](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[White Drives](/wiki/Drives#White_Drive "Drives")
+    * ![Blue Drive](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Blue Drives](/wiki/Drives#Blue_Drive "Drives")
+    * ![Glitched Drive](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Glitched Drives](/wiki/Drives#Glitched_Drive "Drives") (Past completing round 10, chance increases the higher the round the challenge ended). 
+      * Beating Round 20 guarantees ![Glitched Drive](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Glitched Drive](/wiki/Drives#Glitched_Drive "Drives") with a cooldown of 1 day.
+      * Beating Round 25 guarantees ![Glitched Drive](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)1 [Glitched Drive](/wiki/Drives#Glitched_Drive "Drives"), with an estimated 1/7 chance for a second.
+  * Three of the following (The chance of getting certain items are affected by the round the challenge ended): 
+    * ![Star Jelly](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Star Jellies](/wiki/Royal_Jelly#Star_Jelly "Royal Jelly")
+    * ![Hard Wax](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Hard Waxes](/wiki/Hard_Wax "Hard Wax")
+    * ![Field Dice](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Field Dice](/wiki/Field_Dice "Field Dice")
+    * ![Smooth Dice](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Smooth Dice](/wiki/Smooth_Dice "Smooth Dice")
+    * ![Loaded Dice](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Loaded Dice](/wiki/Loaded_Dice "Loaded Dice")
+    * ![Whirligig](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Whirligigs](/wiki/Whirligig "Whirligig")
+    * ![Honeysuckle](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Honeysuckles](/wiki/Honeysuckle "Honeysuckle")
+    * ![Micro-Converter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Micro-Converters](/wiki/Micro-Converter "Micro-Converter")
+    * ![Jelly Beans](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Jelly Beans](/wiki/Jelly_Beans "Jelly Beans")
+    * ![Glue](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Glues](/wiki/Glue "Glue")
+    * ![Oil](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Oils](/wiki/Oil "Oil")
+    * ![Neonberry](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Neonberries](/wiki/Neonberry "Neonberry")
+    * ![White Balloon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[White Balloons](/wiki/White_Balloon "White Balloon") (Common)
+    * ![Purple Potion](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Purple Potions](/wiki/Purple_Potion "Purple Potion") (Common).
+    * ![Super Smoothie](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Super Smoothies](/wiki/Super_Smoothie "Super Smoothie") (Common).
+    * ![Atomic Treat](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Atomic Treats](/wiki/Atomic_Treat "Atomic Treat") (Rare)
+    * ![Bang Snap](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Bang Snaps](/wiki/Bang_Snap "Bang Snap") (Rare)
+    * ![Gold Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Gold Egg](/wiki/Egg#Gold_Egg "Egg") (Rare).
+    * ![Whistle](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Whistle](/wiki/Whistle "Whistle") (Rare).
+    * ![Hivesticker small shield](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Small Shield Sticker](/wiki/Sticker#Sticker_Index "Sticker") (Very Rare).
+    * ![Diamond Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Diamond Egg](/wiki/Egg#Diamond_Egg "Egg") (Extremely Rare).
+    * ![Mythic Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Mythic Egg](/wiki/Egg#Mythic_Egg "Egg") (Extremely Rare).
+    * ![Turpentine](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Turpentine](/wiki/Turpentine "Turpentine") (Very Rare).
+    * ![Gifted Silver Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Gifted Silver Egg](/wiki/Egg#Gifted_Silver_Egg "Egg") (Extremely Rare).
+    * ![Gifted Gold Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Gifted Gold Egg](/wiki/Egg#Gifted_Gold_Egg "Egg") (Extremely Rare).
+    * ![Gifted Diamond Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Gifted Diamond Egg](/wiki/Egg#Gifted_Diamond_Egg "Egg") (Extremely Rare).
+    * ![Hivesticker robot head](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Robot Head Sticker](/wiki/Sticker#Sticker_Index "Sticker") (Extremely rare).
+    * ![Pink Shades](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Pink Shades](/wiki/Pink_Shades "Pink Shades") (Exceptionally Rare).
+    * ![Demon Talisman](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Demon Talisman](/wiki/Demon_Talisman "Demon Talisman") (Exceptionally Rare)
+    * ![Cub Buddy Voucher](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Cub Buddy Voucher](/wiki/Sticker#Sticker_Index "Sticker") (Unfathomably Rare).
+    * ![Offline Voucher](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Offline Voucher](/wiki/Sticker#Sticker_Index "Sticker") (Unfathomably Rare).
+    * ![Gifted Mythic Egg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Gifted Mythic Egg](/wiki/Egg#Gifted_Mythic_Egg "Egg") (Nearly Impossible)
+    * ![Pink Eraser](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Pink Eraser](/wiki/Pink_Eraser "Pink Eraser") (Unknown)
+    * ![Candy Ring](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Candy Ring](/wiki/Candy_Ring "Candy Ring") (Unknown)
+    * ![Camphor Lip Balm](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Camphor Lip Balm](/wiki/Camphor_Lip_Balm "Camphor Lip Balm") (Unknown)
+
+  
+---  
+  
+### Amulets[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D12&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+Requirement(s)  | Amulet  | Detail   
+---|---|---  
+Round 5 - 9  | [![BronzeCogAmulet](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/7/7b/BronzeCogAmulet.png/revision/latest?cb=20230409181547) Bronze [Cog Amulet](/wiki/Cog_Amulet "Cog Amulet")  
+Round 10 - 14  | [![SilverCogAmulet](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/a/a3/SilverCogAmulet.png/revision/latest?cb=20230409181652) Silver [Cog Amulet](/wiki/Cog_Amulet "Cog Amulet")  
+Round 15 - 19  | [![GoldCogAmulet](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/e/e4/GoldCogAmulet.png/revision/latest?cb=20230409181758) Gold [Cog Amulet](/wiki/Cog_Amulet "Cog Amulet") | Access to crafting ![Glitched Drive](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Glitched Drives](/wiki/Drives#Glitched_Drive "Drives")  
+Round 20 - 24  | [![DiamondCogAmulet](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/7/79/DiamondCogAmulet.png/revision/latest?cb=20230409181852) Diamond [Cog Amulet](/wiki/Cog_Amulet "Cog Amulet") | Access to purchasing the [![Digital Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/27/Digital_Bee.png/revision/latest?cb=20230415203844) [Digital Bee](/wiki/Digital_Bee "Digital Bee")  
+Round 25  | [![SupremeCogAmulet](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/c/c1/SupremeCogAmulet.png/revision/latest?cb=20230409181945) Supreme [Cog Amulet](/wiki/Cog_Amulet "Cog Amulet") | Challenge Completion and ![Robo Cub](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Robo Cub](/wiki/Cub_Buddy#Skins "Cub Buddy") skin (first time only)   
+  
+  
+
+
+## Trivia[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FRobo_Bear_Challenge%3Fveaction%3Dedit%26section%3D13&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+  * Almost all upgrades and their names in the Robo Bear Challenge have to do with actual software and software engineering processes, components, and procedures, like a robot.
+  * There is a visual glitch where Cogs spent during a round or gained from Golden Cogmowers do not change the counter of Cogs on the quest menu on the right side of the screen.
+  * When you complete a quest, you might briefly see a green 'Finish' button that's in the place of the 'Quit' button. It is unknown what purpose this button would have served, as the round automatically finishes once the quest(s) are completed.
+  * There is a glitch where after the timer ends, it disappears and the challenge doesn't end. In this period, you get infinite time to complete the quest. It is unknown why this glitch is caused, but it's most likely caused by lag.
+  * If you attempt to use a royal jelly on a bee or hatch an egg in-between Robo Bear Challenge rounds, it will prompt you with the message: "⚠ Hatching or transforming a bee will end your Robo Bear Challenge. Continue?⚠". Choosing "Yes" will end your Robo Bear Challenge, and "No" will cancel it. 
+    * However, despite being used to transform bees, using a ![Star Treat](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Star Treat](/wiki/Star_Treat "Star Treat") on a bee in between Robo Bear Challenge rounds will not cause this message to be prompted, and the bee can be gifted without ending the Robo Bear Challenge.
+  * When in the quest picking menu, your bees are frozen in place.
+  * If the player ended the session through disconnecting, the player will not obtain the amulet of the session until they claim their hive when they rejoined.
+  * You can obtain ![Cog](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Cogs](/wiki/Cog "Cog") outside of Robo Bear's Challenge. To do this, end the challenge right after you kill a [Golden Cogmower](/wiki/Golden_Cogmower "Golden Cogmower"), however the cogs won't transfer into the next challenge.
+  * When you complete a round your balloon blessing will refresh.
+  * TurboTobyTwo was the first player to complete the Robo Bear Challenge.
+  * While receiving a quest, the players movespeed is set to 0, meaning it's impossible for them to move.
+  * If a bee isn't picked in the challenge, its gifted hive bonus, or any bonus on it's beequip doesn't apply.
+  * Despite being unable to harvest [planters](/wiki/Planter "Planter") during the 5 minutes timer of the challenge, your bees can still sip on it.
+  * The final score is calculated with the following formula: _Score = (5000 * Rounds_Completed) + (1000 * Last_Round_Progress%) + (Total_Cogs_Earned)_
+    * If the player manages to triumph the challenge, the score formula is instead: _125,000 + (Total_Cogs_Earned)_
+  * [![16 Micro-Converters obtained from the Robo Bear Challenge while the item's cap being 15.](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/2e/16_Micro-Converter_RBC.png/revision/latest?cb=20250323045556) [![16 Micro-Converters obtained from the Robo Bear Challenge while the item's cap being 15.](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/2e/16_Micro-Converter_RBC.png/revision/latest/scale-to-width-down/220?cb=20250323045556)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/2e/16_Micro-Converter_RBC.png/revision/latest?cb=20250323045556) [](/wiki/File:16_Micro-Converter_RBC.png)
+
+16 Micro-Converters obtained from the Robo Bear Challenge while the item's cap being 15.
+
+The Robo Bear Challenge can sometimes reward items with a quantity higher than its cap, for example, obtaining 16 [Micro-Converters](/wiki/Micro-Converter "Micro-Converter") even if their cap is 15. The player will still obtain the item normally, not exceeding its cap.
+
+

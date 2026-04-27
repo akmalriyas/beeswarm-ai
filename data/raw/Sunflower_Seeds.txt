@@ -1,0 +1,87 @@
+Context: Bee Swarm Simulator - Sunflower Seeds
+
+Sunflower Seeds
+Sunflower Seed
+_"Increases your bond with a bee by 25."_
+A Sunflower Seed token.
+A Sunflower Seed is a type of treat that can be fed to a Bee to raise its bond by 25. However, when fed to Basic, Bomber, Looker, Demo, Commander, Carpenter, Ninja, Vector, or Precise Bees, the amount of bond they gain is doubled, raising their bond by 50. These bees also have a small chance of becoming gifted when fed Sunflower Seeds, though this only happens with a 0.0125% (1 in 8,000) chance for Rare bees, 0.01% (1 in 10,000) chance for Epic bees, 0.0083% (1 in 12,000) chance for Common and Legendary bees, and 0.00417% (1 in 24,000) chance for Mythic bees per Sunflower Seed. Feeding a radioactive bee a sunflower seed has a 0.004% (1 in 25,000) to mutate a bee. Sunflower Seeds can also be used to craft Oils, Paper Planters, Belt Pocket, Mondo Belt Bag, Bomber Guard, Looker Guard and Basic Boots.
+Ways to obtain[]
+* Ten sunflower seeds can be found inside the maze in the Pro Shop.
+* As a reward from the Ant Challenge.
+* Redeeming certain valid codes:
+Fact: Ways to obtain[] requirement: * 15MMembers (Gives 15 **Sunflower Seeds** \+ other stuff)..
+* Spirit Bear gives Sunflower Seed on the following quest:
+* Echoing Call gives 500 Sunflower Seeds upon receiving quest.
+* As a reward from Memory Matches.
+* Adding the Tiny House Sticker to the Sticker Stack rewards 50 Sunflower Seeds.
+Drops[]
+* As a drop from certain Mobs:
+* Stick Bug
+* Stick Nymph
+* Wild Windy Bee
+* King Beetle
+* Commando Chick
+* Tunnel Bear
+* Puffshroom
+* As a drop from the following planters:
+* Paper Planter (1,3,5, or 10)
+* Ticket Planter.
+* Sticker Planter.
+* Festive Planter.
+* Plastic Planter.
+* Candy Planter.
+* Blue Clay Planter
+* Red Clay Planter.
+* Tacky Planter.
+* Pesticide Planter.
+* Heat-Treated Planter.
+* Petal Planter.
+* As a gift from Cub Buddy.
+* As a drop in the Sunflower Field.
+* Harvesting Leaves in Sunflower Field.
+* Sparkles can drop Sunflower Seeds when harvested (higher chances in Sunflower Field).
+* As a reward from Sprouts, except for Moon, Gummy, and Debug sprouts.
+* Planting a sprout in the Sunflower Field yields 7x more Sunflower Seeds than other fields.
+* As a drop from a Festive Gift or Festive Mark.
+Outdated Ways[]
+* Digging in to the Beesmas Feast.
+* Redeeming certain expired codes:
+Fact: Outdated Ways[] requirement: * The code 5mMembers gave 5 sunflower seeds + other stuff..
+Fact: Outdated Ways[] requirement: * The code FourYearFiesta gave 4 sunflower seeds + other stuff..
+Fact: Outdated Ways[] requirement: * 1MLikes (Gives 1 **Sunflower Seed** \+ other stuff)..
+* Defeating chicks found in Sunflower Field. (Must have Black Bear's Sunflower Corral quest on.)
+Crafting Uses[]
+Total required for all single-purchase items: 263 Sunflower Seeds
+Fact: The **Sunflower Seeds** in Sunflower Seeds has/costs Other ingredients, Result.
+Fact: The 1 in Sunflower Seeds has/costs 25,000 Honey, Paper Planter.
+Fact: The 3 in Sunflower Seeds has/costs 4,400 Honey.
+Fact: The 3 Blueberries in Sunflower Seeds has/costs Basic Boots.
+Fact: The 10 in Sunflower Seeds has/costs 14,000 Honey, Belt Pocket.
+Fact: The 25 in Sunflower Seeds has/costs 300,000 Honey, Looker Guard.
+Fact: The 25 in Sunflower Seeds has/costs 300,000 Honey, Bomber Guard.
+Fact: The 50 in Sunflower Seeds has/costs 10 Royal Jellies, Oil.
+Fact: The 50 in Sunflower Seeds has/costs 440,000 Honey.
+Fact: 50 requirement: 50 Pineapples.
+Fact: The 3 Stingers in Sunflower Seeds has/costs Belt Bag.
+Fact: The 150 in Sunflower Seeds has/costs 12,400,000 Honey.
+Fact: 150 requirement: 1 Soft Wax.
+Fact: 150 requirement: 150 Pineapples.
+Fact: The 10 Stingers in Sunflower Seeds has/costs Mondo Belt Bag.
+Gallery[]
+Sunflower Seed Token inside Pro Maze
+A caption about bee loving sunflower seed
+Fact: The Sub-Inventories in Sunflower Seeds has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Sunflower Seeds has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Sunflower Seeds has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Sunflower Seeds has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Sunflower Seeds has/costs **Treat •  Star Treat •  Atomic Treat •  **Sunflower Seed** •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Sunflower Seeds has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Sunflower Seeds has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Sunflower Seeds has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Sunflower Seeds has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Sunflower Seeds has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Sunflower Seeds has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Sunflower Seeds has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Sunflower Seeds has/costs **7-Pronged Cog**.
+Fact: The Other in Sunflower Seeds has/costs **Marshmallow Bee**.
+Fact: The Currencies in Sunflower Seeds has/costs **Brick •  Cog •  Ticket**.

@@ -1,0 +1,244 @@
+Context: Bee Swarm Simulator - Memory Match
+
+Memory Match
+Datamined information: The probability of finding every possible reward.
+Date of datamined file: December 19th, 2024
+Memory Match is a match-style minigame located in various places throughout the map. The goal is to match as many pairs as possible to win items. There are four (five during Beesmas) of these machines that can be used. Each machine costs a varying amount of honey. (See below.)
+Gameplay[]
+The Night Memory Match Screen. An example of a board of size 4x4 cards.
+The Extreme Memory Match screen. An example of a board of size 4x5 cards.
+When activated, a screen will pop up with a board of size 4x4 or 4x5 grids. A player has a limited number of chances to match cards together. Matching a pair also costs a chance. They can gain more chances if they have the required certain ranks of field badges to get it.
+Machines with rarer rewards require more honey and a higher badge rank for extra chances. They also have a longer cooldown between each activation.
+If at least one match is made, a message will appear in the chat:  Winner!, with the items matched and the amount listed below.
+If no matches are made, a message will appear in the chat:  Better luck next time!
+Machines[]
+Currently, five memory match types can be accessed at any time.
+There's also a memory match that is started upon receiving certain quests.
+* Permanent
+* Limited or Event
+* Memory Match
+* Mega Memory Match
+* Night Memory Match
+* Extreme Memory Match
+Memory Match
+Location
+In front of the Pro Shop
+Fact: In front of the Pro Shop requirement: 25,000 Honey.
+Cooldown
+The Memory Match is located in front of the Pro Shop. It costs 25,000 Honey to use and has a 2-hour cooldown.
+The size of the board is 4x4 cards. The base number of chances is 3, increasing by 1 for owning each of the badges listed below:
+* Clover \- Hotshot
+* Sunflower \- Hotshot
+* Pumpkin \- Hotshot
+8 pairs are picked from the following pool. When a pair is picked, it is removed from the pool, improving the odds for every other pair.
+As a result, the exact chance of a pair appearing is significantly higher than the given percentages. Because of that, they should only serve as an estimate, not as exact values.
+* Two pairs of 1 Royal Jelly (~79.55%)
+* 1 Ticket (~7.96%)
+* 15 Sunflower Seeds (~1.99%)
+* 15 Pineapples (~1.99%)
+* 15 Blueberries (~1.19%)
+* 15 Strawberries (~1.19%)
+* 15 Treats (~0.8%)
+* 1 Jelly Beans (~0.8%)
+* 5 Gumdrops (~0.8%)
+* 5 Moon Charms (~0.8%)
+* 3 Honeysuckles (~0.8%)
+* 1 Magic Bean (~0.8%)
+* 1 Micro-Converter (~0.398%)
+* 1 Field Dice (~0.398%)
+* 5 Tickets (~0.159%)
+* 1 Oil (~0.159%)
+* 1 Enzymes (~0.159%)
+* 1 Glitter (~0.08%)
+Mega Memory Match
+Location
+inside the Badge Bearer's Guild
+Fact: inside the Badge Bearer's Guild requirement: 500,000 Honey.
+Cooldown
+The Mega Memory Match is located inside the Badge Bearer's Guild. It costs 500,000 Honey to use and has a 4-hour cooldown.
+The size of the board is 4x4 cards. The base number of chances is 3, increasing by 1 for owning each of the badges listed below:
+* Spider \- Ace
+* Cactus \- Ace
+* Sunflower \- Ace
+8 pairs are picked from the following pool. When a pair is picked, it is removed from the pool, improving the odds for every other pair.
+As a result, the exact chance of a pair appearing is significantly higher than the given percentages. Because of that, they should only serve as an estimate, not as exact values.
+* Two pairs of 3 Royal Jellies (~76.67%)
+* 3 Tickets (~3.83%)
+* 2 Micro-Converters (~2.3%)
+* 2 Field Dice (~2.3%)
+* 10 Gumdrops (~1.53%)
+* 1 Jelly Beans (~1.53%)
+* 1 Magic Bean (~1.53%)
+* 25 Sunflower Seeds (~1.15%)
+* 25 Pineapples (~1.15%)
+* 10 Moon Charms (~0.77%)
+* 5 Honeysuckles (~0.77%)
+* 50 Treats (~0.77%)
+* 25 Blueberries (~0.77%)
+* 25 Strawberries (~0.77%)
+* 1 Oil (~0.77%)
+* 1 Enzymes (~0.77%)
+* Glitter (~0.77%)
+* 1 Glue (~0.77%)
+* 3 Coconuts (~0.77%)
+* 1 Star Jelly (~0.192%)
+* 10 Tickets (~0.077%)
+* 5 Magic Beans (~0.0383%)
+* Cyan Decorative Border sticker (~0.0192%)
+Night Memory Match
+Location
+Near Bubble Bee Man inside the Bear Gate
+Fact: Location requirement: 5,000,000 Honey.
+Cooldown
+The Night Memory Match is located near Bubble Bee Man inside the Bear Gate. It costs 5,000,000 Honey to use and has an 8-hour cooldown.
+The size of the board is 4x4 cards. The base number of chances is 3, increasing by 1 for owning each of the badges listed below:
+* Pineapple \- Master
+* Dandelion \- Master
+* Clover \- Master
+8 pairs are picked from the following pool. When a pair is picked, it is removed from the pool, improving the odds for every other pair.
+As a result, the exact chance of a pair appearing is significantly higher than the given percentages. Because of that, they should only serve as an estimate, not as exact values.
+* 2 pairs of 25 Moon Charms (~63.67%)
+* 1 Magic Bean (~15.92%)
+* 1 Glitter (~6.37%)
+* 1 Oil (~1.27%)
+* 1 Enzymes (~1.27%)
+* 3 Micro-Converters (~1.27%)
+* 1 Star Jelly (~0.64%)
+* 5 Stingers (~0.64%)
+* 5 Tickets (~0.64%)
+* 500 Treats (~0.64%)
+* 5 Honeysuckles (~0.64%)
+* 3 Field Dice (~0.64%)
+* 1 Night Bell (~0.0318%)
+* 1 Star Treat (~6.4E-5%)
+Extreme Memory Match
+Location
+Near the Pepper Patch
+Fact: Near the Pepper Patch requirement: 25,000,000 Honey.
+Cooldown
+The Extreme Memory Match is located near the Pepper Patch. It costs 25,000,000 Honey to use and has an 8-hour cooldown.
+The size of the board is 4x5 cards. The base number of chances is 5, increasing by 1 for owning each of the badges listed below:
+* Spider \- Grandmaster
+* Sunflower \- Grandmaster
+* Pumpkin \- Grandmaster
+10 pairs are picked from the following pool. When a pair is picked, it is removed from the pool, improving the odds for every other pair.
+As a result, the exact chance of a pair appearing is significantly higher than the given percentages. Because of that, they should only serve as an estimate, not as exact values.
+* 1 Star Jelly (~26.37%)
+* 2 pairs of 25 Royal Jellies (~26.37%)
+* 5 Tickets (~13.19%)
+* 1 Magic Bean (~13.19%)
+* 3 Oils (~6.59%)
+* 3 Enzymes (~6.59%)
+* 3 Red Extracts (~1.32%)
+* 3 Blue Extracts (~1.32%)
+* 1 Tropical Drink (~1.32%)
+* 1 Glitter (~0.53%)
+* 25 Gumdrops (~0.26%)
+* 3 Micro-Converters (~0.26%)
+* 3 Jelly Beans (~0.26%)
+* 200 Sunflower Seeds (~0.26%)
+* 200 Blueberries (~0.26%)
+* 200 Strawberries (~0.26%)
+* 200 Pineapples (~0.26%)
+* 10 Honeysuckles (~0.26%)
+* 1 Cloud Vial (~0.26%)
+* 5 Coconuts (~0.26%)
+* 5 Stingers (~0.26%)
+* 2,500 Treats (~0.26%)
+* 15 Tickets (~0.026%)
+* 5 Glitter (~0.0132%)
+* 1 Gold Egg (~0.0132%)
+* 3 Star Jellies (~0.0053%)
+* Sideways Spirit Bear Sticker (~0.0053%)
+* 1 Diamond Egg (~0.0026%)
+* 1 Star Treat (~2.6E-5%)
+* Winter Memory Match
+* Spirit Bear's Quest Memory Match
+Winter Memory Match
+Location
+Near the Pine Tree Forest and the Sticker Stack
+100 Snowflakes
+Cooldown
+The Winter Memory Match is a limited-time memory match added in the Beesmas 2020 update and reintroduced in every Beesmas event since. It is located near the Pine Tree Forest and the Sticker Stack. It costs 100 Snowflakes to use and has a 4-hour cooldown. The player can only play it after completing Spirit Bear's quest for that Beesmas.
+The size of the board is 4x5 cards. The base number of chances is 5, increasing by 1 for owning each of the badges listed below:
+* Pine Tree \- Master
+* Stump \- Master
+* Coconut \- Master
+When a player attempts to use this without having completed Spirit Bear's Beesmas quest, the following message appears:  Looks like you need a membership of some sort to play Winter Memory Match...
+10 pairs are picked from the following pool. When a pair is picked, it is removed from the pool, improving the odds for every other pair.
+As a result, the exact chance of a pair appearing is significantly higher than the given percentages. Because of that, they should only serve as an estimate, not as exact values.
+* 2 pairs of 1 Gingerbread Bear (~79.77%)
+* 3 Jelly Beans (~1.99%)
+* 5 Micro-Converters (~1.99%)
+* 5 Field Dice (~1.99%)
+* 1 Magic Bean (~1.99%)
+* 1 Glitter (~1.99%)
+* 15 Honeysuckles (~1.99%)
+* 1 Star Jelly (~1.2%)
+* 3 Oils (~0.8%)
+* 3 Soft Waxes (~0.8%)
+* 3 Enzymes (~0.8%)
+* 10 Tickets (~0.8%)
+* 100 Gumdrops (~0.8%)
+* 3 Tropical Drinks (~0.8%)
+* 1 Hard Wax (~0.8%)
+* 1 Smooth Dice (~0.8%)
+* 1 Swirled Wax (~0.4%)
+* 1 Gold Egg (~0.16%)
+* 1 Night Bell (~0.06%)
+* 1 Silver Egg (~0.04%)
+* 1 Diamond Egg (~0.02%)
+* 1 Super Smoothie (~0.008%)
+* 1 Mythic Egg (~0.0016%)
+* 1 Festive Bean (~0.0016%)
+* 1 Star Treat (~0.00032%)
+Spirit Bear's Quest Memory Match
+Location
+Given by Spirit Bear on specific quests
+Cooldown
+The Spirit Bear's Quest Memory Match can be accessed by doing certain Spirit Bear's quests.
+The size of the board is 4x4 cards. The base number of chances is 5, increasing by 1 for owning each of the badges listed below:
+* Strawberry \- Master
+* Bamboo \- Master
+* Pumpkin \- Master
+8 pairs are picked from the following pool. When a pair is picked, it is removed from the pool, improving the odds for every other pair.
+As a result, the exact chance of a pair appearing is significantly higher than the given percentages. Because of that, they should only serve as an estimate, not as exact values.
+* Two pairs of 10 Royal Jellies (~81.97%)
+* 1 Glitter (~4.92%)
+* 150 Sunflower Seeds (~2.46%)
+* 150 Pineapples (~2.46%)
+* 150 Strawberries (~1.23%)
+* 150 Blueberries (~1.23%)
+* 25 Moon Charms (~0.82%)
+* 25 Gumdrops (~0.82%)
+* 5 Jelly Beans (~0.82%)
+* 3 Magic Beans (~0.82%)
+* 1,000 Treats (~0.82%)
+* 2 Oils (~0.82%)
+* 2 Enzymes (~0.82%)
+Gallery[]
+The access notification for Memory Match.
+The access notification for Winter Memory Match.
+The prompt that appears when the player chances to play the Winter Memory Match but has not finished the quest "Spirit Bear's Galentine Shrine".
+The following audio plays when a card is flipped over:
+<https://bee-swarm-simulator.fandom.com/wiki/File:Mmcardflip.ogg>
+The following audio plays when a pair is correctly matched (pitched higher and sped up in game):
+<https://bee-swarm-simulator.fandom.com/wiki/File:Mmmatch.ogg>
+Trivia[]
+* The Extreme Memory Match is the biggest Memory Match machine in terms of the "computer" model size. It is also the most expensive machine in terms of honey.
+* If the player started a new memory match game while one was already active, the new game would not have started, but the player still had to pay the fee and wait for the cooldown. This is no longer possible because the player's movespeed is set to zero during a memory match game.
+* The player can still move during the minigame by using the Parachute or Glider.
+* The Winter Memory Match is the only machine that can only be accessed during an event and requires the completion of a quest to use, namely Spirit Bear's quest for that Beesmas.
+* The Winter Memory Match had an unusual bug where if the player did not have enough snowflakes, trying to use the machine displayed the message:
+and Complete 1 Quest to You need 100 Snowflakes to play Winter Memory Match.
+* Assuming there are no duplicate pairs and the player is playing optimally, the chances of getting any prizes in a Memory Match for each board size is:
+* For 4x4: about 37% for 3 chances, 46% for 4 chances, 54% for 5 chances, and 60% for 6 chances.
+* For 4x5: about 45% chance to reward the player if they receive 5 chances, 51% for 6 chances, 56% for 7 chances, and 61% for 8 chances.
+Fact: The Fields in Memory Match has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Memory Match has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Memory Match has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Memory Match has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • **Memory Match** • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Memory Match has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Memory Match has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Memory Match has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Memory Match has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

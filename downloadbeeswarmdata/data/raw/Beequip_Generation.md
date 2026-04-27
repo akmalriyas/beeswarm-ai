@@ -1,0 +1,146 @@
+# Beequip/Generation
+
+![Digital Bee](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/27/Digital_Bee.png/revision/latest/scale-to-width-down/100?cb=20230415203844) | **This piece of content contains information obtained through datamining.** Due to the nature of the information, details may be inaccurate or outdated.  
+Datamined information: All content below.  
+Date of datamined file: March 18th, 2026  
+---|---  
+  
+This article goes into extreme detail on the inner workings of beequips. It will go through each step of the function that generates the stats of a beequip in order, and point out every known quirk/bug with the generation along the way. 
+
+Reading through [the shortened version of this explanation](/wiki/Beequip#Generation "Beequip") will provide important context. This article also assumes that the reader has a basic knowledge of programming, specifically with random number generation and float numbers. A basic understanding of [Lua](https://en.wikipedia.org/wiki/Lua "wikipedia:Lua") will also help. 
+
+## Required knowledge[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D1&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+### [The Resolve function](/wiki/Module:RQValue "Module:RQValue")[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D2&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+The Resolve function (or the RQValue function) is the main determiner of a beequip's stats. An explanation of what the function does is given in [its module page](/wiki/Module:RQValue "Module:RQValue"), but such an explanation is not required to understand this article. 
+
+The only important thing to know is that the result of the function is a single number value, which can either be: 
+
+  * **An exact value** , if the function uses linear scaling, or if the stat's value is always a single number. The higher the provided _quality_ , the closer this value goes from its left bound to its right bound.
+  * **A random value between 2 given limits** , if the function uses the RandomBias function. This value will be biased toward values near a certain value. The higher the provided _quality_ , the closer the biased value goes from its left bound to its right bound.
+  * Note that the left bound does not necessarily have to be smaller than the right bound.
+
+
+
+This result is rounded by a _resolution_ value, if one is provided. _Note that if this value is not provided, the result is kept the same._
+
+### Weights[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D3&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+When weights are mentioned, it is in the context of a pool of items that the game needs to pick 1 (or multiple) from. _The weight of an item in the pool determines the probability of it being picked from the pool._
+
+This is done by generating a random number between 0 and the weight sum of every item in the pool, then iterating through the pool and subtracting weights of items from the random number until it is less than or equal to 0, in which case it picks the stat the pointer is currently on. 
+
+**In other words, the probability of an item being picked is equal to its weight divided by the weight sum of every item in the pool.**
+
+### Beequip table[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D4&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+Each beequip' template stats are stored as a table. The game uses this template table to determine the stats of a beequip. These tables (with some mild modifications) can be found in [Module:Beequip Stats/data](/wiki/Module:Beequip_Stats/data "Module:Beequip Stats/data"). 
+
+This table can have the following keys. Keys important to understanding beequip generation are underlined. 
+
+  * _DisplayName_ : Stores _the name used when displaying the beequip_ to the player. 
+    * The only beequip that uses this key is Toy Horn, whose internal name is Horn Ornament.
+  * _Description_ : The _description of the beequip_ , viewable from the Beequip Case, Storage or Inbox.
+  * _Rarity_ : The _**perceived** rarity of the beequip_. It is not used for anything in the game.
+  * _EquipLimit_ : The _maximum number_ of this type of beequip the player can equip at a time.
+  * _Beesmas_ : Whether or not this beequip is _Beesmas-related_.
+  * __OldRNG_ : Whether or not to **use the _Resolve_ or _OldResolve_ function** when generating the beequip._
+  * _Requirements_ : The _requirements_ for a bee to use the beequip.
+  * __Modifiers_ : An _array_ containing RQValue-valid tables, **describing every base bee stat** the beequip can have._
+  * __HiveBonuses_ : An _array_ containing RQValue-valid tables, **describing every base hive bonus** the beequip can have._
+  * __Abilities_ : An _array_ containing tables with either **the name of an ability, or a pool of names of abilities**. The beequip is **guaranteed** to have the ability, or one of the abilities in the pool._
+  * __Upgrades_ : An _array_ containing tables describing **every upgradable stat and/or ability** the beequip can have. Note that while the tables are RQValue-valid, with a _Chance_ and _Value_ table, a different process is used._
+
+
+
+## Generation[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D5&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+### Seed[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D6&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+_Every beequip is assigned a new seed_ when first generated, and when a Swirled Wax is applied to it. This seed is used as the seed for the random number generator **used through the entirety of the beequip's generation** , and is how the game stores a beequip's stats, as opposed to storing every stat of the beequip alongside it. _Note that this seed does not affect whether waxes are successful or not when applied to the beequip, only the stats the beequip will get from the wax points applied by the waxes._
+
+Note that while this may mean that it is possible to _determine a beequip's stats before waxing it_ (assuming the player somehow manages to find the beequip's seed, and only uses waxes that are guaranteed to be successful), **in practice this is made much more difficult (if not impossible)** due to factors that will be talked about later in the article. 
+
+### Base[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D7&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+The beequip determines its base stats by going through _Modifiers_ , _HiveBonuses_ , and _Abilities_ in that order. 
+
+#### _Modifiers_ and _HiveBonuses_[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D8&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+**Every table in each array is iterated through and put inthe Resolve function.** If _nil_ is returned, the beequip will not have the stat. If a single number value is returned, the beequip will have the stat with the strength of that value. 
+
+There are a few quirks to keep in mind here: 
+
+  * Because the probability of getting the stat is resolved using the Resolve function, **it is possible that this probability is a random value** , if the Resolve function chooses to use the RandomBias function. The beequip's potential gives the beequip a better chance at getting a better probability of getting a stat, _but this is a case where the beequip's potential may not necessarily improve a beequip's stat._
+  * If the stat is not given a resolution value, it is not rounded. **However, when displaying the stat to the player, these stats are rounded to a certain resolution before displaying.**
+    * For example, a +24.6% Gather Amount base stat may be displayed as +25% to the player.
+  * _If the stat is given a resolution value, but the limits of the base stat's value does not divide the resolution value_ , then after rounding, **the limits of the base stat's value may be different from what is intended.**
+    * For example, if a stat's base value is intended to be between 3% and 8%, but have a resolution value of 10%, the stat's actual base value is between 0% and 10%, as values between 3% and 5% are rounded down to 0% and values between 5% and 8% and rounded up to 10%.
+
+
+
+#### _Abilities_[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D9&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+**Every table in each array is iterated through, and the ability in the table is added to the beequip.**
+
+**If the table contains a pool of names,one is picked randomly using the weight system.** Note that at of the time of writing this, every ability in any beequip's ability pool has the same weight, meaning they all have the same probability of being picked. 
+
+### Upgrade[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D10&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+The beequip first checks if it has any wax point, by going through every wax applied to it and adding the wax points of every successful wax together. If it does not have any, the upgrade step is skipped. 
+
+#### Chances[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D11&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+If the beequip has wax points, it will then **iterate through every table in the _Upgrades_ array to calculate each upgradable stat's weight value.** This is done by running the Resolve function on the table's _Chance_ table, and saving the result to a pool. 
+
+_2 pools are created, each with their own weight sums_ : 1 for every possible upgradable stat, and 1 for every upgradable stat that does not require wax points from a Caustic/Debug Wax. 
+
+**Upgrades can have a maximum number of wax points allowed to upgrade it.** When this number is reached, _the upgrade is removed from the pools_ , improving the probabilities of upgrading every other stat. 
+
+Note that because the weights are resolved using the Resolve function, **it is possible that one (or multiple) stats' weights are randomized** , if the Resolve function chooses to use the RandomBias function. The beequip's potential gives the beequip a better chance at getting a higher weight for these stats, _but this is a case where the beequip's potential may not necessarily improve a beequip's upgrades._
+
+#### Applying waxes[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D12&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+Every wax that was applied to a beequip is then iterated through again. If a wax was recorded as successful, the game applies the number of wax points it gives to the beequip, before moving to the next wax. 
+
+Before the wax points of a wax are applied however, **the game takes a number between 0 and 16 that was stored with the wax's record and runs the random number generator by that number of times**. This number is not determined by the beequip's seed, and is the reason why _it is practically impossible to predict a beequip's wax upgrades_ , even if the beequip's seed is known. 
+
+#### Upgrade value[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D13&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+Once a stat is chosen by a wax point, **it will runthe Resolve function on the stat's _Value_ table in order to determine how much the stat should be upgraded by.**
+
+If an ability is chosen, it is given to the beequip. _Note that if an ability pool is chosen, which ability is picked is not decided in this step._
+
+There are a few quirks to keep in mind here: 
+
+  * If the upgrade value is not given a resolution value, it is not rounded. **However, when displaying the stat to the player, these stats are rounded to a certain resolution before displaying.**
+    * For example, a +1.6% Gather Amount upgrade value may be displayed as +2% to the player.
+    * This creates scenarioes where **a rounded upgrade value would have upgraded a stat by much more or less than the actual value**. For example, 5 +1.4% Gather Amount upgrades gives a total upgrade value of 7%, but would have been 5% if the upgrade values were rounded to the nearest 1%.
+  * _If the upgrade value is given a resolution value, but the limits of the base stat's value does not divide the resolution value_ , then after rounding, **the limits of the base stat's value may be different from what is intended.**
+    * For example, if a wax point can upgrade a stat by a value intended to be between 3% and 8%, but have a resolution value of 10%, the stat's actual range of upgrade values is between 0% and 10%, as values between 3% and 5% are rounded down to 0% and values between 5% and 8% and rounded up to 10%.
+    * One major issue this can cause is if the resolution value is too high (like seen with some of [Autumn Sunhat](/wiki/Autumn_Sunhat "Autumn Sunhat") and [Candy Ring](/wiki/Candy_Ring "Candy Ring")'s stats), **the range of upgrade values may be rounded down to 0%, effectively wasting any wax point that chooses to upgrade these stats**. 
+      * With Candy Ring's +Convert Amount% specifically, while it is theoretically possible to get an upgrade value of 50%, which is rounded up to 100%, in practice this is mathematically impossible.
+
+
+
+### Cleaning up[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D14&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+After all the above steps are completed, the beequip's newly chosen stats are then parsed into a format understandable by the rest of the code. 
+
+While this step doesn't have any notable quirk in of itself, **if an ability pool was chosen by a wax point earlier, the ability the wax point picks is decided here, after every wax point has been applied**. This is why _applying extra wax points (through a Soft/Debug Wax or a successful Hard/Caustic Wax) can change which ability is chosen_ \- as the random number generation has gone through more numbers and therefore will give a different value - without having to use a Swirled Wax. 
+
+## Items[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fbee-swarm-simulator.fandom.com%2Fwiki%2FBeequip%2FGeneration%3Fveaction%3Dedit%26section%3D15&uselang=en&metadata=article-registration-edit-article-section "Sign in to edit")]
+
+[Waxes](/wiki/Waxes "Waxes") and [Turpentines](/wiki/Turpentine "Turpentine") can have an effect on a Beequip. Their exact effect is listed here: 
+
+  * Non-Swirled waxes: If successful, **runs the beequip's random number generation a random number of times** and then **applies a certain number of wax points to the beequip**. 
+    * ![Soft Wax](https://static.wikia.nocookie.net/bee-swarm-simulator/images/7/77/Soft_Wax.png/revision/latest/scale-to-width-down/25?cb=20230404042757)[Soft Wax](/wiki/Soft_Wax "Soft Wax"): 1 wax point, 100% success rate
+    * ![Hard Wax](https://static.wikia.nocookie.net/bee-swarm-simulator/images/d/d2/Hard_Wax.png/revision/latest/scale-to-width-down/25?cb=20230404042803)[Hard Wax](/wiki/Hard_Wax "Hard Wax"): 2 wax points, 60% success rate
+    * ![Caustic Wax](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Caustic Wax](/wiki/Caustic_Wax "Caustic Wax"): 4 wax points, 25% success rate, destroys the beequip if it fails
+    * ![Debug Wax](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Debug Wax](/wiki/Debug_Wax "Debug Wax"): 4 wax points, 100% success rate
+  * ![Swirled Wax](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Swirled Wax](/wiki/Swirled_Wax "Swirled Wax"): **Changes theseed of the beequip**. This effectively changes the base stats and upgrade values of the beequip, but _does not change the number of times each wax runs the beequip's random number generation_.
+  * ![Turpentine](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Turpentine](/wiki/Turpentine "Turpentine"): **Resets the beequip's seed to its original seed** , and **runs the beequip's random number generation** once for each time a Turpentine has been applied after its base bee stats and hive bonuses have been generated, **but before its abilities are generated**. 
+    * This makes it so that while a beequip's base bee stats and hive bonuses revert to their original base values, _if the beequip has an ability pool, the chosen ability may be different from the original one_.
+
+

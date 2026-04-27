@@ -1,0 +1,88 @@
+Context: Bee Swarm Simulator - Meteor Shower
+
+Meteor Shower
+The Mythic Meteor Shower summoner.
+A Mythic Meteor Shower is a server-wide event that was added in the 2020-06-06 update. Its original location was on top of the Pro Shop but has since been changed to be on Badge Bearer's Guild in the 2024-01-12 update. Any player who has discovered at least 3 Mythic Bee types can summon it and it has a cooldown of 22 hours.
+When summoned by a player, the distorted voice of IcedTeaLatte says "Mythic Meteors", and a server-wide announcement will state:
+{Username} has summoned a Mythic Meteor Shower!
+Rarely, Onett himself will summon a global meteor shower. Most of the time, he will give himself a custom alias, similar to the message shown above. In this case, a server-wide announcement will state:
+A Mythic Meteor Shower has been summoned!
+Sometimes, usually before Beesmas ends, Onett "Onett \(Developer\)") will summon Mythic Meteor Showers under an alias.
+A light purple fog will appear, and meteors will start raining down on 3 random fields, those of which will show white boxes falling from the sky onto them (similar to the pollen haze box). These boxes will appear vibrant from a distance but will dim when the player enters the field, and they indicate that meteors are falling onto those fields. The prizes scale with size, for the smaller the meteor, the higher the chance to get more valuable rewards. If the Meteor Shower was activated by a player, the meteors will collect and instantly convert pollen for them, and the amounts collected are based on the number of Mythic and Gifted Mythic bees in their hive. If a player catches a meteor from a player-summoned mythic meteor shower, it will collect two times as much pollen from the field and give it to the player who summoned it. The event lasts for 3 minutes, and the chosen fields will swap a total of 3 times during that time period with the swap occurring approximately once every minute.
+If the player is on cooldown, the pad will prompt, "Summon a Mythic Meteor Shower ([time remaining])." If there is a Meteor Shower currently active and the player steps on the pad, whether or not the player is on or off cooldown, it will prompt, "A Meteor Shower is in progress".
+When a player stands on the drop zone of a meteor (which is indicated by a purple circle), the reward tokens will be distributed in a line across the field, usually leading to the drop zone of another meteor. The number of tokens per meteor is determined by the number of Mythic bees in the summoner's hive, while the rarity of reward tokens changes with the size of the meteor drop zone (with rarer items tending to be more common the smaller the meteor). Tokens produced by the Meteors can be collected with token links and other means of token collection. The drops are not affected by a player's loot luck.
+* Moon Charm
+* Bitterberry
+* Neonberry
+* Royal Jelly
+* Glitter (Common).
+* Star Jelly (Rare).
+* Purple Potion (Very Rare).
+* Atomic Treat (Extremely Rare)
+* Diamond Egg (Exceptionally Rare).
+* Gifted Diamond Egg (Unfathomably Rare).
+* Mythic Egg (Exceptionally Rare).
+* Super Smoothie (Unfathomably Rare).
+* Star Treat (Nearly Impossible).
+* Star Egg (Nearly Impossible).
+* Cool Backpack Sticker (Extremely Rare).
+* Squashed Head Bear Sticker (Extremely Rare).
+* Royal Symbol Sticker (Unbelievably Rare)
+* Star Sign Stickers (Depends on the date, Unbelievably Rare)
+* Capricorn: December 22 to January 19
+* Aquarius: January 20 to February 18
+* Pisces: February 19 to March 20
+* Aries: March 21 to April 19
+* Taurus: April 20 to May 20
+* Gemini: May 21 to June 20
+* Cancer: June 21 to July 22
+* Leo: July 23 to August 22
+* Virgo: August 23 to September 22
+* Libra: September 23 to October 22
+* Scorpio: October 23 to November 21
+* Sagittarius: November 22 to December 21
+Sound Effects[]
+The following audios play when a meteor shower is summoned: <https://bee-swarm-simulator.fandom.com/wiki/File:Meteorshowervoice.ogg> <https://bee-swarm-simulator.fandom.com/wiki/File:Meteorshowerbackground.ogg> <https://bee-swarm-simulator.fandom.com/wiki/File:MeteorFall.ogg>
+Gallery[]
+A mythic meteor shower being summoned.
+Purple circles indicating where meteors will land.
+The line of loot from a mythic meteor.
+A mythic meteor falling
+A user summoning a mythic meteor shower.
+Onett is able to manipulate the function of the Mythic Meteor Shower event to activate it globally, sometimes under unique names.
+* Onett summoning a mythic meteor shower at 1 billion visits.
+* Mondo Chick the Large and Mentally Lacking Springtime Honeyday Bird summoning a Mythic Meteor Shower at the end of Beesmas 2020.
+* Onett summoning a mythic meteor shower under an alias.
+* A celebratory message of 100k concurrent players.
+* Onett summoning a mythic meteor shower during beesmas under another of his alias.
+* The Playerbase's Collective Anger summoning a Mythic Meteor Shower (2021-01-30)
+* The Newer Mythic Alliance summoning a Mythic Meteor Shower
+* Gingerbread cub buddy, who’s throwing a tantrum of astronomical proportions, has summoned a meteor shower
+* Onett summoning a mythic meteor shower, under the alias "Snow Cub Buddy (it is trying to crush you)"
+* Mythic Meteor Shower summoned by an alias of Onett named "2023", summoned at the end of 2022.
+* Onett summoning a Mythic Meteor Shower by the alias of "The 1 billionth use of Brown Bear's Stockings" at the end of Beesmas 2022.
+* The Spirit of Beesmas Eve summoning a Mythic Meteor Shower.
+* Bee Bear summoning a Mythic Meteor Shower at the end of Winter Beesmas 2024.
+* The Beesmas Tree's Glory summoning a Mythic Meteor Shower (Plus A Debug Sprout) at the end of Winter Beesmas 2024.
+* Festives Bee's Pride summoning a Mythic Meteor Shower at the end of Winter Beesmas 2024.
+* Your Unfinished Beesmas Quest Consolation Prize summoning a Mythic Meteor Shower at the end of Winter Beesmas 2024.
+* Beesmas Delays summoning a Meteor Shower.
+* Gifted Gather Amount Mutation Digital Bee Level 23 Maxed Drives summoning a Mythic Meteor Shower.
+* Onett summoning a Mythic Meteor Shower in celebration of BSS YouTuber Banana hitting 200,000 subscribers.
+* A Mythic Meteor Shower being summoned in relation to the bee freezing bugs being fixed.
+Trivia[]
+* Similar to a Honeystorm and a Snowstorm, if it changes from day to night or from night to daytime, the fog will disappear.
+* If you summon a Honeystorm during a meteor shower, the Honeystorm's yellow fog will replace the purple fog, then the fog vanishes when the Honeystorm ends.
+* Meteors summoned by players are boosted by consumables that affect fields such as Glitter, Field Dice and field boosters meaning that the player who summons the meteors is capable of getting lots of Honey through these methods.
+* Similar to Wild Windy Bee, the quality of the rewards is affected by the law of diminishing marginal utility, meaning that the more times the player has experienced Mythic Meteor Showers in one day, the worse the rewards gradually get as they participate.
+* This is the third summoner that requires bees, including the Sprout Summoner, and the Honeystorm Summoner.
+* This is the only machine that requires the player to discover Mythic bee types to be used.
+* Both this and the Honeystorm, when summoned by a player, plays the distorted voice of IcedTeaLatte saying the event's name.
+Fact: The Fields in Meteor Shower has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Meteor Shower has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Meteor Shower has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Meteor Shower has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • **Mythic Meteor Shower** • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Meteor Shower has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Meteor Shower has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Meteor Shower has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Meteor Shower has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

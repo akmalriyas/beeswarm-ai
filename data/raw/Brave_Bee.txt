@@ -1,0 +1,95 @@
+Context: Bee Swarm Simulator - Brave Bee
+
+Brave Bee
+Brave Bee
+_"This loyal bee will do anything to protect its owner."_
+Fact: The 30 in Brave Bee has/costs **Speed**.
+Fact: The 16.8 in Brave Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #9f9f9f #f1f1f1 #9f9f9f
+Brave Bee is a Colorless Rare Bee.
+Brave Bee's favorite treat is Pineapples.
+Brave Bee likes the Clover Field and the Spider Field. It dislikes the Dandelion Field.
+* Collects 10 pollen in 4 seconds.
+* Makes 200 honey in 4 seconds.
+* +20% movespeed, +50% energy, +120 convert amount, +5 attack.
+* 🌟 Gifted Hive Bonus: +1 Bee Attack.
+Abilities[]
+Fact: Abilities[] statistic: Brave Bee has a base pollen collection of **10** in **4 seconds**. That's equivalent to 2.5  per second. (**20** in **4 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Brave Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The without Melody in Brave Bee has/costs with Melody.
+Fact: The Single in Brave Bee has/costs 10, 20, 30.
+Fact: The Double in Brave Bee has/costs 20, 40, 60.
+Fact: The Triple in Brave Bee has/costs 30, 60, 90.
+Fact: The Large in Brave Bee has/costs 40, 80, 120.
+Fact: The Star in Brave Bee has/costs 50, 100, 150.
+Brave Bee can make 200 in 4 seconds! That's equivalent to 50 per second. (200 in 2 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Brave Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Brave Bee has/costs 25%, 250.
+Fact: The 2 in Brave Bee has/costs 50%, 300.
+Fact: The 3 in Brave Bee has/costs 75%, 350.
+Fact: The 4 in Brave Bee has/costs 100%, 400.
+Fact: The 5 in Brave Bee has/costs 125%, 450.
+Fact: The 6 in Brave Bee has/costs 150%, 500.
+Fact: The 7 in Brave Bee has/costs 175%, 550.
+Fact: The 8 in Brave Bee has/costs 200%, 600.
+Fact: The _Science Enhancement_ in Brave Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Brave Bee has/costs 225%, 650.
+Fact: The 10 in Brave Bee has/costs 250%, 700.
+Fact: The 11 in Brave Bee has/costs 275%, 750.
+Fact: The 12 in Brave Bee has/costs 300%, 800.
+Fact: The 13 in Brave Bee has/costs 325%, 850.
+Fact: The 14 in Brave Bee has/costs 350%, 900.
+Fact: The 15 in Brave Bee has/costs 375%, 950.
+Fact: The 16 in Brave Bee has/costs 400%, 1000.
+Fact: The _Science Enhancement_ in Brave Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Brave Bee has/costs 425%, 1050.
+Fact: The 18 in Brave Bee has/costs 450%, 1100.
+Fact: The 19 in Brave Bee has/costs 475%, 1150.
+Fact: The 20 in Brave Bee has/costs 500%, 1200.
+Fact: The 21 in Brave Bee has/costs 525%, 1250.
+Fact: The 22 in Brave Bee has/costs 550%, 1300.
+Fact: The 23 in Brave Bee has/costs 575%, 1350.
+Fact: The 24 in Brave Bee has/costs 600%, 1400.
+Fact: The _Science Enhancement_ in Brave Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Brave Bee has/costs 625%, 1450.
+Fact: The 26 in Brave Bee has/costs 650%, 1500.
+Fact: The 27 in Brave Bee has/costs 675%, 1550.
+Fact: The 28 in Brave Bee has/costs 700%, 1600.
+Fact: The 29 in Brave Bee has/costs 725%, 1650.
+Fact: The 30 in Brave Bee has/costs 750%, 1700.
+Fact: The 31 in Brave Bee has/costs 775%, 1750.
+Egg and Jelly Probability
+Fact: The Basic Egg in Brave Bee has/costs 10%, 1.11111%.
+Fact: The Silver Egg in Brave Bee has/costs 64.9%, 7.21111%.
+Fact: The Gold Egg in Brave Bee has/costs 0%, 0%.
+Fact: The Diamond Egg in Brave Bee has/costs 0%, 0%.
+Fact: The Mythic Egg in Brave Bee has/costs 0%, 0%.
+Fact: The Royal Jelly in Brave Bee has/costs 70%, 7.77778%.
+Gallery[]
+A Gifted Brave Bee hive slot.
+Brave Bee’s face.
+Brave Bee's model on the Brave Bee Gate.
+Brave Bee's original face.
+The Flying Brave Bee Sticker.
+Trivia[]
+* Brave Bee and Basic Bee are the only bees in the game that don't produce any ability tokens unless they are in their gifted form or have a beequip that grants an ability token.
+* The Brave Bee Gate has a large model of a Brave Bee on it.
+* Brave Bee is the strongest Rare bee in terms of attack, with a base attack power of 6.
+* The Brave Guard, which is purchased in the Pro Shop, has a special design, name, and stats dedicated to Brave Bee.
+* Brave Bee's body color scheme is a darker version of the Vector Bee's colour scheme.
+* Brave bee is one of the 16 bees to have a sticker based off of them.
+* During Bee Bear's "Ability Token Tidings" quest Bee Bear refers to Brave Bee and Basic Bee as "Poor little merely mortals bees".
+* Bee Bear also says they aren't magic because they can't create ability tokens.
+* Although it is non-functional, Brave Bee is the only bee in the game to have a coded disliked treat, being blueberries.
+Fact: The Common & Rare in Brave Bee has/costs **Basic Bee •  Bomber Bee •  **Brave Bee** •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Brave Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Brave Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Brave Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Brave Bee has/costs **Bear Bee •  Cobalt Bee •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

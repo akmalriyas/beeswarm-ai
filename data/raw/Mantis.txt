@@ -1,0 +1,73 @@
+Context: Bee Swarm Simulator - Mantis
+
+Location
+Pineapple Patch, Pine Tree Forest
+Respawns Every
+20 minutes (17 minutes with a Gifted Vicious Bee in hive)
+Fact: The Health in Mantis has/costs Damage.
+115 (Lvl 4)
+140 (Lvl 5)
+Fact: The 165 (Lvl 6) in Mantis has/costs 20.
+Fact: The Battle Points in Mantis has/costs Bond.
+Fact: The 5 in Mantis has/costs 25.
+Fact: The Honey in Mantis has/costs Level.
+Fact: The 250 in Mantis has/costs 4-6.
+The Mantis is a mob that defends the Pineapple Patch and the Pine Tree Forest.
+It takes 20 minutes for a Mantis to respawn after being defeated (17 minutes if the player has a Gifted Vicious Bee).
+This Mob's level can range from 4-6 depending on the field it is located at.
+The Mantis is green with red eyes. Its arms stick out, similar to a praying mantis.
+Locations[]
+Fact: The Field in Mantis has/costs Quantity, Level.
+Fact: The Pineapple Patch in Mantis has/costs 1 (with 1 Rhino Beetle), 4.
+Fact: The Pine Tree Forest in Mantis has/costs 2 (with 1 Werewolf), 5 (on left) 6 (on right).
+Guaranteed:
+* 5 Battle Points.
+Fact: Pine Tree Forest requirement: * 250 Honey. (Loot Luck: + Honey From Tokens)..
+Fact: Pine Tree Forest requirement: * Tickets (20% chance) (Loot Luck: + Drop rate)..
+* Snowflakes (increments of 1, 5, 50 or 100) (Beesmas only).
+* Blueberries (increments of 1, 3, 5, 10, 25, 50 or 100).
+* Pineapples (increments of 1, 3, 5, 10, 25, 50 or 100).
+* Treats (increments of 3, 5, 10, and 25).
+* Gumdrops (increments of 1, 5, 10 or 25).
+* Moon Charms (Rare).
+* Robo Pass (Rare).
+* Royal Jellies (increments of 1, 5, or 10).
+* Micro-Converters (increments of 1 or 5).
+* Smooth Dice (Rare).
+* Neonberries (Rare).
+* Whirligigs (Rare).
+* Oils (increments of 1, 5 or 10) (Rare).
+* Glitter (increments of 1 or 5) (Rare).
+* Beesmas Top (Beesmas only, Rare).
+* Menacing Mantis Sticker (Extremely Rare).
+* Silver Eggs (increments of 1 or 5) (Extremely Rare).
+* Diamond Egg (Unfathomably Rare).
+* Gifted Gold Egg (Unfathomably Rare).
+* Pink Balloon (Nearly Impossible).
+Strategy[]
+Due to the Mantis' long attack range, the player’s Bees normally won’t target it until they get closer/when the mantis itself attacks. Try to get at the very edge of its enormous jump range. Then, when it stops to get ready to attack, walk in a very wide circle around it. If done correctly, the mantis will undershoot and land where you were a few seconds before. This is often close enough for your Bees to start attacking, even once it retreats back. Also, keep in mind the Frozen Field Defenders Glitch can be used to defeat it, just like with most other mobs. When a Mantis is stuck in an object, the player can also defeat it more easily.
+Gallery[]
+Obtaining 5 Silver Eggs from a mantis.
+The Menacing Mantis Sticker.
+Trivia[]
+* When a Bear gives a quest that involves more than one mantis, its plural form was spelled incorrectly, such as "4 Mantiss" rather than "4 Mantises" or "4 Mantis"; This was fixed at an unknown time.
+* The same incorrect plural form applies to the Werewolf.
+* In Bee Bear's dialogue for his quests, he asks you to defeat x "Mantises", but in the quest list, it still says "Mantiss".
+* In Bee Bear's quest, ‘ _BEE-liz Honey-dad_ ’, he told the player to defeat 10 Mantises, but if the player talked to him again, he didn't mention this.
+* The mantis in the Pineapple Patch can get stuck in the wall surrounding the field or in the smaller pineapple behind the Treat Dispenser, though this is rare.
+* Before the 2019-09-28 Update, the pine trees in the Pine Tree Forest could be collided with and the mantises could get stuck in them.
+* Mantises have the longest attack jump length of any mob, only rivaled by the Werewolf. Because of this, the mantises can jump outside of the field that they're defending into others.
+* The mantis has the same respawn time as the Scorpion.
+* During Beesmas 2020, you could get the Beesmas Top from the Mantis.
+* As stated by Number1Riker, a Former Moderator of the Bee Swarm Simulator Discord server, the Mantis was originally supposed to be a cricket before being changed into the former. The reason for the change is unknown.
+Fact: The Normal in Mantis has/costs **Ladybug • Rhino Beetle • Aphid • Spider • **Mantis** • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Mantis has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Mantis has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Mantis has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Mantis has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Mantis has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Mantis has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Mantis has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Mantis has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Mantis has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Mantis has/costs **Chick • Hostage Chick • Spotted Chick**.

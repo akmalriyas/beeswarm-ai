@@ -1,0 +1,57 @@
+Context: Bee Swarm Simulator - Red Port-O-Hive
+
+Red Port-O-Hive
+Red Port-O-Hive
+Description
+"A Port-O-Hive dipped in shiney _[sic]_ red paint."
+Fact: The 12,500,000 Honey, 2 Red Extracts, 2 Soft Wax in Red Port-O-Hive has/costs 400,000 Pollen.
+Bonus Stats
+Fact: Bonus Stats statistic: +150% Convert Rate.
+Fact: Bonus Stats statistic: +10% Red Bee Convert Rate.
+Fact: Bonus Stats statistic: +10% Instant Red Conversion.
+Fact: Bonus Stats statistic: +10% Red Pollen.
+> "_APort-O-Hive dipped in shiney _[sic]_red paint._ "
+The Red Port-O-Hive is a bag that was added in the 2019-04-05 Update. It can be purchased in the Red HQ.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 12,500,000 Honey.
+Fact: Crafting Ingredients requirement: 2 Red Extracts.
+Fact: Crafting Ingredients requirement: 2 Soft Waxes.
+Fact: Crafting Ingredients statistic: * +400,000 Capacity..
+* +150% Convert Rate.
+* +10% Red Bee Convert Rate
+* +10% Instant Red Conversion.
+Fact: * +10% Red Bee Convert Rate statistic: * +10% Red Pollen..
+Trivia[]
+* This is one of the 4 Port-O-Hive variants in the game. The other ones are the regular Port-O-Hive, the Blue Port-O-Hive, and the Porcelain Port-O-Hive.
+* This and the Blue Port-O-Hive were the last Port-O-Hive variants added into the Game.
+* Prior to the 2024-05-23 Update, this item had no material requirements.
+* This is the only bag purchasable in the Red HQ.
+Fact: The Sub-Inventories in Red Port-O-Hive has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Red Port-O-Hive has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Red Port-O-Hive has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Red Port-O-Hive has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Red Port-O-Hive has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Red Port-O-Hive has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Red Port-O-Hive has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Red Port-O-Hive has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Red Port-O-Hive has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Red Port-O-Hive has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Red Port-O-Hive has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Red Port-O-Hive has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Red Port-O-Hive has/costs **7-Pronged Cog**.
+Fact: The Other in Red Port-O-Hive has/costs **Marshmallow Bee**.
+Fact: The Currencies in Red Port-O-Hive has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Red Port-O-Hive has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Red Port-O-Hive has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Red Port-O-Hive has/costs **Parachute •  Glider**.
+Fact: The Bags in Red Port-O-Hive has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  **Red Port-O-Hive** •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Red Port-O-Hive has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Red Port-O-Hive has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Red Port-O-Hive has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Red Port-O-Hive has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Red Port-O-Hive has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Red Port-O-Hive has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Red Port-O-Hive has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Red Port-O-Hive has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Red Port-O-Hive has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

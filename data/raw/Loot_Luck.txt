@@ -1,0 +1,33 @@
+Context: Bee Swarm Simulator - Loot Luck
+
+Loot Luck
+Loot Luck is a passive attribute that increases the chances of receiving certain rewards from defeated mobs. The formula to calculate the chance of receiving an item from a mob when the player defeats it is: 1-((1-base chance) ^luck). A general rule of thumb is that for every 100% Loot Luck the player has, the player gets an extra roll to get each drop.
+It also affects what type of token spawns in fields. Every time a honey token spawns in the field, it rolls a "drop table". Every item has a chance to "pass," with Loot Luck boosting the chance for it to pass. If it does, that item spawns. Otherwise, if it fails, it goes on to the next item. If every item fails, the honey token spawns as it is.
+Loot Luck does not affect amulet tiers, stats granted from amulets, drops from chicks, or hatching and transforming bees.
+Ways to Increase[]
+Loot Luck can be increased through belts, buffs, and other ways.
+Belts[]
+Each belt gives an amount of Loot Luck.
+* The Belt Pocket gives +25% Loot Luck.
+* The Belt Bag gives +50% Loot Luck.
+* The Mondo Belt Bag gives +75% Loot Luck.
+Fact: Belts[] requirement: * The Honeycomb Belt gives +100% Loot Luck..
+* The Petal Belt gives +101% Loot Luck.
+Fact: Belts[] requirement: * The Coconut Belt gives +102% Loot Luck..
+Gifted Hive Bonuses[]
+* Gifted Baby Bee gives +25% Loot Luck.
+Buffs[]
+* Baby Love gives +50% Loot Luck.
+* Cool Breeze gives from 1% Loot Luck up to 10% Loot Luck at 100% Cool Breeze.
+Badges[]
+* The Clover Badge can give up to +50% Loot Luck depending on the badge rank.
+* The Cadet Clover Badge gives +10% Loot Luck.
+* The Hotshot Clover Badge gives +20% Loot Luck.
+* The Ace Clover Badge gives +30% Loot Luck.
+* The Master Clover Badge gives +40% Loot Luck.
+* The Grandmaster Clover Badge gives +50% Loot Luck.
+Trivia[]
+* Before the 2019-04-05 update, Loot Luck was simply named Luck.
+* Loot Luck once affected honey tokens. However, this feature was removed due to there already being a Honey From Tokens stat.
+* Before the 2019-09-28 update, the Clover Badge did not give any Loot Luck. This was a mistake, which was fixed after said update.
+* The B.B.M. Mask used to grant +50% Loot Luck.

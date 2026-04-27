@@ -1,0 +1,71 @@
+Context: Bee Swarm Simulator - Satisfying Vial
+
+Satisfying Vial
+Satisfying Vial
+Fact: Satisfying Vial statistic: _"Grants 4 hours of Satisfying Nectar. (Boosts: White Pollen, Red Convert Rate, Honey at Hive)"_.
+The Satisfying Vial is a consumable nectar vial item that was added in the 2022-12-26 update. Once used, it grants the player 4 hours of the Satisfying Nectar buff instantly. It can also be used to craft other accessories and tools.
+Ways to Obtain[]
+* Completing Dapper Bear's 5th, 11th and 15th quests each reward 1 Satisfying Vial each and other items.
+* Using the Nectar Condenser to condense 12 hours of Satisfying Nectar.
+* Adding the Satisfying Nectar Icon to the Sticker Stack rewards 1 Satisfying Vial.
+Outdated Ways[]
+* Purchasing the Hefty Honeyday Bundle from Bee Bear's Catalog granted 5 Satisfying Vials and other items.
+* Purchasing the Nighttime Nectar Pack in the Robux Shop granted 1 Satisfying Vial and other items.
+* Completing Polar Bear's Beesmas 2022 quest rewarded 1 Satisfying Vial and other items.
+* Opening the Gooey Gift Box rewarded 1 Satisfying Vial and other items.
+* Opening the Silky Gift Box "Gift Boxes/2024 \(Winter\)") rewarded 1 Satisfying Vial and other items.
+* Purchasing the Angelic Bundle from Bee Bear's Catalog granted 1 Satisfying Vial and other items.
+* Completing Bee Bear's Peppermint Preparation (5/5) rewarded 5 Satisfying Vials and other items.
+Crafting Uses[]
+Total required for all single-purchase items: 5 Satisfying Vials
+Fact: The **Satisfying Vials** in Satisfying Vial has/costs Other ingredients, Result.
+Fact: The 1 in Satisfying Vial has/costs 5B Honey.
+Fact: 1 requirement: 250 Glues.
+Fact: 1 requirement: 100 Enzymes.
+Fact: 1 requirement: 100 Oils.
+Fact: The 100 Glitter in Satisfying Vial has/costs Gummy Mask.
+Fact: The 1 in Satisfying Vial has/costs 100B Honey.
+Fact: 1 requirement: 500 Glues.
+Fact: 1 requirement: 250 Red Extracts.
+Fact: 1 requirement: 250 Blue Extracts.
+Fact: 1 requirement: 250 Glitter.
+Fact: The 1 Motivating Vial in Satisfying Vial has/costs Gummy Boots.
+Fact: The 3 in Satisfying Vial has/costs 10T Honey.
+Fact: 3 requirement: 1,500 Glues.
+Fact: 3 requirement: 2,000 Gumdrops.
+Fact: 3 requirement: 50 Caustic Waxes.
+Fact: 3 requirement: 50 Super Smoothies.
+Fact: The 5 Turpentines in Satisfying Vial has/costs Gummyballer.
+Gallery[]
+A Satisfying Vial Token from the Gooey Gift Box from Beesmas 2022.
+A Satisfying Vial in the Inventory Menu.
+5 Satisfying Vials being given as a reward along other items for completing Bee Bear's Peppermint Preparation 5/5 quest.
+Fact: The Sub-Inventories in Satisfying Vial has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Satisfying Vial has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Satisfying Vial has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Satisfying Vial has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Satisfying Vial has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Satisfying Vial has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Satisfying Vial has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  **Satisfying Vial** •  Nectar Shower Vial**.
+Fact: The Balloons in Satisfying Vial has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Satisfying Vial has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Satisfying Vial has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Satisfying Vial has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Satisfying Vial has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Satisfying Vial has/costs **7-Pronged Cog**.
+Fact: The Other in Satisfying Vial has/costs **Marshmallow Bee**.
+Fact: The Currencies in Satisfying Vial has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Satisfying Vial has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Satisfying Vial has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Satisfying Vial has/costs **Parachute •  Glider**.
+Fact: The Bags in Satisfying Vial has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Satisfying Vial has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Satisfying Vial has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Satisfying Vial has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Satisfying Vial has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Satisfying Vial has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Satisfying Vial has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Satisfying Vial has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Satisfying Vial has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Satisfying Vial has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

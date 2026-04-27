@@ -1,0 +1,393 @@
+Context: Bee Swarm Simulator - Gummy Bear
+
+Gummy Bear
+Gummy Bear
+Fact: The Species in Gummy Bear has/costs N/A (formerly a Traveling Bear).
+Fact: The Location in Gummy Bear has/costs Gummy Bear's Lair.
+Previously between Honey Dispenser, Noob Shop, and the Hives.
+Fact: The Bee Prerequisites in Gummy Bear has/costs Goo Hotshot Badge and 20 bees.
+Color Scheme
+Fact: The Fur #DA81F5 #58FAD0 in Gummy Bear has/costs Fur Shades #DA81F5 #58FAD0.
+Fact: The Snout #58FAD0 in Gummy Bear has/costs Torso #DA81F5.
+Fact: The Arms #58FAD0 in Gummy Bear has/costs Legs #58FAD0.
+Gummy Bear is an NPC that resides in his lair, killing players who go near him without any gear sold in the shop. Either the Gummy Mask, Gummy Boots, or Gummyballer needs to have been purchased to talk to him, though they aren't required to be worn. The player must have the Goo Hotshot Badge or above to enter Gummy Bear's Lair, and have 20 bees to access the 20 Bee Zone as the Gummy Bee Egg Claim is at the entrance of it.
+The player can either talk to him, which gives a short paragraph of dialogue about the Gummy Army, claim his Beesmas quest or give him a present (during Beesmas), or teleport the player back to their Hive. If a player who does not have any of the Gummy gear would like to see Gummy Bear without losing their pollen, they should empty out their bag before going into the lair. If the player is already inside the lair, the player can use a Micro-Converter to empty their bag, or a Whirligig to teleport them back to their hive. The whirligig must be used before the dialogue begins, otherwise the player will still die as it ends, regardless of the fact they are no longer in the lair.
+His first appearance on the mountain was during the Gummy Invasion on May 26, 2018. He gave 15 quests that rewarded the player a Gummy Bee Egg at the end of the questline. During this event, he used the Gummy Cannon to shoot Gumdrops at fields and cover flowers with goo. He targeted every field except the Mountain Top Field (and the Stump Field, Coconut Field, and Pepper Patch, as they weren't in the game at that time). Gummy Bear left on June 24, 2018, and returned as an NPC in the Nov. 25, 2018 update in his current location, accessible through the Gummy Bee model that used to be on the Ticket Tent.
+Starting from Beesmas 2020 and continuing throughout the following Beesmas events, he gave out a Beesmas quest called "Gummy Bear's Goo Years Beacon".
+Lair Dialogue[]
+If the player walks close enough to Gummy Bear in his lair, and that player does not own the Gummy Mask, Gummy Boots or Gummyballer, the following dialogue will appear in chat, and in the player's notifications:
+"Gummy Bear: "What's sweeter than honey?"
+"Glorious gumdrops... they're just the start!"
+"A sweet and sour, ooey-gooey universe..."
+"Can't you see it too?" (slight pause)
+"What's that Gummy Bee?"
+"They're not seeing clearly?"
+"YOU'RE ALWAYS RIGHT!"
+"GOO-dbye, beekeeper... HAH!"
+After the last line, Gummy Bear will use the point emote and kill the player, taking them back to spawn.
+Even if the player uses a Whirligig during the dialogue to exit the lair, the dialogue will continue regardless, and they will still be killed when Gummy Bear's dialogue ends.
+If the player owns the Gummy Mask, Gummy Boots or Gummyballer, they can talk to Gummy Bear, but he does not give a quest.
+A beekeeper approaches, Gummy Bee!
+_-Talk to Gummy Bear-_
+Fact: The Our Gummy Army marches forward at a steady, vicious pace. An inevitable ooze that envelopes _[sic]_ all things, uniting us all! This glorious gummy world awaits you and your Gummy Bee as well. A place where nothing is bitter, and EVERYTHING is sweet! in Gummy Bear has/costs _-Return to your hive-_.
+Back to work soldier!
+Gummy Invasion Quests (15)[]
+Fact: The Quest Name in Gummy Bear has/costs Requirements, Reward.
+* Collect 500 Goo.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 1 Ticket.
+* Collect 5 Honey Tokens.
+* Collect 2,000 Goo.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 1 Ticket.
+* Collect 3,500 Goo from the Clover Field.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 1 Ticket.
+* Collect 10 Honey Tokens.
+* Collect 2,000 Goo from White Flowers.
+* Collect 2,000 Goo from Red Flowers.
+* Collect 2,000 Goo from Blue Flowers.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 1 Ticket.
+* Collect 20,000 Goo from the Spider Field.
+* Defeat 2 Spiders.
+Fact: Quest Name requirement: 1 Royal Jelly.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 1 Ticket.
+* Collect 20 Honey Tokens.
+* Collect 30,000 Goo.
+* Collect 5,000 Goo from the Mushroom Field.
+* Collect 5,000 Goo from the Blue Flower Field.
+* Collect 5,000 Goo from the Strawberry Field.
+* Collect 5,000 Goo from the Bamboo Field.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 2 Tickets.
+* Collect 60,000 Goo.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 2 Tickets.
+* Collect 30 Honey Tokens.
+* Use the Slingshot 10 Times.
+* Collect 80,000 Goo from the Pineapple Patch.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 2 Tickets.
+* Collect 100,000 Goo.
+* Defeat 10 Ladybugs.
+* Defeat 10 Rhino Beetles.
+* Defeat 3 Spiders.
+Fact: Quest Name requirement: 1 Gumdrops.
+Fact: Quest Name requirement: 2 Tickets.
+* Use the Slingshot 20 Times.
+* Collect 80,000 Goo from Red Flowers.
+* Collect 80,000 Goo from Blue Flowers.
+* Collect 80,000 Goo from the Clover Field.
+2 Royal Jellies
+Fact: 2 Royal Jellies requirement: 1 Gumdrops.
+Fact: 2 Royal Jellies requirement: 2 Tickets.
+* Collect 40 Honey Tokens.
+* Use the Yellow Cannon 30 Times.
+* Collect 200,000 Goo from White Flowers.
+Fact: 2 Royal Jellies requirement: 1 Gumdrops.
+Fact: 2 Royal Jellies requirement: 3 Tickets.
+* Collect 200,000 Goo from Red Flowers.
+* Collect 200,000 Goo from the Pumpkin Patch.
+* Collect 200,000 Goo from the Cactus Field.
+Fact: 2 Royal Jellies requirement: 1 Gumdrops.
+Fact: 2 Royal Jellies requirement: 4 Tickets.
+* Collect 100 Honey Tokens.
+* Use the Blue Cannon 40 Times.
+* Collect 300,000 Goo from Blue Flowers.
+* Collect 300,000 Goo from the Rose Field.
+* Collect 300,000 Goo from the Pine Tree Forest.
+Fact: 2 Royal Jellies requirement: 1 Gumdrops.
+Fact: 2 Royal Jellies requirement: 4 Tickets.
+* Collect 500,000 Goo from White Flowers.
+* Use the Blue Cannon 20 Times.
+* Use the Yellow Cannon 20 Times.
+* Defeat 10 Mantises.
+* Defeat 10 Scorpions.
+* Defeat 3 Werewolves.
+Fact: 2 Royal Jellies requirement: 1 Gumdrops.
+Fact: 2 Royal Jellies requirement: 5 Tickets.
+* Collect 250 Honey Tokens.
+* Collect 750,000 Goo.
+* Collect 75,000 Goo from the Sunflower Field.
+* Collect 75,000 Goo from the Dandelion Field.
+* Collect 75,000 Goo from the Spider Field.
+* Collect 75,000 Goo from the Pineapple Patch.
+* Collect 75,000 Goo from the Pumpkin Patch.
+* Use the Slingshot 30 Times.
+* Use the Yellow Cannon 30 Times.
+* Use the Blue Cannon 30 Times.
+Dialogue[]
+Fact: The Quest Name in Gummy Bear has/costs Dialogue.
+Fact: The Begin The Goo Invasion in Gummy Bear has/costs BOOM! SPLAT! HAH... I am Gummy Bear! This is my bee, Gummy Bee. And that's my Gummy Cannon! I'm on a mission to spread my sweet Gummy Bees all around the universe! I'll cover this whole mountain in GOO to claim it for my GUMMY EMPIRE! YOU will join my cause! Complete all 15 of my initiation quests and I'll give you a [Gummy Bee Egg]! First, Collect 500 goo. When I shoot gumdrops from my Gummy Cannon, they cover flowers in goo. Collect pollen from those flower to receive bonus honey, and GOO! The bigger the goo puddle, the more honey and goo you get! You can also create goo with [Gumdrops], I've got some for you behind my cannon. Activate your [Gumdrops] while standing in a field to cover the flowers in goo! If you need more [Gumdrops], you can get them from defeating enemies. Try teaming up with your friends to share [Gumdrops] and create large puddles! I'll tell you when I'm about to fire my cannon at a field. Let's get GOO-ing!.
+Flowers covered in goo give you bonus honey (and goo) when you collect from them. The bigger the goo puddle, the more you get! When I shoot gumdrops at a field, always look for the biggest puddle. You can even combine your own [Gumdrops] with existing puddles to create even larger ones! Go try it! Collect 500 goo.
+_-Completion-_
+GOO-d job! HAH. Gummy Bee says it thinks you look promising. I'm not convinced yet! Come back when you're ready for the next test.
+Fact: The Patient Plundering in Gummy Bear has/costs Each place I invade offers something new to my Gummy Empire. I've heard the flowers on this mountain produce rare Honey Tokens! I need you to collect some of those to help fund my mission. Collect 5 Honey Tokens while you gather 2,000 more GOO! Remember: Always collect from the largest goo puddle! It gives you the most goo. And if you need more [Gumdrops], you can get them from defeating bugs!.
+It takes dedication and patience to find Honey Tokens. Those are only some of the virtues I require out of a Gummy Soldier. Go out there and prove you've got what it take. Collect 5 Honey Tokens and gather 2,000 more goo!
+_-Completion-_
+With each quest you prove yourself more loyal to my GUMMY EMPIRE! I'll give you some [Gumdrops] each time so you can keep spreading the goo too. We won't stop until this entire mountain is PINK and TEAL.
+Fact: The Piecewise Invasion in Gummy Bear has/costs I've planned this invasion for months! I've figured out the optimal method of gooing up this place field by field. Gummy Bee is my advisor. And it's telling me we need to tackle the Clover Field! Take my advice: work together with other Gummy Soldiers to share [Gumdrops]. You'll both benefit from the goo. You will not complete my tests without teamwork. Collect 3,500 goo from the Clover Field! GO GO GO GO GO GO!.
+Why would anyone oppose the GUMMY CAUSE? My only objective is to make the universe sweeter. You are here to help me accomplish that! Collect 3,500 goo from the Clover Field.
+_-Completion-_
+Gummy Bee says you did a fine job out in those clovers. I say you've got a long way to go!
+Fact: The Colorful Conquest in Gummy Bear has/costs Goo does not discriminate - white, red or blue, it doesn't matter. ALL flowers are GOO FLOWERS to me! Get out there and gunk them all until their colors are just a distant memory! Collect 2,000 goo from White, Red, and Blue flowers and collect 10 Honey Tokens..
+People think I'm soft cause I'm physically soft and squishy. I use this to my advantage to catch my adversaries off guard. Nobody expects my GUMMY INVASION! Collect 2,000 goo from White, Red, and Blue flowers and collect 10 Honey Tokens.
+_-Completion-_
+I'm starting to open your eyes to my gummy ways. You see it now: GOO is GREAT! Gummy Bee says we're making great progress. Let's not lose our momentum!
+Fact: The Stickier Than Spider Webs in Gummy Bear has/costs Spiders and their webs are nothing compared to Gummy Bees and their goo. Those puny arachnids guard those White flowers like their lives depend on it! Guess what SPIDERS, those belong to ME now. Collect 20,000 goo from the Spider Field..
+Nothing is good unless it's squishy and sweet. You look sort of squishy, probably not sweet though. You'll have to compensate for your lack of sweetness through hard work. Collect 20,000 goo from the Spider Field.
+_-Completion-_
+Spiders are nothing before our gummy might! Gummy Bee says those fools should have stayed in their cave. Good work soldier, but we've still got more to do.
+Fact: The Four Front Assault in Gummy Bear has/costs Gummy Bee says let's stop playing games. I'm inclined to agree!!!!! Each and every one of these fields will fall to my confectionary cannon. BOOM BOOOOM! No more chit chat, this is an invasion! Collect 30,000 goo.. Collect 5,000 goo from the Mushroom, Blue Flower, Strawberry, and Bamboo Fields... And collect 20 Honey Tokens!.
+Get going soldier: Collect 30,000 goo.. Collect 5,000 goo from the Mushroom, Blue Flower, Strawberry, and Bamboo Fields... And collect 20 Honey Tokens.
+_-Completion-_
+What a mess - just how I like it! And it'll only get messier from here!
+Fact: The Total Gummification in Gummy Bear has/costs All around the universe, we're in the midst of war... A war between GOO and everything that's not GOO. All other conflicts are TRIVIAL DISTRACTIONS. Now collect 60,000 more GOO!.
+I ain't picky if the goo is sticky. Collect 60,000 goo.
+_-Completion-_
+Gummy Bee says "No flower will remain un-gummied!" Just 8 more quests and I'll give you a [Gummy Bee Egg] of your own.
+Fact: The Artillery Lessons: Slingshot in Gummy Bear has/costs A good Gummy Soldier must know how to use artillery. My Gummy Cannon takes years of experience to man, you're not ready for it. I'll start you off on something smaller - the SLINGSHOT. BOING BOING! Collect 80,000 goo from the Pineapple Patch... Collect 30 Honey Tokens... And use the Slingshot 10 times..
+You'll need to discover a certain number of bee types to use the Slingshot and Cannons. To discover more types, try transforming your bees with Royal Jelly. You can buy Royal Jelly for Honey at the shop near the Rose Field. You can also buy it for tickets from the dispenser near the Noob Bear's Shop. Now back to work: collect 80,000 goo from the Pineapple Patch... Collect 30 Honey Tokens... And use the Slingshot 10 times.
+_-Completion-_
+My Gummy Cannon is used to shoot gumdrops, but the other cannons on the map are used to shoot YOU into the sky. They're the fastest way to move around the map. Just 7 more quests and I'll give you a [Gummy Bee Egg] of your own.
+Fact: The GOO Away, Bugs in Gummy Bear has/costs Look at all those bugs sipping up slime faster than I can spread it... These beetles have got to go! Gummy Bee says your swarm looks like it could make quick work of them. Collect 100,000 goo and defeat 10 Ladybugs, 10 Rhino Beetles, and 3 Spiders..
+Gummy Bee is a military mastermind, but it only has 1 attack. With GOOd strategy, even a lone Basic Bee can take down a Werewolf. Come back when you've collected 100,000 goo and defeated 10 Ladybugs, 10 Rhino Beetles, and 3 Spiders.
+_-Completion-_
+SPLISH SPLAT SPLAT! BUGS BE GONE JUST LIKE THAT! Just 6 more quests and I'll give you a [Gummy Bee Egg] of your own.
+Fact: The Colorful Conquest 2 in Gummy Bear has/costs As you trudge your way through the goo, you get sweeter and sweeter... That's how it is with all things! I can tell you don't quite understand it yet. It'll seep in in due time. Collect 80,000 goo from Red and Blue flowers... Collect 80,000 goo from the Clover Field... And use the Slingshot 20 times....
+I cycle through each of the 13 themed fields. Sure enough, I reach them all. Collect 80,000 goo from Red and Blue flowers... Collect 80,000 goo from the Clover Field. And use the Slingshot 20 times...
+_-Completion-_
+YES! HAHA! It's happening... the gooification is almost complete. Just 5 more quests and I'll give you a [Gummy Bee Egg].
+Fact: The Artillery Lessons: Yellow Cannon in Gummy Bear has/costs I love nothing more than firing endless barrages of Gumdrops at pristine fields of flowers. There's something so satisfying about the KABOOM of a cannon! You will come to know it too! Collect 200,000 white goo... Collect 40 Honey Tokens... And use the Yellow Cannon 30 times....
+You may not be able to experience that joy of launch gumdrops with explosives, but at least you can still fire cannons. Collect 200,000 white goo... Collect 40 Honey Tokens... And use the Yellow Cannon 30 times.
+_-Completion-_
+AHAH! Isn't it a rush? Just 4 more quests and I'll give you a [Gummy Bee Egg].
+Fact: The Peace Through Goo-nity in Gummy Bear has/costs Gummy Bee and I are made of the very same goo! We are practically one creature. I want to feel that same closeness with all other things. By GOO-IFYING the universe, I will unite us all! Help me in my mission of GOO-nity. Collect 200,000 from Red flowers... 200,000 goo from the Pumpkin Patch... And 200,000 goo from the Cactus Field..
+If you need some more Gumdrops try using the code "Tapioca" Those'll help you finish this up: Collect 200,000 from Red flowers... 200,000 goo from the Pumpkin Patch... And 200,000 goo from the Cactus Field.
+_-Completion-_
+Gummy Bee says it's starting to feel close to you too! That means it's almost time... Just 3 more quests and I'll give you a [Gummy Bee Egg].
+Fact: The Artillery Lessons: Blue Cannon in Gummy Bear has/costs My primary objective is to make everything SWEETER. It may not seem that way when I'm being so strict, hahaha! I'm someone who understands that to get anything done you've got to be POWERFUL. I use the power of my Gummy Cannon to enforce my will on the universe! You are on your way to doing the same! Next up: Collect 100 Honey Tokens... Collect 300,000 goo from Blue flowers... Collect 300,000 goo from the Rose Field and Pine Tree Forest... And use the Blue Cannon 40 times!.
+There is no greater force in the universe than my Gummy Army. All things fall to the slow, viscous march of my gooey might. Keep working, you're part of my cause! Collect 100 Honey Tokens... Collect 300,000 goo from Blue flowers... Collect 300,000 goo from the Rose Field and Pine Tree Forest... And use the Blue Cannon 40 times!
+_-Completion-_
+Gelatinous judgement is upon us!!! All unsweet things must let my goo seep in or be banished from existence! What's that Gummy Bee? You see our glorious gooey victory approaching fast? I see it too!!!! Just 2 more quests...
+Fact: The Goo-ing Goo-mmando in Gummy Bear has/costs I like it sweet, the mobs like it SOUR! That will not do... oh no no. "Put an end to the beasts once and for all!" Gummy Bee whispers in my ear. My sweet little bee always knows best, HAH! You - my loyal recruit - are you ready for a sweet little bee of your own?? PROVE YOURSELF TO ME, UNSWEET MEATY CREATURE! Collect 500,000 goo from White flowers... Use the Blue and Yellow Cannons 20 times each... And defeat 10 Mantises, 10 Scorpions, and 3 Werewolves..
+There's nothing squishy or sweet about those vile creatures! They work for the forces of SALT, SOUR, AND MEAT. Not in my GUMMY epoch... no sir... Collect 500,000 goo from White flowers... Use the Blue and Yellow Cannons 20 times each... And defeat 10 Mantises, 10 Scorpions, and 3 Werewolves.
+_-Completion-_
+Gummy Bee! Look! Our soldier is beginning the final transformation!!! As you collect the GOO, the GOO also collects YOU! Just 1 more quests and I'll know your transformation is complete...
+Fact: The Candy Conquest in Gummy Bear has/costs AHHAHAHAHAHAHAHAHA! Look Gummy Bee - it's almost ours! Not just the mountain, but the beekeepers too. Well trained soldiers of the Gummy Empire! There's only one thing left for YOU to do... Hatch a Gummy Bee of your own! Then, just like me, you'll never be alone. You'll never be lost. Gummy Bee will always guide you with it's gooey gifts! All you need to do is finally finish globulating this unGOO-dly mountain. Collect 750,000 goo... Collect 75,000 goo from the Strawberry Field, Dandelion Field, Spider Field... ...Pineapple Patch, and Pumpkin Patch... Collect 250 Honey Tokens... And use the Slingshot, Yellow Cannon, and Blue Cannon 30 times each..
+BOOM! GLUGSPLUGGLUGLGLGOOL. SPLAT SPLAT SPLAAAAT. By now you ought to speak MY language! Collect 750,000 goo... Collect 75,000 goo from the Strawberry Field, Dandelion Field, Spider Field... ...Pineapple Patch, and Pumpkin Patch... Collect 250 Honey Tokens... And use the Slingshot, Yellow Cannon, and Blue Cannon 30 times each.
+_-Completion-_
+Gummy Bee says "We are done here." Not so fast sweet little bee! YOU, beekeeper, answer me honestly... How sweet is your soul? How squishy is your mind??? When you close your eyes, do you see the undulating waves of PINK and TEAL? Of course you do!!!!!!!!! So take it now, hatch it quick and let it lead you - this [Gummy Bee Egg]! The universe is big, and so much of it is still ungummied... So much left to absorb into my empire! HAH! I trust you will maintain the rule of goo here. GOO-DSPEED GUMMY SOLDIER!
+Fact: The Conclusion in Gummy Bear has/costs Huh? Gummy Bee... what's gotten into you??? ...Yes I know this place is the perfect place for a Gummy Bee now... But we're not looking for a place to rest! You've always told me the GOO MUST SPREAD!! It's time to go. OH. You, soldier, listen here: Why don't you and your Gummy Bee go help out the other recruits? The more Gummy Bees on the mountain, the more you help our cause..
+Beesmas Quest - Goo Years Beacon[]
+Note: Player must own any item from the Gummy Bear's Lair in order to claim this quest. Trying to talk to Gummy Bear without any item bought from the shop will start the normal lair dialogue. You need to own any item from the Gummy Bear's Lair in order to give a present to Gummy Bear as well.
+* 2024 (Winter)
+* 2024 (Summer)
+Fact: The Requirements in Gummy Bear has/costs Reward.
+* Collect 1,000,000,000,000 Goo from White Flowers.
+* Use 2,500 Gumdrops.
+* Collect 1,000 Tokens from Gummy Bee.
+* Collect 10,000 Battle Tokens.
+* Complete 10 “Collect Goo” Quests in Robo Bear's Challenge.
+* Purchase the Fluid Simulation Upgrade in Robo Bear's Challenge.
+* Deal 2,500,000 Damage with the Rocket Launcher.
+* Defeat 2,000 Slimes.
+* Defeat 500 Party Cogmowers.
+* Summon and Defeat a Level 16 Snowbear.
+* Pop 1 Legendary Puffshroom.
+* Use the Blue Cannon 25 Times.
+* Use the Yellow Cannon 25 Times.
+* Use the Red Cannon 25 Times.
+* Obtain a randomly assigned Sticker of the following to give to Gummy Bear:
+* 1 Fuzz Bomb Sticker
+* 1 Dark Flame Sticker
+* 1 Small Shield Sticker
+* 1 Precise Eye Sticker
+* 1 Black Diamond Sticker
+* 1 Purple 4-Point Flower
+* Obtain a randomly assigned Sticker of the following to give to Gummy Bear:
+* 1 Yellow Sticky Hand Sticker
+* 1 TNT Sticker
+Fact: * 1 TNT Sticker requirement: 100 Tickets.
+1 Candy Ring
+1 Bang Snap
+1 Mythic Egg
+1 Festive Bean
+Fact: 1 Festive Bean requirement: 5 Caustic Waxes.
+10 Bloom Shakers
+Fact: 10 Bloom Shakers requirement: 50 Glues.
+500 Snowflakes
+Access to the Gummy Beacon
+Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your [Gumdrops]! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... You'll also need to blow a variety of foes into UTTER SMITHEREENS If we're to collect the parts and intel required for its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH! _-During-_ A new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once. _-Completion-_ GOO-d work, soldier! The beacon is nearly charged! Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS [GUMDROPS] AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to attempt Beesmas this late! It ends now! Let's usher in the GOO YEAR with a BANG!
+Fact: The Requirements in Gummy Bear has/costs Reward.
+* Collect 800,000,000,000 Goo from White Flowers.
+* Collect 80,000,000,000 Goo from the Mountain Top Field.
+* Collect 80,000,000,000 Goo from the Clover Field.
+* Collect 80,000,000,000 Goo from the Pineapple Patch.
+* Collect 1,000 Tokens from Gummy Bee.
+* Use 2,500 Gumdrops.
+* Defeat 1,000 Slimes.
+* Defeat 1,000 Mechsquitos.
+* Defeat 200 Party Cogturrets.
+* Complete 10 “Collect Goo” Quests in Robo Bear's Challenge.
+* Collect 5,000 Gumdrops
+* Collect 100 Neonberries
+* Collect 1 Glitched Drive
+* Pop 1 Rare Puffshroom in the Mountain Top Field.
+* Pop 1 Epic Puffshroom.
+* Use the Blue Cannon 25 Times.
+* Use the Yellow Cannon 25 Times.
+* Use the Red Cannon 25 Times.
+Fact: * Collect 1 Glitched Drive requirement: 100 Tickets.
+1 Candy Ring
+1 Gifted Diamond Egg
+5 Atomic Treats
+Fact: 5 Atomic Treats requirement: 5 Caustic Waxes.
+Fact: 5 Atomic Treats requirement: 50 Glues.
+Fact: 5 Atomic Treats requirement: 100 Stingers.
+500 Snowflakes
+Access to the Gummy Beacon
+Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear insists on enacting Beesmas in July (sic). But there is no room for SNOW in this season - now is the time for GOO! Let's bring a swift and sticky end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your [Gumdrops]! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... As well as a large variety of Stickers essential to its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH! _-During-_ A new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once. _-Completion-_ GOO-d work, soldier! The beacon is nearly charged. Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals… proceeding with pectin protocol… HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombarb the flowers with GLORIOUS [GUMDROPS] AND GOO… While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to attempt Beesmas this late! It ends now! Let's usher in the GOO YEAR with a BANG!
+Fact: The Requirements in Gummy Bear has/costs Reward.
+* Collect 10,000,000,000 Goo from White Flowers.
+* Collect 1,000 Tokens from Gummy Bee.
+* Use 1,000 Gumdrops.
+* Defeat 100 Flying Ants.
+* Defeat 200 Party Mechsquitos.
+* Defeat 400 Slimes.
+* Complete 3 “Collect Goo” Quests in Robo Bear's Challenge.
+* Pop 3 Epic Puffshrooms.
+* Use the Blue Cannon 25 Times.
+* Use the Yellow Cannon 25 Times.
+* Use the Red Cannon 25 Times.
+* Obtain 8 Launching Rocket, 3 Saturn, OR 2 Glowing Smile Stickers to give to Gummy Bear.
+* Obtain 6 White Flag, 4 Alert Icon, OR 5 Atom Symbol Stickers to give to Gummy Bear.
+* Obtain 4 TNT Stickers to give to Gummy Bear.
+* Obtain 2 Precise Eye, 3 Fuzz Bomb, OR 1 Purple Fleuron Sticker to give to Gummy Bear.
+* Obtain 3 Yellow Sticky Hand Stickers to give to Gummy Bear.
+* Obtain 1 Dark Flame OR 2 Black Diamond Stickers to give to Gummy Bear.
+* Obtain 1 Small Shield Sticker to give to Gummy Bear.
+* Obtain 1 Gummyballer Sticker to give to Gummy Bear.
+Glowering Gummy Bear Sticker
+1 Candy Ring
+Fact: 1 Candy Ring requirement: 100 Tickets.
+Fact: 1 Candy Ring requirement: 2,500 Gumdrops.
+100 Neonberries
+Fact: 100 Neonberries requirement: 10 Glues.
+Fact: 100 Neonberries requirement: 5 Caustic Waxes.
+Fact: 100 Neonberries requirement: 5 Super Smoothies.
+500 Snowflakes
+Access to the Gummy Beacon
+Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear insists on enacting Beesmas in July. But there is no room for SNOW in this season - now is the time for GOO! Let's bring a swift and sticky end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your [Gumdrops]! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... As well as a large variety of Stickers essential to its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH! _-During-_ A new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once. _-Completion-_ GOO-d work, soldier! The beacon is nearly charged! Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS [GUMDROPS] AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to attempt Beesmas this late! It ends now! Let's usher in the GOO YEAR with a BANG!
+Fact: The Requirements in Gummy Bear has/costs Reward.
+* Collect 25,000,000,000 Goo from White Flowers.
+* Collect 25,000,000,000 Goo from Red Flowers.
+* Collect 25,000,000,000 Goo from Blue Flowers.
+* Collect 2500 Gumdrops.
+* Collect 1000 Tokens from Gummy Bee.
+* Defeat 2000 Mechsquitos.
+* Defeat 200 Flying Ants.
+* Defeat 200 Party Cogturrets.
+* Complete 75 “Collect Goo” Quests in Robo Bear Challenge.
+* Purchase 25 Legendary Upgrades in Robo Bear's Challenge.
+* Use the Blue Cannon 25 Times.
+* Use the Yellow Cannon 25 Times.
+* Use the Red Cannon 25 Times.
+500 Snowflakes
+Fact: 500 Snowflakes requirement: 2,500 Gumdrops.
+Fact: 500 Snowflakes requirement: 100 Tickets.
+Fact: 500 Snowflakes requirement: 100 Stingers.
+100 Neonberries
+Fact: 100 Neonberries requirement: 10 Glues.
+10 Atomic Treats
+Fact: 10 Atomic Treats requirement: 5 Super Smoothies.
+1 Camo Bandana
+Access to the Gummy Beacon
+Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your [Gumdrops]! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... You'll also need to destroy a variety of robotic foes to collect the intel and parts required for its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH! _-During-_ A new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once. _-Completion-_ GOO-d work, soldier! The beacon is nearly charged! Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS [GUMDROPS] AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to drag Beesmas on this long. It ends now! Let's usher in the GOO YEAR with a BANG!
+Fact: The Requirements in Gummy Bear has/costs Reward.
+* Collect 100,000,000,000 Goo.
+* Collect 250 Gumdrops Tokens.
+* Use 1,000 Gumdrops.
+* Collect 1,000 Tokens from Gummy Bee.
+* Defeat 25 Rare Puffshrooms in the Mountain Top Field.
+* Defeat 5 Legendary Puffshrooms.
+* Defeat 1 Level 17+ Puffshroom.
+* Use the Blue Cannon 25 Times.
+* Use the Yellow Cannon 25 Times.
+* Use the Red Cannon 25 Times.
+Fact: Requirements requirement: 25 Tickets.
+500 Snowflakes
+100 Neonberries
+Fact: 100 Neonberries requirement: 15 Glues.
+Fact: 100 Neonberries requirement: 15 Purple Potions.
+10 Atomic Treats
+Fact: 10 Atomic Treats requirement: 5 Super Smoothies.
+Fact: 10 Atomic Treats requirement: 5 Caustic Waxes.
+Access to the Gummy Beacon
+Gummy Bee and I have been watching your progress. You've crafted the mask, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your [Gumdrops]! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. You'll also need to defeat many Puffshrooms to collect the intel required for its operation. But when it's charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH! _-During-_ A new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once. _-Completion-_ GOO-d work, soldier! The beacon is nearly charged! Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS [GUMDROPS] AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to drag Beesmas on this long. It ends now! Let's usher in the GOO YEAR with a BANG!
+Fact: The Requirements in Gummy Bear has/costs Reward.
+* Collect 75,000,000,000 Goo.
+* Collect 7,500,000,000 Goo from Red Flowers.
+* Collect 7,500,000,000 Goo from Blue Flowers.
+* Collect 7,500,000,000 Goo from the Clover Field.
+* Collect 7,500,000,000 Goo from the Coconut Field.
+* Use 750 Gumdrops.
+* Collect 75 Gumdrops Tokens.
+* Collect 750 Tokens from Gummy Bee.
+* Defeat 75 Ladybugs.
+* Defeat 75 Rhino Beetles.
+* Defeat 75 Ants.
+* Collect 75 Tokens from Spiders.
+* Collect 75 Tokens from Mondo Chick.
+* Collect 75 Tokens from Coconut Crab.
+* Use the Red Cannon 7 Times.
+* Use the Yellow Cannon 7 Times.
+* Use the Blue Cannon 7 Times.
+500 Snowflakes
+5 Atomic Treats
+Fact: 5 Atomic Treats requirement: 50 Glues.
+Fact: 5 Atomic Treats requirement: 100 Tickets.
+100 Neonberries
+Access to the Gummy Beacon
+Gummy Bee and I have been watching your progress. You've crafted the mask, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your [Gumdrops]! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. You'll also need to defeat many foes to collect the intel required for its operation. But when it's charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH! _-During-_ A new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once. _-Completion-_ GOO-d work, soldier! The beacon is nearly charged! Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS [GUMDROPS] AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to drag Beesmas on this long. It ends now! Let's usher in the GOO YEAR with a BANG!
+Gallery[]
+Gummy Bear in his lair.
+Gummy Bear appearing during a Gummy Siege.
+The Glowering Gummy Bear Sticker.
+Gummy Bear in the game's icon during the Gummy Invasion.
+Gummy Bear in one of the game's icons.
+Gummy Bear in one of the game's icons.
+Trivia[]
+* Gummy Bear was originally the traveling bear for the Gummy Invasion event, spanning from May 26 to June 24, 2018 (30 days, or 4 weeks and 2 days). He gave 15 quests with a final reward of a Gummy Bee Egg. He came back in the 2018-11-25 Update.
+* Onett "Onett \(Developer\)") added 1 more week to the Gummy Bear's timer when he first arrived because many players requested an extension.
+* Gummy Bear uses the Levitation Animation Pack.
+* Gummy Bear is one of two bears (the other being Shadow Bear) to float, rather than stand on the ground.
+* Like all of the permanent bears (except Spirit Bear and Dapper Bear), he also has his own Bear Morph. Unlike them, the player doesn't need a Bear Bee to get it, but rather it can be activated by Gummy Mask's Gummy Morph Passive Ability.
+* Gummy Bear is the only traveling bear to have a morph of his own.
+* Gummy Bear brought the following during his visit to the mountain:
+* A Gummy Bee, which could have been seen flying around him.
+* Gummy Bear was the first bear to introduce his own bee, with Bee Bear being the second, introducing Festive Bee, and Robo Bear being the third, introducing Digital Bee.
+* A Gummy Cannon, which he used to fire Gumdrops at fields and the only cannon the player is unable to use for transportation.
+* The Gumdrop Shop where the player could buy gumdrops with Tickets (which was moved to its current position near Panda Bear).
+* In total, the players could have received up to 31 tickets from his quests.
+* Gummy Bear is translucent, like the candy he is named after. (His colors of pink and teal, on the other hand, don't resemble any of the colors of classic gummy bear candy.)
+* Gummy Bear is the first and currently only bear to have colors unnatural to their real-life counterpart.
+* Gummy Bear gave a code in the dialogue of one of his last quests "Peace Through Goo-nity", which was the "Tapioca" code.
+* Spirit Bear has stated that Gummy Bear was made out of gumdrops. In addition, according to his dialogue, he and his Gummy Bee are made of the same goo.
+* Gummy Bear, Tunnel Bear and Onett were "Naughty" during the Beesmas Event, as stated by Bee Bear.
+* Gummy Bear was featured in the "Dance Party" advert.
+* Gummy Bear appears in the Goo Badge for its icon.
+* He was voted as the strongest bear in Onett’s StrawPoll voting.[1]
+* He is also the first and only quest-giver that can kill the player.
+* He is the second bear out of three bears that can kill the player, the first being Tunnel Bear and the third being Snowbear.
+* Gummy Bear, Sun Bear and Bee Bear have all had a second visit to the mountain, but Gummy Bear is the only one to stay permanently (for now).
+* Gummy Bear was the first bear to require the usage of transportation devices (cannons and the Slingshot) to complete his quests.
+* Gummy Bear is one of four NPCs to have moved locations, with the other three being Honey Bee "Honey Bee \(NPC\)"), Bubble Bee Man, and Sun Bear.
+References[]
+1. ↑ [1] Tweet posted by Onett linking the poll
+Quest Givers
+Fact: The Permanent Bears in Gummy Bear has/costs **Black Bear** •  **Mother Bear** •  **Brown Bear** •  **Panda Bear** •  **Science Bear**  **Dapper Bear** •  **Polar Bear** •  **Robo Bear** • **Spirit Bear**.
+Fact: The Traveling Bears in Gummy Bear has/costs **Sun Bear** •  ****Gummy Bear**** •  **Bee Bear**.
+Fact: The Other in Gummy Bear has/costs **Gifted Bucko Bee** •  **Gifted Riley Bee** •  "Honey Bee \(NPC\)") **Honey Bee "Honey Bee \(NPC\)")**  **Onett** •  **Bubble Bee Man**.

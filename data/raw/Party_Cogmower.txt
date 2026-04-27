@@ -1,0 +1,80 @@
+Context: Bee Swarm Simulator - Party Cogmower
+
+Party Cogmower
+Party Cogmower
+Location
+Any fields except Coconut Field, Spider Field and Ant Field
+Fact: The Health in Party Cogmower has/costs Damage.
+Fact: The Varies with level in Party Cogmower has/costs TBA.
+Fact: The Battle Points in Party Cogmower has/costs Bond.
+Fact: The None in Party Cogmower has/costs None.
+Fact: The Honey in Party Cogmower has/costs Level.
+Fact: The Varies with level in Party Cogmower has/costs 1-28 (Varies with Cake Rank).
+_Not to be confused withCogmowers, the normal version of these or Golden Cogmowers, the rarer, golden counterpart of Cogmowers._
+The Party Cogmower is one of the mobs exclusive to Robo Party. It functions similar to a Golden Cogmower, only staying at one field until the party ends.
+Health per Level[]
+Fact: The Level in Party Cogmower has/costs Health.
+Fact: The 1 in Party Cogmower has/costs 750.
+Fact: The 2 in Party Cogmower has/costs 1,100.
+Fact: The 3 in Party Cogmower has/costs 1,400.
+Fact: The 4 in Party Cogmower has/costs 2,000.
+Fact: The 5 in Party Cogmower has/costs 2,300.
+Fact: The 6 in Party Cogmower has/costs 2,700.
+Fact: The 7 in Party Cogmower has/costs 3,200.
+Fact: The 8 in Party Cogmower has/costs 3,700.
+Fact: The 9 in Party Cogmower has/costs 4,200.
+Fact: The 10 in Party Cogmower has/costs 4,700.
+Fact: The 11 in Party Cogmower has/costs 5,500.
+Fact: The 12 in Party Cogmower has/costs 6,000.
+Fact: The 13 in Party Cogmower has/costs 6,700.
+Fact: The 14 in Party Cogmower has/costs 7,500.
+Fact: The 15 in Party Cogmower has/costs 8,500.
+Fact: The 16 in Party Cogmower has/costs 9,500.
+Fact: The 17 in Party Cogmower has/costs 10,000.
+Fact: The 18 in Party Cogmower has/costs 11,500.
+Fact: The 19 in Party Cogmower has/costs 12,500.
+Fact: The 20 in Party Cogmower has/costs 15,000.
+Fact: The 21 in Party Cogmower has/costs 16,000.
+Fact: The 22 in Party Cogmower has/costs 17,000.
+Fact: The 23 in Party Cogmower has/costs 18,000.
+Fact: The 24 in Party Cogmower has/costs 19,000.
+Fact: The 25 in Party Cogmower has/costs 20,000.
+Fact: The 26 in Party Cogmower has/costs 20,500.
+Fact: The 27 in Party Cogmower has/costs 21,000.
+Fact: The 28 in Party Cogmower has/costs 21,500.
+* Honey (Guaranteed)
+* Robo Party Blessing
+* Pink Balloon
+* Honeysuckle
+* Royal Jelly
+* Jelly Beans
+* Whirligig
+* Ticket Planter (Very Rare)
+* Robo Pass
+* Mythic Egg (Extremely Rare)
+* Red Balloon (Extremely Rare)
+* White Balloon (Extremely Rare)
+* Black Balloon (Exceptionally Rare)
+Strategies[]
+* Party Cogmowers don't aim for the player, allowing players to easily sidestep them.
+* Stand near the Party Cogmower, this will allow your bees to lock on to the Party Cogmower and quickly deal damage.
+* Vicious Bee provides very strong single-target damage. Digital Bee can also stun the Party Cogmower in place and allow it to take extra damage via Mind Hack.
+Gallery[]
+A Party Cogmower roaming around a field.
+Two Party Cogmowers going in opposite directions of each other.
+Trivia[]
+* This is one of the first mobs to appear during a Robo Party if the player is just starting at the first ranks.
+* This is the only Robo Party mob to not have the same health per level as its normal version.
+* The health per level is exactly half of its normal version's health per level.
+* When Bubble Bee Man's Winter Beesmas 2024 quest was added, it originally referred to Party Cogmowers as "Festive Cogmowers".
+Fact: The Normal in Party Cogmower has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Party Cogmower has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Party Cogmower has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Party Cogmower has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Party Cogmower has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Party Cogmower has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Party Cogmower has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Party Cogmower has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Party Cogmower has/costs **Party Mechsquito • **Party Cogmower** • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Party Cogmower has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Party Cogmower has/costs **Chick • Hostage Chick • Spotted Chick**.

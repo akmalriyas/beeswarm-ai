@@ -1,0 +1,57 @@
+Context: Bee Swarm Simulator - Black Balloon
+
+Black Balloon
+Black Balloon
+_"Floats over the field for 5m. Stores up to x25 your capacity and increases pollen inside 4x."_
+The Black Balloon is a consumable item that was added in the 2021-12-26 update. Once used, it creates a black balloon over the field the player is in. The balloon floats over the field for 5 minutes before floating to the hive balloon, storing the pollen collected underneath it. The pollen collected below is multiplied by 4, and it holds up to 25 times the player's capacity. Only 1 Black Balloon can be summoned in a field per player.
+Black balloons have a cap of 25 in the player's inventory. Obtaining one while already having 25 will not add a Black Balloon to the player's inventory, unless obtained from robux packs, quests, or codes.
+Ways to Obtain[]
+* As a very rare drop from Tunnel Bear.
+* As an exceptionally rare drop from a Spider.
+* Completing Dapper Bear's 12th quest rewards 1 black balloon and other items.
+* Sticking the Black Star Sticker to the Sticker Stacker rewards one Black Balloon.
+* As a drop from Robo Party mobs.
+* Purchasing the Saint Puff's Pack in Bee Bear's Catalog during Beesmas 2025 gives you 1 Black Balloon and other items.
+Outdated Ways[]
+* Opening certain Gift Boxes:
+* The Midnight Gift Box gave 1 black balloon + other items.
+* Purchasing certain offers in the Robux Shop:
+* Purchasing the Buoyant Pack for 800 robux gave 3 black balloons and other items.
+* Purchasing the Cyber Monday Pack for 800 robux gave 1 black balloon and other items.
+* Completing Onett's Beesmas 2021 Quest "Onett's Yard Art on The Lid" rewarded 1 Black Balloon and other items.
+* Completing Bee Bear's 5th Snow Cub Reformation rewarded 3 Black Balloons and other items.
+* As a reward from completing Panda Bear's Beesmas 2022 quest (Rewards 1 Black Balloon \+ other items).
+* Purchasing certain offers in Bee Bear's Catalog.
+* Purchasing the Balloon Bundle in Bee Bear's Catalog during Beesmas 2022, granting 1 Black Balloon \+ other items.
+* Purchasing the Dicey Bundle in Beesmas 2024 gave 1 black balloon and other items.
+* Completing Sun Bear's Waiting With Sun Bear (6/6): Still Stranded rewards 1 Black Balloon and other items.
+* As a reward from completing Bee Bear's 20th Beesmas 2022 quest (Rewards 5 Black Balloons + other items).
+Fact: The Sub-Inventories in Black Balloon has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Black Balloon has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Black Balloon has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Black Balloon has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Black Balloon has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Black Balloon has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Black Balloon has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Black Balloon has/costs **Pink Balloon •  Red Balloon •  White Balloon •  **Black Balloon****.
+Fact: The Waxes in Black Balloon has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Black Balloon has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Black Balloon has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Black Balloon has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Black Balloon has/costs **7-Pronged Cog**.
+Fact: The Other in Black Balloon has/costs **Marshmallow Bee**.
+Fact: The Currencies in Black Balloon has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Black Balloon has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Black Balloon has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Black Balloon has/costs **Parachute •  Glider**.
+Fact: The Bags in Black Balloon has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Black Balloon has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Black Balloon has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Black Balloon has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Black Balloon has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Black Balloon has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Black Balloon has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Black Balloon has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Black Balloon has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Black Balloon has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

@@ -1,0 +1,120 @@
+Context: Bee Swarm Simulator - Pesticide Planter
+
+Pesticide Planter
+Datamined information:
+* Some of the planter's stats are corrected from the in-game description.
+* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
+* How the planter generates its loot.
+Date of datamined file: December 19th, 2024
+Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
+Pesticide Planter
+Fact: Pesticide Planter statistic: _"Alone, grows in about 10 hours (Playtime). Stores around 200m Pollen. Grants bonus Bitterberries and Neonberries._ ".
+Fact: Pesticide Planter requirement: 750,000,000 Honey, 25 Magic Beans, 25 Neonberries, 15 Glues, 3 Caustic Waxes, 10 Hard Waxes..
+GROW TIME BONUS
+Fact: GROW TIME BONUS statistic: +30% Or 7 Hours in the 5 Bee Zone..
+POLLEN CAPACITY
+Fact: POLLEN CAPACITY statistic: 200,000,000 Pollen.
+POLLEN MULTIPLIER
+Fact: POLLEN MULTIPLIER statistic: +50% Pollen in the 5 Bee Zone..
+NECTAR MULTIPLIER
+Fact: NECTAR MULTIPLIER statistic: +30% Satisfying.
+Fact: NECTAR MULTIPLIER statistic: +30% Motivating.
+BONUS ITEMS
+Bitterberry
+Fact: Bitterberry statistic: The **Pesticide Planter** is a reusable planter added in 2021-12-26 update. It grows in about 10 in-game hours and stores around 200,000,000 Pollen. The planter can be purchased from Dapper Bear's Shop..
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 750,000,000 Honey.
+25 Magic Beans
+25 Neonberries
+Fact: 25 Neonberries requirement: 15 Glues.
+Fact: 25 Neonberries requirement: 3 Caustic Waxes.
+Fact: 25 Neonberries requirement: 10 Hard Waxes.
+It grows 30% faster (7 Hours) and grants 50% more pollen on harvest in the 5 Bee Zone (Strawberry, Spider and Bamboo Fields). Bees with mutations are 25% more likely to sip Nectar from this planter, and it grants 30% more Satisfying and Motivating Nectar.
+Harvesting a fully grown Pesticide Planter has a 1/5 chance to spawn a Puffshroom. The spawned puffshroom is between levels 5-6, and has a:
+* ~72.59% chance of being a Common Puffshroom,
+* ~21.78% chance of being a Rare Puffshroom,
+* ~5.44% chance of being a Epic Puffshroom,
+* ~0.18% chance of being a Legendary Puffshroom,
+* ~0.01% chance of being a Mythic Puffshroom.
+When claimed, the planter gives up to 28 tokens worth of items. If the planter was fully grown when claimed, 2 of the tokens are guaranteed to be 1 Neonberry and 2 Tickets. The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the field the planter is in):
+Bitterberries (Increments of 1, 3, 5 or 10)
+Neonberries (Increments of 1 or 10)
+Caustic Wax (Uncommon)
+Blueberries
+Strawberries
+Sunflower Seeds
+Honeysuckles
+Royal Jellies
+Moon Charms
+Smooth Dice
+Micro-Converters
+Jelly Beans
+Red Extracts
+Blue Extracts
+Coconuts (Only drops in the Coconut Field)
+Tropical Drinks (Only drops in the Coconut Field)
+Star Jelly (Uncommon)
+Super Smoothie (Very Rare)
+Gold Egg (Rare)
+Purple Potion (Increments of 1 or 2, Very Rare)
+Swirled Wax (Very Rare)
+Turpentine (Extremely Rare)
+Whistle (Very Rare)
+Bang Snap (Very Rare)
+Bead Lizard (Very Rare)
+Demon Talisman (Extremely Rare)
+Fact: Demon Talisman (Extremely Rare) requirement: 100 Bitterberries (Requires harvesting the planter from Strawberry Field, 1 month cooldown).
+100 Bitterberries (Requires harvesting the planter from either Pepper Patch, Spider Field or Mountain Top Field, unknown cooldowns)
+Fact: Demon Talisman (Extremely Rare) requirement: 25+ Neonberries (Requires harvesting the planter from Stump Field, Mountain Top Field, and Coconut Field in stated order, 1 week cooldown).
+Fact: Demon Talisman (Extremely Rare) requirement: 1 Swirled Wax (Requires harvesting from Strawberry Field, 1 month cooldown).
+Fact: Demon Talisman (Extremely Rare) requirement: 1 Caustic Wax (Has a higher chance when harvested from any of the fields in the 5 Bee Zone).
+Gallery[]
+The Pesticide Planter.
+A fully grown pesticide planter.
+A Pesticide Planter hosting a Puffshroom.
+The Pesticide Planter in Dapper Bear's Shop.
+A newly placed Pesticide Planter.
+Pesticide Planter in a player's inventory.
+A Turpentine from the Pesticide Planter.
+Trivia[]
+* The Pesticide Planter's icon and model both have the ionizing radiation symbol, but the orientation of the symbol between the model and the icon is off by 60 degrees.
+* The Pesticide Planter's raw ingredients cost:
+* 750M Honey
+* 2,250 Blueberries
+* 2,250 Strawberries
+* 3,400 Sunflower Seeds
+* 6,250 Pineapples
+* 2,250 Bitterberries
+* 100 Neonberries
+* 2,250 Honeysuckles
+* 18,486 Royal Jellies or 18.5B Honey
+* 25 Magic Beans or 500 Tickets
+Fact: The Sub-Inventories in Pesticide Planter has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Pesticide Planter has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Pesticide Planter has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Pesticide Planter has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Pesticide Planter has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Pesticide Planter has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Pesticide Planter has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Pesticide Planter has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Pesticide Planter has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Pesticide Planter has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Pesticide Planter has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Pesticide Planter has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Pesticide Planter has/costs **7-Pronged Cog**.
+Fact: The Other in Pesticide Planter has/costs **Marshmallow Bee**.
+Fact: The Currencies in Pesticide Planter has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Pesticide Planter has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Pesticide Planter has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Pesticide Planter has/costs **Parachute •  Glider**.
+Fact: The Bags in Pesticide Planter has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Pesticide Planter has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Pesticide Planter has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Pesticide Planter has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Pesticide Planter has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Pesticide Planter has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Pesticide Planter has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Pesticide Planter has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Pesticide Planter has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Pesticide Planter has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  **Pesticide Planter** •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

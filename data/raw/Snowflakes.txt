@@ -1,0 +1,105 @@
+Context: Bee Swarm Simulator - Snowflakes
+
+Snowflakes
+_"Sends a cool, soothing breeze to all the players on the server (Melts after Beesmas!)."_
+A Snowflake is a limited-time inventory item added in the 2020-12-25 update. It's only available during the Beesmas event and is removed and unusable outside the event.
+When used, it grants 9 seconds of the Cool Breeze buff that increases various stats. The buff effect scales with duration with minimum of '1%' at <1 second duration and maximum of '100%' at 15 minutes duration:
+* +10% ~ +25% Convert Rate At Hive.
+Fact: Snowflakes statistic: * +5% ~ +25% Pollen From Tools..
+Fact: Snowflakes statistic: * +5% ~ +25% Bee Gather Pollen..
+Fact: Snowflakes requirement: * +1% ~ +5% Honey Per Pollen..
+* +1% ~ +10% Loot Luck.
+Fact: Snowflakes statistic: * x1.25 Capacity (the capacity always remains the same)..
+Along with Gingerbread Bears, it could also be used to buy various items from Bee Bear’s Catalog.
+Ways to Obtain[]
+* Opening certain Gift Boxes across the map:
+* The Shiny Gift Box gives 50 snowflakes (3)
+* The Ruby Gift Box gives 40 snowflakes (5)
+* The Stellar Gift Box gives 50 snowflakes (6)
+* The Blinking Gift Box gives 50 snowflakes (8)
+* The Ticket Gift Box gives 50 snowflakes (10)
+* The Crafty Gift Box gives 25 snowflakes (11)
+* As a drop from a Festive Sprout
+* Breaking Brick Blooms in the Retro Swarm Challenge
+* Catching fallen snowflakes on fields
+* During a Snow Storm, snowflakes fall much more often, averaging 20 per field
+* Players can use the Snow Machine to summon a Snow Storm after completing Gifted Bucko Bee’s Beesmas quest
+* As a reward from Beesmas quests:
+* Brown Bear's Stockings gives 25 snowflakes
+* Science Bear's Beesmas Lights gives 25 snowflakes
+* Dapper Bear's Samovar gives 25 snowflakes
+* Spirit Bear's Galentine Shrine gives 100 snowflakes
+* Gummy Bear's Goo Years Beacon gives 500 snowflakes
+* As a reward for giving certain Quest Givers a present:
+* Black Bear gives 25 snowflakes
+* Panda Bear gives 25 snowflakes
+* Science Bear gives 25 snowflakes
+* Polar Bear gives 25 snowflakes
+* Robo Bear gives 25 snowflakes
+* Gifted Bucko Bee gives 50 snowflakes
+* Spirit Bear gives 25 snowflakes
+* Snowbear drops snowflakes every 25% of its health, increasing the snowflake amount every level, and drops the most when killed
+* As a drop from the following mobs:
+* Rhino Beetle
+* Aphid (Armored and Diamond Exclusive)
+* Wild Windy Bee
+* Festive Nymph
+* Mondo Chick
+* Purchasing the Stocking-Stuffer Stuff for 400 Robux, granting 500 snowflakes along with other items
+* Purchasing the Seasonal Slumber Special for 1700 Robux, granting 1000 snowflakes along with other items
+The methods below are no longer possible.[]
+* Purchasing the Snowey Starter Pack for 400 Robux.
+* Purchasing the Reindeer Puppy Pack for 800 Robux after receiving the Reindeer Antlers from Bee Bear's Catalog. (Gave a refund of 7,500 Snowflakes).
+* Purchasing the Nighttime Nectar Pack in the Robux Shop, granting 500 snowflakes and other items.
+* Snowflakes received from Festive Sprouts outside Beesmas event will not appear in player's inventory.
+Gallery[]
+The message the player gets when they attempt to use a snowflake after Beesmas.
+The Cool Breeze buff at 100%.
+Snowflakes in the inventory.
+Trivia[]
+* Snowflakes are one of four consumables that can be used to increase capacity, with the first being the Marshmallow Bee, the second being the Purple Potion, and the third being the Super Smoothie.
+* Snowflake and Nectar Shower Vial are the only consumables that directly grant buff(s) to all players in the server.
+* Before March 1, 2021, the snowflake description claimed that it would melt after Beesmas.
+* After Beesmas 2020 ended, the additional message was changed to "Melts this week - use them up fast!".
+* Snowflake's buff, unlike many other item buffs, does not contain its own name. Instead its buff is called "Cool Breeze".
+* This may be because snowflake is not being the only source of the buff, as it can also be obtainable from Snowglobe Shake ability token which is generated from bees equipped with Snowglobe beequip.
+* From using the snowflakes alone, it required at least 129 snowflakes to attain 100% Cool Breeze buff. This is because the buff decreases while the snowflakes are being used. However, multiple players using snowflakes could have sped up the process, decreasing the minimum needed.
+* Attempting to use a snowflake after Beesmas will prompt the message, "The Snowflake melts immediately...", thus, making them useless outside of Beesmas.
+* For any Beesmas before 2024, the only way to see snowflakes after Beesmas was to keep them in the hotbar at the bottom of the screen. If removed from the hotbar, players could no longer see their current number of snowflakes, as they were hidden from their inventory, although a player still had them until Onett wipes it next Beesmas. Keeping snowflakes in the hotbar didn't save them from being wiped, but it could always be just kept there.
+* However, after the end of Beesmas Summer 2024, all snowflakes were set to zero. They still appear if kept in the player's hotbar, but they can't be used.
+* At the end of Beesmas Winter 2024, snowflakes remained in players' inventories but without their regular use.
+* After Beesmas is over, snowflakes will still drop from Festive Sprouts. However, they will not appear in the player's inventory when collected.
+Fact: Trivia[] statistic: * Before Beesmas 2021, Cool Breeze buff used to give +5% ~ +50% Convert Rate At Hive, +1% ~ +25% Tool Pollen, +1% ~ +25% White Pollen, +1% ~ +25% Blue Pollen, and +1% ~ +10% Loot Luck, and x1.25 Capacity. The noticeable differences with the current Cool Breeze are:.
+* Convert Rate At Hive used to have half the minimum value and double the maximum value.
+Fact: Trivia[] statistic: * Tool Pollen used to start at 1% instead of 5%..
+Fact: Trivia[] statistic: * It used to increase White Pollen and Blue Pollen and not Bee Gather Pollen and Honey Per Pollen..
+Fact: Trivia[] statistic: **Pollen •  Honey •  Ticket •  Brick •  Cog •  **Snowflake** •  Gingerbread Bear**.
+Fact: The Sub-Inventories in Snowflakes has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Snowflakes has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Snowflakes has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Snowflakes has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Snowflakes has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Snowflakes has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Snowflakes has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Snowflakes has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Snowflakes has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Snowflakes has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Snowflakes has/costs **Present •  Festive Bean •  **Snowflake** •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Snowflakes has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Snowflakes has/costs **7-Pronged Cog**.
+Fact: The Other in Snowflakes has/costs **Marshmallow Bee**.
+Fact: The Currencies in Snowflakes has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Snowflakes has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Snowflakes has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Snowflakes has/costs **Parachute •  Glider**.
+Fact: The Bags in Snowflakes has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Snowflakes has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Snowflakes has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Snowflakes has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Snowflakes has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Snowflakes has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Snowflakes has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Snowflakes has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Snowflakes has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Snowflakes has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

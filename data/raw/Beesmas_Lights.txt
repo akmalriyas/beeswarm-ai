@@ -1,0 +1,24 @@
+Context: Bee Swarm Simulator - Beesmas Lights
+
+Beesmas Lights
+Beesmas Lights, unlocked after completing Science Bear's Beesmas quest.
+Beesmas Lights would appear in fields as the player collects pollen after completing Science Bear's Beesmas Lights quest.
+They fall from the sky in a similar way to the Star Shower passive, taking 2 seconds to fall. Whenever a Beesmas Light is caught, it grants the Inspire buff and converts based on the player's convert total. If the player doesn't catch it, the light collects pollen instead. Beesmas Lights spawn after collecting 25 Ability Tokens (with a 30 second cooldown), dropping 5 lights into the field. Beesmas Lights spawn in any field, including the Ant Field and the fields in Retro Swarm Challenge.
+If the player approaches the switch for the Beesmas Lights, located beside Science Bear and has not yet completed his quest, a text box will display reading the following text: "This [_sic_] Beesmas Lights aren't powering on..."
+Gallery[]
+A falling Beesmas Light.
+A green circle, indicating where a Beesmas Light falls.
+.png "RobloxScreenShot20210216 081419755 \(2\).png \(23 KB\)")
+The Beesmas Lights display in the map, turned on after the completion of Science Bear's Beesmas 2020 quest.
+The Green Beesmas Light Sticker.
+The Blue Beesmas Light Sticker.
+The Red Beesmas Light Sticker.
+The Yellow Beesmas Light Sticker.
+Trivia[]
+* The Beesmas Lights has the same function as the Star Shower passive with the difference of the fact that the star shower is more focused in a small area than Beesmas Lights.
+* This means that if the passive is disregarded, the Beesmas Lights are the only way to get the inspire buff without gifted bees or redeeming certain codes.
+* Catching a falling Beesmas Light has a 1 in 10,000 chance to reward a Red/Blue/Green/Yellow Falling Beesmas Light sticker (depending on the color of the light).
+* Even though falling Beesmas Lights were introduced during the Beesmas 2020 event, the Beesmas Light decorations along the mountain were present during prior Beesmas events.
+* Over the course of the removal of several Beesmas events, Beesmas Lights would still fall into fields a few days after Beesmas was over.
+* Bubble Bee Man's Beesmas quest dialogue also tends to take longer to be removed.
+* The text displayed when standing under the light switch for the Beesmas Lights displays "This Beesmas Lights" instead of "The Beesmas Lights". This is likely an oversight by Onett "Onett \(Developer\)").

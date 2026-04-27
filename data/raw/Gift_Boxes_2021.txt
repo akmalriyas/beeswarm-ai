@@ -1,0 +1,97 @@
+Context: Bee Swarm Simulator - Gift Boxes 2021
+
+Gift Boxes/2021
+Fact: The Appearance in Gift Boxes 2021 has/costs Name, Location, NPCs Helped, Rewards.
+Fact: The Kitsch Gift Box in Gift Boxes 2021 has/costs Near the Basic Bee Gate and the Blue Flower Field, 3.
+* 3 Blue Extracts
+* 3 Red Extracts
+* 1 Pink Balloon
+* 10 Jelly Beans
+* 10 Snowflakes
+* 2 Gingerbread Bears
+* 10 Gumdrops
+Fact: The Beige Gift Box in Gift Boxes 2021 has/costs In between the Ticket Tent and Blue Teleporter, 4.
+* 3 Enzymes
+* 1 Red Balloon
+* 5 Royal Jellies
+* 5 Smooth Dice
+* 4 Gingerbread Bears
+* 10 Whirligigs
+* 3 Paper Planters
+Fact: The Gilded Gift Box in Gift Boxes 2021 has/costs Next to the Stump Field, 5.
+* 1 Ticket Planter
+* 1 Gold Egg
+* 50 Snowflakes
+* 20 Honeysuckles
+* 1 Red Balloon
+* 1 White Balloon
+Fact: The Midnight Gift Box in Gift Boxes 2021 has/costs On a ledge above Brown Bear., 6.
+* 1 Star Jelly
+* 1 Loaded Dice
+* 1 Black Balloon
+* 20 Moon Charms
+* 6 Stingers
+* 50 Snowflakes
+Fact: The Emerald Gift Box in Gift Boxes 2021 has/costs On a ledge beside the Rose Field, 7.
+* 1 Caustic Wax
+* 10 Micro-Converters
+* 1 White Balloon
+* 10 Neonberries
+* 5 Magic Beans
+* 1 Bubble Light
+* 1 Atomic Treat
+* 4 Gingerbread Bears
+Fact: The Gummy Gift Box in Gift Boxes 2021 has/costs Inside a cave near Gummy Bee Egg Claim, 8.
+* 1 Peppermint Antennas
+* 25 Neonberries
+* 1 Ticket Planter
+* 3 Purple Potions
+* 4 Gingerbread Bears
+* 50 Gumdrops
+Fact: The Jubilant Gift Box in Gift Boxes 2021 has/costs On a cloud above the Pineapple Patch, 9.
+* 2 Swirled Waxes
+* 5 Smooth Dice
+* 1 Toy Horn
+* 25 Jelly Beans
+* 10 Magic Beans
+* 4 Ticket Planters
+* 8 Gingerbread Bears
+Fact: The Pristine Gift Box in Gift Boxes 2021 has/costs Next to the Wind Shrine, 10.
+* 15 Star Jellies
+* 1 Paper Angel
+* 15 Glitter
+* 50 Snowflakes
+* 4 Ticket Planters
+* 20 Soft Waxes
+Fact: The Earthen Gift Box in Gift Boxes 2021 has/costs On a ledge beside the Pine Tree Forest near Honey Bee (NPC) "Honey Bee \(NPC\)"), 11.
+* 10 Enzymes
+* 1 Festive Bean
+* 1 Pinecone
+* 3 Loaded Dice
+* 10 Hard Waxes
+* 5 Tropical Drinks
+* 6 Gingerbread Bears
+Fact: The Mythic Gift Box in Gift Boxes 2021 has/costs On top of the Dapper Bear’s Shop entrance, 12.
+* 5 Red Extracts
+* 1 Mythic Egg
+* 5 Blue Extracts
+* 50 Snowflakes
+* 4 Purple Potions
+* 2 Swirled Waxes
+Fact: The Festive Gift Box in Gift Boxes 2021 has/costs Behind Onett's Lid Art, 13.
+* 1 Festive Wreath
+* 1 Festive Planter
+* 2 Festive Beans
+* 1 Ticket Planter
+* 6 Gingerbread Bears
+* 50 Snowflakes
+Fact: The Mondo Gift Box in Gift Boxes 2021 has/costs On top of the Mountain Top Shop, 15.
+* 10 Gingerbread Bears
+* 1 Gifted Mythic Egg
+* 5 Mythic Eggs
+* 5 Festive Beans
+* 1 Turpentine
+* 5 Festive Planters
+* 10 Super Smoothies
+* 1 Star Treat
+* Honeyday Event Buff

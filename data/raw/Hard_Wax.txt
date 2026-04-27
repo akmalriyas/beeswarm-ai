@@ -1,0 +1,131 @@
+Context: Bee Swarm Simulator - Hard Wax
+
+_"A firm hunk of beeswax. Has a 60% chance to improve a bee's Beequip."_
+Hard Wax is an inventory item and a type of wax added in the 2021-12-26 update that can be used on a Beequip to improve its stats. Upon usage, it has a 60% chance of improving the Beequip's stats. The other 40% and the Hard Wax gives no improvement, simply taking up a space in a wax slot. Hard Wax has Upgrade Value of 2.
+Hard Waxes can also be used to craft tools and items, such as planters.
+If giving a Hard Wax to a bee's Beequip is successful, the message pops up saying:
+The Wax has Improved the Beequip!
+However, if it fails, the message pops up saying:
+The Wax didn't seem to help...
+Ways to Obtain[]
+* Crafting via Blender for:
+* 3 Soft Waxes
+* 3 Enzymes
+* 33 Bitterberries
+* 33 Royal Jellies
+* As a common reward from Robo Bear Challenge.
+* As a common reward from Retro Swarm Challenge.
+* As a stack reward for adding certain stickers to the Sticker Stack:
+* The Precise Eye Sticker rewards 1 hard wax.
+* The Red Palm Hand rewards 1 hard wax.
+* The Eviction rewards 1 hard wax.
+* The Small Shield Sticker rewards 1 hard wax.
+* The Prehistoric Hand rewards 1 hard wax.
+* The Prehistoric Boar rewards 1 hard wax.
+* Ionic Column Top rewards 1 hard wax.
+* Ionic Column Middle rewards 1 hard wax.
+* Ionic Column Base rewards 1 hard wax.
+* The Shiitake Mushroom rewards 1 hard wax.
+* The Black Truffle Mushroom rewards 1 hard wax.
+Drops[]
+* As a drop from Rare+ Puffshrooms.
+* Three hard waxes are dropped by a lvl 5 snowbear.
+* As a reward from Gifted Riley Bee's Honeyday Candles. (16.3%)
+* As a rare drop from Planters.
+* Planters in the Pumpkin Patch drop waxes more frequently, including Hard Wax.
+* The Red Clay Planters and Planters Of Plenty drop bonus waxes, including Hard Wax.
+Quests[]
+* Dapper Bear gives Hard Wax on the following quests:
+* All About Appearances (#4) gives 3 Hard Waxes and other items.
+* Creative Comforts (#6) gives 3 Hard Waxes and other items.
+* Wandering Ambition (#8) gives 1 Hard Wax and other items.
+* Unintended Intimidation (#9) gives 3 Hard Waxes and other items.
+* Solitarily Steadfast (#14) gives 10 Hard Waxes and other items.
+Outdated Ways[]
+* Purchasing certain Robux Packs:
+Fact: Outdated Ways[] requirement: * Purchasing the Precise Pack gave 50 Hard Waxes + other items..
+* A Hard Wax token used to be located behind the Honeyday Candles.
+* As a drop from a level 5 Snowbear during Beesmas 2022, it gave 3 Hard Waxes.
+* Opening the Earthen Gift Box gave 10 Hard Waxes and other items.
+* As a reward for giving a present to certain NPCs.
+* As a reward from Winter Memory Match.
+* During Beesmas, using Riley Bee's Honeyday Candles has a 16.3% chance to give 3 Hard Wax.
+* 5 Hard Waxes were included in the Candlewax Bundle during Beesmas Winter 2024.
+Crafting Uses[]
+Total required for all single-purchase items: 465 Hard Waxes
+Fact: The **Hard Waxes** in Hard Wax has/costs Other ingredients, Result.
+Fact: The 3 in Hard Wax has/costs 9 Soft Waxes.
+Fact: 3 requirement: 6 Purple Potions.
+Fact: The 3,333 Royal Jellies in Hard Wax has/costs Swirled Wax.
+Fact: The 3 in Hard Wax has/costs 3 Smooth Dice.
+Fact: 3 requirement: 3 Oils.
+Fact: The 1 Glue in Hard Wax has/costs Loaded Dice.
+Fact: The 5 in Hard Wax has/costs 5 Enzymes.
+25 Neonberries
+Fact: The 5,252 Royal Jellies in Hard Wax has/costs Caustic Wax.
+Fact: The 5 in Hard Wax has/costs 50,000,000 Honey.
+10 Magic Beans
+Fact: 10 Magic Beans requirement: 1 Purple Potion.
+Fact: The 20 Soft Waxes in Hard Wax has/costs Tacky Planter.
+Fact: The 10 in Hard Wax has/costs 750,000,000 Honey.
+25 Magic Beans
+25 Neonberries
+Fact: 25 Neonberries requirement: 15 Glues.
+Fact: The 3 Caustic Waxes in Hard Wax has/costs Pesticide Planter.
+Fact: The 100 in Hard Wax has/costs 2.5T Honey.
+Fact: 100 requirement: 1,500 Red Extracts.
+Fact: 100 requirement: 150 Stingers.
+Fact: 100 requirement: 50 Caustic Waxes.
+Fact: 100 requirement: 50 Super Smoothies.
+Fact: The 3 Invigorating Vials in Hard Wax has/costs Dark Scythe.
+Fact: The 150 in Hard Wax has/costs 750B Honey.
+75 Magic Beans
+Fact: 75 Magic Beans requirement: 750 Red Extracts.
+Fact: 75 Magic Beans requirement: 25 Swirled Waxes.
+Fact: The 1 Turpentine in Hard Wax has/costs Heat-Treated Planter.
+Fact: The 200 in Hard Wax has/costs 7.5T Honey.
+Fact: 200 requirement: 500 Coconuts.
+1,500 Tropical Drinks
+Fact: 1,500 Tropical Drinks requirement: 200 Purple Potions.
+Fact: 1,500 Tropical Drinks requirement: 3 Turpentines.
+Fact: The 3 Refreshing Vials in Hard Wax has/costs Coconut Belt.
+Gallery[]
+A Hard Wax in a player's inventory.
+Trivia[]
+* Hard Wax's raw ingredients cost:
+* 15 Honeysuckles
+* 150 Sunflower Seeds
+* 300 Pineapples
+* 33 Bitterberries
+* 153 Royal Jellies or 153,000,000 Honey
+* The probability of Hard Wax improving a Beequip all 5 times is 7.776%, or about 1 in every 13 (12.86) Beequips.
+* This is the only wax that can make no changes to a Beequip.
+Fact: The Sub-Inventories in Hard Wax has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Hard Wax has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Hard Wax has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Hard Wax has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Hard Wax has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Hard Wax has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Hard Wax has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Hard Wax has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Hard Wax has/costs **Soft Wax •  **Hard Wax** •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Hard Wax has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Hard Wax has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Hard Wax has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Hard Wax has/costs **7-Pronged Cog**.
+Fact: The Other in Hard Wax has/costs **Marshmallow Bee**.
+Fact: The Currencies in Hard Wax has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Hard Wax has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Hard Wax has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Hard Wax has/costs **Parachute •  Glider**.
+Fact: The Bags in Hard Wax has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Hard Wax has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Hard Wax has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Hard Wax has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Hard Wax has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Hard Wax has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Hard Wax has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Hard Wax has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Hard Wax has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Hard Wax has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

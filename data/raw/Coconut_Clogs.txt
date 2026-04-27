@@ -1,0 +1,76 @@
+Context: Bee Swarm Simulator - Coconut Clogs
+
+Coconut Clogs
+Coconut Clogs
+Description
+"Kick around Coconuts with this pair of clunky kicks for a surge of speed."
+Fact: Description requirement: 10,000,000,000 Honey, 150 Coconuts, 50 Tropical Drinks, 100 Glue, 100 Oil and 1 Refreshing Vial..
+Bonus Stats
+Fact: Bonus Stats statistic: +15% Pollen.
+Fact: Bonus Stats requirement: x1.15 Coconut Field Pollen.
+Fact: Bonus Stats requirement: +25% Honey From Tokens.
+Fact: Bonus Stats statistic: +2 Bee Attack.
+Fact: Bonus Stats statistic: +7 Player Movespeed.
+Fact: Bonus Stats statistic: +22 Jump Power.
+Fact: Bonus Stats statistic: +14 Movement Collection.
+Fact: Bonus Stats requirement: +Passive: Coconut Haste.
+> "_Kick around Coconuts with this pair of clunky kicks for a surge of speed._ "
+The Coconut Clogs are a pair of boots that can be purchased in the Coconut Cave.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 10B Honey.
+Fact: Crafting Ingredients requirement: 150 Coconuts.
+50 Tropical Drinks
+Fact: 50 Tropical Drinks requirement: 100 Glues.
+Fact: 50 Tropical Drinks requirement: 100 Oils.
+1 Refreshing Vial
+Fact: 1 Refreshing Vial statistic: * +15% Pollen.
+Fact: 1 Refreshing Vial statistic: * x1.15 Coconut Field Pollen.
+Fact: 1 Refreshing Vial requirement: * +25% Honey From Tokens..
+* +2 Bee Attack
+* +7 Player Movespeed.
+* +22 Jump Power.
+* +14 Movement Collection.
+Fact: * +2 Bee Attack requirement: * +Passive: Coconut Haste..
+Fact: * +2 Bee Attack requirement: * The passive activates whenever the player catches a falling coconut. When it does, the player gains a single stack of haste and activates a two second Coconut Haste Surge boost, which grants x1.5 Bee Movespeed and +10 Player Movespeed..
+Gallery[]
+The Coconut Clogs icon.
+.png "RobloxScreenShot20200505 164231508 \(2\).png \(6 KB\)")
+The Coconut Haste buff.
+The old stats of the Coconut Clogs.
+The new stats of the Coconut Clogs.
+Trivia[]
+* This is the second boot accessory that could not have been received from Sun Bear, mainly because it did not exist back then. It was preceded by the Gummy Boots.
+* It is the only pair of boots whose name doesn't end with "Boots".
+* This is the ninth most expensive item in the game in terms of honey (excluding hive slots).
+* This is the second boot accessory to have a passive ability; the first one being the Gummy Boots.
+* This, the Coconut Canister and the Coconut Belt are currently the only items that require a mob (Coconut Crab) to be defeated to access the item.
+* This and the Coconut Belt are the only items to boost pollen from a field.
+Fact: The Sub-Inventories in Coconut Clogs has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Coconut Clogs has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Coconut Clogs has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Coconut Clogs has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Coconut Clogs has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Coconut Clogs has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Coconut Clogs has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Coconut Clogs has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Coconut Clogs has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Coconut Clogs has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Coconut Clogs has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Coconut Clogs has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Coconut Clogs has/costs **7-Pronged Cog**.
+Fact: The Other in Coconut Clogs has/costs **Marshmallow Bee**.
+Fact: The Currencies in Coconut Clogs has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Coconut Clogs has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Coconut Clogs has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Coconut Clogs has/costs **Parachute •  Glider**.
+Fact: The Bags in Coconut Clogs has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Coconut Clogs has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Coconut Clogs has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Coconut Clogs has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Coconut Clogs has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  **Coconut Clogs** •  Gummy Boots**.
+Fact: The Amulets in Coconut Clogs has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Coconut Clogs has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Coconut Clogs has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Coconut Clogs has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Coconut Clogs has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

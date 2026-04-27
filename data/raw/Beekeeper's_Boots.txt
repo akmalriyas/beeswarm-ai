@@ -1,0 +1,68 @@
+Context: Bee Swarm Simulator - Beekeeper's Boots
+
+Beekeeper's Boots
+Beekeeper's Boots
+Description
+"Practical and stylish boots that aid in the beekeeping process."
+Fact: Description requirement: 15,000,000 Honey, 5 Oil, 3 Red Extracts, and 3 Blue Extracts..
+Bonus Stats
+Fact: Bonus Stats statistic: +25% Bee Gather Pollen.
+Fact: Bonus Stats statistic: +6 Player Movespeed.
+Fact: Bonus Stats statistic: +20 Jump Power.
+Fact: Bonus Stats statistic: +10 Movement Collection.
+Fact: Bonus Stats statistic: +1 Bee Attack.
+> "_Practical and stylish boots that aid in the beekeeping process._ "
+The Beekeeper's Boots are a pair of boots that were added in the 2018-09-10 update. The Beekeeper's Boots can be bought at the Mountain Top Shop for 15 million honey.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 15,000,000 Honey.
+Fact: Crafting Ingredients requirement: 5 Oils.
+Fact: Crafting Ingredients requirement: 3 Red Extracts.
+Fact: Crafting Ingredients requirement: 3 Blue Extracts.
+Fact: Crafting Ingredients statistic: * +25% Bee Gather Pollen..
+* +6 Player Movespeed.
+* +20 Jump Power.
+* +10 Movement Collection.
+* +1 Bee Attack.
+Gallery[]
+The Beekeeper's Boots icon.
+Trivia[]
+* They could have been obtained from Sun Bear by completing his last quest before he left on 2018-10-08.
+* To craft these boots using the Blender, a total of 15,000,000 honey, 110 royal jellies, 150 strawberries, 150 blueberries, and 250 sunflower seeds must be collected. Also, keep in mind that crafting the materials requires a total of 55 minutes of playtime without speeding it up using tickets.
+* Onett wears a pair of Beekeeper's Boots. He doesn't wear the Gummy Boots or the Coconut Clogs because they were added later in the 2018-11-25 update and 2019-09-28 updates respectively.
+* Onett didn't wear any boots prior to the 2018-09-10 update, as boots weren't added then. Shortly after the 2018-09-10 update, this was changed to Onett's current gear today.
+* The version worn by Sun Bear is much bigger than the one the player wears to fit his model.
+* Prior to the 2018-11-25 update, this item, Basic Boots and Hiking Boots didn't require any items as there was no crafting then.
+* After Sun Bear left, the Beekeeper's Boots were transferred over to the Mountain Top Shop for 33,000,000 (33 million) honey.
+* The original price was changed to the current price (15,000,000 honey) in the 2018-11-25 update because of the new crafting materials needed to make it.
+Fact: Trivia[] statistic: * After the nerf of hats, these replaced the removed bonuses of the Beekeeper's Mask, including the Movespeed bonus, which was 6, the Jump Power boost, and the Bee Gather Pollen boost, which was 25%. Now, both the mask and the boots are 30%, meaning that the boost for Bee Gather Pollen is larger when wearing both the Beekeeper's Mask and Beekeeper's Boots..
+* These were the highest-tiered boots in the game until the 2018-11-25 update when the Gummy Boots were introduced to the game.
+* In the 2019-09-28 update, Coconut Clogs were added, also surpassing the Beekeeper's Boots. As a result, the Beekeeper's Boots are currently the third highest-tiered boots in the game, behind the Gummy Boots and Coconut Clogs.
+Fact: The Sub-Inventories in Beekeeper's Boots has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Beekeeper's Boots has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Beekeeper's Boots has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Beekeeper's Boots has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Beekeeper's Boots has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Beekeeper's Boots has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Beekeeper's Boots has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Beekeeper's Boots has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Beekeeper's Boots has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Beekeeper's Boots has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Beekeeper's Boots has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Beekeeper's Boots has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Beekeeper's Boots has/costs **7-Pronged Cog**.
+Fact: The Other in Beekeeper's Boots has/costs **Marshmallow Bee**.
+Fact: The Currencies in Beekeeper's Boots has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Beekeeper's Boots has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Beekeeper's Boots has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Beekeeper's Boots has/costs **Parachute •  Glider**.
+Fact: The Bags in Beekeeper's Boots has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Beekeeper's Boots has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Beekeeper's Boots has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Beekeeper's Boots has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Beekeeper's Boots has/costs **Basic Boots •  Hiking Boots •  **Beekeeper's Boots** •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Beekeeper's Boots has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Beekeeper's Boots has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Beekeeper's Boots has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Beekeeper's Boots has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Beekeeper's Boots has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

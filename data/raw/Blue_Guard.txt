@@ -1,0 +1,60 @@
+Context: Bee Swarm Simulator - Blue Guard
+
+Blue Guard
+Blue Guard
+Description
+"A durable pad worn on the right shoulder of Blue Beekeepers."
+Fact: Description requirement: 1,000,000 Honey, 50 Blueberries, 1 Royal Jelly, and 3 Moon Charms..
+Bonus Stats
+Fact: Bonus Stats statistic: +25,000 Capacity.
+Fact: Bonus Stats statistic: +15% Blue Pollen.
+Fact: Bonus Stats statistic: +5% Defense.
+Fact: Bonus Stats statistic: +1 Blue Bee Attack.
+> "_A durable pad worn on the right shoulder of Blue Beekeepers._ "
+The Blue Guard is a guard purchasable in the Blue HQ. It is equipped on the right shoulder.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 1,000,000 Honey.
+50 Blueberries
+Fact: 50 Blueberries requirement: 1 Royal Jelly.
+Fact: 50 Blueberries requirement: 3 Moon Charms.
+This guard is one of 3 guards in the Blue HQ, the others being the Elite Blue Guard, and the Bucko Guard.
+Fact: 50 Blueberries statistic: * +25,000 Capacity..
+Fact: 50 Blueberries statistic: * +15% Blue Pollen..
+* +5% Defense.
+* +1 Blue Bee Attack.
+Gallery[]
+The Blue Guard icon.
+Trivia[]
+* Before the 2018-11-25 update, the Blue Guard costed 1,000,000 (1 million) honey and no crafting materials.
+* This guard’s red counterpart is the Red Guard.
+* It is the cheapest guard in the Blue HQ.
+* It is also the cheapest item in the shop.
+Fact: The Sub-Inventories in Blue Guard has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Blue Guard has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Blue Guard has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Blue Guard has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Blue Guard has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Blue Guard has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Blue Guard has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Blue Guard has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Blue Guard has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Blue Guard has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Blue Guard has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Blue Guard has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Blue Guard has/costs **7-Pronged Cog**.
+Fact: The Other in Blue Guard has/costs **Marshmallow Bee**.
+Fact: The Currencies in Blue Guard has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Blue Guard has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Blue Guard has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Blue Guard has/costs **Parachute •  Glider**.
+Fact: The Bags in Blue Guard has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Blue Guard has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  **Blue Guard** •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Blue Guard has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Blue Guard has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Blue Guard has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Blue Guard has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Blue Guard has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Blue Guard has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Blue Guard has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Blue Guard has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

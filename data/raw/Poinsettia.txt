@@ -1,0 +1,721 @@
+Context: Bee Swarm Simulator - Poinsettia
+
+Poinsettia
+"A gorgeous red flower so vibrant it is reserved for a special time of the year."
+Fact: Poinsettia statistic: +Red Gather Amount%.
+Fact: Poinsettia statistic: +Gather Pollination Chance%.
+Fact: Poinsettia statistic: +Bee Gather Pollen%.
+Fact: Poinsettia statistic: +Red Pollen%.
+A Poinsettia is a level 6 Beesmas Beequip. It has an equip limit of two. There is no color requirement. They can only be equipped to bees that know the Boost ability.
+Possible Stats[]
+* With Potential
+Hover over column headers for more information.
+Check the Beequip#Generation article for a short explanation on how the game generates Beequips.
+Credit: Pawselfie \- Original spreadsheet This beequip uses the old RNG functions.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades, Range.
+Fact: The Chance in Poinsettia has/costs Value, Weight, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Poinsettia has/costs **1**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Fact: The Bias: {3, 1} in Poinsettia has/costs **20**, **+10% - +60%**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Poinsettia has/costs An exact value between **0.25** -**0.75**.
+Fact: The Linear scaling by a factor of 1 in Poinsettia has/costs **+1%**, **20**, **+10% - +40%**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Fact: The Bias scales linearly in Poinsettia has/costs **+1%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Poinsettia has/costs An exact value between **0.1** -**0.35**.
+Fact: The Linear scaling by a factor of 1 in Poinsettia has/costs A random value between **+1%** -**+3%**.
+Intervals of +1%
+Fact: The Bias: {2, 1} in Poinsettia has/costs **10**, **0% - +31%**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, An exact value between **0.01** -**0.1**.
+Fact: The Linear scaling by a factor of 1 in Poinsettia has/costs A random value between **+2%** -**+5%**.
+Intervals of +1%
+Fact: The Bias scales linearly in Poinsettia has/costs **5**, **0% - +25%**.
+_Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop)._
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Poinsettia has/costs **73.5294%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Poinsettia has/costs **18.3824%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 20%
+Fact: The Average value: 27.5% in Poinsettia has/costs **+1%**, **7.3529%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **0.7353%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Poinsettia has/costs **73.5294%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.15% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +10%
+Fact: The Average value: +12.48% in Poinsettia has/costs **18.3824%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 20%
+Fact: The Average value: 27.5% in Poinsettia has/costs **+1%**, **7.3529%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1%
+Fact: The Average value: +1.44% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **0.7353%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2.7% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Poinsettia has/costs **69.2521%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Poinsettia has/costs **20.7756%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 23%
+Fact: The Average value: 29% in Poinsettia has/costs **+1%**, **8.6565%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.48% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **1.3158%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.3%
+Fact: The Average value: +2.85% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Poinsettia has/costs **69.2521%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.04%
+Fact: The Average value: +1.16% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +11%
+Fact: The Average value: +12.99% in Poinsettia has/costs **20.7756%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 23%
+Fact: The Average value: 29% in Poinsettia has/costs **+1%**, **8.6565%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.11%
+Fact: The Average value: +1.48% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **1.3158%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.3%
+Fact: The Average value: +2.85% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Poinsettia has/costs **65.445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Poinsettia has/costs **22.9058%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 26%
+Fact: The Average value: 30.5% in Poinsettia has/costs **+1%**, **9.8168%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.55% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **1.8325%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.12% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Poinsettia has/costs **65.445%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.08%
+Fact: The Average value: +1.17% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +12%
+Fact: The Average value: +13.49% in Poinsettia has/costs **22.9058%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 26%
+Fact: The Average value: 30.5% in Poinsettia has/costs **+1%**, **9.8168%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.25%
+Fact: The Average value: +1.55% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **1.8325%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +3.12% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Poinsettia has/costs **62.0347%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Poinsettia has/costs **24.8139%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 29%
+Fact: The Average value: 32% in Poinsettia has/costs **+1%**, **10.8561%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.43%
+Fact: The Average value: +1.68% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **2.2953%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.9%
+Fact: The Average value: +3.21% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Poinsettia has/costs **62.0347%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.14%
+Fact: The Average value: +1.19% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +13%
+Fact: The Average value: +14% in Poinsettia has/costs **24.8139%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 29%
+Fact: The Average value: 32% in Poinsettia has/costs **+1%**, **10.8561%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.43%
+Fact: The Average value: +1.68% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **2.2953%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +2.9%
+Fact: The Average value: +3.21% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Poinsettia has/costs **58.9623%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Poinsettia has/costs **26.533%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 32%
+Fact: The Average value: 33.5% in Poinsettia has/costs **+1%**, **11.7925%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.67%
+Fact: The Average value: +1.92% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **2.7123%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.31% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Poinsettia has/costs **58.9623%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.22%
+Fact: The Average value: +1.21% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +14%
+Fact: The Average value: +14.5% in Poinsettia has/costs **26.533%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 32%
+Fact: The Average value: 33.5% in Poinsettia has/costs **+1%**, **11.7925%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +1.67%
+Fact: The Average value: +1.92% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **2.7123%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.2%
+Fact: The Average value: +3.31% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Poinsettia has/costs **56.1798%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Poinsettia has/costs **28.0899%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 35%
+Fact: The Average value: 35% in Poinsettia has/costs **+1%**, **12.6404%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **3.0899%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.5%
+Fact: The Average value: +3.5% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Poinsettia has/costs **56.1798%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.33%
+Fact: The Average value: +1.27% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +15%
+Fact: The Average value: +15% in Poinsettia has/costs **28.0899%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 35%
+Fact: The Average value: 35% in Poinsettia has/costs **+1%**, **12.6404%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +2% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **3.0899%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.5%
+Fact: The Average value: +3.5% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Poinsettia has/costs **53.6481%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Poinsettia has/costs **29.5064%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 38%
+Fact: The Average value: 36.5% in Poinsettia has/costs **+1%**, **13.412%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.04% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **3.4335%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.69% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Poinsettia has/costs **53.6481%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.5%
+Fact: The Average value: +1.5% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +16%
+Fact: The Average value: +15.5% in Poinsettia has/costs **29.5064%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 38%
+Fact: The Average value: 36.5% in Poinsettia has/costs **+1%**, **13.412%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.2%
+Fact: The Average value: +2.04% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **3.4335%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +3.8%
+Fact: The Average value: +3.69% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Poinsettia has/costs **51.3347%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Poinsettia has/costs **30.8008%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 41%
+Fact: The Average value: 38% in Poinsettia has/costs **+1%**, **14.117%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.4%
+Fact: The Average value: +2.11% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **3.7474%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.1%
+Fact: The Average value: +3.79% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Poinsettia has/costs **51.3347%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.7%
+Fact: The Average value: +1.75% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +17%
+Fact: The Average value: +16% in Poinsettia has/costs **30.8008%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 41%
+Fact: The Average value: 38% in Poinsettia has/costs **+1%**, **14.117%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.4%
+Fact: The Average value: +2.11% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **3.7474%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.1%
+Fact: The Average value: +3.79% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Poinsettia has/costs **49.2126%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Poinsettia has/costs **31.9882%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 44%
+Fact: The Average value: 39.5% in Poinsettia has/costs **+1%**, **14.7638%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **4.0354%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +3.88% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Poinsettia has/costs **49.2126%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.8%
+Fact: The Average value: +1.79% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +18%
+Fact: The Average value: +16.51% in Poinsettia has/costs **31.9882%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 44%
+Fact: The Average value: 39.5% in Poinsettia has/costs **+1%**, **14.7638%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.6%
+Fact: The Average value: +2.34% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **4.0354%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.4%
+Fact: The Average value: +3.88% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Poinsettia has/costs **47.259%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Poinsettia has/costs **33.0813%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 47%
+Fact: The Average value: 41% in Poinsettia has/costs **+1%**, **15.3592%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **4.3006%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.7%
+Fact: The Average value: +4.15% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Poinsettia has/costs **47.259%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +1.9%
+Fact: The Average value: +1.82% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +19%
+Fact: The Average value: +17.01% in Poinsettia has/costs **33.0813%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 47%
+Fact: The Average value: 41% in Poinsettia has/costs **+1%**, **15.3592%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +2.8%
+Fact: The Average value: +2.48% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **4.3006%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +4.7%
+Fact: The Average value: +4.15% in Poinsettia has/costs **5**.
+* Non-Caustic
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Poinsettia has/costs **45.4545%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Poinsettia has/costs **34.0909%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 50%
+Fact: The Average value: 42.5% in Poinsettia has/costs **+1%**, **15.9091%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **4.5455%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Poinsettia has/costs **5**.
+All results are rounded to at most 4 decimal digits.
+Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.
+Fact: The Caustic Req. in Poinsettia has/costs Base, Upgrades.
+Fact: The Chance in Poinsettia has/costs Value, Chance, Value, Limit.
+Fact: The +Red Gather Amount% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Poinsettia has/costs **45.4545%**, A random value between **+1%** -**+2%**.
+Intervals of +1%
+Biased to values near +2%
+Fact: The Average value: +1.85% in Poinsettia has/costs **20**.
+Fact: The +Gather Pollination Chance% in Poinsettia has/costs **100%**, A random value between **+10%** -**+20%**.
+Intervals of +1%
+Biased to values near +20%
+Fact: The Average value: +17.52% in Poinsettia has/costs **34.0909%**, **+1%**, **20**.
+Fact: The +Bee Gather Pollen% in Poinsettia has/costs A random value between **20%** -**50%**.
+Biased to values near 50%
+Fact: The Average value: 42.5% in Poinsettia has/costs **+1%**, **15.9091%**, A random value between **+1%** -**+3%**.
+Intervals of +1%
+Biased to values near +3%
+Fact: The Average value: +2.56% in Poinsettia has/costs **10**.
+Fact: The +Red Pollen% in Poinsettia has/costs \-, \-, **4.5455%**, A random value between **+2%** -**+5%**.
+Intervals of +1%
+Biased to values near +5%
+Fact: The Average value: +4.3% in Poinsettia has/costs **5**.
+Probabilities[]
+The tables below give the probability of a stat of Poinsettia falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
+For smaller ranges, see the linked subpage.
+_Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors._
+Show/hide tables
+* Bee Stats
+* +Red Gather Amount%
+* +Gather Pollination Chance%
+Fact: The Potential in Poinsettia has/costs Stat ranges, Average.
+Fact: The +10%-+11% in Poinsettia has/costs +12%-+13%, +14%-+15%, +16%-+17%, +18%-+19%, +20%.
+Fact: The **0 ★** in Poinsettia has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.5%.
+Fact: The **0.5 ★** in Poinsettia has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +13%.
+Fact: The **1 ★** in Poinsettia has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.5%.
+Fact: The **1.5 ★** in Poinsettia has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +14%.
+Fact: The **2 ★** in Poinsettia has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.5%.
+Fact: The **2.5 ★** in Poinsettia has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15%.
+Fact: The **3 ★** in Poinsettia has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.5%.
+Fact: The **3.5 ★** in Poinsettia has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16%.
+Fact: The **4 ★** in Poinsettia has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.5%.
+Fact: The **4.5 ★** in Poinsettia has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17%.
+Fact: The **5 ★** in Poinsettia has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.5%.
+Fact: The Potential in Poinsettia has/costs Stat ranges, Average.
+Fact: The +10%-+11% in Poinsettia has/costs +12%-+13%, +14%-+15%, +16%-+17%, +18%-+19%, +20%.
+Fact: The **0 ★** in Poinsettia has/costs 43.457%, 28.287%, 16.137%, 8.695%, 3.297%, 0.127%, +12.5%.
+Fact: The **0.5 ★** in Poinsettia has/costs 29.452%, 37.571%, 19.168%, 9.961%, 3.706%, 0.142%, +13%.
+Fact: The **1 ★** in Poinsettia has/costs 8.069%, 52.041%, 23.824%, 11.674%, 4.232%, 0.16%, +13.5%.
+Fact: The **1.5 ★** in Poinsettia has/costs 4.603%, 43.592%, 32.545%, 14.142%, 4.935%, 0.183%, +14%.
+Fact: The **2 ★** in Poinsettia has/costs 3.25%, 21.353%, 51.192%, 18.07%, 5.921%, 0.214%, +14.5%.
+Fact: The **2.5 ★** in Poinsettia has/costs 2.516%, 14.424%, 49.573%, 25.816%, 7.413%, 0.259%, +15%.
+Fact: The **3 ★** in Poinsettia has/costs 2.054%, 11.059%, 29.462%, 47.137%, 9.961%, 0.326%, +15.5%.
+Fact: The **3.5 ★** in Poinsettia has/costs 1.736%, 9.0038%, 21.153%, 52.065%, 15.599%, 0.442%, +16%.
+Fact: The **4 ★** in Poinsettia has/costs 1.503%, 7.605%, 16.813%, 35.216%, 38.178%, 0.685%, +16.5%.
+Fact: The **4.5 ★** in Poinsettia has/costs 1.326%, 6.588%, 14.03%, 26.18%, 50.342%, 1.534%, +17%.
+Fact: The **5 ★** in Poinsettia has/costs 1.186%, 5.813%, 12.068%, 21.275%, 39.679%, 19.979%, +17.5%.
+* Bee Stats
+* Hive Bonuses
+* +Red Gather Amount%
+Fact: The Potential in Poinsettia has/costs Stat ranges, Average.
+Fact: The +1% in Poinsettia has/costs +2%.
+Fact: The **0 ★** in Poinsettia has/costs 84.657%, 15.343%, +1.2%.
+Fact: The **0.5 ★** in Poinsettia has/costs 83.906%, 16.094%, +1.2%.
+Fact: The **1 ★** in Poinsettia has/costs 82.852%, 17.148%, +1.2%.
+Fact: The **1.5 ★** in Poinsettia has/costs 81.267%, 18.733%, +1.2%.
+Fact: The **2 ★** in Poinsettia has/costs 78.601%, 21.399%, +1.2%.
+Fact: The **2.5 ★** in Poinsettia has/costs 73.105%, 26.895%, +1.3%.
+Fact: The **3 ★** in Poinsettia has/costs 50%, 50%, +1.5%.
+Fact: The **3.5 ★** in Poinsettia has/costs 24.945%, 75.055%, +1.8%.
+Fact: The **4 ★** in Poinsettia has/costs 20.575%, 79.425%, +1.8%.
+Fact: The **4.5 ★** in Poinsettia has/costs 17.563%, 82.437%, +1.8%.
+Fact: The **5 ★** in Poinsettia has/costs 15.343%, 84.657%, +1.8%.
+Fact: **5 ★** statistic: * +Bee Gather Pollen%.
+Fact: **5 ★** statistic: * +Red Pollen%.
+Fact: The Potential in Poinsettia has/costs Stat ranges, Average.
+Fact: The +1% in Poinsettia has/costs +2%, +3%.
+Fact: The **0 ★** in Poinsettia has/costs 59.657%, 36.919%, 3.424%, +1.4%.
+Fact: The **0.5 ★** in Poinsettia has/costs 55.731%, 40.622%, 3.647%, +1.5%.
+Fact: The **1 ★** in Poinsettia has/costs 49.324%, 46.706%, 3.97%, +1.5%.
+Fact: The **1.5 ★** in Poinsettia has/costs 36.039%, 59.478%, 4.483%, +1.7%.
+Fact: The **2 ★** in Poinsettia has/costs 13.448%, 81.136%, 5.417%, +1.9%.
+Fact: The **2.5 ★** in Poinsettia has/costs 7.671%, 84.657%, 7.671%, +2%.
+Fact: The **3 ★** in Poinsettia has/costs 6.135%, 83.577%, 10.288%, +2%.
+Fact: The **3.5 ★** in Poinsettia has/costs 5.118%, 78.841%, 16.041%, +2.1%.
+Fact: The **4 ★** in Poinsettia has/costs 4.392%, 56.745%, 38.863%, +2.3%.
+Fact: The **4.5 ★** in Poinsettia has/costs 3.848%, 44.276%, 51.876%, +2.5%.
+Fact: The **5 ★** in Poinsettia has/costs 3.424%, 36.919%, 59.657%, +2.6%.
+Fact: The Potential in Poinsettia has/costs Stat ranges, Average.
+Fact: The +2% in Poinsettia has/costs +3%, +4%, +5%.
+Fact: The **0 ★** in Poinsettia has/costs 46.529%, 38.128%, 13.869%, 1.473%, +2.7%.
+Fact: The **0.5 ★** in Poinsettia has/costs 34.018%, 48.419%, 15.914%, 1.648%, +2.9%.
+Fact: The **1 ★** in Poinsettia has/costs 10.694%, 68.731%, 18.704%, 1.871%, +3.1%.
+Fact: The **1.5 ★** in Poinsettia has/costs 5.854%, 69.201%, 22.781%, 2.164%, +3.2%.
+Fact: The **2 ★** in Poinsettia has/costs 4.09%, 63.828%, 29.517%, 2.565%, +3.3%.
+Fact: The **2.5 ★** in Poinsettia has/costs 3.151%, 46.849%, 46.849%, 3.151%, +3.5%.
+Fact: The **3 ★** in Poinsettia has/costs 2.565%, 29.517%, 63.828%, 4.09%, +3.7%.
+Fact: The **3.5 ★** in Poinsettia has/costs 2.164%, 22.781%, 69.201%, 5.854%, +3.8%.
+Fact: The **4 ★** in Poinsettia has/costs 1.871%, 18.704%, 68.731%, 10.694%, +3.9%.
+Fact: The **4.5 ★** in Poinsettia has/costs 1.648%, 15.914%, 48.419%, 34.018%, +4.1%.
+Fact: The **5 ★** in Poinsettia has/costs 1.473%, 13.869%, 38.128%, 46.529%, +4.3%.
+Ways To Obtain[]
+* Purchasing Poinsettia Bundle from Bee Bear's Catalog.
+* As a rare reward from the Ant Challenge during the Beesmas event. A higher score has a higher chance to drop a Poinsettia.
+Outdated Ways[]
+* As a reward from Spirit Bear's Galentine's Shrine quest in Beesmas 2021 (Gave 1 Poinsettia \+ other items).
+* Purchasing the Beequip Bundle in Bee Bear's Catalog for 75 Snowflakes and 15 Gingerbread Bears (Gave 1 Poinsettia \+ other items).
+* Purchasing the Poinsettia Pack in Bee Bear's Catalog for 500 Snowflakes and 15 Gingerbread Bears (Gave 1 Poinsettia \+ other items).
+Gallery[]
+A Poinsettia equipped to a Tadpole Bee.
+A Poinsettia in the Beequip Case.
+A Poinsettia along with other rewards from the Ant Challenge.
+Trivia[]
+* After Beesmas 2022, this Beequip was still available to be obtained in Ant Challenge.
+* This makes the Poinsettia the second beesmas beequip that still can be obtained after Beesmas, with the first being Icicles.
+* This Beequip, along with the Lei and the Rose Headband are the only Beequips to have Gather Pollination Chance buff and makes it the only way for bees to pollinate flowers other than the Fuzzy Bee abilities.
+Fact: Trivia[] statistic: * During Beesmas 2025 when the player gives a present to Gifted Riley Bee, it mentions that the present is a 20% Red Pollen (Hive Bonus) Poinsettia..
+Fact: The Sub-Inventories in Poinsettia has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Poinsettia has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Poinsettia has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Poinsettia has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Poinsettia has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Poinsettia has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Poinsettia has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Poinsettia has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Poinsettia has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Poinsettia has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Poinsettia has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Poinsettia has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Poinsettia has/costs **7-Pronged Cog**.
+Fact: The Other in Poinsettia has/costs **Marshmallow Bee**.
+Fact: The Currencies in Poinsettia has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Poinsettia has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Poinsettia has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Poinsettia has/costs **Parachute •  Glider**.
+Fact: The Bags in Poinsettia has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Poinsettia has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Poinsettia has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Poinsettia has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Poinsettia has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Poinsettia has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Poinsettia has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Poinsettia has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  **Poinsettia** •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Poinsettia has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Poinsettia has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

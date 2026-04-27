@@ -1,0 +1,81 @@
+Context: Bee Swarm Simulator - Party Mechsquito
+
+Party Mechsquito
+Party Mechsquito
+Location
+Any field except the Coconut Field, Spider Field and Ant Field (When Robo Party is active)
+Fact: The Health in Party Mechsquito has/costs Damage.
+Fact: The Varies with level in Party Mechsquito has/costs ?.
+Fact: The Battle Points in Party Mechsquito has/costs Bond.
+Fact: The None in Party Mechsquito has/costs None.
+Fact: The Honey in Party Mechsquito has/costs Level.
+Fact: The Varies with Level in Party Mechsquito has/costs 1-28 (Varies with Cake Rank).
+_Not to be confused withParty Mega Mechsquitos, the larger counterparts of Party Mechsquitos or Mechsquitos, the normal version of these._
+The Party Mechsquito is one of the mobs exclusive to Robo Party. It functions similarly to a regular Mechsquito, but roams around a field instead of following the player around.
+Health per Level[]
+Fact: The Level in Party Mechsquito has/costs Health.
+Fact: The 1 in Party Mechsquito has/costs 60.
+Fact: The 2 in Party Mechsquito has/costs 120.
+Fact: The 3 in Party Mechsquito has/costs 200.
+Fact: The 4 in Party Mechsquito has/costs 250.
+Fact: The 5 in Party Mechsquito has/costs 400.
+Fact: The 6 in Party Mechsquito has/costs 600.
+Fact: The 7 in Party Mechsquito has/costs 900.
+Fact: The 8 in Party Mechsquito has/costs 1,100.
+Fact: The 9 in Party Mechsquito has/costs 1,300.
+Fact: The 10 in Party Mechsquito has/costs 1,500.
+Fact: The 11 in Party Mechsquito has/costs 1,800.
+Fact: The 12 in Party Mechsquito has/costs 2,000.
+Fact: The 13 in Party Mechsquito has/costs 2,200.
+Fact: The 14 in Party Mechsquito has/costs 2,500.
+Fact: The 15 in Party Mechsquito has/costs 2,800.
+Fact: The 16 in Party Mechsquito has/costs 3,000.
+Fact: The 17 in Party Mechsquito has/costs 3,200.
+Fact: The 18 in Party Mechsquito has/costs 3,400.
+Fact: The 19 in Party Mechsquito has/costs 3,700.
+Fact: The 20 in Party Mechsquito has/costs 4,000.
+Fact: The 21 in Party Mechsquito has/costs 4,200.
+Fact: The 22 in Party Mechsquito has/costs 4,400.
+Fact: The 23 in Party Mechsquito has/costs 4,600.
+Fact: The 24 in Party Mechsquito has/costs 4,800.
+Fact: The 25 in Party Mechsquito has/costs 5,000.
+Fact: The 26 in Party Mechsquito has/costs 5,200.
+Fact: The 27 in Party Mechsquito has/costs 5,400.
+Fact: The 28 in Party Mechsquito has/costs 5,600.
+* Honey (Guaranteed)
+* Honeysuckle
+* Pink Balloon (Uncommon)
+* Royal Jelly
+* Micro-Converter
+* Hard Wax (Rare)
+* White Balloon (Very Rare)
+* Robo Pass (Rare)
+* Ticket Planter (Very Rare)
+* Whirligigs
+* Neonberry
+* Mythic Egg (Extremely Rare)
+* Star Egg (Exceptionally Rare)
+Strategies[]
+Since they are essentially the same as their normal counterparts, Mechsquitos, the same methods used for them can be followed.
+* Party Mechsquitos aim for where the player is, not where the player will be. Because of this, moving around in circles will often result in Party Mechsquitos missing their attack.
+* Stand near the Party Mechsquito, and this will allow your bees to lock on to the Party Mechsquito and quickly deal damage.
+* Vicious Bee and Windy Bee provide excellent crowd control, especially since Party Mechsquitos often come in pairs or packs. Digital Bee can also stun many Party Mechsquitos at once and allow them to take extra damage via Mind Hack.
+* Unlike their normal counterparts, they stay in fields which can be used for the players advantage. Stand right outside the field they are in and your bees will attack it while it doesn't aim for you. Note that this can be a bit risky since they can hover around the other parts of the field and don't come close enough for your bees to target them.
+Gallery[]
+A Party Mechsquito hovering over a field.
+A level 15 Party Mechsquito at low health.
+The Strawberry Field covered in Party Mechsquitos from a Robo Party started at the end of Beesmas 2022.
+Trivia[]
+* This is one of the first mobs to appear during a Robo Party if the player is just starting at the first ranks.
+* This, Party Cogturrets, and Party Mega Mechsquitos have the same health per level as their normal counterparts.
+Fact: The Normal in Party Mechsquito has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Party Mechsquito has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Party Mechsquito has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Party Mechsquito has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Party Mechsquito has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Party Mechsquito has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Party Mechsquito has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Party Mechsquito has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Party Mechsquito has/costs ****Party Mechsquito** • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Party Mechsquito has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Party Mechsquito has/costs **Chick • Hostage Chick • Spotted Chick**.

@@ -1,0 +1,61 @@
+Context: Bee Swarm Simulator - Ladybug
+
+Location
+Mushroom Field, Clover Field, Strawberry Field
+Respawns Every
+5 minutes (4 minutes 15 seconds with Gifted Vicious Bee)
+Fact: The Health in Ladybug has/costs Damage.
+Fact: The 28 (Lvl 3) in Ladybug has/costs 15.
+Fact: The Battle Points in Ladybug has/costs Bond.
+Fact: The 1 in Ladybug has/costs 5.
+Fact: The Honey in Ladybug has/costs Level.
+Fact: The ~75 in Ladybug has/costs 1-3.
+The ladybug is a mob that defends three different fields.
+This is one of the first mobs a player will encounter, as they are in 2 out of 5 of the starting fields (the others being Rhino Beetles and the possibility of aphids, Wild Windy Bee, and Rogue Vicious Bee).
+It takes 5 minutes for a ladybug to respawn after being defeated (4 minutes 15 seconds with a Gifted Vicious Bee). Defeating one gives 1 Battle Point and about 75 Honey (increased by Honey From Tokens) spread across 4 honey tokens. Various other rewards are also possible with their probability increasing with Loot Luck.
+A ladybug's level can range from 1-3, depending on the field it is located in.
+Locations[]
+Fact: The Field in Ladybug has/costs Spawn, Level, HP.
+Fact: The Mushroom Field in Ladybug has/costs 1, 1, 12.
+Fact: The Clover Field in Ladybug has/costs 1, 2, 20.
+Fact: The Strawberry Field in Ladybug has/costs 1 (Left), 3, 28.
+Fact: The Strawberry Field in Ladybug has/costs 1 (Right), 2, 20.
+Guaranteed Drops list
+Fact: Guaranteed Drops list requirement: 75 Honey (increased by Honey From Tokens).
+Possible Drops list
+Tickets (2% Chance, Increments of 1, 5 or 10)
+Strawberries (Increments of 1, 5 or 10)
+Gumdrops (Increments of 1, 5 or 10)
+Treats (Increments of 1 or 50)
+Royal Jelly (Uncommon)
+Robo Pass (Rare)
+Magic Bean (Rare)
+Red Extract (Rare)
+Field Dice (Rare)
+Honeysuckle (Rare)
+Bitterberries (Rare, increments of 1 or 5)
+Neonberry (Very Rare)
+Ant Pass (Very Rare)
+Elf Cap (Rare, Exclusive to Beesmas only)
+Gingerbread Bear (Rare, Exclusive to Beesmas only)
+Rascal Bee Egg (Exceptionally Rare)
+Pink Balloon (Nearly Impossible)
+Strategies[]
+* Ladybugs behave similarly to most mobs: it pauses to aim, then lunges. If the player stops to let them aim, then move, it will attack the spot where the player used to be, not the player's current location.
+Trivia[]
+* The respawn timer for a ladybug currently counts down from 5 minutes (previously 5 minutes and 15 seconds). However, as with most Mobs, ladybugs do not always respawn immediately after their timer runs out. (Usually a 10-20 second delay)
+* The ladybug's detection range in the Mushroom Field is larger than that of the Field, making it react even when the player is not in the field.
+* Before, ladybugs would completely ignore players, but this was patched on the 2018-05-11 Update.
+* The maximum level of this mob is level 3, which is the lowest maximum level of all mobs.
+* The King Beetle is a boss mob that shares a similar design to the ladybug, being a hybrid of a ladybug and a rhino beetle, as stated by Onett in his Discord server.
+Fact: The Normal in Ladybug has/costs ****Ladybug** • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • Cave Monster**.
+Fact: The Aphids in Ladybug has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Ladybug has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Ladybug has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Ladybug has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Ladybug has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Ladybug has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Ladybug has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Ladybug has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Ladybug has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Ladybug has/costs **Chick • Hostage Chick • Spotted Chick**.

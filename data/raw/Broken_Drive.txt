@@ -1,0 +1,46 @@
+Context: Bee Swarm Simulator - Broken Drive
+
+Broken Drive
+Broken Drive
+_"Looks like a poorly preserved computer part. Maybe someone can fix it..."_
+No cooldown
+The Broken Drive is an inventory item that was introduced in the 2023-05-07 update. They can be used to activate Science Bear's quest to repair Robo Bear. After completing Science Bear's quest the Broken Drive will be replaced with a White Drive.
+A Broken Drive can be found behind the Robo Pass Dispensers in the 30 Bee Zone, which is the only way to obtain one.
+Gallery[]
+The Broken Drive token.
+A Broken Drive in a player's inventory.
+Trivia[]
+* The Broken Drive is the only type of drive that can't be used during the Robo Bear Challenge.
+* The Broken Drive is the only type of drive that can only be obtained once, as the others can be repeatedly earned through the Robo Bear Challenge and bought with Cogs.
+* This also means the Broken Drive is the only type of drive that cannot be used to craft a Glitched Drive or a Digital Bee.
+* Players do not need to fix the Broken Drive to unlock the Robo Bear Challenge if Robo Bear was previously repaired during Beesmas 2022.
+* This item and the Plastic Egg are the only items whose sole purpose is to complete a quest.
+Fact: The Sub-Inventories in Broken Drive has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Broken Drive has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Broken Drive has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Broken Drive has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Broken Drive has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Broken Drive has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  **Broken Drive****.
+Fact: The Nectar Vials in Broken Drive has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Broken Drive has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Broken Drive has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Broken Drive has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Broken Drive has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Broken Drive has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Broken Drive has/costs **7-Pronged Cog**.
+Fact: The Other in Broken Drive has/costs **Marshmallow Bee**.
+Fact: The Currencies in Broken Drive has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Broken Drive has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Broken Drive has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Broken Drive has/costs **Parachute •  Glider**.
+Fact: The Bags in Broken Drive has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Broken Drive has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Broken Drive has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Broken Drive has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Broken Drive has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Broken Drive has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Broken Drive has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Broken Drive has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Broken Drive has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Broken Drive has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.

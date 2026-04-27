@@ -1,0 +1,68 @@
+Context: Bee Swarm Simulator - Festive Present
+
+Festive Present
+> Not to be confused withpresents and gift boxes.
+Ornament Presents were presents that sat at different locations around the map during the Beesmas 2019 event. They have been since discontinued in following Beesmas events, being replaced by the visually identical Gift Boxes.
+<https://bee-swarm-simulator.fandom.com/wiki/File:Present1.ogg>
+The sound when you open a gift.
+There were 10 different types of ornament presents that the player could have opened. In order to open them up, the player would have needed to obtain a certain number of ornaments from NPCs. When an ornament present was opened, it dropped various items (in token form) around the present box. Even though the rewards were tokens, the items given could stack past their limits if applicable. Each present could only be opened once.
+Fact: The Appearance in Festive Present has/costs Name, Location, Ornaments Needed, Rewards.
+Fact: The Colourful Present in Festive Present has/costs Between Red HQ and Windy Bee Gate, 3.
+* 1 Blue Extract
+* 1 Red Extract
+* 5 Royal Jellies
+* 4 Jelly Beans
+Fact: The Golden Present in Festive Present has/costs Inside the Golden Present obby between the Blue HQ and the Wealth Clock., 4.
+* 1 Gold Egg
+* 40 Pineapples
+Fact: The Funky Present in Festive Present has/costs On top of the Blue HQ., 5.
+*  1x Music Bee Jelly
+* 20 Coconuts
+* 4 Field Dice
+Fact: The Starry Present in Festive Present has/costs On the ledge left of the Pine Tree Forest., 6.
+* 2 Star Jellies
+* 2 Glitter
+* 20 Moon Charms
+Fact: The Gooey Present in Festive Present has/costs Past a wide ledge behind the Gummy Bee Egg Claim., 7.
+* 100 Gumdrops
+* 10 Neonberries
+Fact: The Festive Present in Festive Present has/costs Next to Bee Bear and in front of the Dandelion Field., 8.
+* 2 Glitter
+* 4 Red Extracts
+*  Festive Bee Egg or 500 tickets (If Festive Bee was already owned)
+Fact: The Mythic Present in Festive Present has/costs Inside the Mythic Present obby between the Stump Field and the largest pineapple., 9.
+* 50 Blueberries
+* 50 Strawberries
+* 3 Red Extracts
+* 3 Blue Extracts
+* 1 Mythic Egg
+Fact: The Shady Present in Festive Present has/costs On top of the Pro Shop., 10.
+* 5 Atomic Treats
+* 6 Boxes-O-Frogs
+* 24 Micro-Converters
+Fact: The Pearly Present in Festive Present has/costs On the ledge to the right of the Windy Bee Gate., 11.
+* 20 Tropical Drinks
+* 30 Cloud Vials
+* 2 Marshmallow Bees
+* 5 Festive Beans
+Fact: The Mondo Present in Festive Present has/costs On top of the Mountain Top Shop., 12.
+*  48 Hours (2 Days) of Honeyday Event
+* 2 Mythic Eggs
+* 6 Atomic Treats
+* 2 Gifted Gold Eggs
+* 2 Gifted Diamond Eggs
+* 6 Festive Beans
+Trivia[]
+* A token that gave 15 Gumdrops was located behind the Golden Present.
+* Tokens that gave 1 Royal Jelly and 3 Micro-Converters were each next to the Mythic Present.
+* If some tokens weren't collected from an ornament present, the items from the tokens would immediately go to the player's inventory upon despawning.
+* The Golden Present's room has been replaced and reused as Commando Chick's Hideout.
+* The Gooey Present's room can still be found behind the Gummy Bee Egg Claim. The Mythic Present's room, located to the left of the Stump Field, could have also been found until a few months later, when it was removed.
+Fact: The Fields in Festive Present has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • Pineapple Patch • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Festive Present has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Festive Present has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Festive Present has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Festive Present has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Festive Present has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Festive Present has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Festive Present has/costs **Beesmas Tree • **Ornament Presents** • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

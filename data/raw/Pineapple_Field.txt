@@ -1,0 +1,86 @@
+Context: Bee Swarm Simulator - Pineapple Field
+
+Pineapple Field
+Pineapple Patch
+FIELD COLOR
+BEE PREREQUISITES
+NECTAR TYPE
+Satisfying Nectar
+FIELD DIMENSIONS
+33 × 23 flowers
+FLOWER COUNT
+BEE PREFERENCES
+The Pineapple Patch is a field located past the Brave Bee Gate and to the right of the Pro Shop. It is protected by a level 4 mantis and a level 5 rhino beetle.
+This is a 33x23 field, containing 759 flowers. The flowers are white, red, and blue, in sizes of single, double, and triple.
+Fact: The Flowers in Pineapple Field has/costs White, Red, Blue, Total.
+Fact: The Single in Pineapple Field has/costs 137, 18%, 8, 1%, 8, 1%, **152**, **20%**.
+Fact: The Double in Pineapple Field has/costs 342, 45%, 19, 2.5%, 19, 2.5%, **380**, **50%**.
+Fact: The Triple in Pineapple Field has/costs 205, 27%, 11, 1.5%, 11, 1.5%, **228**, **30%**.
+Fact: The Total in Pineapple Field has/costs **683**, **90%**, **38**, **5%**, **38**, **5%**, **759**, **100%**.
+_Note:_ flower counts within the table may vary due to rounding. Additionally, in game, all flowers are randomly generated and may not precisely align with the percentages.
+This field can spawn honey, pineapple, bitterberry, neonberry, enzyme, ticket, magic bean, glue and glitter tokens when gathering pollen.
+This field grants Satisfying Nectar when a planter is planted here.
+Bees that like the Pineapple Patch are Shocked Bee, Diamond Bee, Lion Bee, Gummy Bee, and Photon Bee. Bees that dislike the Pineapple Patch are Vector Bee, Cobalt Bee, and Crimson Bee.
+A level 1-20 Wild Windy Bee has the chance of spawning here.
+Obtaining Boosts[]
+Fact: Obtaining Boosts[] requirement: * Using the Field Booster may give a Pineapple Patch Boost. When it does, it will give +200% Pineapple Patch pollen for 15 minutes..
+The Pineapple Patch Boost icon.
+* Using glitter will add 100% Pineapple Patch pollen onto the current boost for 15 minutes if it isn't already maxed out.
+Fact: Obtaining Boosts[] requirement: * Using field dice, smooth dice, or loaded dice may add +100% - +300% Pineapple Patch pollen for 15 minutes if the current boost isn't already maxed out..
+Fact: Obtaining Boosts[] requirement: * Pineapple Patch winds can be obtained through the Wind Shrine or codes. They have a base of +20% instant Pineapple Patch conversion and give +5% instant Pineapple Patch conversion and +20% Pineapple Patch pollen for each stack. Pineapple Patch Winds can stack up to a total of 13 times..
+Fact: Obtaining Boosts[] requirement: * The Moon Amulet can give a pollen boost for the Pineapple Patch between +1% and +150%..
+Fact: Obtaining Boosts[] requirement: * It can be boosted by the Shell Amulet. If it has a Pineapple Patch Boost, it can boost the field by +7% to +30% depending on the amulet rarity..
+* Donating either the Menacing Mantis or Pineapple Patch Stamp Sticker to the Sticker Stack boosts the Pineapple Patch by 5% and 10% respectively.
+The methods below are no longer possible[]
+* Giving a present to certain NPCs during Beesmas:
+* Science Bear gave Pineapple Patch Boost x4 and other items (Beesmas 2018).
+* Onett gave Pineapple Patch Boost x1 and other boosts and items (Beesmas 2018).
+* Giving Science Bear a present gave Pineapple Patch Boost x3 and other items (Beesmas 2020).
+* Giving Science Bear a present gave Pineapple Patch Boost x3 and other items (Beesmas 2021).
+Fact: Obtaining Boosts[] statistic: * Purchasing a Pineapple Patch Market Boost from the Boost Market will give x1.5 Pineapple Patch Capacity x1.25 Pineapple Patch Pollen, x1.25 White Pollen, and x1.25 Convert Rate At Hive..
+* Redeeming certain expired codes:
+Fact: Obtaining Boosts[] requirement: * Tabby (Gave Pineapple Patch Boost x1 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * ClubBean (Gives Pineapple Patch Boost x2 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * 1MLikes (Gives Pineapple Patch Boost x1 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * 10MilMembers (Gives Pineapple Patch code buff + other stuff)..
+Fact: Obtaining Boosts[] requirement: * WalmartToys (Gives Pineapple Patch code buff, boost x4, and winds x10 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * LateNightGumdrops (Gave Pineapple Patch Boost x2 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * SugarRush (Gave Pineapple Patch Boost x4 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * Shutdown (Gave Pineapple Patch Boost x5 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * 1MoreTime (Gave Pineapple Patch Boost x2 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * Reboots (Gave Pineapple Patch Boost x5 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * DarzethDonation (Gave Pineapple Patch Boost x5 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * 1mFavorites (Gave Pineapple Patch Boost x1 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * Trying (Gave Pineapple Patch Boost x3 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * OffToOrlando (Gave Pineapple Patch Boost x3 and Pineapple Patch Winds x5 + other stuff)..
+Fact: Obtaining Boosts[] requirement: * Market (Gave Pineapple Patch Market Boost + other stuff)..
+Fact: Obtaining Boosts[] requirement: * PineappleParty (Gave Pineapple Patch Boost x3, Pineapple Patch Capacity x3, and Pineapple Market Boost x3 + other stuff.).
+Gallery[]
+The Pineapple's face when it is blowing sparkles.
+The pineapple token behind the pineapple closest to the Pro Shop.
+The ticket token on the giant pineapple.
+The Pineapple's face before blowing sparkles.
+The Pineapple Patch's associated field stamp.
+Trivia[]
+* This is the the biggest field in the game.
+* The mobs in this field (Rhino Beetle and Mantis) are associated with blue, despite the field being white.
+* There is a pineapple token behind the pineapple closest to the shop. Collecting it grants the player five pineapples.
+* There is a ticket token worth three tickets on top of the giant pineapple. It can be obtain by using the Red Cannon and the Parachute or Glider, or by jumping up from the side of the pineapple.
+* There is a glue token behind the biggest pineapple between the Stump Field.
+* This was the third biggest field in the game before the 2018-07-11 update.
+* This field is one of the three fields to have the word "Patch" in their name instead of "Field," along with the Pumpkin Patch and the Pepper Patch.
+* The Pine Tree Forest is another field without the word "Field" in it, having "Forest" in its name instead.
+* This is one of six fields that fireflies can travel to, with the others being Bamboo Field, Cactus Field, Rose Field, Spider Field, and Strawberry Field.
+* This is one of the fields that the Stick Bug can move to during the Stick Bug Challenge.
+* This field, along with the Sunflower Field and the Pumpkin Patch, is the only field where an object may come to life and shoot sparkles.
+* The biggest pineapple will occasionally grow a face, where it will blow bubbles at patches of flowers, producing sparkles (in diamond formation) upon contact. Collecting pollen on the affected flowers can produce tickets, pineapples, moon charm, royal jelly, enzymes, or honey tokens.
+* While doing one of Spirit Bear's quests, Spirit Bear states that the Pineapple Patch was originally supposed to be a "Rhubarb Field". Instead, she and Stick Bug planted pineapples.
+* This is the only field to be guarded by two mobs of different tiers (Rhino Beetle and Mantis), if you don't include the Werewolf guarding the Pine Tree Forest as it merely happens to be located in the Werewolf's attack territory.
+Fact: The Fields in Pineapple Field has/costs **Sunflower Field • Dandelion Field • Mushroom Field • Blue Flower Field • Clover Field • Spider Field • Bamboo Field • Strawberry Field • **Pineapple Patch** • Stump Field • Mixed Brick Field • Blue Brick Field • Red Brick Field • White Brick Field • Cactus Field • Pumpkin Patch • Pine Tree Forest • Rose Field • Ant Field • Hub Field • Mountain Top Field • Coconut Field • Pepper Patch**.
+Fact: The Shops in Pineapple Field has/costs **Basic Egg Shop • Boost Market • Treat Shop • Gumdrop Shop • Royal Jelly Shop • Ticket Shop • Noob Shop • Pro Shop • Magic Bean Shop • Badge Bearer's Guild • Dapper Bear's Shop • Stinger Shop • Mountain Top Shop • Blue HQ • Red HQ • Hub Field Shop • Robo Bear's Shop • Petal Shop • Coconut Cave • Ticket Tent • Robux Shop**.
+Fact: The Gates in Pineapple Field has/costs **Basic Bee Gate • Brave Bee Gate • Honey Bee Gate • Ant Gate • Lion Bee Gate • Bear Gate • Windy Bee Gate**.
+Fact: The Machines in Pineapple Field has/costs **Honey Dispenser • Royal Jelly Dispenser • Treat Dispenser • Instant Converter • Wealth Clock • Moon Amulet Generator • Memory Match • Blue Field Booster • Red Field Booster • Field Booster • Blueberry Dispenser • Strawberry Dispenser • Honeystorm • Special Sprout Summoner • Free Ant Pass Dispenser • Ant Pass Dispenser • Glue Dispenser • Blender • Coconut Dispenser • Mythic Meteor Shower • Free Robo Pass Dispenser • Robo Pass Dispenser • Sticker Stack • Sticker Printer • Nectar Condenser**.
+Fact: The Transportation in Pineapple Field has/costs **Slingshot • Yellow Cannon • Blue Cannon • Red Cannon • Blue Teleporter • Red Teleporter**.
+Fact: The Leaderboards in Pineapple Field has/costs **Daily Top Honeymakers • All-Time Top Honeymakers • All-Time Top Battlers "All-Time Top Battlers \(Most Battle Points\)") • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • Most Commando Captures • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • Highest Snowbear Level • Highest Robo Party Cake Rank**.
+Fact: The Places in Pineapple Field has/costs **Hive • Obstacle Courses • King Beetle Lair • White Tunnel • Werewolf's Cave • Ant Challenge • Star Hall • Gummy Bear's Lair • Ant Challenge Info • Vicious Bee Egg Claim • Gummy Bee Egg Claim • Wind Shrine • Mazes • Hive Hub • Sticker-Seeker Quest Machine**.
+Fact: The Locations in Pineapple Field has/costs **Beesmas Tree • Ornament Presents • Computer • Gift Boxes • Honey Wreath • Stockings • Gingerbread House • Snowbear Summoner • Beesmas Lights • Samovar • Beesmas Feast • Onett's Lid Art • Galentine Shrine • Winter Memory Match • Snow Machine • Honeyday Candles • Robo Party Cake • Gummy Beacon • Naughty List**.

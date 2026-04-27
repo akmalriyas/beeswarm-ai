@@ -1,0 +1,120 @@
+Context: Bee Swarm Simulator - Planter of Plenty
+
+Planter of Plenty
+Datamined information:
+* Some of the planter's stats are corrected from the in-game description.
+* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
+* How the planter generates its loot.
+Date of datamined file: December 19th, 2024
+Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
+The Planter Of Plenty
+Fact: The Planter Of Plenty statistic: _"Alone, grows in about 16 hours. Stores around 1 TrillionPollen. Grants many bonus items, including Neonberries, Waxes, and Turpentine._".
+Fact: The Planter Of Plenty requirement: 100T Honey, 500 Magic Beans, 100 Super Smoothies, 100 Swirled Waxes, 100 Caustic Waxes, 25 Turpentine..
+GROW TIME BONUS
+Fact: GROW TIME BONUS requirement: +50% in the Pepper Patch, Stump Field, Coconut Field and Mountain Top Field..
+POLLEN CAPACITY
+Fact: POLLEN CAPACITY statistic: 1 Trillion Pollen.
+POLLEN MULTIPLIER
+Fact: POLLEN MULTIPLIER statistic: +33% Pollen in the Mountain Top Field..
+NECTAR MULTIPLIER
+Fact: NECTAR MULTIPLIER statistic: +50% Refreshing.
+Fact: NECTAR MULTIPLIER statistic: +50% Comforting.
+Fact: NECTAR MULTIPLIER statistic: +50% Satisfying.
+Fact: NECTAR MULTIPLIER statistic: +50% Motivating.
+Fact: NECTAR MULTIPLIER statistic: +50% Invigorating.
+BONUS ITEMS
+Neonberries
+The Planter Of Plenty is a reusable planter added in the 2021-12-26 update. Alone, it grows in about 16 hours and stores 1 trillion pollen. When harvested, it grants many bonus items, including Neonberries, Waxes and Turpentine. It can be purchased at the Dapper Bear's Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 100T Honey.
+500 Magic Beans
+Fact: 500 Magic Beans requirement: 100 Super Smoothies.
+Fact: 500 Magic Beans requirement: 100 Swirled Waxes.
+Fact: 500 Magic Beans requirement: 100 Caustic Waxes.
+Fact: 500 Magic Beans requirement: 25 Turpentines.
+Fact: 500 Magic Beans requirement: It grows 50% faster in the Pepper Patch, Stump Field, Coconut Field, and the Mountain Top Field, and grants 50% more pollen in the Mountain Top Field. Gifted Bees are 50% more likely to sip nectar from this planter, and it grants +50% of all Nectar Types..
+Harvesting a fully grown Planter Of Plenty has a 1/3 chance to spawn a Puffshroom. The spawned puffshroom is between levels 9-10, and has a:
+* ~72.94% chance of being a Rare Puffshroom,
+* ~24.07% chance of being a Epic Puffshroom,
+* ~2.92% chance of being a Legendary Puffshroom,
+* ~0.07% chance of being a Mythic Puffshroom.
+When claimed, the planter gives up to 60 tokens worth of items. If the planter was fully grown when claimed, 2 of the tokens are guaranteed to be 5 Neonberries and 10 Tickets. The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the field the planter is in):
+Neonberries
+Swirled Waxes (~50% Chance)
+Caustic Waxes (~33% Chance)
+Turpentines (Rare, ~10% chance)
+Micro-Converters
+Star Jellies
+Bitterberries
+Blueberries
+Strawberries
+Sunflower Seeds
+Micro-Converters
+Red Extracts
+Blue Extracts
+Super Smoothies
+Purple Potions
+Smooth Dice
+Loaded Dice
+Bottle Cap (Rare)
+Beret (Very rare)
+Whistle (Very rare)
+Camphor Lip Balm (Very rare)
+Pink Shades (Exceptionally rare)
+Fact: Pink Shades (Exceptionally rare) requirement: 10 Super Smoothies (When harvested from Bamboo Field, 1 month cooldown).
+Fact: Pink Shades (Exceptionally rare) requirement: 5 Swirled Waxes (Uncommon, 1 month cooldown).
+100 Neonberries (Unknown)
+Hourglass Sticker (Very rare from Clover Field)
+Gallery[]
+The Planter Of Plenty.
+The Planter Of Plenty in Dapper Bear's Shop, along with the Plastic Planter, Candy Planter, Tacky Planter and Pesticide Planter.
+A fully grown Planter Of Plenty.
+A glittered Planter Of Plenty growing in the Coconut Field.
+A newly placed Planter Of Plenty.
+A Planter Of Plenty hosting a Puffshroom.
+The Planter Of Plenty in a player's inventory.
+Trivia[]
+* This is the most expensive item in the game in terms of honey, surpassing the Gummyballer. It also requires the most ingredients to be crafted in the game.
+* The Planter Of Plenty's raw ingredients cost:
+* 100T Honey
+* 60,250 Honeysuckles
+* 562,500 Sunflower Seeds
+* 7,025,000 Pineapples
+* 4,983,750 Strawberries
+* 4,983,750 Blueberries
+* 21,000 Coconuts
+* 67,650 Bitterberries
+* 14,750 Neonberries
+* 11,150 Magic Beans or 223,000 Tickets
+* 3,383,400 Royal Jellies or 3.38T Honey
+* While the in-game description states that it gives +50% pollen from the planter's boosted fields, it only gives +33% more pollen, and only on Mountain Top Field.
+* The UI when harvesting The Planter of Plenty says "Harvest the The Planter of Plenty". Including two "the" because of the planters' name.
+Fact: The Sub-Inventories in Planter of Plenty has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Planter of Plenty has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Planter of Plenty has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Planter of Plenty has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Planter of Plenty has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Planter of Plenty has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Planter of Plenty has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Planter of Plenty has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Planter of Plenty has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Planter of Plenty has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Planter of Plenty has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Planter of Plenty has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Planter of Plenty has/costs **7-Pronged Cog**.
+Fact: The Other in Planter of Plenty has/costs **Marshmallow Bee**.
+Fact: The Currencies in Planter of Plenty has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Planter of Plenty has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  Spark Staff •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Planter of Plenty has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Planter of Plenty has/costs **Parachute •  Glider**.
+Fact: The Bags in Planter of Plenty has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Planter of Plenty has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Planter of Plenty has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Planter of Plenty has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Planter of Plenty has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Planter of Plenty has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Planter of Plenty has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Planter of Plenty has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Planter of Plenty has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Planter of Plenty has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  **The Planter Of Plenty****.

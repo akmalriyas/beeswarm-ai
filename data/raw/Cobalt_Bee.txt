@@ -1,0 +1,114 @@
+Context: Bee Swarm Simulator - Cobalt Bee
+
+Cobalt Bee
+Cobalt Bee
+_"A superhero and defender of all things Blue! Together withCrimson Bee it works to unite bees of all colors."_
+Fact: The 35 in Cobalt Bee has/costs **Speed**.
+Fact: The 18.2 in Cobalt Bee has/costs **Attack**.
+COLOR SCHEME
+Skin #0000ff #ffffff #0000ff
+Cobalt Bee is a Blue Event bee. It can be obtained by purchasing a Cobalt Bee Egg in the Ticket Tent for 250 Tickets.
+Its abilities are enhanced when Crimson Bee is also in the hive.
+Like all other Event bees, this bee does not have a favorite treat, and the only way to make it gifted is by feeding it a Star Treat, Gingerbread Bears or Aged Gingerbread Bears.
+Cobalt Bee likes the Clover Field and the Pine Tree Forest. It dislikes the Pineapple Patch.
+Fact: Skin #0000ff #ffffff #0000ff statistic: * Collects 10 Pollen in 4 seconds..
+* Makes 140 Honey in 3 seconds.
+* +75% Energy, +30% Movespeed, +25% Convert Speed, +60 Convert Amount, 10% Instant Conversion, +6 Attack, 5% Critical Chance.
+* 🌟 Gifted Hive Bonus: +15% Instant Blue Conversion.
+Abilities[]
+* [Blue Pulse] Fires a pulse that hops between your blue bees, collecting pollen around them (+10% per Level). Power increases with each hop. If you own a Crimson Bee, fires a Red Pulse as well.
+* If Gifted, the pulse also causes bees to instantly convert pollen equal to 25% of the bee's Convert Amount (+25% per Field Boost stack).
+Fact: Abilities[] statistic: * **[Blue Bomb Sync]** Grants 10% Blue Pollen and Instant Blue Conversion allows Blue Bombs to collect from white Flowers for 30 sec. If red bomb sync is active, this applies to red flowers as well..
+Fact: Abilities[] statistic: Cobalt Bee has a base pollen collection of **10** in **4 seconds**. That's equivalent to 2.5  per second. (**20** in **4 seconds** with x2 Bee Pollen gamepass).
+Fact: Abilities[] statistic: Pollen Collection.
+Fact: The Flower Tier in Cobalt Bee has/costs Bee Pollen, with Critical Hit.
+Fact: The Base Value in Cobalt Bee has/costs Blue Flower, without Melody, with Melody.
+Fact: The Single in Cobalt Bee has/costs 10, 15, 20, 30.
+Fact: The Double in Cobalt Bee has/costs 20, 30, 40, 60.
+Fact: The Triple in Cobalt Bee has/costs 30, 45, 60, 90.
+Fact: The Large in Cobalt Bee has/costs 40, 60, 80, 120.
+Fact: The Star in Cobalt Bee has/costs 50, 75, 100, 150.
+Fact: Star statistic: Pollen Collection with Boost Tokens.
+Fact: The Boost Tokens ( or ) in Cobalt Bee has/costs Percentage Bonus, Collected Pollen.
+Fact: The 1 in Cobalt Bee has/costs 15%, 11.5.
+Fact: The 2 in Cobalt Bee has/costs 30%, 13.
+Fact: The 3 in Cobalt Bee has/costs 45%, 14.5.
+Fact: The 4 in Cobalt Bee has/costs 60%, 16.
+Fact: The 5 in Cobalt Bee has/costs 75%, 17.5.
+Fact: The 6 in Cobalt Bee has/costs 90%, 19.
+Fact: The 7 in Cobalt Bee has/costs 105%, 20.5.
+Fact: The 8 in Cobalt Bee has/costs 120%, 22.
+Fact: The 9 in Cobalt Bee has/costs 135%, 23.5.
+Fact: The 10 in Cobalt Bee has/costs 150%, 25.
+Cobalt Bee can make 140 in 3 seconds! That's equivalent to 46.66667 per second. (140 in 1.5 seconds with x2 Honeymaking Speed)
+Honey Collection with Science Enhancement
+* Levels 1-8
+* Levels 9-16
+* Levels 17-24
+* Levels 25-31
+Fact: The _Science Enhancement_ in Cobalt Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 1 in Cobalt Bee has/costs 25%, 175.
+Fact: The 2 in Cobalt Bee has/costs 50%, 210.
+Fact: The 3 in Cobalt Bee has/costs 75%, 245.
+Fact: The 4 in Cobalt Bee has/costs 100%, 280.
+Fact: The 5 in Cobalt Bee has/costs 125%, 315.
+Fact: The 6 in Cobalt Bee has/costs 150%, 350.
+Fact: The 7 in Cobalt Bee has/costs 175%, 385.
+Fact: The 8 in Cobalt Bee has/costs 200%, 420.
+Fact: The _Science Enhancement_ in Cobalt Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 9 in Cobalt Bee has/costs 225%, 455.
+Fact: The 10 in Cobalt Bee has/costs 250%, 490.
+Fact: The 11 in Cobalt Bee has/costs 275%, 525.
+Fact: The 12 in Cobalt Bee has/costs 300%, 560.
+Fact: The 13 in Cobalt Bee has/costs 325%, 595.
+Fact: The 14 in Cobalt Bee has/costs 350%, 630.
+Fact: The 15 in Cobalt Bee has/costs 375%, 665.
+Fact: The 16 in Cobalt Bee has/costs 400%, 700.
+Fact: The _Science Enhancement_ in Cobalt Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 17 in Cobalt Bee has/costs 425%, 735.
+Fact: The 18 in Cobalt Bee has/costs 450%, 770.
+Fact: The 19 in Cobalt Bee has/costs 475%, 805.
+Fact: The 20 in Cobalt Bee has/costs 500%, 840.
+Fact: The 21 in Cobalt Bee has/costs 525%, 875.
+Fact: The 22 in Cobalt Bee has/costs 550%, 910.
+Fact: The 23 in Cobalt Bee has/costs 575%, 945.
+Fact: The 24 in Cobalt Bee has/costs 600%, 980.
+Fact: The _Science Enhancement_ in Cobalt Bee has/costs Production Rate, Number of Produced Honey.
+Fact: The 25 in Cobalt Bee has/costs 625%, 1015.
+Fact: The 26 in Cobalt Bee has/costs 650%, 1050.
+Fact: The 27 in Cobalt Bee has/costs 675%, 1085.
+Fact: The 28 in Cobalt Bee has/costs 700%, 1120.
+Fact: The 29 in Cobalt Bee has/costs 725%, 1155.
+Fact: The 30 in Cobalt Bee has/costs 750%, 1190.
+Fact: The 31 in Cobalt Bee has/costs 775%, 1225.
+Gallery[]
+Cobalt Bee's old hive slot design.
+A Gifted Cobalt Bee hive slot.
+Cobalt and Crimson Bee in a thumbnail of Bee Swarm Simulator.
+An activated blue and red pulse.
+Cobalt Bee's face.
+The Blue Pulse Icon.
+The Blue Bomb Sync Icon.
+Cobalt Bee's original face.
+Trivia[]
+* The only difference between Cobalt Bee and Crimson Bee's field preferences is that the Cobalt Bee likes the Pine Tree Forest, whereas Crimson Bee prefers the Rose Field.
+* Cobalt Bee and Crimson Bee have the same stats.
+* Cobalt Bee and Crimson Bee are the first colored Event bees, followed by Vicious Bee and Festive Bee.
+* Cobalt Bee and Crimson Bee are the only bees that can activate another ability apart from their own.
+* When Crimson and Cobalt Bee are both in the same hive, the player will get the following bonuses from these ability tokens:
+* Blue pulse additionally fires a red pulse to collect from red bees.
+* If both Red Bomb Sync and Blue Bomb Sync are activated simultaneously, blue bombs can collect from red and white flowers.
+* This is one of the Event bees who have different color faces on the hive rather than the bee itself, the others being Crimson Bee, Festive Bee, and Vicious Bee.
+* This was the first Blue Event bee, with Vicious Bee being the second.
+* Cobalt Bee and Crimson Bee are currently the only event bees to cost 250 tickets.
+* The first edition Tabby Bee and Puppy Bee could once be purchased with 250 tickets as well.
+* This bee, Crimson Bee, Precise Bee, Photon Bee, Windy Bee, Shy Bee, Tadpole Bee, and Ninja Bee are the only bees that leave a trail.
+* The Cobalt Guard, which can be crafted in the Badge Bearer's Guild, has a special design, name, and stats dedicated to Cobalt Bee.
+* The Cobalt Guard has a Passive Ability that looks similar to Cobalt Bee's blue pulse ability.
+* This bee, Crimson Bee, Puppy Bee, and Windy Bee are the only Event bees that don't have an 'enhanced' ability if gifted.
+* Cobalt Bee's original face decal had a mouth that strongly resembled that of the Cool Bee. The decal was scrapped before the release of the bee.
+Fact: The Common & Rare in Cobalt Bee has/costs **Basic Bee •  Bomber Bee •  Brave Bee •  Bumble Bee •  Cool Bee •  Hasty Bee •  Looker Bee •  Rad Bee •  Rascal Bee •  Stubborn Bee**.
+Fact: The Epic in Cobalt Bee has/costs **Bubble Bee •  Bucko Bee •  Commander Bee •  Demo Bee •  Exhausted Bee •  Fire Bee •  Frosty Bee •  Honey Bee •  Rage Bee •  Riley Bee •  Shocked Bee**.
+Fact: The Legendary in Cobalt Bee has/costs **Baby Bee •  Carpenter Bee •  Demon Bee •  Diamond Bee •  Lion Bee •  Music Bee •  Ninja Bee •  Shy Bee**.
+Fact: The Mythic in Cobalt Bee has/costs **Buoyant Bee •  Fuzzy Bee •  Precise Bee •  Spicy Bee •  Tadpole Bee •  Vector Bee**.
+Fact: The Event in Cobalt Bee has/costs **Bear Bee •  **Cobalt Bee** •  Crimson Bee •  Digital Bee •  Festive Bee •  Gummy Bee •  Photon Bee •  Puppy Bee •  Tabby Bee •  Vicious Bee •  Windy Bee**.

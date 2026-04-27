@@ -1,0 +1,50 @@
+Context: Bee Swarm Simulator - Black Spider
+
+Black Spider
+Cave Monster
+Location
+Inside Werewolf's Cave
+Respawns Every
+Fact: The Health in Black Spider has/costs Damage.
+Fact: The 400 in Black Spider has/costs 10 thousand.
+Fact: The Battle Points in Black Spider has/costs Bond.
+Fact: The 1 in Black Spider has/costs N/A.
+Fact: The Honey in Black Spider has/costs Level.
+Fact: The None in Black Spider has/costs 11.
+_Not to be confused with theSpider, which has a similar appearance._
+The Cave Monster is a level 11 mob that spawns inside the Werewolf's Cave. They look identical to a spider, except that they lack eyes. Cave Monsters make eerie whispering noises when the player gets close to them. A Honeystorm and a Mythic Meteor Shower (and during the Beesmas events, a Snow Storm) can make it bright enough to see their bodies.
+Their primary purpose is to guard a Gold Egg located at the end of the cave. The best way to reach it is to have Haste+, Haste x5 or higher, or by using the glider. Be aware that the roof of the cave is not very high, so it is easy to hit your head and slow you down.
+It is possible to defeat the cave monster. However, they move very fast, so some slower bees will be unable to reach them. The best way to defeat them is by activating the Emergency Coconut Shield and running quickly toward the gold egg token. Cave Monsters are the only mobs to (albeit rarely) drop a Honey Bee Egg. If the player does not have the Coconut Canister, another method is to quickly move into and then out of their spawning zone. You can also use the Star Saw passive ability from the Supreme Star Amulet or Festive Bee's Beesmas Cheer ability. It takes 30 minutes for one to respawn and they don't count as spiders towards quests from bears.
+* Honey Bee Egg (somewhat rare)
+Gallery[]
+A cave monster in a honeystorm.
+The cave monsters seen from above.
+A cave monster out of the dark.
+A player being killed by the cave monsters.
+Trivia[]
+* Onett "Onett \(Developer\)") had stated that cave monsters have a rare drop and can only be obtained by defeating them, but he also said that the drop is not very useful. This was later confirmed to be a Honey Bee egg. Onett had also jokingly said that "Saving the honey bee from the cave monsters was the ultimate goal of Bee Swarm Simulator."[1]
+* Their noises can be heard throughout the entire map, along with Mondo Chick, Commando Chick, and a few other things.
+* Cave monsters were the first mobs that are able to instantly kill the player and one of two mobs that instantly kill the player upon touching them (the other being Tunnel Bear).
+* This makes the cave monsters the most lethal non-boss mob in the game.
+* Cave monsters have the second highest base level of any mob in-game, with the Coconut Crab having the highest.
+* Cave monsters, King Beetle, Tunnel Bear, Rogue Vicious Bee, Stick Bug, RBC mobs, Wild Windy Bee, aphids and Commando Chick are the mobs who don't belong to any particular fields.
+* There used to be 4 cave monsters because the gold egg was once the rarest item in the game.
+* Cave monsters have one of the fewest possible amounts of drops in the game, only behind ants, and RBC mobs, which have none.
+* Cave monsters, Coconut Crab, RBC Mobs, Snowbear, and ants are the only mobs that don't drop honey upon death.
+* Cave monsters are currently the only mobs with a set respawn time that quest givers do not require the player to defeat.
+* Cave monsters are the only defeatable mobs that do not have a health bar.
+* Between the 2018-11-25 and the 2018-12-25 updates, the Cave Monsters had a health bar that revealed they were level 11 and had 400 health.
+* When donating the Honey Bee Egg to the Wind Shrine, there is a decent chance it will spawn Bean Bugs. This makes killing the Cave Monster somewhat useful as some quests require collecting tokens from Bean Bugs.
+References[]
+1. ↑ [1] Discord message from Onett.
+Fact: The Normal in Black Spider has/costs **Ladybug • Rhino Beetle • Aphid • Spider • Mantis • Scorpion • Werewolf • **Cave Monster****.
+Fact: The Aphids in Black Spider has/costs **Aphid • Rage Aphid • Armored Aphid • Diamond Aphid**.
+Fact: The Mini-Bosses in Black Spider has/costs **Rogue Vicious Bee • Wild Windy Bee • Stump Snail • Commando Chick • Snowbear**.
+Fact: The Bosses in Black Spider has/costs **King Beetle • Tunnel Bear • Coconut Crab • Mondo Chick**.
+Fact: The Challenges in Black Spider has/costs Ants, **Ant • Army Ant • Flying Ant • Giant Ant • Fire Ant**.
+Fact: The Stick Bug in Black Spider has/costs **Stick Bug • Stick Nymph • Festive Nymph**.
+Fact: The Retro Swarm Challenge in Black Spider has/costs **Slime • Zombie • Brick Bloom**.
+Fact: The Robo Bear Challenge in Black Spider has/costs **Mechsquito • Cogmower • Cogturret • Mega Mechsquito • Golden Cogmower**.
+Fact: The Robo Party in Black Spider has/costs **Party Mechsquito • Party Cogmower • Party Cogturret • Party Mega Mechsquito**.
+Fact: The Passive in Black Spider has/costs **Firefly • Bean Bug • Frog • Puffshroom • Bloom**.
+Fact: The Removed in Black Spider has/costs **Chick • Hostage Chick • Spotted Chick**.

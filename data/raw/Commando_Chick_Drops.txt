@@ -1,0 +1,737 @@
+Context: Bee Swarm Simulator - Commando Chick Drops
+
+Commando Chick/Drops
+Milestone rewards include:
+* Glue upon the 5th capture.
+* Gold Egg upon the 10th capture.
+* Star Jelly upon the 15th capture.
+* 3 Blue Extracts upon the 20th capture.
+* 100 Tickets upon the 25th capture.
+* 10 Stingers upon the 30th capture.
+* 10 Ant Passes and 10 Stingers upon the 40th capture.
+* Mythic Egg upon the 50th capture.
+* Star Treat upon the 100th capture.
+* Commander Bee Egg upon the 200th capture.
+Captures 1-50[]
+Fact: The Number of Captures and Level in Commando Chick Drops has/costs Reward.
+* Capture 1
+Fact: * Capture 1 requirement: 1 Ticket.
+Fact: * Capture 1 requirement: 2 Sunflower Seeds.
+Fact: * Capture 1 requirement: 2 Pineapples.
+2 Bitterberries
+* Capture 2
+Fact: * Capture 2 requirement: 1 Ticket.
+Fact: * Capture 2 requirement: 2 Sunflower Seeds.
+Fact: * Capture 2 requirement: 2 Pineapples.
+2 Bitterberries
+* Capture 3
+Fact: * Capture 3 requirement: 1 Stinger.
+Fact: * Capture 3 requirement: 1 Ticket.
+Fact: * Capture 3 requirement: 2 Sunflower Seeds.
+Fact: * Capture 3 requirement: 2 Pineapples.
+2 Bitterberries
+* Capture 4
+Fact: * Capture 4 requirement: 1 Ticket.
+Fact: * Capture 4 requirement: 3 Sunflower Seeds.
+Fact: * Capture 4 requirement: 3 Pineapples.
+2 Bitterberries
+* Capture 5
+Fact: * Capture 5 requirement: 1 Glue.
+Fact: * Capture 5 requirement: 3 Sunflower Seeds.
+Fact: * Capture 5 requirement: 3 Pineapples.
+2 Bitterberries
+* Capture 6
+Fact: * Capture 6 requirement: 1 Ticket.
+Fact: * Capture 6 requirement: 3 Sunflower Seeds.
+Fact: * Capture 6 requirement: 3 Pineapples.
+3 Bitterberries
+* Capture 7
+Fact: * Capture 7 requirement: 1 Ticket.
+Fact: * Capture 7 requirement: 4 Sunflower Seeds.
+Fact: * Capture 7 requirement: 4 Pineapples.
+3 Bitterberries
+* Capture 8
+Fact: * Capture 8 requirement: 1 Ticket.
+Fact: * Capture 8 requirement: 4 Sunflower Seeds.
+Fact: * Capture 8 requirement: 4 Pineapples.
+3 Bitterberries
+* Capture 9
+Fact: * Capture 9 requirement: 2 Red Extracts.
+Fact: * Capture 9 requirement: 1 Ticket.
+Fact: * Capture 9 requirement: 4 Sunflower Seeds.
+Fact: * Capture 9 requirement: 4 Pineapples.
+3 Bitterberries
+* Capture 10
+Fact: * Capture 10 requirement: 1 Ticket.
+Fact: * Capture 10 requirement: 4 Sunflower Seeds.
+Fact: * Capture 10 requirement: 4 Pineapples.
+3 Bitterberries
+* Capture 11
+Fact: * Capture 11 requirement: 1 Ticket.
+Fact: * Capture 11 requirement: 5 Sunflower Seeds.
+Fact: * Capture 11 requirement: 5 Pineapples.
+3 Bitterberries
+* Capture 12
+Fact: * Capture 12 requirement: 3 Stingers.
+Fact: * Capture 12 requirement: 1 Ticket.
+Fact: * Capture 12 requirement: 5 Sunflower Seeds.
+Fact: * Capture 12 requirement: 5 Pineapples.
+3 Bitterberries
+* Capture 13
+Fact: * Capture 13 requirement: 1 Ticket.
+Fact: * Capture 13 requirement: 5 Sunflower Seeds.
+Fact: * Capture 13 requirement: 5 Pineapples.
+3 Bitterberries
+* Capture 14
+Fact: * Capture 14 requirement: 1 Ticket.
+Fact: * Capture 14 requirement: 5 Sunflower Seeds.
+Fact: * Capture 14 requirement: 5 Pineapples.
+3 Bitterberries
+* Capture 15
+Fact: * Capture 15 requirement: 1 Star Jelly.
+Fact: * Capture 15 requirement: 1 Ticket.
+Fact: * Capture 15 requirement: 6 Sunflower Seeds.
+Fact: * Capture 15 requirement: 6 Pineapples.
+3 Bitterberries
+* Capture 16
+Fact: * Capture 16 requirement: 1 Ticket.
+Fact: * Capture 16 requirement: 6 Sunflower Seeds.
+Fact: * Capture 16 requirement: 6 Pineapples.
+3 Bitterberries
+* Capture 17
+Fact: * Capture 17 requirement: 1 Ticket.
+Fact: * Capture 17 requirement: 6 Sunflower Seeds.
+Fact: * Capture 17 requirement: 6 Pineapples.
+3 Bitterberries
+* Capture 18
+Fact: * Capture 18 requirement: 1 Ticket.
+Fact: * Capture 18 requirement: 6 Sunflower Seeds.
+Fact: * Capture 18 requirement: 6 Pineapples.
+3 Bitterberries
+* Capture 19
+Fact: * Capture 19 requirement: 1 Ticket.
+Fact: * Capture 19 requirement: 6 Sunflower Seeds.
+Fact: * Capture 19 requirement: 6 Pineapples.
+3 Bitterberries
+* Capture 20
+Fact: * Capture 20 requirement: 3 Blue Extracts.
+Fact: * Capture 20 requirement: 1 Ticket.
+Fact: * Capture 20 requirement: 7 Sunflower Seeds.
+Fact: * Capture 20 requirement: 7 Pineapples.
+3 Bitterberries
+* Capture 21
+Fact: * Capture 21 requirement: 1 Ticket.
+Fact: * Capture 21 requirement: 7 Sunflower Seeds.
+Fact: * Capture 21 requirement: 7 Pineapples.
+3 Bitterberries
+* Capture 22
+Fact: * Capture 22 requirement: 1 Ticket.
+Fact: * Capture 22 requirement: 7 Sunflower Seeds.
+Fact: * Capture 22 requirement: 7 Pineapples.
+3 Bitterberries
+* Capture 23
+Fact: * Capture 23 requirement: 1 Ticket.
+Fact: * Capture 23 requirement: 7 Sunflower Seeds.
+Fact: * Capture 23 requirement: 7 Pineapples.
+3 Bitterberries
+* Capture 24
+Fact: * Capture 24 requirement: 1 Ticket.
+Fact: * Capture 24 requirement: 7 Sunflower Seeds.
+Fact: * Capture 24 requirement: 7 Pineapples.
+3 Bitterberries
+* Capture 25
+Fact: * Capture 25 requirement: 100 Tickets.
+Fact: * Capture 25 requirement: 7 Sunflower Seeds.
+Fact: * Capture 25 requirement: 7 Pineapples.
+3 Bitterberries
+* Capture 26
+Fact: * Capture 26 requirement: 1 Ticket.
+Fact: * Capture 26 requirement: 8 Pineapples.
+Fact: * Capture 26 requirement: 8 Sunflower Seeds.
+3 Bitterberries
+* Capture 27
+Fact: * Capture 27 requirement: 1 Ticket.
+Fact: * Capture 27 requirement: 8 Sunflower Seeds.
+Fact: * Capture 27 requirement: 8 Pineapples.
+3 Bitterberries
+* Capture 28
+Fact: * Capture 28 requirement: 1 Ticket.
+Fact: * Capture 28 requirement: 8 Sunflower Seeds.
+Fact: * Capture 28 requirement: 8 Pineapples.
+3 Bitterberries
+* Capture 29
+Fact: * Capture 29 requirement: 1 Ticket.
+Fact: * Capture 29 requirement: 8 Sunflower Seeds.
+Fact: * Capture 29 requirement: 8 Pineapples.
+3 Bitterberries
+* Capture 30
+Fact: * Capture 30 requirement: 10 Stingers.
+Fact: * Capture 30 requirement: 1 Ticket.
+Fact: * Capture 30 requirement: 8 Sunflower Seeds.
+Fact: * Capture 30 requirement: 8 Pineapples.
+3 Bitterberries
+* Capture 31
+Fact: * Capture 31 requirement: 1 Ticket.
+Fact: * Capture 31 requirement: 8 Sunflower Seeds.
+Fact: * Capture 31 requirement: 8 Pineapples.
+3 Bitterberries
+* Capture 32
+Fact: * Capture 32 requirement: 1 Ticket.
+Fact: * Capture 32 requirement: 8 Sunflower Seeds.
+Fact: * Capture 32 requirement: 8 Pineapples.
+3 Bitterberries
+* Capture 33
+Fact: * Capture 33 requirement: 1 Ticket.
+Fact: * Capture 33 requirement: 8 Sunflower Seeds.
+Fact: * Capture 33 requirement: 8 Pineapples.
+3 Bitterberries
+* Capture 34
+Fact: * Capture 34 requirement: 1 Ticket.
+Fact: * Capture 34 requirement: 9 Sunflower Seeds.
+Fact: * Capture 34 requirement: 9 Pineapples.
+3 Bitterberries
+* Capture 35
+Fact: * Capture 35 requirement: 1 Ticket.
+Fact: * Capture 35 requirement: 9 Sunflower Seeds.
+Fact: * Capture 35 requirement: 9 Pineapples.
+3 Bitterberries
+* Capture 36
+Fact: * Capture 36 requirement: 1 Ticket.
+Fact: * Capture 36 requirement: 9 Sunflower Seeds.
+Fact: * Capture 36 requirement: 9 Pineapples.
+3 Bitterberries
+* Capture 37
+Fact: * Capture 37 requirement: 1 Ticket.
+Fact: * Capture 37 requirement: 9 Sunflower Seeds.
+Fact: * Capture 37 requirement: 9 Pineapples.
+3 Bitterberries
+* Capture 38
+Fact: * Capture 38 requirement: 1 Ticket.
+Fact: * Capture 38 requirement: 9 Sunflower Seeds.
+Fact: * Capture 38 requirement: 9 Pineapples.
+3 Bitterberries
+* Capture 39
+Fact: * Capture 39 requirement: 1 Ticket.
+Fact: * Capture 39 requirement: 10 Sunflower Seeds.
+Fact: * Capture 39 requirement: 10 Pineapples.
+3 Bitterberries
+* Capture 40
+Fact: * Capture 40 requirement: 10 Stingers.
+10 Ant Passes
+Fact: 10 Ant Passes requirement: 1 Ticket.
+Fact: 10 Ant Passes requirement: 10 Sunflower Seeds.
+Fact: 10 Ant Passes requirement: 10 Pineapples.
+4 Bitterberries
+* Capture 41
+Fact: * Capture 41 requirement: 1 Ticket.
+Fact: * Capture 41 requirement: 10 Sunflower Seeds.
+Fact: * Capture 41 requirement: 10 Pineapples.
+4 Bitterberries
+* Capture 42
+Fact: * Capture 42 requirement: 1 Ticket.
+Fact: * Capture 42 requirement: 10 Sunflower Seeds.
+Fact: * Capture 42 requirement: 10 Pineapples.
+4 Bitterberries
+* Capture 43
+Fact: * Capture 43 requirement: 1 Ticket.
+Fact: * Capture 43 requirement: 10 Sunflower Seeds.
+Fact: * Capture 43 requirement: 10 Pineapples.
+4 Bitterberries
+* Capture 44
+Fact: * Capture 44 requirement: 1 Ticket.
+Fact: * Capture 44 requirement: 10 Sunflower Seeds.
+Fact: * Capture 44 requirement: 10 Pineapples.
+4 Bitterberries
+* Capture 45
+Fact: * Capture 45 requirement: 1 Ticket.
+Fact: * Capture 45 requirement: 10 Sunflower Seeds.
+Fact: * Capture 45 requirement: 10 Pineapples.
+4 Bitterberries
+* Capture 46
+Fact: * Capture 46 requirement: 1 Ticket.
+Fact: * Capture 46 requirement: 10 Sunflower Seeds.
+Fact: * Capture 46 requirement: 10 Pineapples.
+4 Bitterberries
+* Capture 47
+Fact: * Capture 47 requirement: 1 Ticket.
+Fact: * Capture 47 requirement: 11 Sunflower Seeds.
+Fact: * Capture 47 requirement: 11 Pineapples.
+4 Bitterberries
+* Capture 48
+Fact: * Capture 48 requirement: 1 Ticket.
+Fact: * Capture 48 requirement: 11 Sunflower Seeds.
+Fact: * Capture 48 requirement: 11 Pineapples.
+4 Bitterberries
+* Capture 49
+Fact: * Capture 49 requirement: 1 Ticket.
+Fact: * Capture 49 requirement: 11 Sunflower Seeds.
+Fact: * Capture 49 requirement: 11 Pineapples.
+4 Bitterberries
+* Capture 50
+1 Mythic Egg
+Fact: 1 Mythic Egg requirement: 1 Ticket.
+Fact: 1 Mythic Egg requirement: 11 Sunflower Seeds.
+Fact: 1 Mythic Egg requirement: 11 Pineapples.
+4 Bitterberries
+Drops 51-100[]
+Fact: The Number of Captures and Level in Commando Chick Drops has/costs Reward.
+* Capture 51
+Fact: * Capture 51 requirement: 1 Ticket.
+Fact: * Capture 51 requirement: 11 Sunflower Seeds.
+Fact: * Capture 51 requirement: 11 Pineapples.
+4 Bitterberries
+* Capture 52
+Fact: * Capture 52 requirement: 1 Ticket.
+Fact: * Capture 52 requirement: 11 Sunflower Seeds.
+Fact: * Capture 52 requirement: 11 Pineapples.
+4 Bitterberries
+* Capture 53
+Fact: * Capture 53 requirement: 1 Ticket.
+Fact: * Capture 53 requirement: 11 Sunflower Seeds.
+Fact: * Capture 53 requirement: 11 Pineapples.
+4 Bitterberries
+* Capture 54
+Fact: * Capture 54 requirement: 1 Ticket.
+Fact: * Capture 54 requirement: 11 Sunflower Seeds.
+Fact: * Capture 54 requirement: 11 Pineapples.
+4 Bitterberries
+* Capture 55
+Fact: * Capture 55 requirement: 1 Ticket.
+Fact: * Capture 55 requirement: 12 Sunflower Seeds.
+Fact: * Capture 55 requirement: 12 Pineapples.
+4 Bitterberries
+* Capture 56
+Fact: * Capture 56 requirement: 1 Ticket.
+Fact: * Capture 56 requirement: 12 Sunflower Seeds.
+Fact: * Capture 56 requirement: 12 Pineapples.
+4 Bitterberries
+* Capture 57
+Fact: * Capture 57 requirement: 1 Ticket.
+Fact: * Capture 57 requirement: 12 Sunflower Seeds.
+Fact: * Capture 57 requirement: 12 Pineapples.
+4 Bitterberries
+* Capture 58
+Fact: * Capture 58 requirement: 1 Ticket.
+Fact: * Capture 58 requirement: 12 Sunflower Seeds.
+Fact: * Capture 58 requirement: 12 Pineapples.
+4 Bitterberries
+* Capture 59
+Fact: * Capture 59 requirement: 1 Ticket.
+Fact: * Capture 59 requirement: 12 Sunflower Seeds.
+4 Bitterberries
+* Capture 60
+Fact: * Capture 60 requirement: 1 Ticket.
+Fact: * Capture 60 requirement: 12 Sunflower Seeds.
+Fact: * Capture 60 requirement: 12 Pineapples.
+4 Bitterberries
+* Capture 61
+Fact: * Capture 61 requirement: 1 Ticket.
+Fact: * Capture 61 requirement: 12 Sunflower Seeds.
+Fact: * Capture 61 requirement: 12 Pineapples.
+4 Bitterberries
+* Capture 62
+Fact: * Capture 62 requirement: 1 Ticket.
+Fact: * Capture 62 requirement: 12 Sunflower Seeds.
+Fact: * Capture 62 requirement: 12 Pineapples.
+4 Bitterberries
+* Capture 63
+Fact: * Capture 63 requirement: 1 Ticket.
+Fact: * Capture 63 requirement: 13 Sunflower Seeds.
+Fact: * Capture 63 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 64
+Fact: * Capture 64 requirement: 1 Ticket.
+Fact: * Capture 64 requirement: 13 Sunflower Seeds.
+Fact: * Capture 64 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 65
+Fact: * Capture 65 requirement: 1 Ticket.
+Fact: * Capture 65 requirement: 13 Sunflower Seeds.
+Fact: * Capture 65 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 66
+Fact: * Capture 66 requirement: 1 Ticket.
+Fact: * Capture 66 requirement: 13 Sunflower Seeds.
+Fact: * Capture 66 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 67
+Fact: * Capture 67 requirement: 1 Ticket.
+Fact: * Capture 67 requirement: 13 Sunflower Seeds.
+Fact: * Capture 67 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 68
+Fact: * Capture 68 requirement: 1 Ticket.
+Fact: * Capture 68 requirement: 13 Sunflower Seeds.
+Fact: * Capture 68 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 69
+Fact: * Capture 69 requirement: 1 Ticket.
+Fact: * Capture 69 requirement: 13 Sunflower Seeds.
+Fact: * Capture 69 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 70
+Fact: * Capture 70 requirement: 1 Ticket.
+Fact: * Capture 70 requirement: 13 Sunflower Seeds.
+Fact: * Capture 70 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 71
+Fact: * Capture 71 requirement: 1 Ticket.
+Fact: * Capture 71 requirement: 13 Sunflower Seeds.
+Fact: * Capture 71 requirement: 13 Pineapples.
+4 Bitterberries
+* Capture 72
+Fact: * Capture 72 requirement: 1 Ticket.
+Fact: * Capture 72 requirement: 14 Sunflower Seeds.
+Fact: * Capture 72 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 73
+Fact: * Capture 73 requirement: 1 Ticket.
+Fact: * Capture 73 requirement: 14 Sunflower Seeds.
+Fact: * Capture 73 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 74
+Fact: * Capture 74 requirement: 1 Ticket.
+Fact: * Capture 74 requirement: 14 Sunflower Seeds.
+Fact: * Capture 74 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 75
+Fact: * Capture 75 requirement: 1 Ticket.
+Fact: * Capture 75 requirement: 14 Sunflower Seeds.
+Fact: * Capture 75 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 76
+Fact: * Capture 76 requirement: 1 Ticket.
+Fact: * Capture 76 requirement: 14 Sunflower Seeds.
+Fact: * Capture 76 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 77
+Fact: * Capture 77 requirement: 1 Ticket.
+Fact: * Capture 77 requirement: 14 Sunflower Seeds.
+Fact: * Capture 77 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 78
+Fact: * Capture 78 requirement: 1 Ticket.
+Fact: * Capture 78 requirement: 14 Sunflower Seeds.
+Fact: * Capture 78 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 79
+Fact: * Capture 79 requirement: 1 Ticket.
+Fact: * Capture 79 requirement: 14 Sunflower Seeds.
+Fact: * Capture 79 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 80
+Fact: * Capture 80 requirement: 14 Sunflower Seeds.
+Fact: * Capture 80 requirement: 14 Pineapples.
+Fact: * Capture 80 requirement: 1 Ticket.
+4 Bitterberries
+* Capture 81
+Fact: * Capture 81 requirement: 1 Ticket.
+Fact: * Capture 81 requirement: 14 Sunflower Seeds.
+Fact: * Capture 81 requirement: 14 Pineapples.
+4 Bitterberries
+* Capture 82
+Fact: * Capture 82 requirement: 1 Ticket.
+Fact: * Capture 82 requirement: 15 Sunflower Seeds.
+Fact: * Capture 82 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 83
+Fact: * Capture 83 requirement: 1 Ticket.
+Fact: * Capture 83 requirement: 15 Sunflower Seeds.
+Fact: * Capture 83 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 84
+Fact: * Capture 84 requirement: 1 Ticket.
+Fact: * Capture 84 requirement: 15 Sunflower Seeds.
+Fact: * Capture 84 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 85
+Fact: * Capture 85 requirement: 1 Ticket.
+Fact: * Capture 85 requirement: 15 Sunflower Seeds.
+Fact: * Capture 85 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 86
+Fact: * Capture 86 requirement: 1 Ticket.
+Fact: * Capture 86 requirement: 15 Sunflower Seeds.
+Fact: * Capture 86 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 87
+Fact: * Capture 87 requirement: 1 Ticket.
+Fact: * Capture 87 requirement: 15 Sunflower Seeds.
+Fact: * Capture 87 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 88
+Fact: * Capture 88 requirement: 1 Ticket.
+Fact: * Capture 88 requirement: 15 Sunflower Seeds.
+Fact: * Capture 88 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 89
+Fact: * Capture 89 requirement: 1 Ticket.
+Fact: * Capture 89 requirement: 15 Sunflower Seeds.
+Fact: * Capture 89 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 90
+Fact: * Capture 90 requirement: 1 Ticket.
+Fact: * Capture 90 requirement: 15 Sunflower Seeds.
+Fact: * Capture 90 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 91
+Fact: * Capture 91 requirement: 15 Sunflower Seeds.
+Fact: * Capture 91 requirement: 1 Ticket.
+Fact: * Capture 91 requirement: 15 Pineapples.
+4 Bitterberries
+* Capture 92
+Fact: * Capture 92 requirement: 16 Sunflower Seeds.
+Fact: * Capture 92 requirement: 1 Ticket.
+Fact: * Capture 92 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 93
+Fact: * Capture 93 requirement: 16 Sunflower Seeds.
+Fact: * Capture 93 requirement: 1 Ticket.
+Fact: * Capture 93 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 94
+Fact: * Capture 94 requirement: 16 Sunflower Seeds.
+Fact: * Capture 94 requirement: 1 Ticket.
+Fact: * Capture 94 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 95
+Fact: * Capture 95 requirement: 16 Sunflower Seeds.
+Fact: * Capture 95 requirement: 1 Ticket.
+Fact: * Capture 95 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 96
+Fact: * Capture 96 requirement: 16 Sunflower Seeds.
+Fact: * Capture 96 requirement: 1 Ticket.
+Fact: * Capture 96 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 97
+Fact: * Capture 97 requirement: 16 Sunflower Seeds.
+Fact: * Capture 97 requirement: 1 Ticket.
+Fact: * Capture 97 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 98
+Fact: * Capture 98 requirement: 16 Sunflower Seeds.
+Fact: * Capture 98 requirement: 1 Ticket.
+Fact: * Capture 98 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 99
+Fact: * Capture 99 requirement: 16 Sunflower Seeds.
+Fact: * Capture 99 requirement: 1 Ticket.
+Fact: * Capture 99 requirement: 16 Pineapples.
+4 Bitterberries
+* Capture 100
+1 Star Treat
+Fact: 1 Star Treat requirement: 1 Ticket.
+Fact: 1 Star Treat requirement: 16 Sunflower Seeds.
+Fact: 1 Star Treat requirement: 16 Pineapples.
+4 Bitterberries
+Captures 101-151[]
+Fact: The Number of Captures and Level in Commando Chick Drops has/costs Reward.
+* Capture 101
+* Capture 102
+* Level TBA
+* Capture 103
+Fact: * Capture 103 requirement: 17 Sunflower Seeds.
+Fact: * Capture 103 requirement: 1 Ticket.
+Fact: * Capture 103 requirement: 17 Pineapples.
+4 Bitterberries
+* Capture 104
+* Level TBA
+* Capture 105
+* Level TBA
+* Capture 106
+* Level TBA
+* Capture 107
+* Level TBA
+* Capture 108
+* Level TBA
+* Capture 109
+* Level TBA
+* Capture 110
+* Level TBA
+* Capture 111
+* Level TBA
+* Capture 112
+* Level TBA
+* Capture 113
+* Level TBA
+* Capture 114
+* Level TBA
+* Capture 115
+* Health 7.5 Million
+Fact: * Health 7.5 Million requirement: 18 Sunflower Seeds.
+Fact: * Health 7.5 Million requirement: 1 Ticket.
+Fact: * Health 7.5 Million requirement: 18 Pineapples.
+4 Bitterberries
+* Capture 116
+* Level TBA
+* Capture 117
+* Level TBA
+* Capture 118
+* Level TBA
+* Capture 119
+* Level TBA
+* Capture 120
+* Level TBA
+* Capture 121
+* Level TBA
+* Capture 122
+* Level TBA
+* Capture 123
+* Level TBA
+* Capture 124
+* Level TBA
+* Capture 125
+* Level TBA
+* Capture 126
+* Level TBA
+* Capture 127
+* Level TBA
+* Capture 128
+* Level TBA
+* Capture 129
+* Level TBA
+* Capture 130
+* Level TBA
+* Capture 131
+* Level TBA
+* Capture 132
+* Level TBA
+* Capture 133
+* Level TBA
+* Capture 134
+* Level TBA
+* Capture 135
+* Level TBA
+* Capture 136
+* Level TBA
+* Capture 137
+* Level TBA
+* Capture 138
+* Level TBA
+* Capture 139
+* Level TBA
+* Capture 140
+* Level TBA
+* Capture 141
+* Level TBA
+* Capture 142
+* Level TBA
+* Capture 143
+* Level TBA
+* Capture 144
+* Level TBA
+* Capture 145
+* Level TBA
+* Capture 146
+* Level TBA
+* Capture 147
+* Level TBA
+* Capture 148
+* Level TBA
+* Capture 149
+* Level TBA
+* Capture 150
+* Level TBA
+Captures 151-200[]
+Fact: The Number of Captures and Level in Commando Chick Drops has/costs Reward.
+* Capture 151
+* Level TBA
+* Capture 152
+* Level TBA
+* Capture 153
+* Level TBA
+* Capture 154
+* Level TBA
+* Capture 155
+* Level TBA
+* Capture 156
+* Level TBA
+* Capture 157
+* Level TBA
+* Capture 158
+* Level TBA
+* Capture 159
+* Level TBA
+* Capture 160
+* Level TBA
+* Capture 161
+* Level TBA
+* Capture 162
+* Level TBA
+* Capture 163
+* Level TBA
+* Capture 164
+* Level TBA
+* Capture 165
+* Level TBA
+* Capture 166
+* Level TBA
+* Capture 167
+* Level TBA
+* Capture 168
+* Level TBA
+* Capture 169
+* Level TBA
+* Capture 170
+* Level TBA
+* Capture 171
+* Level TBA
+* Capture 172
+* Level TBA
+* Capture 173
+* Level TBA
+* Capture 174
+* Level TBA
+* Capture 175
+* Level TBA
+* Capture 176
+* Level TBA
+* Capture 177
+* Level TBA
+* Capture 178
+* Level TBA
+* Capture 179
+* Level TBA
+* Capture 180
+* Level TBA
+* Capture 181
+* Level TBA
+* Capture 182
+* Level TBA
+* Capture 183
+* Level TBA
+* Capture 184
+* Level TBA
+* Capture 185
+* Level TBA
+* Capture 186
+* Level TBA
+* Capture 187
+* Level TBA
+* Capture 188
+* Level TBA
+* Capture 189
+* Level TBA
+* Capture 190
+* Level TBA
+* Capture 191
+* Level TBA
+* Capture 192
+* Level TBA
+* Capture 193
+* Level TBA
+* Capture 194
+* Level TBA
+* Capture 195
+* Level TBA
+* Capture 196
+* Level TBA
+* Capture 197
+* Level TBA
+* Capture 198
+* Level TBA
+* Capture 199
+* Level TBA
+* Capture 200
+* Level TBA

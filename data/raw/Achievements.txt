@@ -1,0 +1,481 @@
+Context: Bee Swarm Simulator - Achievements
+
+Achievements
+The badge icon.
+Badges are part of the achievement system of Bee Swarm Simulator. There are currently 155 badges in Bee Swarm Simulator (including inactive badges). 30 of the badges are currently unobtainable.
+Most of these badges are based on collecting a certain amount of pollen from a certain field. Obtaining a non-event badge awards Tickets and a permanent boost. Boosts in the same category do not stack - earning a higher-ranked badge overwrites the old boost with the new one. The number of Tickets earned depends on the rank of the badge earned.
+The player needs the Goo Hotshot badge to enter Gummy Bear's Lair, 15 badges of any tier to enter the Badge Bearer's Guild, and one ace badge to access the special room in the Badge Bearer's Guild.
+Certain badges also unlock the chance to obtain special one-time badge rewards from the Wind Shrine called Badge Shivers, which can be obtained by donating specific items. The more items you donate, the higher chance you have of a Badge Shiver.
+To get more Coconuts from the Coconut Dispenser, the player must get better Coconut Badges, and to get more Glue from the Glue Dispenser, better Goo Badges are needed.
+Event badges are the only badges that don't give any tickets, permanent buffs, or even show up in the badge menu, but the Beesmas badges allow the player to get two different masks with some buffs (the B.B.M. Mask and the Mondo B.B.M. Mask), and the Egg Hunt 2019, Egg Hunt 2020, and the Ready Player Two badges each gave an item for the player's Roblox avatar. The only exception to this were the fifteen badges from The Classic, the eight badges from The Games, and the 2 badges from the Winter Spotlight. which didn't give any avatar items, but counted as currency in the event hubs.
+Upon claiming any non-event badge, it will be announced in the server publicly, and a cheerful audio will play in the background, saying:
+🥇 {Username} earned the {Badge Name} - {Badge Rank} 🥇
+<https://bee-swarm-simulator.fandom.com/wiki/File:Yay2.ogg>
+A player receiving a badge, with the notification in chat.
+Honey Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Make 1 Million Honey..
+* x1.3 Convert Rate
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Make 10 Million Honey..
+* x1.6 Convert Rate
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Make 100 Million Honey..
+* x1.9 Convert Rate
+* 15 Tickets
+Fact: The Master in Achievements has/costs Make 1 Billion Honey..
+* x2.2 Convert Rate
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Make 20 Billion Honey..
+* x2.5 Convert Rate
+* 40 Tickets
+Quest Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Complete 10 Quests..
+Fact: Cadet statistic: * x1.25 Capacity.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Complete 50 Quests..
+Fact: Hotshot statistic: * x1.5 Capacity.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Complete 250 Quests..
+Fact: Ace statistic: * x1.75 Capacity.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Complete 1 Thousand Quests..
+Fact: Master statistic: * x2 Capacity.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Complete 5 Thousand Quests..
+Fact: Grandmaster statistic: * x2.25 Capacity.
+* 40 Tickets
+Battle Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Obtain 100 Battle Points..
+* +10% Critical Power
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Obtain 1 Thousand Battle Points..
+* +20% Critical Power
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Obtain 10 Thousand Battle Points..
+* +40% Critical Power
+* 15 Tickets
+Fact: The Master in Achievements has/costs Obtain 50 Thousand Battle Points..
+* +70% Critical Power
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Obtain 500 Thousand Battle Points..
+* +100% Critical Power
+* 40 Tickets
+Ability Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 2500 Ability Tokens..
+Fact: Cadet statistic: * +25k Capacity.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 25 Thousand Ability Tokens..
+Fact: Hotshot statistic: * +50k Capacity.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 100 Thousand Ability Tokens..
+Fact: Ace statistic: * +100k Capacity.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 1 Million Ability Tokens..
+Fact: Master statistic: * +150k Capacity.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Million Ability Tokens..
+Fact: Grandmaster statistic: * +250k Capacity.
+* 40 Tickets
+Goo Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 500 Thousand Goo..
+Fact: Cadet requirement: * +2% Honey Per Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 5 Million Goo..
+Fact: Hotshot requirement: * +4% Honey Per Pollen.
+* 10 Tickets
+* Access to Gummy Bear's Lair
+Fact: The Ace in Achievements has/costs Collect 50 Million Goo..
+Fact: Ace requirement: * +6% Honey Per Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 500 Million Goo..
+Fact: Master requirement: * +8% Honey Per Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 10 Billion Goo..
+Fact: Grandmaster requirement: * +10% Honey Per Pollen.
+* 40 Tickets
+Playtime Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Play for 8 hours (480 minutes) total..
+* +1% Bee Movespeed
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Play for 1 day (24 hours) total..
+* +2% Bee Movespeed
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Play for 7 days (168 hours) total..
+* +3% Bee Movespeed
+* 15 Tickets
+Fact: The Master in Achievements has/costs Play for 30 days (720 hours) total..
+* +4% Bee Movespeed
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Play for 100 days (2,400 hours) total..
+* +5% Bee Movespeed
+* 40 Tickets
+Sticker Stack Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Stack 25 Stickers to the Sticker Stack..
+Fact: Cadet statistic: * +5% Pollen from Bee Gathering.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Stack 50 Stickers to the Sticker Stack..
+Fact: Hotshot statistic: * +10% Pollen from Bee Gathering.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Stack 100 Stickers to the Sticker Stack..
+Fact: Ace statistic: * +15% Pollen from Bee Gathering.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Stack 250 Stickers to the Sticker Stack..
+Fact: Master statistic: * +20% Pollen from Bee Gathering.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Stack 500 Stickers to the Sticker Stack..
+Fact: Grandmaster statistic: * +25% Pollen from Bee Gathering.
+* 40 Tickets
+Sunflower Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet statistic: * +10% Capacity.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot statistic: * +20% Capacity.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace statistic: * +30% Capacity.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master statistic: * +40% Capacity.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster statistic: * +50% Capacity.
+* 40 Tickets
+Dandelion Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet requirement: * +3% Honey At Hive.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot requirement: * +6% Honey At Hive.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace requirement: * +9% Honey At Hive.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master requirement: * +12% Honey At Hive.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster requirement: * +15% Honey At Hive.
+* 40 Tickets
+Mushroom Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+* +3% Instant Red Conversion
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+* +6% Instant Red Conversion
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+* +9% Instant Red Conversion
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+* +12% Instant Red Conversion
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+* +15% Instant Red Conversion
+* 40 Tickets
+Blue Flower Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+* +3% Instant Blue Conversion
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+* +6% Instant Blue Conversion
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+* +9% Instant Blue Conversion
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+* +12% Instant Blue Conversion
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+* +15% Instant Blue Conversion
+* 40 Tickets
+Clover Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+* +10% Loot Luck
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+* +20% Loot Luck
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+* +30% Loot Luck
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+* +40% Loot Luck
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+* +50% Loot Luck
+* 40 Tickets
+Spider Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet statistic: * +10% White Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot statistic: * +15% White Pollen.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace statistic: * +20% White Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master statistic: * +25% White Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster statistic: * +30% White Pollen.
+* 40 Tickets
+Strawberry Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet statistic: * +5% Red Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot statistic: * +10% Red Pollen.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace statistic: * +15% Red Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master statistic: * +20% Red Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster statistic: * +25% Red Pollen.
+* 40 Tickets
+Bamboo Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet statistic: * +5% Blue Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot statistic: * +10% Blue Pollen.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace statistic: * +15% Blue Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master statistic: * +20% Blue Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster statistic: * +25% Blue Pollen.
+* 40 Tickets
+Pineapple Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+* +3% Instant White Conversion
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+* +6% Instant White Conversion
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+* +9% Instant White Conversion
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+* +12% Instant White Conversion
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+* +15% Instant White Conversion
+* 40 Tickets
+Pumpkin Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+* x1.2 Convert Rate at Hive
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+* x1.4 Convert Rate at Hive
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+* x1.6 Convert Rate at Hive
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+* x1.8 Convert Rate at Hive
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+* x2.0 Convert Rate at Hive
+* 40 Tickets
+Cactus Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+* +1% Instant Conversion
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+* +2% Instant Conversion
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+* +3% Instant Conversion
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+* +4% Instant Conversion
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+* +5% Instant Conversion
+* 40 Tickets
+Rose Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet statistic: * +5% Red Field Capacity.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot statistic: * +10% Red Field Capacity.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace statistic: * +15% Red Field Capacity.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master statistic: * +20% Red Field Capacity.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster statistic: * +25% Red Field Capacity.
+* 40 Tickets
+Pine Tree Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet statistic: * +5% Blue Field Capacity.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot statistic: * +10% Blue Field Capacity.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace statistic: * +15% Blue Field Capacity.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master statistic: * +20% Blue Field Capacity.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster statistic: * +25% Blue Field Capacity.
+* 40 Tickets
+Stump Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 250 Thousand Pollen..
+Fact: Cadet statistic: * +5% Tool Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 2.5 Million Pollen..
+Fact: Hotshot statistic: * +10% Tool Pollen.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 25 Million Pollen..
+Fact: Ace statistic: * +15% Tool Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 250 Million Pollen..
+Fact: Master statistic: * +20% Tool Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Grandmaster statistic: * +25% Tool Pollen.
+* 40 Tickets
+Coconut Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 50 Million Pollen..
+Fact: Cadet statistic: * x1.04 White Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 500 Million Pollen..
+Fact: Hotshot statistic: * x1.08 White Pollen.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Ace statistic: * x1.12 White Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 50 Billion Pollen..
+Fact: Master statistic: * x1.16 White Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 1 Trillion Pollen..
+Fact: Grandmaster statistic: * x1.20 White Pollen.
+* 40 Tickets
+Pepper Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 50 Million Pollen..
+Fact: Cadet statistic: * +5% Flame Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 500 Million Pollen..
+Fact: Hotshot statistic: * +10% Flame Pollen.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 5 Billion Pollen..
+Fact: Ace statistic: * +15% Flame Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 50 Billion Pollen..
+Fact: Master statistic: * +20% Flame Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 1 Trillion Pollen..
+Fact: Grandmaster statistic: * +25% Flame Pollen.
+* 40 Tickets
+Hive Hub Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 10 Million Pollen..
+* +2% Instant Gifted Bee Conversion
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 100 Million Pollen..
+* +4% Instant Gifted Bee Conversion
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 1 Billion Pollen..
+* +6% Instant Gifted Bee Conversion
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 10 Billion Pollen..
+* +8% Instant Gifted Bee Conversion
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 100 Billion Pollen..
+* +10% Instant Gifted Bee Conversion
+* 40 Tickets
+Mountain Top Badges[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Cadet in Achievements has/costs Collect 100 Million Pollen..
+Fact: Cadet statistic: * +1% Gifted Bee Pollen.
+* 5 Tickets
+Fact: The Hotshot in Achievements has/costs Collect 10 Billion Pollen..
+Fact: Hotshot statistic: * +2% Gifted Bee Pollen.
+* 10 Tickets
+Fact: The Ace in Achievements has/costs Collect 1 Trillion Pollen..
+Fact: Ace statistic: * +3% Gifted Bee Pollen.
+* 15 Tickets
+Fact: The Master in Achievements has/costs Collect 100 Trillion Pollen..
+Fact: Master statistic: * +4% Gifted Bee Pollen.
+* 25 Tickets
+Fact: The Grandmaster in Achievements has/costs Collect 1 Quadrillion Pollen..
+Fact: Grandmaster statistic: * +5% Gifted Bee Pollen.
+* 40 Tickets
+Event Badges[]
+Obtainable[]
+There are currently no obtainable event badges.
+Unobtainable[]
+Fact: The Badge in Achievements has/costs Requirements, Reward.
+Fact: The Beesmas Beeliever in Achievements has/costs Complete the 3rd Bee Bear 2018 quest..
+* Unlocks the "Helping B.B.M." Quest
+Fact: The Beesmas Overachiever in Achievements has/costs Complete either of Bubble Bee Man's 2018 quests..
+* B.B.M. Mask (Or Mondo B.B.M. Mask if the player completed B.B.M. Mission)
+Fact: The Egg Hunt 2019 in Achievements has/costs Trade in 3 Marshmallow Bees to the Egg Hunt Info..
+* Flight of the Bumble Bee Egg
+Fact: The Swarming Egg Of The Hive in Achievements has/costs Help 3 Bears with their Egg Hunt 2020 quests and turn in Sun Bear's Egg Hunt 2020 quest..
+* Swarming Egg of the Hive
+Fact: The You Played Bee Swarm Simulator! in Achievements has/costs Solve 3 puzzles from The Computer during Ready Player Two event..
+* How to Program BASIC
+Fact: The Bee Swarm Simulator: TIX _X_ (10x) in Achievements has/costs Find a total of a total of 10 Tix inside of Bee Swarm Simulator (4 were hidden in the main game, 3 were in the lobby subplace, and 3 were hidden in the Retro Swarm Challenge..
+* +1 Tix currency to spend in the Roblox: The Classic hub (depending on how many badges were obtained).
+Fact: The Bee Swarm Simulator: OG Token (Round _X_) (5x) in Achievements has/costs A Token was awarded to the player if they managed to beat rounds 2, 4, 6, 8 and 10 in the Retro Swarm Challenge..
+* +1 Token currency to spend in the Roblox: The Classic hub (depending on how many badges were obtained).
+Fact: The The Games: Shine (_X_ /5) (5x) in Achievements has/costs Find a total of a total of 5 Shines inside of Bee Swarm Simulator. Unlike the Roblox: The Classic, they were all inside the main Bee Swarm Simulator subplace..
+* +1 Shine currency to spend in the The Games hub (depending on how many badges were obtained).
+Fact: The The Games: Silver (_X_ /3) (3x) in Achievements has/costs Complete Sun Bear's first three quests to earn Silver (one Silver per quest)..
+* +1 Silver currency to spend in the The Games hub (depending how many badges were obtained).
+Fact: The Winter Spotlight: Standard Token in Achievements has/costs Complete the 3rd Bee Bear Winter 2024 quest..
+* +1 Token currency to spend in the Winter Spotlight hub.
+Fact: The Winter Spotlight: Elite Token in Achievements has/costs Help 3 NPCs around the map and open the Elite Gift Box "Gift Boxes")..
+* +1 Elite Token currency to spend in the Winter Spotlight hub.
+Inactive Badges[]
+Fact: The Badge in Achievements has/costs Description, Awarded All-Time.
+Fact: The ############# Honey in Achievements has/costs You've achieved the rank of Honey Master!, 0 Players.
+Fact: The Counterfeit Beesmas Overachiever in Achievements has/costs Whoops! For a short while, Onett accidentally gave this badge out the first time you spoke to Bubble Bee Man during the Beesmas 2018 event., 353 Players.
+Badge Rims[]
+Grandmaster
+Trivia[]
+* In the 2018-06-02 update, Ticket prizes for badges were increased. If the player had already claimed these badges, they received the extra Tickets when they logged back in.
+* Even though Grandmaster Badges were added in the 2018-09-10 update, their icons still show images of the map prior to the 2018-07-11 update.
+* When the first badges were released in the 2018-05-12 update, the Clover Badge was bugged and did not give any loot luck. This was fixed in the 2019-09-28 update.
+* The Hive Hub Badge, Coconut Badge, Pepper Badge and the Mountain Top Badge are the only badges that need more pollen than the other badges (10,000,000 pollen for Hive Hub Cadet, 50,000,000 pollen for Coconut Cadet and Pepper Cadet and 100,000,000 pollen for Mountain Top Cadet, rather than 250,000 for the other fields).
+* Badges can be used to get badge shivers from the Wind Shrine for items. However, each shiver can only be obtained once.
+* As of 2026-01-17, the obtainable badges with the least amount of people to achieve them are the Hive Hub Grandmaster and the Mountain Top Grandmaster Badges, with 552 and 413 players respectively.
+* The Grandmaster Sticker Stack Badge is practically impossible to obtain due to the number of Stickers required (500) is larger than the number of stickers in the game (290).

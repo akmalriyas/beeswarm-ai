@@ -1,0 +1,65 @@
+Context: Bee Swarm Simulator - Spark Staff
+
+Spark Staff
+Spark Staff
+Fact: The **Price** in Spark Staff has/costs 60,000,000 Honey.
+Fact: The **Shop** in Spark Staff has/costs Mountain Top Shop.
+Fact: **Shop** statistic: Pollen Collection.
+Fact: The **Range** in Spark Staff has/costs 81 Flowers.
+Fact: The **Collecting Pattern** in Spark Staff has/costs Collects from the 3 flowers that yield the most pollen.
+Fact: The **Collecting Time** in Spark Staff has/costs 0.5 seconds.
+Fact: The **Base Collection** in Spark Staff has/costs 30.
+Fact: The Flowers in Spark Staff has/costs Single, Double, Triple, Large, Star.
+Fact: The White in Spark Staff has/costs 36, 72, 108, 144, 180.
+Fact: The Red in Spark Staff has/costs 36, 72, 108, 144, 180.
+Fact: The Blue in Spark Staff has/costs 36, 72, 108, 144, 180.
+_Special Multiplier(s): None_
+The Spark Staff is a tool that was added in the 2019-04-05 update. It can be bought in the Mountain Top Shop.
+Crafting Ingredients
+Fact: Crafting Ingredients requirement: 60,000,000 Honey.
+The Spark Staff collects all pollen from the 3 fullest nearby flowers in 0.5 seconds and increases it by 20%. It has a maximum base pollen collection rate of 216 pollen per second from single flowers, 324 pollen per second from double flowers, 432 pollen per second from triple flowers, 540 pollen per second from large flowers, and 648 pollen per second from star flowers, varying immensely due to digging the entire flower, with pollen held by flowers depending on the tier. However, the nearby flowers may not be full, so it doesn't always reach its complete potential.
+The following audio plays when the Spark Staff collects pollen:<https://bee-swarm-simulator.fandom.com/wiki/File:Sparkstaffuse.ogg>
+Gallery[]
+The Spark Staff's associated sticker.
+The visual collecting effect of the Spark Staff.
+Trivia[]
+* This is the only tool that makes a sound every use. It is also the only tool that can collect pollen while in mid-air and the most expensive tool without an ability.
+* This is the only tool in the Mountain Top Shop that neither have an ability nor make a specific "shape" when collecting pollen.
+* This and the Scissors are the only tools that collect all pollen from the flowers they hit.
+* This is the only Tool that can collect all the pollen from more than 1 flower.
+* This tool uses the same model as the "Nova Wand", which is an official Roblox gear that can be bought for 1,000 Robux.
+* This tool is needed for Science Bear's Drive questline.
+* Collecting 16,777,216 pollen with this tool is required for "Repairing The White Drive."
+* Collecting 33,554,432 pollen with this tool is required for "Corrupting The Glitched Drive."
+* This tool is often considered as one of the worst tools in the game by the community. However, this tool can become very powerful compared to other tools in the same tier if collecting from higher tier flowers, such as by gathering in fields pollinated by other player's Fuzzy Bees.
+* The oldest version of the tool is known to not have the pollen increase of the current one. The previous version of the tool is known to have 15% pollen increase instead of the current 20%.
+* This is one of the (if not the) smallest tool in the game, barely being visible in the players hand unless the camera is zoomed in.
+Fact: The Sub-Inventories in Spark Staff has/costs **Sticker •  Beequip Case**.
+Fact: The Regular in Spark Staff has/costs **Sprinkler Builder •  Gumdrops •  Coconut •  Stinger •  Micro-Converter •  Honeysuckle •  Whirligig •  Jelly Beans •  Magic Bean •  Cloud Vial •  Night Bell •  Ant Pass •  Robo Pass •  Box-O-Frogs •  Turpentine •  Eggs •  Royal Jelly •  Star Jelly** •  Bloom Shaker****.
+Fact: The Crafting Materials in Spark Staff has/costs **Red Extract •  Blue Extract •  Glitter •  Glue •  Oil •  Enzymes •  Tropical Drink •  Purple Potion •  Super Smoothie**.
+Fact: The Dice in Spark Staff has/costs **Field Dice •  Smooth Dice •  Loaded Dice**.
+Fact: The Treats in Spark Staff has/costs **Treat •  Star Treat •  Atomic Treat •  Sunflower Seed •  Strawberry •  Pineapple •  Blueberry •  Bitterberry •  Neonberry •  Moon Charm**.
+Fact: The Drives in Spark Staff has/costs **White Drive •  Red Drive •  Blue Drive •  Glitched Drive •  Broken Drive**.
+Fact: The Nectar Vials in Spark Staff has/costs **Comforting Vial •  Invigorating Vial •  Motivating Vial •  Refreshing Vial •  Satisfying Vial •  Nectar Shower Vial**.
+Fact: The Balloons in Spark Staff has/costs **Pink Balloon •  Red Balloon •  White Balloon •  Black Balloon**.
+Fact: The Waxes in Spark Staff has/costs **Soft Wax •  Hard Wax •  Caustic Wax •  Swirled Wax**.
+Fact: The or Event in Spark Staff has/costs Quest Exclusive, **Translator •  Spirit Petal •  Debug Wax •  Nectar Tester**.
+Fact: The Beesmas in Spark Staff has/costs **Present •  Festive Bean •  Snowflake •  Gingerbread Bear •  Aged Gingerbread Bear**.
+Fact: The Removed in Spark Staff has/costs **Eviction •  Plastic Egg**.
+Fact: The Unobtainable in Spark Staff has/costs **7-Pronged Cog**.
+Fact: The Other in Spark Staff has/costs **Marshmallow Bee**.
+Fact: The Currencies in Spark Staff has/costs **Brick •  Cog •  Ticket**.
+Fact: Currencies statistic: Pollen.
+Fact: The Collectors in Spark Staff has/costs **Scooper •  Rake •  Clippers •  Magnet •  Vacuum •  Super-Scooper •  Pulsar •  Electro-Magnet •  Scissors •  Honey Dipper •  Bubble Wand •  Scythe •  Sticker-Seeker •  Golden Rake •  **Spark Staff** •  Porcelain Dipper •  Petal Wand •  Dark Scythe •  Tide Popper •  Gummyballer**.
+Fact: The Sprinklers in Spark Staff has/costs **Basic Sprinkler •  Silver Soakers •  Golden Gushers •  Diamond Drenchers •  The Supreme Saturator**.
+Fact: The Tools in Spark Staff has/costs **Parachute •  Glider**.
+Fact: The Bags in Spark Staff has/costs **Pouch •  Jar •  Backpack •  Canister •  Mega-Jug •  Compressor •  Elite Barrel •  Port-O-Hive •  Red Port-O-Hive •  Blue Port-O-Hive •  Porcelain Port-O-Hive •  Coconut Canister**.
+Fact: The Guards in Spark Staff has/costs **Brave Guard •  Hasty Guard •  Bomber Guard •  Looker Guard •  Blue Guard •  Elite Blue Guard •  Bucko Guard •  Cobalt Guard •  Red Guard •  Elite Red Guard •  Riley Guard •  Crimson Guard**.
+Fact: The Hats in Spark Staff has/costs **Helmet •  Strange Goggles •  Propeller Hat •  Beekeeper's Mask •  Honey Mask •  Fire Mask •  Bubble Mask •  Demon Mask •  Diamond Mask •  Gummy Mask •  B.B.M. Mask •  Mondo B.B.M. Mask**.
+Fact: The Belts in Spark Staff has/costs **Belt Pocket •  Belt Bag •  Mondo Belt Bag •  Honeycomb Belt •  Petal Belt •  Coconut Belt**.
+Fact: The Boots in Spark Staff has/costs **Basic Boots •  Hiking Boots •  Beekeeper's Boots •  Coconut Clogs •  Gummy Boots**.
+Fact: The Amulets in Spark Staff has/costs **King Beetle Amulet •  Moon Amulet •  Ant Amulet •  Star Amulet •  Shell Amulet •  Stick Bug Amulet •  Cog Amulet**.
+Fact: The Non-seasonal in Spark Staff has/costs **Thimble •  Sweatband •  Bandage •  Thumbtack •  Camo Bandana •  Bottle Cap •  Kazoo •  Smiley Sticker •  Whistle •  Charm Bracelet •  Paperclip •  Beret •  Bang Snap •  Bead Lizard •  Pink Shades •  Lei •  Demon Talisman •  Camphor Lip Balm •  Autumn Sunhat •  Rose Headband •  Pink Eraser •  Candy Ring**.
+Fact: The Beesmas in Spark Staff has/costs **Elf Cap •  Single Mitten •  Warm Scarf •  Peppermint Antennas •  Beesmas Top •  Pinecone •  Icicles •  Beesmas Tree Hat •  Bubble Light •  Snow Tiara •  Snowglobe •  Reindeer Antlers •  Toy Horn •  Paper Angel •  Toy Drum •  Lump Of Coal •  Poinsettia •  Electric Candle •  Festive Wreath**.
+Fact: The One-time Use in Spark Staff has/costs **Paper Planter •  Ticket Planter •  Sticker Planter •  Festive Planter**.
+Fact: The Permanent in Spark Staff has/costs **Plastic Planter •  Candy Planter •  Red Clay Planter •  Blue Clay Planter •  Tacky Planter •  Pesticide Planter •  Petal Planter •  Heat-Treated Planter •  Hydroponic Planter •  The Planter Of Plenty**.
