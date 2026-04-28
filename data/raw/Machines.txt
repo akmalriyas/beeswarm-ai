@@ -1,3 +1,0 @@
-Context: Bee Swarm Simulator - Machines
-
-This category houses all topics about the machines in the game. The main purpose for machines is to give the player various consumables, boosts, transport the player quickly to different parts of the map, summon events, or generate different types of amulets. This also houses the sub-category of dispensers.
