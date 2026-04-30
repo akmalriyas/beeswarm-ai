@@ -1,10 +1,8 @@
 # All-Time Top Riley Bee Helpers Leaderboard
 
-*(Leaderboard data as of 2026-01-27)*
+The **All-Time Top Riley Bee Helpers** leaderboard tracks the top 100 players who have completed the most quests from Gifted Riley Bee in Bee Swarm Simulator. The game displays only the top 10 positions at a time. Players can view their own completion count by standing on the designated white circle near the board.
 
-The All-Time Top Riley Bee Helpers leaderboard tracks the top players who have completed the most quests from Gifted Riley Bee. It is one of the game's leaderboards and displays the top 100 participants, showing 10 positions at a time. Players can view their personal quest count by standing on the designated white circle in front of the board.
-
-## Current Top 10 Rankings
+## Current Leaderboard (As of 2026-01-27)
 | Rank | Player Name | Quests Completed |
 | :---: | :--- | :---: |
 | **1** | 7Elevenss | 7,270 |
@@ -19,13 +17,12 @@ The All-Time Top Riley Bee Helpers leaderboard tracks the top players who have c
 | **10** | Penangwen | 3,296 |
 
 ## Location
-The leaderboard is located on the roof of the Red HQ, adjacent to Gifted Riley Bee.
+The leaderboard is located on the roof of the Red HQ, situated next to Gifted Riley Bee.
 
-## Achievements
+## Achievements and Milestones
 *   OLNIKYE was the first user (excluding hackers/exploiters) to reach 1,000 Gifted Riley Bee quests completed.
 *   OLNIKYE was also the first user to reach 2,000 and 3,000 Gifted Riley Bee quests completed.
-*   7Elevenss was the first user to reach 4,000 Gifted Riley Bee quests completed.
-*   7Elevenss was also the first user to reach 5,000, 6,000, and 7,000 Gifted Riley Bee quests completed.
+*   7Elevenss was the first user to reach 4,000, 5,000, 6,000, and 7,000 Gifted Riley Bee quests completed.
 
 ## Trivia
-The player currently ranked #1 on this leaderboard (7Elevenss) is also currently ranked #1 on the Top Brown Bear Helpers leaderboard.
+The current top player on the Top Riley Bee Helpers leaderboard, 7Elevenss, is also currently ranked at the top of the Top Brown Bear Helpers leaderboard.

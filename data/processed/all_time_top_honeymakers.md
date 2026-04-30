@@ -1,10 +1,8 @@
-# All-Time Top Honeymakers
+# Global Top Honeymakers Leaderboard
 
-*This article is subject to regular updates.*
+*(Leaderboard as of March 1, 2026)*
 
-_(Leaderboard as of 2026-03-01)_
-
-## Leaderboard
+## Current Rankings (Top 10)
 
 | Rank | Player Name | Total Honey Collected |
 | :--- | :--- | :--- |
@@ -19,74 +17,61 @@ _(Leaderboard as of 2026-03-01)_
 | **9** | wilalwil2 | 607.83 qd |
 | **10** | Maqqty040412 | 561.37 qd |
 
-*The All-Time Top Honeymakers leaderboard is one of the game's primary leaderboards, tracking the total amount of honey players have collected over time. It displays the top 10 positions, though players can scroll to view up to the 100th place. Only legitimate players remain on the leaderboard; exploiters are removed.*
+*Note: The leaderboard is updated regularly. This snapshot was last recorded on March 1, 2026.*
 
-*When a player steps on the designated white pad near this feature, a message appears displaying their total honey amount.*
+## Overview and Mechanics
+
+The All-Time Top Honeymakers leaderboard is one of the game's major leaderboards, tracking the total amount of honey players have collected throughout the game's history. While it displays only 10 positions at a time, players can scroll to view rankings up to the 100th place. Only legitimate players remain on the board for extended periods; exploiters are removed.
+
+To check one's own total honey amount, a player must step on the designated white pad in front of the leaderboard. A message will then display: "You've made [x] Honey," where 'x' is the player's lifetime total.
 
 ## Location
 
-The All-Time Top Honeymakers is located near the hives and on the opposite side of the fence from the Dandelion Field. It is situated across the path in front of the hives from the Daily Top Honeymakers leaderboard.
+The All-Time Top Honeymakers board is situated near the hives and on the opposite side of the fence from the Dandelion Field. It is also positioned across the path in front of the hives from the Daily Top Honeymakers leaderboard.
 
-## Achievements Timeline
+## Historical Achievements and Milestones
 
-This timeline tracks significant milestones achieved by players on the leaderboard:
+This section details major milestones, record holders, and significant events that have shaped the history of the All-Time Top Honeymakers ranking.
 
-| Date | Event/Milestone |
-| :--- | :--- |
-| 2018-08-01 | SDMittens reached a total of **100 billion honey!** A game-wide message was displayed. |
-| 2018-12-15 | SDMittens reached a total of **1 trillion honey!** A game-wide message was displayed. |
-| 2019-06-11 | Gumaden surpassed SDMittens (who had held the #1 spot for over 11 months). |
-| 2019-06-11 | zlib surpassed Gumaden (Gumaden had been #1 for a few hours). |
-| 2019-06-15 | Gumaden regained the #1 position, surpassing zlib. |
-| 2019-09-13 | Gumaden reached a total of **10 trillion honey!** A game-wide message was displayed. |
-| 2020-01-09 | zlib surpassed Gumaden. |
-| 2020-02-01 | Gumaden regained the #1 position, surpassing zlib again. |
-| 2020-02-10 | McProsephYoutube surpassed zlib. |
-| 2020-03-13 | Gumaden reached a total of 50 trillion honey. |
-| 2020-03-21 | McProsephYouTube surpassed Gumaden. |
-| 2020-06-13 | Gh0la surpassed McProsephYouTube. |
-| 2020-06-14 | MrMocito surpassed Gh0la after they held the #1 spot for one day. |
-| 2020-06-15 | Gh0la regained the #1 position, surpassing MrMocito. |
-| 2020-06-16 | MrMocito regained the #1 position once again, surpassing Gh0la. |
-| 2020-06-27 | MrMocito reached a total of **100 trillion honey!** A game-wide message was displayed. |
-| 2020-11-14 | MrMocito reached 500 trillion honey. |
-| 2020-12-30 | e_lol reached a total of **1 quadrillion honey!** A game-wide message was displayed. |
-| 2021-02-15 | riaz1987 surpassed MrMocito (for #2). |
-| 2021-02-17 | Gifted_Ty surpassed e_lol. |
-| 2021-02-27 | Gifted_Ty was removed for abusing glitches, placing e_lol in first place. |
-| 2021-08-26 | riaz1987 surpassed e_lol. |
-| 2022-01-04 | e_lol surpassed riaz1987. |
-| 2022-03-01 | e_lol reached a total of **10 quadrillion honey!** |
-| 2022-03-27 | JustS0meN00b surpassed e_lol. |
-| 2022-03-29 | e_lol regained the #1 position, surpassing JustS0meN00b. |
-| 2023-12-03 | FragileSilence surpassed JustS0meN00b (for #2). |
-| 2023-12-20 | e_lol reached a total of **100 quadrillion honey** for the first time. |
-| 2024-01-31 | e_lol remade a total of **100 quadrillion honey** after losing the milestone on 2024-01-12 due to an anticheat reset. |
-| 2024-02-01 | buffwhite_mikey surpassed e_lol. |
-| 2024-02-12 | buffwhite_sin040412 surpassed e_lol (for #2). Also surpassed buffwhite_mikey. |
-| 2024-02-25 | buffwhite_mikey surpassed buffwhite_sin040412. |
-| 2024-03-02 | buffwhite_sin040412 surpassed buffwhite_mikey. |
-| 2024-03-23 | buffwhite_mikey surpassed buffwhite_sin040412. |
-| 2024-03-25 | buffwhite_sin040412 surpassed buffwhite_mikey. |
-| 2024-04-26 | ethanolodj surpassed buffwhite_sin040412. |
-| 2024-05-26 | FragileSilence surpassed ethanolodj. |
-| 2025-04-08 | FragileSilence reached a total of **1 quintillion honey!** |
-| 2026-02-28 | ruiream surpassed FragileSilence, taking the #1 spot. |
+| Date | Event/Milestone | Details |
+| :--- | :--- | :--- |
+| 2018-08-01 | **SDMittens Milestone** | SDMittens reached a total of 100 billion honey, triggering a game-wide congratulatory message. |
+| 2018-12-15 | **SDMittens Milestone** | SDMittens surpassed the previous record by reaching 1 trillion honey, again prompting a game-wide announcement. |
+| 2019-06-11 | **Record Shift (1)** | Gumaden surpassed SDMittens' #1 spot (SDMittens had held the rank for over 11 months). |
+| 2019-06-11 | **Record Shift (2)** | zlib briefly surpassed Gumaden. |
+| 2019-06-15 | **Rank Change** | Gumaden regained the #1 position from zlib. |
+| 2019-09-13 | **Gumaden Milestone** | Gumaden reached a total of 10 trillion honey, accompanied by a game-wide message. |
+| 2020-01-09 | **Rank Change** | zlib surpassed Gumaden. |
+| 2020-02-01 | **Rank Change** | Gumaden reclaimed the #1 spot from zlib. |
+| 2020-02-10 | **Rank Change** | McProsephYoutube took the lead from zlib. |
+| 2020-03-13 | **Gumaden Milestone** | Gumaden reached a total of 50 trillion honey. |
+| 2020-03-21 | **Rank Change** | McProsephYouTube surpassed Gumaden. |
+| 2020-06-13 | **Rank Change** | Gh0la took the lead from McProsephYouTube. |
+| 2020-06-14 | **Rank Change** | MrMocito surpassed Gh0la after a one-day tie for #1. |
+| 2020-06-15 | **Rank Change** | Gh0la regained the lead from MrMocito. |
+| 2020-06-16 | **Rank Change** | MrMocito surpassed Gh0la again. |
+| 2020-06-27 | **MrMocito Milestone** | MrMocito reached a total of 100 trillion honey, marked by a game-wide announcement. |
+| 2020-11-14 | **MrMocito Milestone** | MrMocito reached 500 trillion honey. |
+| 2020-12-30 | **e_lol Milestone** | e_lol achieved a total of 1 quadrillion honey, triggering a game-wide message. |
+| 2021-02-15 | **Rank Change** | riaz1987 took the #2 spot from MrMocito. |
+| 2021-02-17 | **Rank Change** | Gifted_Ty surpassed e_lol to take the top spot. |
+| 2021-02-27 | **Player Removal** | Gifted_Ty was removed from the leaderboard for abusing glitches, returning e_lol to first place. |
+| 2021-08-26 | **Rank Change** | riaz1987 surpassed e_lol. |
+| 2022-01-04 | **Rank Change** | e_lol regained the #1 spot from riaz1987. |
+| 2022-03-01 | **e_lol Milestone** | e_lol reached a total of 10 quadrillion honey. (The leaderboard was later fixed on March 3, 2022). |
+| 2022-03-27 | **Rank Change** | JustS0meN00b surpassed e_lol. |
+| 2022-03-29 | **Rank Change** | e_lol reclaimed the #1 spot from JustS0meN00b. |
+| 2023-12-03 | **Rank Change** | FragileSilence took the #2 spot from JustS0meN00b. |
+| 2023-12-20 | **e_lol Milestone** | e_lol achieved a total of 100 quadrillion honey for the first time. |
+| 2024-01-12 | **Game Update Impact** | Due to counting honey gathered during Robo Bear Challenges, all player totals were adjusted downward by the calculated amount. |
+| 2024-01-31 | **e_lol Milestone (Re-achieved)** | e_lol reached 100 quadrillion honey again after losing several quadrillions of honey due to the previous update. |
+| 2024-02-01 | **Rank Change** | FragileSilence surpassed e_lol, taking the #1 spot. |
+| 2025-04-08 | **FragileSilence Milestone** | FragileSilence reached a total of 1 quintillion honey. |
+| 2026-02-28 | **Record Shift (Final)** | ruiream surpassed FragileSilence, ending the longest #1 reign in history (1 year, 11 months, and 2 days). |
 
-## History and Records
+## Historical Analysis & Trivia
 
-*   **Longest Reign:** SDMittens held the #1 position for over 11 months before Gumaden surpassed her on 2019-06-11, giving her the record for the longest reign. This record was later broken by e_lol (holding #1 for 1 year, 10 months, and 4 days) and then by FragileSilence (holding #1 for 1 year, 11 months, and 2 days).
-*   **Gumaden's Reign:** Gumaden held the #1 spot for only roughly 1–3 hours before zlib surpassed him. However, he later reclaimed the top spot and kept it for over six months before being passed by zlib again.
-*   **Daily Records:** On 2019-12-31, zlib broke the world record for most honey made in a day (over 8 trillion, excluding exploiters). This was surpassed on 2020-01-09 with over 10 trillion.
-    *   Other notable daily records include: IcedMizu (28 trillion, 2020-08-22), e_lolYouTube (116 trillion, 2020-08-26), Gifted_Ty (383 trillion, 2021-02-17 - later removed for glitch abuse), OnettsStepSis (1 quadrillion, 2022-02-27), FragileSilence (2 quadrillion, 2022-10-05), XDweXDY_Alt (82 and 95 quadrillion on 2025-12-28/29), FestiveMarks (115 quadrillion, 2026-01-01), PollenMarks (154 quadrillion, 2026-01-05), ruiream (170 and 241 quadrillion on 2026-01-11/02-01).
-*   **Exploiter Activity:** Several incidents involving exploiting occurred:
-    *   On 2022-03-03, a player named "moivnvodich" made 2.5 quintillion honey through exploitation. This account was later banned after revealing they modified an old infinite honey exploit.
-    *   On 2022-03-11, three players ("123404az," "ProSupHeo," and "Grete_HD") exploited the system, with 123404az reaching 9.2 Quintillion honey (the limit of a 64-bit integer).
-    *   On 2022-03-13, six players appeared on the leaderboard with amounts ranging from 22 quadrillion to 9 quintillion; three had identical amounts near 9.2 quintillion.
-    *   Exploiting activity continued on 2022-03-14 and 2022-12-29, where players were subsequently removed.
-*   **Game Updates:** On 2024-01-12, the leaderboard data was adjusted because honey gathered during the Robo Bear Challenge was counted in general honeymaking. All player totals were reduced by this calculated amount. This adjustment allowed e_lol to hit 100 quadrillion again on 2024-01-31.
-
-## Trivia
-
-*   This leaderboard, along with the Daily Top Honeymakers leaderboard, was one of only two leaderboards that used abbreviated number formats before the 2024-01-12 update.
-*   It is one of two historical leaderboards in the game; the other being the Global Top Battlers (Most Battle Points) leaderboard.
+*   **Longest Reign:** SDMittens initially held the record for being #1 the longest. This was later broken by e_lol (holding the spot for 1 year, 10 months, and 4 days), who was subsequently surpassed by FragileSilence (who reigned for 1 year, 11 months, and 2 days).
+*   **Exploits:** The leaderboard has seen multiple instances of exploitation. For example, on March 3, 2022, a player named "moivnvodich" made 2.5 quintillion honey through exploiting before being banned. Later in 2022, several players exploited the system, with one making 9.2 Quintillion honey—the limit of a 64-bit integer.
+*   **Daily Record:** On December 31, 2019, zlib broke the world record for most honey made in a single day (over 8 trillion), later surpassing it on January 9, 2020 (over 10 trillion).
+*   **Leaderboard History:** This leaderboard and the Daily Top Honeymakers board were among the few to use abbreviated number formats before the update on January 12, 2024.

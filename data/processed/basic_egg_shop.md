@@ -2,21 +2,23 @@
 
 ![Egg Shop](https://static.wikia.nocookie.net/bee-swarm-simulator/images/9/9b/Egg_Shop.png/revision/latest/scale-to-width-down/267?cb=20180604172559) The Basic Egg Shop
 
-The **Basic Egg Shop** is a shop located next to the Sunflower Field and behind an Instant Converter. It sells Basic Eggs, which are used for obtaining Hive Slots.
+The Basic Egg Shop is a shop located next to the Sunflower Field and behind an Instant Converter. It sells Basic Eggs, which are used for obtaining Hive Slots.
 
-## Usage & Requirements
+## Information
 
-*   **Obtains:** Hive Slots
-*   **Input Item:** Basic Eggs
-*   **Requirement(s):** Honey (Cost varies based on egg number)
-*   **Cooldown:** None
-*   **Location:** Between the Sunflower Field and the Dandelion Field
+### Location
+The shop is situated between the Sunflower Field and the Dandelion Field.
 
-The shop sells Basic Eggs for increasing amounts of honey. The cost starts at 1,000 honey and increases exponentially, eventually capping off at 10,000,000 honey for the 22nd egg and beyond.
+### Requirements & Mechanics
+*   **Item Sold:** Basic Eggs (used to obtain Hive Slots).
+*   **Cost:** Honey (varies based on quantity).
+*   **Cooldown:** None.
 
-## Pricing Table (Honey Cost)
+The cost of Basic Eggs begins at 1,000 honey and increases exponentially. This price increase eventually caps out at 10,000,000 honey for the 22nd egg and beyond.
 
-| Egg Number | Honey Cost |
+### Price Chart (Honey Cost)
+
+| Quantity | Honey Cost |
 | :---: | :---: |
 | 1 | 1,000 |
 | 2 | 2,500 |
@@ -41,19 +43,25 @@ The shop sells Basic Eggs for increasing amounts of honey. The cost starts at 1,
 | 21 | 6,978,337 |
 | 22+ | 10,000,000 |
 
-## Cost Formula Mechanics
+## Pricing Formula
 
 The cost of egg number N is calculated using the following iterative formula:
 
-*   **Base:** 1000
-*   **Initial State:** `cost = base`, `i = 0`
-*   **Iteration:** While $i < N-1$:
-    $$ \text{cost} = (1.5 \times \text{cost}) + (\text{base} / (i+1)) $$
-    $$ i = i + 1 $$
+*   **Base Cost:** 1,000 honey.
+*   **Formula:**
+    ```
+    base = 1000
+    cost = base
+    i = 0
+    while i < N-1 do
+        cost = 1.5 * cost + base / (i+1)
+        i = i + 1
+    end
+    ```
 
-*(Note: The price progression is roughly exponential, but does not follow a simple closed-form equation.)*
+*Note: While the formula results in an exponential growth pattern, it does not follow a simple mathematical exponential function.*
 
 ## Trivia
 
-*   The Basic Egg Shop and stacking the Round Basic Bee sticker are the only ways to obtain a Basic Egg, besides the one given to the player at the start of the game.
-*   Like other machine lookalikes in the game, the model of this shop is a modified version of the Gumball Machine model by @wonderful72pike.
+*   The Basic Egg Shop and stacking Round Basic Bee stickers are currently the only ways to obtain a Basic Egg (aside from the one given to the player at the start of the game).
+*   The model used for the machine is a modified version of the Gumball Machine model by @wonderful72pike.

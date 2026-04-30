@@ -1,24 +1,24 @@
 # Sprout
 
-A **sprout** is a plant that spawns in the center of a [Field]. Sprouts emit a bright yellow beacon and display a counter at their base representing the amount of [Pollen] required for harvest.
+A **sprout** is a plant that spawns in the center of a [field](/wiki/Fields "Fields"). Sprouts emit a bright yellow beacon and have a counter at their base representing an amount of [pollen](/wiki/Pollen "Pollen").
 
-When players collect pollen, or when a [Cloud] is present on the field (requiring at least one player to be in the field for growth), the pollen counter counts down, and the sprout gradually grows taller. Once the pollen reaches zero, it emits a shockwave and scatters various tokens throughout the field. If no interaction occurs with a sprout for more than five minutes, it will despawn.
+When players collect pollen, or when a [cloud](/wiki/Clouds "Clouds") is present on the field (requiring at least one player to be in the field for growth), the pollen count decreases and the sprout gradually grows taller. Once the pollen counter reaches zero, it sends out a shockwave and scatters various tokens throughout the field. If no interaction occurs with a sprout for more than five minutes, it will despawn.
 
 ## Spawning Mechanics
 
-Sprouts can spawn randomly across the map or be planted using [Magic Beans]. They can also be summoned by the [Special Sprout Summoner] near the [Red HQ], provided the player has discovered all eight [Legendary Bee] types. This summoning ability is available once every sixteen hours.
+Sprouts can spawn randomly across the map or be planted using [Magic Beans](/wiki/Magic_Bean "Magic Bean"). They can also be summoned by using the [Special Sprout Summoner](/wiki/Special_Sprout_Summoner "Special Sprout Summoner") near the [Red HQ](/wiki/Red_HQ "Red HQ"), provided the player has discovered all eight [Legendary Bee](/wiki/Bees/Legendary "Bees/Legendary") types. This summoning can occur once every sixteen hours.
 
-**Server Broadcast Messages:**
-*   When a sprout spawns naturally: 🌱A (Rarity) Sprout has appeared...🌱
-*   When a player plants a sprout: 🌱 {Username} has planted a (Rarity) Sprout...🌱
-*   When Sticker Sprouts are about to spawn in the [Hive Hub]: 🌱 Sticker Sprouts are about to spawn in the Hive Hub...🌱
-*   When a Sticker Sprout spawns in the Hive Hub: 🌱 A Sticker Sprout has spawned in the Hive Hub...🌱
+When a sprout spawns, it broadcasts a server-wide message:
+*   **Random Spawn:** 🌱A (Rarity) Sprout has appeared...🌱
+*   **Player Planted:** 🌱 {Username} has planted a (Rarity) Sprout...🌱
+*   **Sticker Hub Pre-Spawn:** 🌱 Sticker Sprouts are about to spawn in the Hive Hub...🌱
+*   **Sticker Hub Spawn:** 🌱 A Sticker Sprout has spawned in the Hive Hub...🌱
 
-Sprouts cannot spawn or be planted in the [Ant Field].
+Sprouts cannot spawn or be planted in the [Ant Field](/wiki/Ant_Field "Ant Field").
 
 ## Variants
 
-There are ten different variants of sprouts, each with unique characteristics and drop rates:
+There are ten different variants of sprouts:
 
 *   **Sprout (Green):** Common
 *   **Rare Sprout (Silver):** Rare
@@ -27,28 +27,30 @@ There are ten different variants of sprouts, each with unique characteristics an
 *   **Supreme Sprout (Luminescent green):** Unfathomably Rare
 *   **Moon Sprout (Luminescent blue):** Available only during nighttime.
 *   **Gummy Sprout (Translucent pink):** Very Rare
-*   **Sticker Sprout (Rainbow, colors shifting):** Spawns every 3 hours in the [Hub Field], or rarely when planting a magic bean there.
-*   **Festive Sprout (White and Red stripes):** Planted using [Festive Beans] or by [Onett].
-*   **Debug Sprout (Black):** Can only be planted by [Onett].
+*   **Sticker Sprout (Rainbow, colors shifting):** Spawns every three hours in the [Hub Field](/wiki/Hub_Field "Hub Field"), or has a rare chance when planting a magic bean in the Hub Field.
+*   **Festive Sprout (White and Red stripes):** Planted using [Festive Beans](/wiki/Festive_Bean "Festive Bean") or by [Onett](/wiki/Onett_\(Developer\) "Onett \(Developer\)")
+*   **Debug Sprout (Black):** Can only be planted by [Onett](/wiki/Onett "Onett").
 
-The amount of pollen required for harvest depends on the sprout's rarity and the field it is located in.
+The amount of pollen required for a sprout to be harvested depends on both its rarity and the field it is located in.
 
-## Drops and Harvest Statistics
+## Drops
 
 ### Location Specific Drops
-The type and quantity of drops vary based on where the sprout is planted:
 
-*   **Red Fields:** Yield 4 times more [Strawberries] than any other field. No [Blueberries] will spawn.
-*   **Strawberry Field:** Yields twice as many [Strawberries] compared to sprouts in other red fields.
-*   **Blue Fields:** Yields 6 times more [Blueberries] than any other field. No [Strawberries] will spawn.
-*   **Sunflower Field:** Yields 7 times more [Sunflower Seeds].
-*   **Pineapple Patch:** Yields 7 times more [Pineapples].
-*   **35 Bee Zone (Windy Bee Gate):** Yields 20% more rewards than other areas, but requires significantly more pollen to pop.
-*   **Coconut Field:** Yields [Coconuts] and [Tropical Drinks] in addition to standard treats.
-*   **Other Fields:** May produce higher quantities of regular [Treats].
+The drops spawned from a fully harvested sprout can vary based on where it was planted:
 
-### Sprout Drop Table
-The higher the sprout tier, the greater the variety and quantity of tokens spawned upon harvest.
+*   **Red Fields:** Yield four times more [Strawberries](/wiki/Strawberry "Strawberry") than any other field. No [Blueberries](/wiki/Blueberry "Blueberry") will spawn.
+*   **Strawberry Field:** Yields twice as many [Strawberries](/wiki/Strawberry "Strawberry") compared to sprouts in other red fields.
+*   **Blue Fields:** Yields six times more [Blueberries](/wiki/Blueberry "Blueberry") than any other field. No [Strawberries](/wiki/Strawberry "Strawberry") will spawn.
+*   **Sunflower Field:** Yields seven times more [Sunflower Seeds](/wiki/Sunflower_Seed "Sunflower Seed") than in other fields.
+*   **Pineapple Patch:** Yields seven times more [Pineapples](/wiki/Pineapple "Pineapple") than in other fields.
+*   **35 Bee Zone (Windy Bee Gate):** Yields 20% more rewards than sprouts in other areas, but requires significantly more pollen to pop.
+*   **Coconut Field:** Yields [Coconuts](/wiki/Coconut "Coconut") and [Tropical Drinks](/wiki/Tropical_Drink "Tropical Drink") in addition to standard treats.
+*   **Other Fields:** May produce more regular [Treats](/wiki/Treat "Treat") than other fields, depending on the specific field type.
+
+### Harvest Table
+
+The higher the sprout's tier, the more tokens spawn upon harvest. The table below details possible drops and the required pollen amount:
 
 | Sprout Type | Special Drops | Tickets | Royal Jellies | Treats | Honey | Pollen Required (Range) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -60,48 +62,47 @@ The higher the sprout tier, the greater the variety and quantity of tokens spawn
 | **Moon (Blue)** | Glitter, Moon Charm, Star Jelly, Neonberry | X | X | 1 | 1,500 | 500,000 to 25,000,000 |
 | **Supreme (Green)** | Diamond Egg, Star Jellies, Crafting Materials | 1 | 1-10 | 30 | 10,000 | 15,000,000 to 750,000,000 |
 | **Debug (Black)** | Bitterberries, Neonberries, Atomic Treats | X | X | X | X | 10,000,000 to 30,000,000 |
-| **Festive (Stripes)** | Festive Blessing, Beesmas Cheer, Gumdrops, Snowflake, Gingerbread Bear, Crafting Materials | 1 | 1 | 15 | 15,000 | 1,000,000 to 50,000,000 |
-| **Sticker (Rainbow)** | Silver Egg, Gifted Silver Egg, Diamond Egg, Gifted Diamond Egg, Star Egg, Stickers, Waxes, Sticker Planters, Star Jellies, Crafting Materials | 1-5 | 1 | 10 | 5,000 | 1,000,000,000 |
+| **Festive (Stripes)** | Festive Blessing, Beesmas Cheer, Gumdrops, Snowflakes, Gingerbread Bear, Crafting Materials | 1 | 1 | 15 | 15,000 | 1,000,000 to 50,000,000 |
+| **Sticker Sprout (Rainbow)** | Silver Egg, Gifted Silver Egg, Diamond Egg, Gifted Diamond Egg, Star Egg, Stickers, Waxes, Sticker Planters, Star Jellies, Crafting Materials | 1-5 | 1 | 10 | 5,000 | 1,000,000,000 |
 
-*Note: An 'X' indicates that the specified sprout does not drop that item.*
-*Crafting Materials include Red Extracts, Blue Extracts, Oils, Enzymes, and Glitter.*
+*Note: An 'X' indicates the item does not spawn.*
+*   **Crafting Materials:** Includes Red Extracts, Blue Extracts, Oils, Enzymes, and Glitter.
+*   Gummy Sprouts yield exactly three [Glues](/wiki/Glue "Glue") and at most one [Glitter](/wiki/Glitter "Glitter").
+*   Supreme Sprouts are the only type of sprout to guarantee an egg drop.
 
-## Gameplay Tips for Collection
+## Tips for Collection
 
-To maximize token collection efficiency before sprouts despawn (5 minutes):
+Several items, abilities, and equipment can boost player movespeed, allowing for more efficient token collection before sprouts despawn:
 
-1.  **Speed Buffs:** Various items and abilities can boost player movespeed:
-    *   [Oils] grant 1.2x movespeed.
-    *   Equipping the [Hasty Guard] grants 1.1x movespeed.
-    *   Having [haste] (up to 2x) is primarily sourced from [Haste producing bees].
-    *   The Honey, Treat, Strawberry, and Blueberry [Dispensers] provide 5 stacks of Haste.
-    *   The [Royal Jelly Dispenser] provides 10 stacks of Haste.
-    *   Equipping [Coconut Clogs] or [Gummy Boots] allows a coconut to fall on the player, granting a short burst of [Coconut Haste Surge].
-    *   [Bear Bee's Bear Morph ability] significantly increases movespeed.
-    *   The Free Royal Jelly Dispenser grants one stack of Haste+.
+*   **Oil:** Grants 1.2x player movespeed.
+*   **Hasty Guard:** Equipping this grants 1.1x player movespeed.
+*   **Haste Buffs:** Having the [haste](/wiki/Buffs_%26_Debuffs#From_Ability_Tokens "Buffs & Debuffs") buff can increase movespeed up to 2x. Primary sources include:
+    *   [Haste producing bees](/wiki/Ability_Tokens#Haste "Ability Tokens").
+    *   Honey, Treat, Strawberry, and Blueberry [Dispensers](/wiki/Dispensers "Dispensers") (5 stacks of Haste).
+    *   The [Royal Jelly Dispenser](/wiki/Royal_Jelly_Dispenser "Royal Jelly Dispenser") (10 stacks of Haste).
+    *   Free Royal Jelly Dispensers (1 stack of Haste+).
+*   **Coconut Clogs / Gummy Boots:** If equipped, these allow players to be hit by a coconut, granting a short burst of [Coconut Haste Surge](/wiki/Passive_Abilities#Coconut_Haste "Passive Abilities").
+*   **Bear Bee's Bear Morph ability:** Can significantly increase player movespeed.
+*   **Token Collection Methods:**
+    *   [Tadpole Bee](/wiki/Tadpole_Bee "Tadpole Bee") and [Box-O-Frogs](/wiki/Box-O-Frogs "Box-O-Frogs") can summon frogs that collect sprout tokens.
+    *   The [Star Saw](/wiki/Passive_Abilities#Star_Saw "Passive Abilities") can collect massive amounts of tokens.
+    *   [Windy Bee's Tornado ability](/wiki/Ability_Tokens#Tornado "Ability Tokens") can also collect large quantities of tokens.
+    *   [Cub Buddies](/wiki/Cub_Buddy#Skins "Cub Buddy") can collect sprout tokens.
 
-2.  **Token Collection Tools:**
-    *   [Tadpole Bee] and [Boxes-O-Frogs] can summon [frogs] that collect sprout tokens.
-    *   The [Star Saw] can collect massive amounts of sprout tokens.
-    *   [Windy Bee's Tornado ability] can also collect large quantities of tokens.
-    *   [Cub Buddies] can assist in collecting tokens.
+**Sticker Sprout Strategy:** When collecting Sticker Sprouts, it is advised to remain in one spot and only gather loot that spawns close to you. Loot spawning too far away is likely to be collected by another player before you reach it.
 
-3.  **Sticker Sprout Strategy:** When harvesting Sticker Sprouts, focus on a single location and only collect loot within immediate reach, as distant items are likely to be claimed by other players.
+## Trivia & Mechanics
 
-## Trivia and Lore
-
-*   **Rarity Notifications:** Most sprout notifications are gold, but specific variants have unique colors:
+*   **Token Collection:** If the player who spawned a sprout leaves before it pops, the sprout will not drop any items.
+*   **Sticker Sprout Growth:** Sticker Sprouts are unique in that they grow on their own (without relying on clouds). They lose approximately 1 million pollen per second even if no one is collecting them in the Hub Field.
+*   **Original Name:** Sprouts were originally called "Seedlings" upon release, changing to the current name during the [2019-12-23 update](/wiki/Updates#2019-12-23 "Updates"). The original message was "🌱A Seedling has sprouted...🌱".
+*   **Rarity Changes:** Supreme Sprouts were previously called "Mythical Sprouts" and initially required half the pollen of a Legendary Sprout; this requirement has since increased by 50%.
+*   **Onett's Abilities:** Since the [2019-23-12 update](/wiki/Updates#2019-12-23 "Updates"), Onett can plant sprouts server-wide, including under unique names.
+*   **Notification Colors:** While most sprout notifications are gold, specific variants have unique colors:
     *   Gummy Sprouts: Light purple notification.
-    *   Supreme, Moon, and Debug Sprouts: Gray notification.
+    *   Supreme, Moon, and Debug Sprouts: Gray notifications.
     *   Festive Sprouts: Red notification.
     *   Sticker Sprouts: Rainbow notification.
-*   **Onett's Influence:** [Onett] is capable of planting sprouts server-wide under unique names (e.g., Festive, Debug, Gummy).
-*   **Sprout History:** Sprouts were originally called "Seedlings" upon release and the name was changed in the 2019-12-23 update. The original message was "🌱A Seedling has sprouted...🌱". Supreme Sprouts were formerly known as "Mythical Sprouts."
-*   **Token Collection Rules:** If a player who planted a sprout leaves before it pops, the sprout will not drop any items.
-*   **Debug Sprout Uniqueness:** The Debug Sprout is the only type that does not drop honey tokens and cannot be planted by players (besides Onett). It also has a gray notification color.
-*   **Sticker Sprout Growth:** Sticker Sprouts are unique as they grow on their own, losing approximately 1 million pollen per second even if no player is collecting in the Hub Field.
-*   **Supreme/Moon Glow:** Supreme and Moon Sprouts are the only sprouts that glow.
-
-## Gallery
-
-*(Image references retained for visual context but not included in the final text output.)*
+*   **Token Rewards (Stickers):** Popping a Sticker Sprout can yield various stickers, including rare items like [Window](/wiki/Window "Window"), [Simple Skyscraper](/wiki/Simple_Skyscraper "Simple Skyscraper"), and extremely rare tokens such as [Flying Rad Bee](/wiki/Flying_Rad_Bee "Flying Rad Bee") or [Abstract Color Painting](/wiki/Abstract_Color_Painting "Abstract Color Painting").
+*   **Debug Sprout Exception:** The Debug Sprout is the only type of sprout that does not drop honey tokens.
+*   **Player Experience Issues:** Players experiencing lag may briefly see the pollen number on a popped sprout become negative. On mobile devices, there has been a reported glitch where sprouts are invisible and cannot be popped.

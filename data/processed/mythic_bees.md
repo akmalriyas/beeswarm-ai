@@ -1,27 +1,29 @@
-# Mythic Bees Overview
+# Mythic Bees
 
-Mythic Bees are rare, highly specialized variants found within the Bee Swarm Simulator ecosystem. Each bee possesses unique characteristics and lore.
+Mythic bees are rare and unique variants within Bee Swarm Simulator, each possessing distinct characteristics and lore.
 
 | Bee Name | Description |
 | :--- | :--- |
-| **Buoyant Bee** | A perpetually lighthearted bee that seems to defy gravity, much like a balloon. |
-| **Fuzzy Bee** | An unkempt ball of fluff whose fur aids in the pollination process of flowers. |
-| **Precise Bee** | This sharpshooting bee is always accurate and demands precision from its surroundings. |
-| **Spicy Bee** | A scorching variant; this bee produces honey with a spicy kick. |
-| **Tadpole Bee** | A tiny, amphibious bee that dreams of transforming into a frog as it matures. |
-| **Vector Bee** | A scientifically complex bee brought to life by an intricate trigonometric equation. |
+| **Buoyant Bee** | Just like a balloon, nothing can keep this bee down. It's always ready to party. |
+| **Fuzzy Bee** | This unkempt ball of fluff is actually a bee. Its fur aids in the pollination of flowers. |
+| **Precise Bee** | This sharpshooting bee is always on point and expects the same of you. |
+| **Spicy Bee** | Some like it hot—this bee likes it scorching. Even the honey it makes is spicy. |
+| **Tadpole Bee** | A tiny amphibious bee who wants to become a frog when it grows up. |
+| **Vector Bee** | A bee brought to life by an extremely complex trigonometric equation. |
 
 ***
 
-# Mythic Bee Hatching Probabilities
+## Mythic Bee Acquisition Probabilities
 
-The following table details the base probability of obtaining specific eggs and the resulting chance of hatching a particular mythic bee from those eggs.
+The following table details the base probabilities of various items and their corresponding chance of yielding a specific mythic bee variant.
 
-| Item | Base Probability | Probability of Obtaining Specific Mythic Bee |
+| Item | Base Probability | Probability of getting a particular mythic bee |
 | :--- | :--- | :--- |
-| **Basic Egg** | 0% | 0% |
-| **Silver Egg** | 0.1% | 0.01667% |
-| **Gold Egg** | 1% | 0.16667% |
-| **Diamond Egg** | 5% | 0.83333% |
-| **Mythic Egg** | 100% | 16.66667% |
-| **Royal Jelly** | 0.004% | 0.00067% |
+| Basic Egg | 0% | 0% |
+| Silver Egg | 0.1% | 0.01667% |
+| Gold Egg | 1% | 0.16667% |
+| Diamond Egg | 5% | 0.83333% |
+| Mythic Egg | 100% | 16.66667% |
+| Royal Jelly | 0.004% | 0.00067% |
+
+**Notification Sound:** The following audio plays when a mythic bee notification pops up: [Mythic Bee Hatch Audio](https://bee-swarm-simulator.fandom.com/wiki/File:Mythic_Bee_Hatch.ogg)

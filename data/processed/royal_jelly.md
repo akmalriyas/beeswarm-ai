@@ -2,19 +2,23 @@
 
 ## Overview
 
-Royal Jelly is an inventory item found throughout the map, received as quest rewards, redeemed via codes, or purchased from various shops and dispensers. When used on a bee, it transforms that bee into a new variant (Rare, Epic, Legendary, Mythic, Gifted, or Mutated).
+Royal Jelly is an inventory item found throughout the map, received as quest rewards, redeemed via codes, or purchased from various shops and dispensers. It functions as a transformation token when used on a bee, changing it into a Rare, Epic, Legendary, Mythic, Gifted, or Mutated variant. Star Jelly serves a similar function but specifically guarantees a gifted outcome.
 
-Star Jelly functions similarly but specifically guarantees the resulting bee will be a **Gifted** variant, maintaining the same rarity chances as standard Royal Jellies.
+[ ![Royal Jelly](https://static.wikia.nocookie.net/bee-swarm-simulator/images/9/9f/Royal_Jelly.png/revision/latest?cb=20230404020655) ](https://static.wikia.nocookie.net/bee-swarm-simulator/images/9/9f/Royal_Jelly.png/revision/latest?cb=20230404020655 "Royal Jelly")
 
----
+[ ![Star Jelly](https://static.wikia.nocookie.net/bee-swarm-simulator/images/e/e7/Star_Jelly.png/revision/latest?cb=20230404020706) ](https://static.wikia.nocookie.net/bee-swarm-simulator/images/e/e7/Star_Jelly.png/revision/latest?cb=20230404020706 "Star Jelly")
 
-## Basic Bee Jelly Mechanics
-
-### Pricing
+### Price & Value (Royal Jelly)
 *   **1 Royal Jelly:** 250,000–1,000,000 Honey, 6 Tickets, or 45 Robux.
 *   **10 Royal Jellies:** 2,275,000–10,000,000 Honey, 60 Tickets, or 300 Robux.
 
-### Transformation Chances (Standard Jelly)
+---
+
+## Royal Jelly Mechanics & Chances
+
+Royal Jelly does not guarantee an increase in rarity; using it on a Legendary bee has the same probability distribution as using it on a Basic Bee. This rule applies to gifted and mutated bees as well.
+
+### Transformation Probabilities (Standard Royal Jelly)
 | Variant | Chance | Notes |
 | :--- | :--- | :--- |
 | Common | 0% | |
@@ -27,175 +31,145 @@ Star Jelly functions similarly but specifically guarantees the resulting bee wil
 | Mutated (Not radioactive) | 0.02% (1/5,000) | |
 | Mutated (Radioactive) | 1% (1/100) | |
 
-**Important Note:** Royal Jelly does not guarantee an increase in rarity. If used on a Legendary bee, the chance of obtaining a Rare bee remains the same as if it were used on a Basic Bee. This rule applies to Gifted and Mutated bees as well.
+### Transformation Probabilities (Star Jelly)
+Star Jelly guarantees the bee will become a random gifted bee, maintaining the same rarity chances as standard Royal Jellies.
 
-### Ways to Obtain
-Royal Jellies can be acquired through numerous methods:
+---
 
-**Quest Rewards:**
-*   Completing quests for Brown Bear (rewards one or more Royal Jelly).
+## Acquisition Methods
+
+### Ways to Obtain Royal Jelly
+Royal Jelly can be obtained through numerous methods:
+
+**Quests & Challenges:**
+*   Completing quests for Brown Bear (rewards one or more jellies).
 *   Completing Black Bear's Diamond Egg, Star Jelly, and Mythic Egg quests.
-*   Completing Spirit Bear's quests (often rewards multiple Jellies; amount increases with progression).
+*   Completing Spirit Bear's quests (amount generally increases with progression).
+*   Finishing the Ant Challenge (gives at least 2 Royal Jellies, increasing with score).
+*   Finishing the Stick Bug Challenge or receiving drops from Stick Nymphs during the challenge.
 
-**Dispensing & Purchasing:**
-*   The Royal Jelly Dispenser (found near the Slingshot, Clover Field, and Dandelion Field) dispenses them for 6 Tickets each, while also granting 10x Haste Ability Tokens.
-*   Purchased individually or in packs of 10 from the Robux Shop (45R$ per jelly; 300R$ per pack).
-*   The Royal Jelly Shop near Red HQ allows purchase for 250,000 Honey initially, increasing by 10,000 Honey with each purchase until capping at 1,000,000 Honey.
+**Dispensing & Shops:**
+*   The Royal Jelly Dispenser (located near Slingshot, Clover Field, and Dandelion Field) dispenses them for 6 Tickets each, also granting 10x Haste.
+*   Purchasing individually or in packs of 10 from the Robux Shop (45R$ per jelly, 300R$ per pack).
+*   The Royal Jelly Shop near Red HQ sells a single jelly for 250,000 Honey, with the price increasing by 10,000 Honey per purchase until it caps at 1,000,000 Honey.
 
-**Drops & Activities:**
-*   Found in various hidden and hard-to-reach locations (these tokens are obtainable only once per player).
-*   Claimed using the dispenser in Star Hall every 22 hours; quantity depends on the number of Gifted bees in the hive.
-*   Finishing the Ant Challenge grants at least 2 Royal Jelly, increasing with score.
-*   Drops from sparkles (from certain objects) or fireflies.
-*   Completing the Stick Bug Challenge or drops from Stick Nymphs during the challenge.
+**Drops & Events:**
 *   Naturally spawning in fields (extremely low probability).
-*   Growing specific sprouts may drop tokens.
-*   As a drop from various Planters (Ticket, Plastic, Blue Clay, Tacky, Petal).
-*   A sprout in Clover Field drops more Royal Jelly than any other field.
-*   Reward for placing certain Stickers on the Sticker Stack.
-*   Defeating mobs or completing Memory Match challenges.
-*   Drops from Festive Gifts and Festive Mark.
-*   Reward from the Wind Shrine, or as a gift from a Cub Buddy.
+*   Growing certain sprouts may drop Royal Jelly tokens.
+*   As a drop from specific Planters: Ticket, Plastic, Blue Clay, Tacky, and Petal Planters.
+*   From sparkles generated by faces on objects or fireflies.
+*   From various mobs.
+*   As rewards from the Memory Match, Wind Shrine, Festive Gifts, Festive Mark, and Cub Buddy gifts.
 
-### Token Locations (Map)
-A royal jelly token can be found at:
-*   The tallest mushroom in the Mushroom Field (No bees required).
-*   Above the awning inside the Noob Shop (No bees required).
-*   On top of the Ticket Tent (No bees required).
-*   On a bamboo shoot in the Bamboo Field (5 bees required).
-*   In the blue ramp near the Bamboo Field (5 bees required).
-*   On a hill behind Brown Bear (Enhanced jump power or Parachute/Glider required).
-*   The second floor of Blue HQ (4 blue bee types required).
-*   In a maze behind Pro Bear in the Pro Shop (10 bees required).
-*   On the tallest dandelion in the Dandelion Field (Parachute/Glider + 12 bee types and 10 bees required).
-*   On top of the Noob Shop, near Clover Field (Yellow cannon and parachute/glider required).
-*   On a small ledge above Rose Field (15 bees required).
-*   Behind a pumpkin in Pumpkin Patch (15 bees required).
-*   On a hill next to Red HQ (15 bees + 4 red bee types OR enhanced jump power required).
-*   On top of a tree in Pine Tree Forest (Parachute/Glider required).
-*   At the end of a dark tunnel above Pro Shop (Parachute/Glider required).
-*   On top of Mountain Top Shop (25 bee types required).
-*   Behind the Onett statue on the sixth beehive (25 bee types required).
-*   On top of the 30-bee area in front of Bubble Bee Man at night (30 bees required).
+### Token Locations (Royal Jelly)
+Tokens can be found in specific hard-to-reach locations, often requiring complex parkour, cannons, or gliding maneuvers. These tokens are generally obtainable only once per player.
 
-### Outdated Methods
-The following methods for obtaining Royal Jelly are no longer active or have been replaced:
-*   Redeeming certain expired codes (e.g., Soup, Change, ClubJellies).
-*   As a drop from Stockings.
-*   Purchasing from Bee Bear’s Catalog for 10 Snowflakes (one-time purchase).
-*   Opening the Beige Gift Box (gave 5 Royal Jelly + other items).
-*   Opening the Colorful Present or Soft Gift Box.
+*   **No Bees Required:** On the tallest mushroom in the Mushroom Field; Above the awning inside the Noob Shop; On top of the Ticket Tent.
+*   **5 Bees Required:** On a bamboo shoot in the Bamboo Field; In the blue ramp near the Bamboo Field (Red during Beesmas).
+*   **Enhanced Jump/Parachute/Glider Required:** On a hill behind Brown Bear.
+*   **4 Blue Bee Types Required:** The second floor of the Blue HQ.
+*   **10 Bees Required:** In a maze behind Pro Bear in the Pro Shop.
+*   **Complex Requirements (e.g., Parachute/Glider + 12 types + 10 bees):** On the tallest dandelion in the Dandelion Field; On top of the Noob Shop near Clover Field.
+*   **15 Bees Required:** On a small ledge above the Rose Field; Behind a pumpkin in the Pumpkin Patch.
+*   **Complex Requirements (e.g., 15 bees + 4 red types or enhanced jump):** On a hill next to Red HQ.
+*   **Complex Requirements (e.g., 15 bees + Parachute/Glider):** On top of a tree in the Pine Tree Forest; At the end of a dark tunnel above the Pro Shop.
+*   **25 Bee Types Required:** On top of the Mountain Top Shop; Behind the Onett statue on the sixth beehive.
+*   **30 Bees + Night Time:** On top of the 30-bee area in front of Bubble Bee Man.
 
----
+### Outdated Acquisition Methods (Royal Jelly)
+The following methods are no longer active or have been replaced:
+*   Redeeming expired codes (e.g., Soup, Change, ClubJellies).
+*   Drops from Stockings.
+*   Purchasing from Bee Bear’s Catalog for 10 Snowflakes.
+*   Opening certain Gift Boxes (Beige, Soft).
 
-## Star Jelly Mechanics
+### Specific Jelly Variants
+Certain jellies are guaranteed to transform a bee into the specific type they represent, rather than randomly rolling a rarity. These are primarily obtained through limited-time codes or Bee Bear's Catalog during Beesmas.
 
-Star Jelly transforms a bee into a random **Gifted** bee, maintaining the same rarity chances as standard Royal Jellies.
+| Jelly Type | Guaranteed Result | Acquisition Method Examples |
+| :--- | :--- | :--- |
+| Basic Bee Jelly | Basic Bee | Expired code: `DontUseThisJelly` |
+| Bumble Bee Jelly | Bumble Bee | BBM Mission quest; Codes: "BeeDay2019", "Cubly" (Expired) |
+| Hasty Bee Jelly | Hasty Bee | Beesmas Blitz quest; Code: `HasteHelper` (Expired) |
+| Looker Bee Jelly | Looker Bee | Expired code: `ThoseEyes` |
+| Rad Bee Jelly | Rad Bee | Codes: `Nonchalant`, `Strawbeary` (Both expired) |
+| Rascal Bee Jelly | Rascal Bee | Codes: `MischiefMaker`, `Boo Swarm` (Expired) |
+| Stubborn Bee Jelly | Stubborn Bee | Expired code: `BANNED` |
+| Bubble Bee Jelly | Bubble Bee | BBM Mission quest in the 30 Bee Area. |
+| Commander Bee Jelly | Commander Bee | Expired code: `Keen4` |
+| Demo Bee Jelly | Demo Bee | Expired code: `Poke` |
+| Exhausted Bee Jelly | Exhausted Bee | Purchasing Night Bundle; Codes: `OnettJelly`, `CantSleep` (Both expired) |
+| Fire Bee Jelly | Fire Bee | Purchasing Cozy Bundle from Catalog. |
+| Frosty Bee Jelly | Frosty Bee | Purchasing Snowglobe Bundle from Catalog. |
+| Honey Bee Jelly | Honey Bee | Buying Honeysuckle Bundle in 2021; Present to Honey Bee during Beesmas 2020/2021. |
+| Rage Bee Jelly | Rage Bee | Giving a present to Panda Bear, receiving Brown Bear's Egg Hunt 2020 quest, or purchasing Anti-Ant Bundle. |
+| Shocked Bee Jelly | Shocked Bee | Expired code: `SecretProfileCode`; Purchasing Whirling bundle. |
+| Carpenter Bee Jelly | Carpenter Bee | Purchasing Pinecone Bundle from Catalog. |
+| Diamond Bee Jelly | Diamond Bee | Royal Winter Bundle; Snow Queen Bundle from Catalog. |
+| Music Bee Jelly | Music Bee | Percussive Bundle and Beesmas Tree Bundle from Catalog; Funky Present (Expired). |
+| Shy Bee Jelly | Shy Bee | Expired code: `NewMic` |
+| Tadpole Bee Jelly | Tadpole Bee | Present to Bubble Bee Man during Beesmas 2020. |
+| Buoyant Bee Jelly | Buoyant Bee | Present to Bubble Bee Man during Beesmas 2021, 2022, and 2024. |
+| Fuzzy Bee Jelly | Fuzzy Bee | Completing BBM's Naughty List during Beesmas 2022. |
+| Precise Bee Jelly | Precise Bee | Completing BBM's Naughty List during Beesmas 2021. |
 
-### Ways to Obtain
-*   **Quests:** Certain quests guarantee Star Jellies (e.g., Black Bear's repeatable quests). Specific questlines reward them:
-    *   Completing all of Black Bear's Star Jelly questline, Bubble Trouble, and Pollen Fetcher 6 on the Mythic Egg questline.
-    *   Finishing Science Bear's Beesperanto and Epistemological Endeavor quests in the Translator questline, and Corrupting The Glitched Drive in the Drives questline.
-    *   Finishing the 90th and 195th quest from Brown Bear.
-    *   Completing specific quests from Spirit Bear (5th, 15th, and 21st-30th).
-    *   Starting the 7th Spirit Bear quest.
-    *   Finishing the 25th quest from Gifted Bucko Bee or Gifted Riley Bee.
-    *   Completing specific quests from Dapper Bear (5th and 10th).
-    *   Completing the 2nd quest in the Drive questline.
-    *   Every 10 quests completed from Honey Bee (NPC) rewards a Star Jelly.
+**Note on Usage:** Using a specific jelly on a bee that is already the guaranteed type will not work, and the jelly will not be consumed.
 
-**Crafting & Drops:**
-*   Can be crafted using a Blender (100 Royal Jelly and 3 Glitter).
-*   Obtained from certain Robux packs.
-*   Guaranteed drop from Stump Snail, Coconut Crab, and upon capturing Commando Chick for the 15th time.
-*   Chance drops from Spider, Werewolf, Mondo Chick, Tunnel Bear, Stick Bug, Wild Windy Bee, and King Beetle.
-*   If a player's score is 10M+ in the Stick Bug Challenge, they are guaranteed at least one Star Jelly (more with higher scores).
-*   Exceptionally rare chance drop from Clover Field or leaves in Clover Field.
-*   Chance drop from Festive Gift (only if the Festive Bee is gifted).
-*   Chance drop from nudging fireflies.
-*   Obtained from Rare, Epic, Legendary, Supreme, and Moon Sprouts.
-*   Reward from Mega, Night, and Extreme Memory Matches.
-*   Slim chance via Cub Buddy gifts or catching a Mythic Meteor Shower.
-*   Rare drop from any planter (e.g., Petal Planter, The Planter of Plenty).
-*   Rare drop from Puffshroom or Robo Bear Challenge.
+### Event Bee Jellies
+These jellies are specific to permanent Event Bees (e.g., Bear Bee, Cobalt Bee). They can only be used when the specific event bee is **not** currently in the hive.
 
-### Token Locations (Map)
-Star Jelly tokens can be found at:
-*   Behind a glass window outside Dapper Bear's Shop.
-*   Near Gummy Bear inside Gummy Bear's Lair.
-*   On top of the blender at Badge Bearer's Guild.
-*   In front of the big hive at the Badge Bearer's Guild Ace Shop.
-*   Behind the glass wall in the Blue Maze (accessible via Petal Shop).
-
-### Outdated Methods
-The following methods for obtaining Star Jelly are no longer active:
-*   Completing all of Digital Bee's quests during the Ready Player Two event.
-*   Purchasing from Bee Bear’s Catalog for 500 Snowflakes (one-time purchase).
-*   Joining the game during specific Beesmas events (2020, 2021, 2022, 2024) when Onett gave a Star Jelly.
-*   Opening certain Gift Boxes: The Midnight Gift Box (1 Star Jelly + other stuff) and Pristine Gift Box (15 Star Jelly + other stuff).
+*   Bear Bee Jelly $\rightarrow$ Bear Bee
+*   Cobalt Bee Jelly $\rightarrow$ Cobalt Bee
+*   Crimson Bee Jelly $\rightarrow$ Crimson Bee
+*   Digital Bee Jelly $\rightarrow$ Digital Bee
+*   Festive Bee Jelly $\rightarrow$ Festive Bee
+*   Gummy Bee Jelly $\rightarrow$ Gummy Bee
+*   Photon Bee Jelly $\rightarrow$ Photon Bee
+*   Puppy Bee Jelly $\rightarrow$ Puppy Bee
+*   Tabby Bee Jelly $\rightarrow$ Tabby Bee
+*   Vicious Bee Jelly $\rightarrow$ Vicious Bee
+*   Windy Bee Jelly $\rightarrow$ Windy Bee
 
 ---
 
-## Specific Bee Jelly Variants
+## Crafting Recipes
 
-Specific bee jellies always hatch into the corresponding named bee, regardless of the input bee's rarity. These are primarily obtained from limited-time codes, Bee Bear's Catalog during Beesmas, and Bubble Bee Man.
+### Royal Jelly Crafts
+| Required | Other Ingredients | Result |
+| :--- | :--- | :--- |
+| 10 Royal Jellies | 50 Strawberries | Red Extract |
+| 10 Royal Jellies | 50 Blueberries | Blue Extract |
+| 10 Royal Jellies | 50 Sunflower Seeds | Oil |
+| 10 Royal Jellies | 50 Pineapples | Enzymes |
+| 10 Royal Jellies | 50 Gumdrops | Glue |
+| 10 Royal Jellies | 5 Honeysuckles, 1 Oil, 1 Enzyme | Soft Wax |
+| 33 Bitterberries | 3 Hard Waxes, 9 Soft Waxes, 3 Enzymes | Swirled Wax |
+| 3,333 Hard Waxes | 9 Soft Waxes, 6 Purple Potions | Caustic Wax |
+| 5,252 Hard Waxes | 5 Enzymes, 25 Neonberries | Caustic Wax |
+| 100 Glitter, 3 Star Jellies | - | Star Jelly |
+| 1 Strawberry, 1 Stinger | Red Guard | Elite Red Guard |
+| 1 Blueberry, 3 Moon Charms | Blue Guard | Elite Blue Guard |
+| 5 Red Extract, 50 Strawberries, 5 Stingers | - | Elite Red Guard |
+| 5 Blue Extract, 50 Blueberries, 15 Moon Charms | - | Elite Blue Guard |
 
-*   **Basic Bee Jelly:** Obtained from code `DontUseThisJelly` [Expired].
-*   **Bumble Bee Jelly:** From Bubble Bee Man's quest or codes "BeeDay2019" / "Cubly" [Expired].
-*   **Hasty Bee Jelly:** Received via Bee Bear's Beesmas Blitz quest or code `HasteHelper` [Expired].
-*   **Looker Bee Jelly:** Obtained from code `ThoseEyes` [Expired].
-*   **Rad Bee Jelly:** Obtained from codes `Nonchalant` and `Strawbeary` [Both expired].
-*   **Rascal Bee Jelly:** Obtained from codes `MischiefMaker` / `Boo Swarm` [Expired].
-*   **Stubborn Bee Jelly:** From the expired code `BANNED`.
-*   **Bubble Bee Jelly:** From Bubble Bee Man's quest in the 30 Bee Area.
-*   **Commander Bee Jelly:** Obtained from code `Keen4` [Expired].
-*   **Demo Bee Jelly:** Obtained from code `Poke` [Expired].
-*   **Exhausted Bee Jelly:** Purchased via Night Bundle or codes `OnettJelly` / `CantSleep` [Both expired].
-*   **Fire Bee Jelly:** Purchased via Cozy Bundle.
-*   **Frosty Bee Jelly:** Purchased via Snowglobe Bundle.
-*   **Honey Bee Jelly:** Bought in the Honeysuckle Bundle (2021) or given during Beesmas 2020/2021.
-*   **Rage Bee Jelly:** Received from giving a present to Panda Bear, "Commando Chick's Hideout," Brown Bear's Egg Hunt 2020 quest, or purchasing the Anti-Ant Bundle.
-*   **Shocked Bee Jelly:** From expired code `SecretProfileCode` or purchasing the Whirling bundle.
-*   **Carpenter Bee Jelly:** Purchased via Pinecone Bundle.
-*   **Diamond Bee Jelly:** Obtainable from Royal Winter Bundle or Snow Queen Bundle.
-*   **Music Bee Jelly:** Purchased via Percussive Bundle and Beesmas Tree Bundle, or through the now expired Funky Present.
-*   **Shy Bee Jelly:** Obtained from code `NewMic` [Expired].
-*   **Tadpole Bee Jelly:** Given to Bubble Bee Man during Beesmas 2020.
-*   **Buoyant Bee Jelly:** Given to Bubble Bee Man during Beesmas 2021, 2022, and 2024.
-*   **Fuzzy Bee Jelly:** Completed B.B.M's Naughty List during Beesmas 2022.
-*   **Precise Bee Jelly:** Completed B.B.M's Naughty List during Beesmas 2021.
+### Star Jelly Crafts
+| Required | Other Ingredients | Result |
+| :--- | :--- | :--- |
+| 3 Neonberries, 3 Purple Potions, 6 Tropical Drinks | Super Smoothie | Super Smoothie |
+| 100 Super Smoothies, 10 Caustic Waxes, 1,000 Honeysuckles | Turpentine | Turpentine |
+| 10 Honey (1.5B), 25 Glitter, 75 Enzymes, 1 Spirit Petal | Petal Wand | Petal Wand |
+| 25 Honey (15B), 50 Glitter, 100 Glue, 1 Spirit Petal | Petal Belt | Petal Belt |
 
-***Note:*** *Using a specific bee jelly on a bee that is already the target type will not work, and the jelly will not be consumed.*
+---
 
-## Event Bee Jelly Variants
-These jellies are specific to permanent Event Bees. They can only be used when the corresponding bee is **not** in the hive.
+## Trivia & Mechanics
 
-*   Bear Bee Jelly (Turns any bee into a Bear Bee).
-*   Cobalt Bee Jelly (Turns any bee into a Cobalt Bee).
-*   Crimson Bee Jelly (Turns any bee into a Crimson Bee).
-*   Digital Bee Jelly (Turns any bee into a Digital Bee).
-*   Festive Bee Jelly (Turns any bee into a Festive Bee).
-*   Gummy Bee Jelly (Turns any bee into a Gummy Bee).
-*   Photon Bee Jelly (Turns any bee into a Photon Bee).
-*   Puppy Bee Jelly (Turns any bee into a Puppy Bee).
-*   Tabby Bee Jelly (Turns any bee into a Tabby Bee).
-*   Vicious Bee Jelly (Turns any bee into a Vicious Bee).
-*   Windy Bee Jelly (Turns any bee into a Windy Bee).
-
-## Transformation Mechanics & Trivia
-
-### Rarity Exclamation Marks
-When transforming any bee with Royal Jelly, the number of exclamation marks after the bee's name indicates its tier:
-*   Common/Rare = 1 (!)
-*   Epic = 2 (!!)
-*   Legendary/Event = 3 (!!!)
-*   Mythic = 4 (!!!!)
-
-### Bee Status Degradation
-Using a normal jelly on a Gifted or Mutated bee is highly likely to cause the bee to lose its status. The chance of regaining gifted status is 1/250, and mutated status is 1/5,000. However, the mutation may change.
-
-### Event Jelly Usage
-Event Bee jellies have infinite uses; they can be used as long as the hive does not already contain that specific bee type. They cannot make a bee gifted even if it was previously gifted.
-
-### Real-World Context
-Royal Jelly is based on its real-life counterpart, which serves as nutrition for honey bee larvae and queens.
+*   **Tier Indicators:** When transforming a bee with any type of royal jelly, the number of exclamation marks after the bee's name indicates its tier:
+    *   Common/Rare = 1 (!)
+    *   Epic = 2 (!!)
+    *   Legendary/Event = 3 (!!!)
+    *   Mythic = 4 (!!!!)
+*   **Jelly Usage Restriction:** Using a specific jelly on the corresponding bee type will not trigger a transformation, and the jelly will not be consumed.
+*   **Gifted/Mutated Status Loss:** Using a standard royal jelly on a gifted or mutated bee has a high probability of causing the bee to lose its special status (1/250 chance for Gifted; 1/5,000 chance for Mutated). The bee will most likely gain a different mutation.
+*   **Event Jelly Permanence:** Event Bee jellies have infinite uses as long as the hive does not already contain that specific event bee type.
+*   **Real-World Basis:** Royal Jelly is based on its real-life counterpart, which serves as nutrition for honey bee larvae and queens.

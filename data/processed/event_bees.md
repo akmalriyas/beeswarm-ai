@@ -1,49 +1,51 @@
 # Event Bees
 
-**Event Bees** are special bees that can only be acquired by purchasing specific eggs or through time-consuming methods, such as completing extensive quests or collecting rare items. They are generally expensive, requiring either Robux or Tickets to obtain. Some may also appear as a First Edition Bee, which is marked with a "1st" flag; this flag serves purely decorative purposes and does not alter the bee's abilities compared to a non-First Edition version.
+**Event Bees** are specialized [Bees](/wiki/Bees "Bees") that can only be obtained by purchasing or acquiring their [specific eggs](/wiki/Egg#Event_Bee_Eggs "Egg"). They are generally very expensive, costing either ![Robux](https://static.wikia.nocookie.net/bee-swarm-simulator/images/3/3e/Robux.svg/revision/latest/scale-to-width-down/25?cb=20240208000958)Robux, ![Ticket](https://static.wikia.nocookie.net/bee-swarm-simulator/images/1/1e/Ticket.png/revision/latest/scale-to-width-down/25?cb=20230404015820)[Tickets](/wiki/Ticket "Ticket"), or are time-consuming to acquire through long series of [Quests](/wiki/Quests "Quests") or collection of specific [Items](/wiki/Items "Items").
 
-Event Bees possess unique **Ability Tokens** that are distinct from all other bee types. These bees are visually identified by having a green background in their hive slot. Currently, there are 11 Event Bees, categorized as 7 colorless, 2 red, and 2 blue. Note that Event Bees are a one-time purchase.
+Some Event Bees can be purchased as a [First Edition Bee](/wiki/First_Edition_Bee "First Edition Bee"), which features a "1st" flag. These flags are purely decorative and do not affect the bee's abilities compared to a non-First Edition version.
 
-## Acquisition Mechanics
+Event Bees possess unique [Ability Tokens](/wiki/Ability_Tokens "Ability Tokens") that distinguish them from all other types of bees. When placed in the [Hive Slot](/wiki/Hive_Slot "Hive Slot"), they are marked with a green background. There are currently 11 Event Bees, categorized as 7 [Colorless](/wiki/Category:Colorless "Category:Colorless"), 2 [Red](/wiki/Category:Red "Category:Red"), and 2 [Blue](/wiki/Category:Blue "Category:Blue"). Note that Event Bees are a one-time purchase.
 
-When an Event Bee Egg is hatched, it transforms into a special **Royal Jelly**. This jelly guarantees the resulting bee will be the specific Event Bee associated with that egg. Since a hive can only hold one of any given Event Bee, this specialized royal jelly primarily exists for players wishing to recover or transform their existing Event Bee.
+## Mechanics
+
+### Royal Jelly Transformation
+When an Event Bee Egg is hatched, it transforms into a special ![Royal Jelly](https://static.wikia.nocookie.net/bee-swarm-simulator/images/9/9f/Royal_Jelly.png/revision/latest/scale-to-width-down/25?cb=20230404020655)[Royal Jelly](/wiki/Royal_Jelly "Royal Jelly"). This jelly always transforms any bee into that specific Event Bee. Since a hive can only contain one instance of any given Event Bee, this special royal jelly exists solely for the purpose of recovering the Event Bee if the player has transformed it previously.
 
 ### Bond Switching Strategy
-A unique strategy involves utilizing the special Event Bee Jelly to effectively swap the bond levels between two bees. For example, if a player possesses a Level 1 Cobalt Bee and a high-level bee (like a Level 7 Hasty Bee), applying the specialized jelly to the Cobalt Bee makes it available. If this jelly is then used on the Hasty Bee, the result will be a Level 7 Cobalt Bee and a random Level 1 bee.
+The special Event Bee Royal Jelly allows players to effectively switch the [Bond](/wiki/Bond "Bond") between two bees. For example, a player could use the royal jelly on a low-level bee (e.g., a level 1 [Cobalt Bee](/wiki/Cobalt_Bee "Cobalt Bee")). This makes the special royal jelly available. If this jelly is then used on a higher-level bee (e.g., a level 7 [Hasty Bee](/wiki/Hasty_Bee "Hasty Bee")), the player will receive a level 7 Cobalt Bee and a random low-level bee.
 
-## Gifted Status
-All Event Bees can become gifted bees. However, not all have a favorite treat:
-*   **Star Treat:** Has a 100% chance of gifting the bee.
-*   **Gingerbread Bear:** Has a 1% chance of gifting the bee.
-*   **Aged Gingerbread Bear:** Has a 1.1% chance of gifting the bee.
+### Gifting
+All Event Bees can be gifted, although none have a specific favorite treat. The gifting chances are:
+*   **Star Treat:** 100% chance of success.
+*   **Gingerbread Bear:** 1% chance of success.
+*   **Aged Gingerbread Bear:** 1.1% chance of success.
 
-These are currently the primary ways to obtain a gifted Event Bee (with the exception of the first edition **Bear Bee**, which is automatically gifted). Gifted status can also be achieved through quest-giving from Onett past the 30 Bee Gate, and via Panda Bear's later quests.
+These treats are the primary methods for obtaining a gifted Event Bee (with the exception of the automatically gifted [Bear Bee](/wiki/Bear_Bee "Bear Bee"), which is mentioned in quests from [Onett](/wiki/Onett "Onett") past the [30 Bee Gate](/wiki/30_Bee_Gate "30 Bee Gate"), and [Panda Bear](/wiki/Panda_Bear "Panda Bear") towards the end of his questline).
 
-**Important Note:** Once an Event Bee becomes gifted, its associated Royal Jelly loses much of its utility; using it on a gifted bee will cause it to lose its gifted status.
+**Note:** Once an Event Bee becomes gifted, its ![Royal Jelly](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Royal Jelly](/wiki/Royal_Jelly "Royal Jelly") becomes largely useless. Using a royal jelly on a gifted bee will cause it to lose its gifted status.
 
-## Event Bees List
+## Event Bee Roster
 
-| Bee | Description |
-| :---: | :--- |
-| **Bear Bee** | A friendly bee who transforms you into different bears! |
-| **Cobalt Bee** | A superhero and defender of all things Blue! Together with Crimson Bee, it works to unite bees of all colors. |
-| **Crimson Bee** | A superhero and defender of all things Red! Together with Cobalt Bee, it works to unite bees of all colors. |
-| **Digital Bee** | A virtual bee with malfunctioning AI. It corrupts the game itself. |
-| **Festive Bee** | A jolly bee who loves giving gifts! It is purely motivated by the joy of others. |
-| **Gummy Bee** | A squishy bee who's sweet as sugar. Covers flowers in goo to grant bonus honey! |
-| **Photon Bee** | An entity made of pure light temporarily taking on the form of a bee. |
-| **Puppy Bee** | A playful bee who only cares about two things: its tennis ball and you! |
-| **Tabby Bee** | This affectionate bee was raised by cats. It becomes a better worker as it warms up to you. |
-| **Vicious Bee** | This cold-blooded bee takes great pleasure in inflicting pain. |
-| **Windy Bee** | An ethereal bee as powerful and unpredictable as the weather. |
+| Bee | Icon | Description |
+| :--- | :--- | :--- |
+| [![Bear Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/a/a9/Bear_Bee.png/revision/latest?cb=20190402203940) [Bear Bee](/wiki/Bear_Bee "Bear Bee") | [![BearIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Bear_Bee "Bear Bee") | A friendly bee who transforms you into different bears! |
+| [![Cobalt Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/5/5c/Cobalt_Bee.png/revision/latest?cb=20200403235949) [Cobalt Bee](/wiki/Cobalt_Bee "Cobalt Bee") | [![CobaltIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Cobalt_Bee "Cobalt Bee") | A superhero and defender of all things Blue! Together with Crimson Bee it works to unite bees of all colors. |
+| [![Crimson Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/5/5f/Crimson_Bee.png/revision/latest?cb=20200404000015) [Crimson Bee](/wiki/Crimson_Bee "Crimson Bee") | [![CrimsonIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Crimson_Bee "Crimson Bee") | A superhero and defender of all things Red! Together with Cobalt Bee it works to unite bees of all colors. |
+| [![Digital Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/27/Digital_Bee.png/revision/latest?cb=20230415203844) [Digital Bee](/wiki/Digital_Bee "Digital Bee") | [![DigitalIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Digital_Bee "Digital Bee") | A virtual bee with malfunctioning AI. It corrupts the game itself. |
+| [![Festive Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/2/23/Festive_Bee.png/revision/latest?cb=20200404000059) [Festive Bee](/wiki/Festive_Bee "Festive Bee") | [![FestiveIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Festive_Bee "Festive Bee") | A jolly bee who loves giving gifts! It's purely motivated by the joy of others. |
+| [![Gummy Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/1/17/Gummy_Bee.png/revision/latest?cb=20200404000103)[Gummy Bee](/wiki/Gummy_Bee "Gummy Bee") | [![GummyIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Gummy_Bee "Gummy Bee") | A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey! |
+| [![Photon Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/a/a6/Photon_Bee.png/revision/latest?cb=20200404000039) [Photon Bee](/wiki/Photon_Bee "Photon Bee") | [![PhotonIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Photon_Bee "Photon Bee") | An entity made of pure light temporarily taking on the form of a bee. |
+| [![Puppy Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/0/01/Puppy_Bee.png/revision/latest?cb=20200404000127) [Puppy Bee](/wiki/Puppy_Bee "Puppy Bee") | [![PuppyIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Puppy_Bee "Puppy Bee") | A playful bee who only cares about two things: its tennis ball and you! |
+| [![Tabby Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/b/b2/Tabby_Bee.png/revision/latest?cb=20200404000127) [Tabby Bee](/wiki/Tabby_Bee "Tabby Bee") | [![TabbyIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Tabby_Bee "Tabby Bee") | This affectionate bee was raised by cats. It becomes a better worker as it warms up to you. |
+| [![Vicious Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/1/1f/Vicious_Bee.png/revision/latest?cb=20200404000135) [Vicious Bee](/wiki/Vicious_Bee "Vicious Bee") | [![ViciousIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Vicious_Bee "Vicious Bee") | This cold-blooded bee takes great pleasure in inflicting pain. |
+| [![Windy Bee](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/bee-swarm-simulator/images/8/85/Windy_Bee.png/revision/latest?cb=20230415210459) [Windy Bee](/wiki/Windy_Bee "Windy Bee") | [![WindyIcon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](/wiki/Windy_Bee "Windy Bee") | An ethereal bee as powerful and unpredictable as the weather. |
 
 ## Trivia
-
-*   The Common rarity, along with Event Bees, are the only rarities that cannot be obtained through normal Royal Jellies.
-*   Event Bees have the fewest acquisition methods, relying solely on Event Bee Eggs and Event Bee Jellies.
-*   Bear Bee, Digital Bee, Gummy Bee, Vicious Bee, and Windy Bee are the only Event Bees not obtainable via tickets. (Prior to the 2019-04-05 update, Gummy Bee was available by ticket.)
-*   The notification audio for Event Bees is identical to that used for Legendary Bee notifications.
-*   Bear Bee and Gummy Bee are the only Event Bees whose abilities do not directly collect pollen.
+*   Event Bees and [Common](/wiki/Bees/Common "Bees/Common") rarity are the only rarities that cannot be obtained through normal ![Royal Jelly](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Royal Jellies](/wiki/Royal_Jelly "Royal Jelly").
+*   Event Bees have the fewest acquisition methods in the game, relying only on Event Bee Eggs and Event Bee Jellies.
+*   The following Event Bees are not obtained via tickets: Bear Bee, Digital Bee, Gummy Bee, Vicious Bee, and Windy Bee. (Gummy Bee was previously obtainable by tickets prior to the [2019-04-05 update](/wiki/Updates#2019-04-05 "Updates")).
+*   The audio notification for Event Bees is identical to the audio used for [Legendary Bee](/wiki/Bees/Legendary "Bees/Legendary") notifications.
+*   Bear Bee and Gummy Bee are unique among Event Bees in that they do not possess an ability that directly collects pollen.
 *   Digital Bee and Bear Bee are the only Event Bees with a gifted ability.
-*   Every Event Bee possesses 1–3 unique Ability Tokens, sharing this trait with Mythic Bees.
-*   The Event Bees rarity is tied with Epic bees for having the largest count of distinct bee types (11).
+*   Every Event Bee possesses 1-3 Ability Tokens, sharing this trait with [Mythic Bees](/wiki/Bees/Mythic "Bees/Mythic").
+*   The Event Bees rarity shares the highest bee count (11) with the [Epic bees](/wiki/Bees/Epic "Bees/Epic") rarity.
